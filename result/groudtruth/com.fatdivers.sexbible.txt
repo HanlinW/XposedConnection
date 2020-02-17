@@ -1,0 +1,334 @@
+Hash: 4072130
+SourceActivity: com.fatdivers.flippershell.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d1818d3}
+Class: class android.widget.TextView
+Tag: 0
+Tag: 0
+Hash: 266125543
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d6eb494}
+Class: class com.fatdivers.flippershell.ImageGallery
+WidgetID: com.fatdivers.sexbible:id/galleryItemImages
+Hash: 266125543
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d6eb494}
+Class: class com.fatdivers.flippershell.ImageGallery
+WidgetID: com.fatdivers.sexbible:id/galleryItemImages
+Hash: 266125543
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d6eb494}
+Class: class com.fatdivers.flippershell.ImageGallery
+WidgetID: com.fatdivers.sexbible:id/galleryItemImages
+Hash: 27274045
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d6eb494}
+Class: class android.widget.Button
+WidgetID: com.fatdivers.sexbible:id/buttonRight
+ButtonText: More
+Hash: 243635315
+SourceActivity: com.fatdivers.flippershell.MoreActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {60d6f30}
+Class: class android.widget.TableRow
+Class: class android.widget.TableRow
+Hash: 110822607
+SourceActivity: com.fatdivers.flippershell.MoreActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {60d6f30}
+Class: class android.widget.TableRow
+Class: class android.widget.TableRow
+Hash: 86242376
+SourceActivity: com.fatdivers.flippershell.MoreActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {60d6f30}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.MoreActivity
+TargetActivity: com.fatdivers.flippershell.MoreActivity
+Hash: 102668294
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d6eb494}
+Class: class android.widget.Button
+WidgetID: com.fatdivers.sexbible:id/buttonCenter
+ButtonText: Flip
+Hash: 162316223
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d6eb494}
+Class: class android.webkit.WebView
+WidgetID: com.fatdivers.sexbible:id/webViewInstructions
+Hash: 162316223
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d6eb494}
+Class: class android.webkit.WebView
+WidgetID: com.fatdivers.sexbible:id/webViewInstructions
+Hash: 102668294
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d6eb494}
+Class: class android.widget.Button
+WidgetID: com.fatdivers.sexbible:id/buttonCenter
+ButtonText: Flip
+Hash: 188415466
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d6eb494}
+Class: class android.widget.Button
+WidgetID: com.fatdivers.sexbible:id/buttonLeft
+ButtonText: Send
+Hash: 88895179
+SourceActivity: com.fatdivers.flippershell.ShareActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {74f36a8}
+Class: class android.widget.Button
+WidgetID: com.fatdivers.sexbible:id/buttonFacebook
+ButtonText: Share on Facebook
+Hash: 179956803
+SourceActivity: com.fatdivers.flippershell.ShareActivity
+DialogClass: class com.facebook.android.FbDialog
+Hash: 60714035
+SourceActivity: com.fatdivers.flippershell.ShareActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 60714035
+SourceActivity: com.fatdivers.flippershell.ShareActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.ShareActivity
+TargetActivity: com.fatdivers.flippershell.ShareActivity
+Hash: 12192740
+SourceActivity: com.fatdivers.flippershell.ShareActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {74f36a8}
+Class: class android.widget.Button
+WidgetID: com.fatdivers.sexbible:id/buttonEmail
+ButtonText: Email your Friends
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ChooserActivity
+TargetActivity: com.android.internal.app.ChooserActivity
+Hash: 234750544
+SourceActivity: com.fatdivers.flippershell.ShareActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {74f36a8}
+Class: class android.widget.Button
+WidgetID: com.fatdivers.sexbible:id/buttonSina
+ButtonText: Share with Sina Weibo
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.ShareActivity
+TargetActivity: com.fatdivers.flippershell.ShareActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.ShareActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.ShareActivity
+TargetActivity: com.fatdivers.flippershell.ShareActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+TargetActivity: com.fatdivers.flippershell.FlipperPageActivity
+Hash: 254444675
+SourceActivity: com.fatdivers.flippershell.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9cc8600}
+Class: class android.widget.TextView
+Tag: 0
+Tag: 0
+Hash: 43142748
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3539565}
+Class: class android.widget.Button
+WidgetID: com.fatdivers.sexbible:id/buttonLeft
+ButtonText: Send
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.ShareActivity
+TargetActivity: com.fatdivers.flippershell.ShareActivity
+Hash: 232849272
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3539565}
+Class: class android.widget.Button
+WidgetID: com.fatdivers.sexbible:id/buttonCenter
+ButtonText: Flip
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+TargetActivity: com.fatdivers.flippershell.FlipperPageActivity
+Hash: 254444675
+SourceActivity: com.fatdivers.flippershell.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9cc8600}
+Class: class android.widget.TextView
+Tag: 0
+Tag: 0
+Hash: 227392236
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2d4aeb5}
+Class: class android.widget.Button
+WidgetID: com.fatdivers.sexbible:id/buttonRight
+ButtonText: More
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.MoreActivity
+TargetActivity: com.fatdivers.flippershell.MoreActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+TargetActivity: com.fatdivers.flippershell.FlipperPageActivity
+Hash: 254444675
+SourceActivity: com.fatdivers.flippershell.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9cc8600}
+Class: class android.widget.TextView
+Tag: 0
+Tag: 0
+Hash: 117530998
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e8ca377}
+Class: class android.widget.Button
+WidgetID: com.fatdivers.sexbible:id/buttonLeft
+ButtonText: Send
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.ShareActivity
+TargetActivity: com.fatdivers.flippershell.ShareActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+TargetActivity: com.fatdivers.flippershell.FlipperPageActivity
+Hash: 64769202
+SourceActivity: com.fatdivers.flippershell.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9cc8600}
+Class: class android.widget.TextView
+Tag: 1
+Tag: 1
+Hash: 79749929
+SourceActivity: com.fatdivers.flippershell.ItemListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {60d66ae}
+Class: class android.widget.TextView
+Tag: Tantric sex for beginners
+Tag: Tantric sex for beginners
+Hash: 52000085
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8550b6a}
+Class: class android.widget.Button
+WidgetID: com.fatdivers.sexbible:id/buttonCenter
+ButtonText: Flip
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+TargetActivity: com.fatdivers.flippershell.ItemListActivity
+Hash: 259729929
+SourceActivity: com.fatdivers.flippershell.ItemListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {60d66ae}
+Class: class android.widget.TextView
+Tag: 10 Better Movie Quotes to Yell During Orgasm
+Tag: 10 Better Movie Quotes to Yell During Orgasm
+Hash: 64771814
+SourceActivity: com.fatdivers.flippershell.ItemListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {60d66ae}
+Class: class android.widget.TextView
+Tag: Oral sex: What if you don't like giving oral sex?
+Tag: Oral sex: What if you don't like giving oral sex?
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+TargetActivity: com.fatdivers.flippershell.FlipperPageActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.ItemListActivity
+TargetActivity: com.fatdivers.flippershell.ItemListActivity
+Hash: 50944947
+SourceActivity: com.fatdivers.flippershell.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9cc8600}
+Class: class android.widget.TextView
+Tag: 2
+Tag: 2
+Hash: 165151069
+SourceActivity: com.fatdivers.flippershell.ItemListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c511ad2}
+Class: class android.widget.TextView
+Tag: Kegal Exercises for Men
+Tag: Kegal Exercises for Men
+Hash: 175234178
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {236af93}
+Class: class android.widget.Button
+WidgetID: com.fatdivers.sexbible:id/buttonCenter
+ButtonText: Flip
+Hash: 95053569
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {236af93}
+Class: class android.widget.Button
+WidgetID: com.fatdivers.sexbible:id/buttonRight
+ButtonText: More
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.MoreActivity
+TargetActivity: com.fatdivers.flippershell.MoreActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+TargetActivity: com.fatdivers.flippershell.FlipperPageActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.ItemListActivity
+TargetActivity: com.fatdivers.flippershell.ItemListActivity
+Hash: 50944947
+SourceActivity: com.fatdivers.flippershell.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9cc8600}
+Class: class android.widget.TextView
+Tag: 2
+Tag: 2
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.ItemListActivity
+TargetActivity: com.fatdivers.flippershell.ItemListActivity
+Hash: 50944947
+SourceActivity: com.fatdivers.flippershell.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9cc8600}
+Class: class android.widget.TextView
+Tag: 2
+Tag: 2
+Hash: 252550481
+SourceActivity: com.fatdivers.flippershell.ItemListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c60d9b6}
+Class: class android.widget.TextView
+Tag: Kegal Exercises for Men
+Tag: Kegal Exercises for Men
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+TargetActivity: com.fatdivers.flippershell.FlipperPageActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.ItemListActivity
+TargetActivity: com.fatdivers.flippershell.ItemListActivity
+Hash: 50944947
+SourceActivity: com.fatdivers.flippershell.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9cc8600}
+Class: class android.widget.TextView
+Tag: 2
+Tag: 2
+Hash: 165681201
+SourceActivity: com.fatdivers.flippershell.ItemListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2af6b16}
+Class: class android.widget.TextView
+Tag: Kegal Exercises for Men
+Tag: Kegal Exercises for Men
+Hash: 133612998
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {178b987}
+Class: class com.fatdivers.flippershell.ImageGallery
+WidgetID: com.fatdivers.sexbible:id/galleryItemImages
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+TargetActivity: com.fatdivers.flippershell.FlipperPageActivity
+Hash: 57238749
+SourceActivity: com.fatdivers.flippershell.ItemListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2af6b16}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.ItemListActivity
+TargetActivity: com.fatdivers.flippershell.ItemListActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.fatdivers.flippershell.MainActivity
+TargetActivity: com.fatdivers.flippershell.MainActivity

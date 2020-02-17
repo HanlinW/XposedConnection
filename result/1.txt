@@ -1,1614 +1,1017 @@
-Hash: 241397706
+Hash: 252392138
 SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ca2553b}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {37a5c3b}
+Class: class android.widget.ImageView
+WidgetID: de.ub0r.android.smsdroid:id/compose
+Hash: 266168497
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {37a5c3b}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 206687940
+Hash: 158063459
 SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b6cf1ad}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {156c360}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: de.ub0r.android.smsdroid:id/item_compose
+Hash: 32848209
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {28645b6}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: de.ub0r.android.smsdroid:id/item_answer
+Hash: 125758789
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5b43c9a}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: de.ub0r.android.smsdroid:id/item_call
+Hash: 22963284
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4ba7ffd}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: de.ub0r.android.smsdroid:id/item_all_threads
+Hash: BACK
+Event: BACK
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+TargetActivity: de.ub0r.android.smsdroid.ConversationList
+Hash: 223921666
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2ad1b13}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: de.ub0r.android.smsdroid:id/item_delete_thread
+DialogClass: class android.app.AlertDialog
+DialogTitle: Delete thread
+Hash: 68334514
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c62ef03}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: 223921666
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {21decb9}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: de.ub0r.android.smsdroid:id/item_delete_thread
+DialogClass: class android.app.AlertDialog
+DialogTitle: Delete thread
+Hash: 115571185
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f6889d6}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: BACK
+Event: BACK
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+TargetActivity: com.android.launcher3.Launcher
+Hash: 182094155
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fe37f28}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: BACK
+Event: BACK
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+TargetActivity: de.ub0r.android.smsdroid.MessageList
+Hash: 182094155
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fe37f28}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Event: LongClick
+DialogClass: class android.app.AlertDialog
+DialogTitle: 1 22
+Hash: 102963845
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6e500da}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 182094155
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fe37f28}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Event: LongClick
+DialogClass: class android.app.AlertDialog
+DialogTitle: 1 22
+Hash: 265602989
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f3deae2}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 182094155
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fe37f28}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Event: LongClick
+DialogClass: class android.app.AlertDialog
+DialogTitle: 1 22
+Hash: 49125516
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {beccbd5}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.contacts.activities.ContactSelectionActivity
+TargetActivity: de.ub0r.android.smsdroid.ConversationList
+Hash: 241657684
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {27ac6fd}
+Class: class com.android.internal.policy.PhoneWindow$DecorView
+Hash: 182094155
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fe37f28}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Event: LongClick
+DialogClass: class android.app.AlertDialog
+DialogTitle: 1 22
+Hash: 124854196
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c0b87dd}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: BACK
+Event: BACK
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+TargetActivity: de.ub0r.android.smsdroid.ConversationList
+Hash: 182094155
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fe37f28}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Event: LongClick
+DialogClass: class android.app.AlertDialog
+DialogTitle: 1 22
+Hash: 12087367
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ea7a074}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+DialogClass: class android.app.AlertDialog
+DialogTitle: Delete thread
+Hash: 137138779
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cf43af8}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: 182094155
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fe37f28}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Event: LongClick
+DialogClass: class android.app.AlertDialog
+DialogTitle: 1 22
+Hash: 29977213
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ae29d72}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+DialogClass: class android.app.AlertDialog
+DialogTitle: Delete thread
+Hash: 57301563
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {689558}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 182094155
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fe37f28}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Event: LongClick
+DialogClass: class android.app.AlertDialog
+DialogTitle: 1 22
+Hash: 141683549
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {525bcd2}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 182094155
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fe37f28}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 76805932
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {57d5f5}
 Class: class android.widget.EditText
 WidgetID: de.ub0r.android.smsdroid:id/text
 Hash: BACK
 Event: BACK
 SourceActivity: de.ub0r.android.smsdroid.MessageList
 TargetActivity: de.ub0r.android.smsdroid.MessageList
-Hash: 148695692
+Hash: 222682038
 SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b6cf1ad}
-Class: class android.widget.Button
-WidgetID: de.ub0r.android.smsdroid:id/send_
-ButtonText: Send
-(Messaging)
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.messaging.ui.conversation.ConversationActivity
-TargetActivity: com.android.messaging.ui.conversationlist.ConversationListActivity
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.messaging.ui.conversationlist.ConversationListActivity
-TargetActivity: com.android.messaging.ui.conversationlist.ConversationListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {47430b7}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: de.ub0r.android.smsdroid:id/item_compose
 Hash: BACK
 Event: BACK
 SourceActivity: de.ub0r.android.smsdroid.MessageList
 TargetActivity: de.ub0r.android.smsdroid.MessageList
-Hash: 241397706
+Hash: 166705989
 SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ca2553b}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 161005461
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2a728aa}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 11122693
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-DialogClass: class android.app.AlertDialog
-DialogTitle: Message options
-Hash: 185025408
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {da8edb9}
-Class: class com.android.internal.app.AlertController$RecycleListView
-WidgetID: android:id/select_dialog_listview
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.contacts.activities.ContactSelectionActivity
-TargetActivity: com.android.contacts.activities.ContactSelectionActivity
-Hash: 161005461
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2a728aa}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 114319750
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-DialogClass: class android.app.AlertDialog
-DialogTitle: Message options
-Hash: 123898197
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {78a8f6a}
-Class: class com.android.internal.app.AlertController$RecycleListView
-WidgetID: android:id/select_dialog_listview
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.dialer.DialtactsActivity
-TargetActivity: com.android.dialer.DialtactsActivity
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.dialer.DialtactsActivity
-TargetActivity: com.android.dialer.DialtactsActivity
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.dialer.DialtactsActivity
-TargetActivity: com.android.dialer.DialtactsActivity
-Hash: 161005461
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2a728aa}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 147919997
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-DialogClass: class android.app.AlertDialog
-DialogTitle: Message options
-Hash: 111150936
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a7020b1}
-Class: class com.android.internal.app.AlertController$RecycleListView
-WidgetID: android:id/select_dialog_listview
-Hash: 161005461
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2a728aa}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 87618575
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-DialogClass: class android.app.AlertDialog
-DialogTitle: Message options
-Hash: 210640594
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e534ba3}
-Class: class com.android.internal.app.AlertController$RecycleListView
-WidgetID: android:id/select_dialog_listview
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.messaging.ui.conversation.ConversationActivity
-TargetActivity: com.android.messaging.ui.conversation.ConversationActivity
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.messaging.ui.conversationlist.ConversationListActivity
-TargetActivity: com.android.messaging.ui.conversationlist.ConversationListActivity
-Hash: 161005461
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2a728aa}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 33569662
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-DialogClass: class android.app.AlertDialog
-DialogTitle: Message options
-Hash: 131201197
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f9c7e2}
-Class: class com.android.internal.app.AlertController$RecycleListView
-WidgetID: android:id/select_dialog_listview
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.internal.app.ChooserActivity
-TargetActivity: com.android.internal.app.ChooserActivity
-Hash: 161005461
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2a728aa}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 96203089
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-DialogClass: class android.app.AlertDialog
-DialogTitle: Message options
-Hash: 96580028
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b082545}
-Class: class com.android.internal.app.AlertController$RecycleListView
-WidgetID: android:id/select_dialog_listview
-Hash: 161005461
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2a728aa}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 74563395
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-DialogClass: class android.app.AlertDialog
-DialogTitle: Message options
-Hash: 78851862
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9a7f097}
-Class: class com.android.internal.app.AlertController$RecycleListView
-WidgetID: android:id/select_dialog_listview
-Hash: 170846202
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-DialogClass: class android.app.AlertDialog
-DialogTitle: View message details
-Hash: 148480008
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {19bc3a1}
-Class: class android.widget.Button
-WidgetID: android:id/button1
-ButtonText: OK
-Hash: 161005461
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2a728aa}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 183363148
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-DialogClass: class android.app.AlertDialog
-DialogTitle: Message options
-Hash: 221647635
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d881950}
-Class: class com.android.internal.app.AlertController$RecycleListView
-WidgetID: android:id/select_dialog_listview
-Hash: 221647635
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d881950}
-Class: class com.android.internal.app.AlertController$RecycleListView
-WidgetID: android:id/select_dialog_listview
-Hash: 1757579
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-DialogClass: class android.app.AlertDialog
-DialogTitle: Delete message
-Hash: 14657153
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cbb6326}
-Class: class android.widget.Button
-WidgetID: android:id/button2
-ButtonText: Cancel
-Hash: 161005461
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2a728aa}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 28474028
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-DialogClass: class android.app.AlertDialog
-DialogTitle: Message options
-Hash: 72521459
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41a7fb0}
-Class: class com.android.internal.app.AlertController$RecycleListView
-WidgetID: android:id/select_dialog_listview
-Hash: 72521459
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41a7fb0}
-Class: class com.android.internal.app.AlertController$RecycleListView
-WidgetID: android:id/select_dialog_listview
-Hash: 168292715
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-DialogClass: class android.app.AlertDialog
-DialogTitle: Delete message
-Hash: 68057441
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {52b6c86}
-Class: class android.widget.Button
-WidgetID: android:id/button1
-ButtonText: OK
-Hash: MENU
-Event: MENU
-Hash: MENU
-Event: MENU
-Hash: 153064976
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {28bf509}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {27ff29a}
 Class: class com.android.internal.view.menu.IconMenuItemView
 WidgetID: android:id/title
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.messaging.ui.conversation.ConversationActivity
-TargetActivity: com.android.messaging.ui.conversation.ConversationActivity
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.messaging.ui.conversation.ConversationActivity
-TargetActivity: com.android.messaging.ui.conversation.ConversationActivity
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.messaging.ui.conversationlist.ConversationListActivity
-TargetActivity: com.android.messaging.ui.conversationlist.ConversationListActivity
-Hash: MENU
-Event: MENU
-Hash: MENU
-Event: MENU
-Hash: 260875072
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c1f3279}
+MenuItemID: de.ub0r.android.smsdroid:id/item_compose
+Hash: 196819880
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6d5c6c1}
 Class: class com.android.internal.view.menu.IconMenuItemView
 WidgetID: android:id/title
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.messaging.ui.conversation.ConversationActivity
-TargetActivity: com.android.messaging.ui.conversation.ConversationActivity
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.messaging.ui.conversationlist.ConversationListActivity
-TargetActivity: com.android.messaging.ui.conversationlist.ConversationListActivity
-Hash: MENU
-Event: MENU
-Hash: MENU
-Event: MENU
-Hash: 39053987
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c4ac1a0}
+MenuItemID: de.ub0r.android.smsdroid:id/item_mark_all_read
+Hash: 98213478
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33cb5a7}
 Class: class com.android.internal.view.menu.IconMenuItemView
 WidgetID: android:id/title
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.dialer.DialtactsActivity
-TargetActivity: com.android.dialer.DialtactsActivity
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.dialer.DialtactsActivity
-TargetActivity: com.android.dialer.DialtactsActivity
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.dialer.DialtactsActivity
-TargetActivity: de.ub0r.android.smsdroid.MessageList
-Hash: MENU
-Event: MENU
-Hash: MENU
-Event: MENU
-Hash: 148772557
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1105b82}
-Class: class com.android.internal.view.menu.IconMenuItemView
-WidgetID: android:id/title
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-TargetActivity: de.ub0r.android.smsdroid.ConversationList
-Hash: MENU
-Event: MENU
-Hash: MENU
-Event: MENU
-Hash: 147704539
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3d04978}
-Class: class com.android.internal.view.menu.IconMenuItemView
-WidgetID: android:id/title
-Hash: 124303955
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-DialogClass: class android.app.AlertDialog
-DialogTitle: Delete thread
-Hash: 124508302
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {baa8af}
-Class: class android.widget.Button
-WidgetID: android:id/button2
-ButtonText: Cancel
-Hash: MENU
-Event: MENU
-Hash: MENU
-Event: MENU
-Hash: 147704539
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6a28c45}
-Class: class com.android.internal.view.menu.IconMenuItemView
-WidgetID: android:id/title
-Hash: 77922472
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-DialogClass: class android.app.AlertDialog
-DialogTitle: Delete thread
-Hash: 174368705
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {83e6b66}
-Class: class android.widget.Button
-WidgetID: android:id/button1
-ButtonText: OK
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-TargetActivity: de.ub0r.android.smsdroid.ConversationList
-Hash: 33671500
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2e00d95}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: MENU
-Event: MENU
-Hash: MENU
-Event: MENU
-Hash: 108315107
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b5be7e0}
-Class: class com.android.internal.view.menu.IconMenuItemView
-WidgetID: android:id/title
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-TargetActivity: de.ub0r.android.smsdroid.MessageList
-Hash: 33671500
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2e00d95}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Event: LongClick
-Hash: 33509423
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-DialogClass: class android.app.AlertDialog
-DialogTitle: 6788
-Hash: 233472212
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {811a27d}
-Class: class com.android.internal.app.AlertController$RecycleListView
-WidgetID: android:id/select_dialog_listview
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.messaging.ui.conversation.ConversationActivity
-TargetActivity: com.android.messaging.ui.conversation.ConversationActivity
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.messaging.ui.conversationlist.ConversationListActivity
-TargetActivity: com.android.messaging.ui.conversationlist.ConversationListActivity
-Hash: 33671500
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2e00d95}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Event: LongClick
-Hash: 87545623
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-DialogClass: class android.app.AlertDialog
-DialogTitle: 6788
-Hash: 239137436
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3b04a5}
-Class: class com.android.internal.app.AlertController$RecycleListView
-WidgetID: android:id/select_dialog_listview
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.dialer.DialtactsActivity
-TargetActivity: com.android.dialer.DialtactsActivity
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.dialer.DialtactsActivity
-TargetActivity: com.android.dialer.DialtactsActivity
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.dialer.DialtactsActivity
-TargetActivity: com.android.dialer.DialtactsActivity
-Hash: 33671500
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2e00d95}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Event: LongClick
-Hash: 201337886
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-DialogClass: class android.app.AlertDialog
-DialogTitle: 6788
-Hash: 87993591
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {26d1764}
-Class: class com.android.internal.app.AlertController$RecycleListView
-WidgetID: android:id/select_dialog_listview
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.contacts.activities.ContactSelectionActivity
-TargetActivity: com.android.contacts.activities.ContactSelectionActivity
-Hash: 33671500
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2e00d95}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Event: LongClick
-Hash: 204695809
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-DialogClass: class android.app.AlertDialog
-DialogTitle: 6788
-Hash: 186126718
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {40806df}
-Class: class com.android.internal.app.AlertController$RecycleListView
-WidgetID: android:id/select_dialog_listview
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.MessageList
-TargetActivity: de.ub0r.android.smsdroid.MessageList
-Hash: 33671500
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2e00d95}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Event: LongClick
-Hash: 37749646
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-DialogClass: class android.app.AlertDialog
-DialogTitle: 6788
-Hash: 125578663
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bf28254}
-Class: class com.android.internal.app.AlertController$RecycleListView
-WidgetID: android:id/select_dialog_listview
-Hash: 34548383
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-DialogClass: class android.app.AlertDialog
-DialogTitle: Delete thread
-Hash: 39204789
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ead0e4a}
-Class: class android.widget.Button
-WidgetID: android:id/button2
-ButtonText: Cancel
-Hash: 33671500
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2e00d95}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Event: LongClick
-Hash: 70803694
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-DialogClass: class android.app.AlertDialog
-DialogTitle: 2167134248
-Hash: 240225159
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2a5bab4}
-Class: class com.android.internal.app.AlertController$RecycleListView
-WidgetID: android:id/select_dialog_listview
-Hash: 179725439
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-DialogClass: class android.app.AlertDialog
-DialogTitle: Delete thread
-Hash: 125678741
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {dc979aa}
-Class: class android.widget.Button
-WidgetID: android:id/button1
-ButtonText: OK
-Hash: 33671500
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2e00d95}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Event: LongClick
-Hash: 15396430
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-DialogClass: class android.app.AlertDialog
-DialogTitle: 6788
-Hash: 158030183
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {49ca314}
-Class: class com.android.internal.app.AlertController$RecycleListView
-WidgetID: android:id/select_dialog_listview
-Hash: MENU
-Event: MENU
-Hash: MENU
-Event: MENU
-Hash: 112540514
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {30e54f3}
-Class: class com.android.internal.view.menu.IconMenuItemView
-WidgetID: android:id/title
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.messaging.ui.conversation.ConversationActivity
-TargetActivity: com.android.messaging.ui.conversation.ConversationActivity
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.messaging.ui.conversation.ConversationActivity
-TargetActivity: com.android.messaging.ui.conversation.ConversationActivity
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.messaging.ui.conversationlist.ConversationListActivity
-TargetActivity: com.android.messaging.ui.conversationlist.ConversationListActivity
-Hash: MENU
-Event: MENU
-Hash: MENU
-Event: MENU
-Hash: 19901358
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e2f4d4f}
-Class: class com.android.internal.view.menu.IconMenuItemView
-WidgetID: android:id/title
-Hash: MENU
-Event: MENU
-Hash: MENU
-Event: MENU
-Hash: 231484636
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c251e5}
-Class: class com.android.internal.view.menu.IconMenuItemView
-WidgetID: android:id/title
-Hash: 230981205
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
+MenuItemID: de.ub0r.android.smsdroid:id/item_delete_all_threads
 DialogClass: class android.app.AlertDialog
 DialogTitle: Delete all threads
-Hash: 98951274
+Hash: 174820601
 SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {93d095b}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {655143e}
 Class: class android.widget.Button
 WidgetID: android:id/button2
 ButtonText: Cancel
-Hash: MENU
-Event: MENU
-Hash: MENU
-Event: MENU
-Hash: 231484636
+Hash: 98213478
 SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {71baad1}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {62aafec}
 Class: class com.android.internal.view.menu.IconMenuItemView
 WidgetID: android:id/title
-Hash: 48135184
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
+MenuItemID: de.ub0r.android.smsdroid:id/item_delete_all_threads
 DialogClass: class android.app.AlertDialog
 DialogTitle: Delete all threads
-Hash: 115860233
+Hash: 104688918
 SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9de990e}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4685697}
 Class: class android.widget.Button
 WidgetID: android:id/button1
 ButtonText: OK
-Hash: MENU
-Event: MENU
-Hash: MENU
-Event: MENU
-Hash: 253184316
+Hash: 5009517
 SourceActivity: de.ub0r.android.smsdroid.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5a2a6c5}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c1b44a2}
 Class: class com.android.internal.view.menu.IconMenuItemView
 WidgetID: android:id/title
-Hash: 259576296
+MenuItemID: de.ub0r.android.smsdroid:id/item_donate
+Hash: 101624141
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a61bc02}
+Class: class android.widget.Button
+WidgetID: de.ub0r.android.smsdroid:id/donate_paypal
+ButtonText: Donate (Paypal)
+Hash: 120821326
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a61bc02}
+Class: class android.widget.Button
+WidgetID: de.ub0r.android.smsdroid:id/donate_bitcoin
+ButtonText: Donate (Bitcoin)
+DialogClass: class android.app.AlertDialog
+DialogTitle: Donate (Bitcoin)
+Hash: 217309543
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f2e8b14}
+Class: class android.widget.Button
+WidgetID: android:id/button3
+ButtonText: Copy to clipboard
+Hash: 120821326
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a61bc02}
+Class: class android.widget.Button
+WidgetID: de.ub0r.android.smsdroid:id/donate_bitcoin
+ButtonText: Donate (Bitcoin)
+DialogClass: class android.app.AlertDialog
+DialogTitle: Donate (Bitcoin)
+Hash: 208005493
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a043d0a}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 112764913
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a61bc02}
+Class: class android.widget.EditText
+WidgetID: de.ub0r.android.smsdroid:id/paypalid
+Hash: 27185709
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a61bc02}
+Class: class android.widget.ScrollView
+Hash: 27185709
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a61bc02}
+Class: class android.widget.ScrollView
+Hash: 7824226
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a61bc02}
+Class: class android.widget.Button
+WidgetID: de.ub0r.android.smsdroid:id/send
+ButtonText: Load noads code
+Hash: BACK
+Event: BACK
+SourceActivity: de.ub0r.android.lib.DonationHelper
+TargetActivity: de.ub0r.android.lib.DonationHelper
+Hash: 121443548
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a61bc02}
+Class: class android.widget.CheckBox
+WidgetID: de.ub0r.android.smsdroid:id/accept
+ButtonText: Accept Terms
+Hash: 121443548
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a61bc02}
+Class: class android.widget.CheckBox
+WidgetID: de.ub0r.android.smsdroid:id/accept
+ButtonText: Accept Terms
+Hash: 260381157
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a61bc02}
+Class: class android.widget.TextView
+Hash: 260381157
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a61bc02}
+Class: class android.widget.TextView
+Hash: 260381157
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a61bc02}
+Class: class android.widget.TextView
+Hash: BACK
+Event: BACK
+SourceActivity: de.ub0r.android.lib.DonationHelper
+TargetActivity: de.ub0r.android.lib.DonationHelper
+Hash: 75866269
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a436912}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: de.ub0r.android.smsdroid:id/item_settings
+Hash: 89509190
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d64001}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {437eb07}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 131200512
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.Dialog
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 141862298
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
 DialogTitle: Theme
-Hash: 79386430
+Hash: 105989936
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4d399f}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {36c1fa9}
 Class: class com.android.internal.app.AlertController$RecycleListView
 WidgetID: android:id/select_dialog_listview
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 62566253
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
+DialogClass: class android.
+app.AlertDialog
 DialogTitle: Theme
-Hash: 84544494
+Hash: 75774430
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cfdc88f}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5a277bf}
 Class: class android.widget.Button
 WidgetID: android:id/button2
 ButtonText: Cancel
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 54504786
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
 DialogTitle: 
-Hash: 99490126
+Hash: 255196990
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {26aba6f}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5b6c19f}
 Class: class com.android.internal.app.AlertController$RecycleListView
 WidgetID: android:id/select_dialog_listview
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 26279613
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
 DialogTitle: 
-Hash: 75779736
+Hash: 101318920
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {dd7f6f1}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2c310a1}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: 9189864
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 110638850
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d1e3813}
 Class: class com.android.internal.app.AlertController$RecycleListView
 WidgetID: android:id/select_dialog_listview
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 125181007
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
 DialogTitle: 
-Hash: 109837330
+Hash: 130124716
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {853ffe3}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ff1075}
 Class: class android.widget.Button
 WidgetID: android:id/button2
 ButtonText: Cancel
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 127386065
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
-DialogTitle: 
-Hash: 136113212
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6b30dc5}
-Class: class android.widget.Button
-WidgetID: android:id/button2
-ButtonText: Cancel
-Hash: 241317457
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 38218691
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
 DialogTitle: Text size
-Hash: 56798997
+Hash: 255341507
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {19b222a}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {685a440}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: 9189864
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+DialogClass: class android.app.AlertDialog
+DialogTitle: Text size
+Hash: 13527535
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a041cfc}
 Class: class android.widget.Button
 WidgetID: android:id/button1
 ButtonText: OK
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 160643017
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
-DialogTitle: Text size
-Hash: 27909434
+DialogTitle: 
+Hash: 218545452
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b970deb}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {58a23f5}
 Class: class android.widget.Button
 WidgetID: android:id/button2
 ButtonText: Cancel
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 121175262
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
-DialogTitle: Text size
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: 241317457
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 239673249
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
 DialogTitle: 
-Hash: BACK
-Event: BACK
+Hash: 27956905
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: 241317457
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 239857485
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
-DialogTitle: 
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: 241317457
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 33180426
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
-DialogTitle: 
-Hash: 237711227
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4fce198}
-Class: class android.widget.Button
-WidgetID: android:id/button1
-ButtonText: OK
-Hash: 241317457
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 106490703
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
-DialogTitle: 
-Hash: 162034396
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1e01fe5}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f3fd42e}
 Class: class android.widget.Button
 WidgetID: android:id/button3
 ButtonText: Reset
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 172490976
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
 DialogTitle: 
-Hash: 237817753
+Hash: 30867858
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9ab325e}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3f25763}
 Class: class android.widget.Button
-WidgetID: android:id/button2
-ButtonText: Cancel
-Hash: 241317457
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 178794765
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
-DialogTitle: 
-Hash: 94177474
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {49406d3}
-Class: class yuku.ambilwarna.AmbilWarnaKotak
-WidgetID: de.ub0r.android.smsdroid:id/ambilwarna_viewKotak
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: 241317457
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 241317457
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 241317457
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 33184668
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
 DialogTitle: Custom language
-Hash: 247953501
+Hash: 128414087
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {688c5d2}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c4ca8b4}
 Class: class com.android.internal.app.AlertController$RecycleListView
 WidgetID: android:id/select_dialog_listview
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 161968312
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
 DialogTitle: Custom language
-Hash: 136720073
+Hash: 27694867
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2f959ce}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a84d50}
 Class: class android.widget.Button
 WidgetID: android:id/button2
 ButtonText: Cancel
-Hash: 241317457
+Hash: 9189864
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3feb6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c98801}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 197995156
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
-DialogTitle: Custom language
 Hash: BACK
 Event: BACK
 SourceActivity: de.ub0r.android.smsdroid.Preferences
 TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: BACK
-Event: BACK
+Hash: 89509190
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: 259576296
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d64001}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {437eb07}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 68098989
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.Dialog
-Hash: 186107611
+Hash: 176742445
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {189578}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {635962}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 186107611
+Hash: 176742445
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {189578}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {635962}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 186107611
+Hash: 176742445
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {189578}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {635962}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 186107611
+Hash: 176742445
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {189578}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {635962}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 186107611
+Hash: 176742445
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {189578}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {635962}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 186107611
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {189578}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 186107611
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {189578}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 186107611
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {189578}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 186107611
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {189578}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 24524371
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.Dialog
-Hash: 185192123
+Hash: 196999437
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fcc2fd8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed330c2}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 74892137
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
 DialogTitle: Regex 1
-Hash: 46117239
+Hash: 104169893
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cbb01e4}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ce6a97a}
 Class: class android.widget.Button
 WidgetID: android:id/button2
 ButtonText: Cancel
-Hash: 185192123
+Hash: 196999437
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fcc2fd8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed330c2}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 72944779
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
 DialogTitle: Regex 1
-Hash: 164790569
+Hash: 49033533
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b1acae}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7bfbd32}
 Class: class android.widget.Button
 WidgetID: android:id/button1
 ButtonText: OK
-Hash: 185192123
+Hash: 196999437
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fcc2fd8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed330c2}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 45707794
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
-DialogTitle: Regex 1
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: 185192123
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fcc2fd8}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 178878808
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
 DialogTitle: Replace 1
-Hash: 41539614
+Hash: 155948479
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2ee58ff}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d89248c}
 Class: class android.widget.Button
 WidgetID: android:id/button2
 ButtonText: Cancel
-Hash: 185192123
+Hash: 196999437
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fcc2fd8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed330c2}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 159302274
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
 DialogTitle: Replace 1
-Hash: 111427096
+Hash: 246523697
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d69f071}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {37b4e16}
 Class: class android.widget.Button
 WidgetID: android:id/button1
 ButtonText: OK
-Hash: 185192123
+Hash: 196999437
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fcc2fd8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed330c2}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 109836901
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
-DialogTitle: Replace 1
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: 185192123
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fcc2fd8}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 235436355
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
 DialogTitle: Regex 2
-Hash: 151506337
+Hash: 202044947
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {47fcbc6}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d56c050}
 Class: class android.widget.Button
 WidgetID: android:id/button2
 ButtonText: Cancel
-Hash: 185192123
+Hash: 196999437
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fcc2fd8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed330c2}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 164384917
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
 DialogTitle: Regex 2
-Hash: 49979651
+Hash: 210489061
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d17a880}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {aaf0dba}
 Class: class android.widget.Button
 WidgetID: android:id/button1
 ButtonText: OK
-Hash: 185192123
+Hash: 196999437
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fcc2fd8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed330c2}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 206308676
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
-DialogTitle: Regex 2
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: 185192123
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fcc2fd8}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 195994650
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
 DialogTitle: Replace 2
-Hash: 154996336
+Hash: 103832103
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {40575e9}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f3874d4}
+Hash: 196999437
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed330c2}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+DialogClass: class android.app.AlertDialog
+DialogTitle: Replace 2
+Hash: 122403929
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {478801e}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 196999437
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed330c2}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+DialogClass: class android.app.AlertDialog
+DialogTitle: Regex 3
+Hash: 3028475
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {341a618}
 Class: class android.widget.Button
 WidgetID: android:id/button2
 ButtonText: Cancel
-Hash: 185192123
+Hash: 196999437
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fcc2fd8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed330c2}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 23169076
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
-DialogTitle: Replace 2
-Hash: 36895450
+DialogTitle: Regex 3
+Hash: 195707789
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6bf6b0b}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e942}
 Class: class android.widget.Button
 WidgetID: android:id/button1
 ButtonText: OK
-Hash: 185192123
+Hash: 196999437
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fcc2fd8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed330c2}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 59986399
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
-DialogTitle: Replace 2
-Hash: BACK
-Event: BACK
+DialogTitle: Replace 3
+Hash: 117489039
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: 185192123
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fcc2fd8}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 37552781
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
-DialogTitle: Regex 3
-Hash: 11390139
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {20355d8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ac781c}
 Class: class android.widget.Button
 WidgetID: android:id/button2
 ButtonText: Cancel
-Hash: 185192123
+Hash: 196999437
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fcc2fd8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed330c2}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 43320463
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
-DialogTitle: Regex 3
-Hash: 259949645
+DialogTitle: Replace 3
+Hash: 159119489
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5bbfb02}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4464d26}
 Class: class android.widget.Button
 WidgetID: android:id/button1
 ButtonText: OK
-Hash: 185192123
+Hash: BACK
+Event: BACK
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fcc2fd8}
+TargetActivity: de.ub0r.android.smsdroid.Preferences
+Hash: 176742445
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {635962}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 52310054
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
-DialogTitle: Regex 3
 Hash: BACK
 Event: BACK
 SourceActivity: de.ub0r.android.smsdroid.Preferences
 TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: BACK
-Event: BACK
+Hash: 89509190
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: 185192123
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fcc2fd8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {437eb07}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 146600972
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
-DialogTitle: Replace 3
-Hash: 85186418
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {943a7c3}
-Class: class android.widget.Button
-WidgetID: android:id/button2
-ButtonText: Cancel
-Hash: 185192123
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fcc2fd8}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 110387606
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
-DialogTitle: Replace 3
-Hash: 168529100
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d994b15}
-Class: class android.widget.Button
-WidgetID: android:id/button1
-ButtonText: OK
-Hash: 185192123
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fcc2fd8}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 256316361
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
-DialogTitle: Replace 3
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: 259576296
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d64001}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 200104391
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.Dialog
-Hash: 23693505
+Hash: 253549383
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a032f74}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 23693505
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 23693505
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 111641759
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
 DialogTitle: 
-Hash: 55993070
+Hash: 197250074
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d38f}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3d0034b}
 Class: class com.android.internal.app.AlertController$RecycleListView
 WidgetID: android:id/select_dialog_listview
-Hash: 23693505
+Hash: 253549383
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a032f74}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 251466531
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
 DialogTitle: 
-Hash: 136613649
+Hash: 195214998
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {34e4876}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8610a17}
 Class: class android.widget.Button
 WidgetID: android:id/button2
 ButtonText: Cancel
-Hash: 23693505
+Hash: 253549383
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a032f74}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 23693505
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 23693505
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 23693505
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 23693505
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 120899979
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
-DialogTitle: LED color
-Hash: 265235323
+DialogTitle: 
+Hash: 255353810
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6972d98}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd8aca3}
 Class: class com.android.internal.app.AlertController$RecycleListView
 WidgetID: android:id/select_dialog_listview
-Hash: 23693505
+Hash: 253549383
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a032f74}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 253734318
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
-DialogTitle: LED color
-Hash: 219132231
+DialogTitle: 
+Hash: 182474702
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b9c4d74}
-Class: class android.widget.Button
-WidgetID: android:id/button2
-ButtonText: Cancel
-Hash: 23693505
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 10519146
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
-DialogTitle: LED mode
-Hash: 188840503
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ba7fba4}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {39a56ef}
 Class: class com.android.internal.app.AlertController$RecycleListView
 WidgetID: android:id/select_dialog_listview
-Hash: 23693505
+Hash: 253549383
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a032f74}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 236345882
+Hash: 253549383
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
-DialogTitle: LED mode
-Hash: 179265319
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ad395d4}
-Class: class android.widget.Button
-WidgetID: android:id/button2
-ButtonText: Cancel
-Hash: 23693505
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a032f74}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 206142922
+Hash: 253549383
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
-DialogTitle: LED mode
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: 23693505
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a032f74}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 70182812
+Hash: 253549383
 SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a032f74}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 253549383
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a032f74}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 253549383
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a032f74}
+Class: class android.widget.ListView
+WidgetID: android:id/list
 DialogClass: class android.app.AlertDialog
 DialogTitle: LED color
-Hash: BACK
-Event: BACK
+Hash: 98636592
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: 23693505
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 23693505
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 23693505
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 23693505
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 23693505
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 23693505
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 190032170
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
-DialogTitle: Vibrator mode
-Hash: 42218370
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {287ba93}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bcdfba9}
 Class: class com.android.internal.app.AlertController$RecycleListView
 WidgetID: android:id/select_dialog_listview
-Hash: 23693505
+Hash: 253549383
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a032f74}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 118704641
+Hash: 253549383
 SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a032f74}
+Class: class android.widget.ListView
+WidgetID: android:id/list
 DialogClass: class android.app.AlertDialog
 DialogTitle: Vibrator mode
-Hash: 99498041
+Hash: 258257855
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a57e7e}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {15eea8c}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 253549383
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a032f74}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 253549383
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a032f74}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+DialogClass: class android.app.AlertDialog
+DialogTitle: LED mode
+Hash: 74975919
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cb80ebc}
 Class: class android.widget.Button
 WidgetID: android:id/button2
 ButtonText: Cancel
-Hash: 23693505
+Hash: 253549383
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a032f74}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 94727364
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
-DialogTitle: Vibrator mode
+DialogTitle: LED mode
+Hash: 88538527
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {87a9eec}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 253549383
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a032f74}
+Class: class android.widget.ListView
+WidgetID: android:id/list
 Hash: BACK
 Event: BACK
 SourceActivity: de.ub0r.android.smsdroid.Preferences
 TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: 23693505
+Hash: 89509190
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e03866}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {437eb07}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: BACK
-Event: BACK
+Hash: 89509190
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: 259576296
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d64001}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {437eb07}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: MENU
-Event: MENU
-Hash: MENU
-Event: MENU
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.About
-TargetActivity: de.ub0r.android.smsdroid.About
-Hash: 259576296
+Hash: 89509190
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d64001}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {437eb07}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.internal.app.ResolverActivity
-TargetActivity: com.android.internal.app.ResolverActivity
-Hash: 259576296
+Hash: 89509190
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d64001}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {437eb07}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.internal.app.ResolverActivity
-TargetActivity: com.android.internal.app.ResolverActivity
-Hash: 259576296
+Hash: 89509190
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d64001}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {437eb07}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.internal.app.ResolverActivity
-TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: 259576296
+Hash: 89509190
 SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d64001}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {437eb07}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 259576296
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d64001}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.internal.app.ResolverActivity
-TargetActivity: com.android.internal.app.ResolverActivity
-Hash: 259576296
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d64001}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 4103460
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
-DialogTitle: Install SendLog
-Hash: 207753357
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {da3242}
-Class: class android.widget.Button
-WidgetID: android:id/button2
-ButtonText: Cancel
-Hash: 259576296
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d64001}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 224211086
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-DialogClass: class android.app.AlertDialog
-DialogTitle: Install SendLog
-Hash: 21831855
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4266cbc}
-Class: class android.widget.Button
-WidgetID: android:id/button1
-ButtonText: OK
-Hash: 259576296
-SourceActivity: de.ub0r.android.smsdroid.Preferences
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d64001}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 233287666
-SourceActivity: de.ub0r.android.smsdroid.Preferences
 DialogClass: class android.app.AlertDialog
 DialogTitle: Install SendLog
 Hash: BACK
 Event: BACK
 SourceActivity: de.ub0r.android.smsdroid.Preferences
 TargetActivity: de.ub0r.android.smsdroid.Preferences
+Hash: 89509190
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {437eb07}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+DialogClass: class android.app.AlertDialog
+DialogTitle: Install SendLog
+Hash: 52661498
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e7362ab}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: 89509190
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {437eb07}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+DialogClass: class android.app.AlertDialog
+DialogTitle: Install SendLog
+Hash: 158609844
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2d631dd}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 89509190
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {437eb07}
+Class: class android.widget.ListView
+WidgetID: android:id/list
 Hash: BACK
 Event: BACK
 SourceActivity: de.ub0r.android.smsdroid.Preferences
 TargetActivity: de.ub0r.android.smsdroid.Preferences
-Hash: BACK
-Event: BACK
-SourceActivity: de.ub0r.android.smsdroid.ConversationList
-TargetActivity: de.ub0r.android.smsdroid.ConversationList

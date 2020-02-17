@@ -10,10 +10,7 @@ import com.google.gson.JsonSyntaxException;
 
 
 class ADAIMarchGator {
-	public static String GatorDotPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/smsdroidGator.dot";
-	public static String ADAIFilePath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/smsdroid.txt";
-	public static String PaladinFilePath = "/Users/hanlinwang/Desktop/thesis3/myAPK/Paladin-output/graph-de.ub0r.android.smsdroid.json";
-	public static String PaladinOutputPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/smsdroidPaladin.dot";
+
 	public static void CompareTwo(GatorDot2C myGator, ADAI2Dot myADAI) {
 		HashMap<String, GatorDot2C.vertex> GActivities = myGator.Boxes;
 		LinkedList<GatorDot2C.edge> GPaths = myGator.Edges;
@@ -86,6 +83,12 @@ class ADAIMarchGator {
 		System.out.println(Marched);
 	}
 	
+	public static String GatorDotPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/smsdroidGator.dot";
+	public static String ADAIFilePath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/smsdroid.txt";
+	public static String ADAIDotPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/smsdroidTEST.dot";
+	public static String PaladinFilePath = "/Users/hanlinwang/Desktop/thesis3/myAPK/Paladin-output/graph-de.ub0r.android.smsdroid.json";
+	public static String PaladinOutputPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/smsdroidPaladin.dot";
+	
 	public static void main(String[] args){
 		
 		// Read Graph.Json from Paladin
@@ -106,7 +109,7 @@ class ADAIMarchGator {
 		myGator.Read();
 		myGator.Dot2Class();
 		// Read ADAI file
-		ADAI2Dot myADAI = new ADAI2Dot(ADAIFilePath);
+		ADAI2Dot myADAI = new ADAI2Dot(ADAIFilePath, ADAIDotPath);
 		myADAI.ReadLog();
 		myADAI.Run();
 		myADAI.WriteDot();

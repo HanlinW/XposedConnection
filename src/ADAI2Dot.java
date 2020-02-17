@@ -10,10 +10,11 @@ import java.util.LinkedList;
 import java.util.Map;
 
 public class ADAI2Dot{
-	public static String outputFilePath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/smsdroidTEST.dot";
+	public String outputFilePath = "";
 	public String ADAIFilePath;
-	public ADAI2Dot (String ADAIFile) {
+	public ADAI2Dot (String ADAIFile, String outputPath) {
 		this.ADAIFilePath = ADAIFile;
+		this.outputFilePath = outputPath;
 	}
 	public LinkedList<String> ADAIFile = new LinkedList<String>();
 	public HashMap<String, Integer> Activities = new HashMap<String, Integer>();
