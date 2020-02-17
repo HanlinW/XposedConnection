@@ -1,0 +1,356 @@
+Hash: 58968433
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4e36356}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnFlash
+Hash: 58968433
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4e36356}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnFlash
+Hash: 58968433
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4e36356}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnFlash
+Hash: 163220397
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4e36356}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnCameraCha
+Hash: 82010966
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnSelf
+Hash: 212211678
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 157290453
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnSetting
+Hash: 245082791
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a70bb54}
+Class: class android.widget.LinearLayout
+WidgetID: com.kth.PuddingCamera:id/login
+Hash: 15960199
+SourceActivity: com.kth.PuddingCamera.Setting.LoginActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 268375840
+SourceActivity: com.kth.PuddingCamera.Setting.LoginActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b68c8d9}
+Class: class android.webkit.WebView
+WidgetID: com.kth.PuddingCamera:id/loginWeb
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.Setting.LoginActivity
+TargetActivity: com.kth.PuddingCamera.Setting.LoginActivity
+Hash: 100335999
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a70bb54}
+Class: class android.widget.LinearLayout
+WidgetID: com.kth.PuddingCamera:id/savefilesize
+Hash: 48233611
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Size
+Hash: 48749666
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a70bb54}
+Class: class android.widget.LinearLayout
+WidgetID: com.kth.PuddingCamera:id/enablegps
+Hash: 48749666
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a70bb54}
+Class: class android.widget.LinearLayout
+WidgetID: com.kth.PuddingCamera:id/enablegps
+Hash: 128639475
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a70bb54}
+Class: class android.widget.LinearLayout
+WidgetID: com.kth.PuddingCamera:id/enableguideline
+Hash: 160198320
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a70bb54}
+Class: class android.widget.LinearLayout
+WidgetID: com.kth.PuddingCamera:id/enablepreview
+Hash: 149312390
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Auto review
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+TargetActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Hash: 222963725
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a70bb54}
+Class: class android.widget.LinearLayout
+WidgetID: com.kth.PuddingCamera:id/enablereverse
+Hash: 222963725
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a70bb54}
+Class: class android.widget.LinearLayout
+WidgetID: com.kth.PuddingCamera:id/enablereverse
+Hash: 131412930
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a70bb54}
+Class: class android.widget.LinearLayout
+WidgetID: com.kth.PuddingCamera:id/notice
+Hash: 21746284
+SourceActivity: com.kth.PuddingCamera.WebAcitivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 5876056
+SourceActivity: com.kth.PuddingCamera.WebAcitivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9d61ab1}
+Class: class android.webkit.WebView
+WidgetID: com.kth.PuddingCamera:id/WebCtrl
+Hash: 5876056
+SourceActivity: com.kth.PuddingCamera.WebAcitivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9d61ab1}
+Class: class android.webkit.WebView
+WidgetID: com.kth.PuddingCamera:id/WebCtrl
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.WebAcitivity
+TargetActivity: com.kth.PuddingCamera.WebAcitivity
+Hash: 247300887
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a70bb54}
+Class: class android.widget.LinearLayout
+WidgetID: com.kth.PuddingCamera:id/help
+Hash: 6123680
+SourceActivity: com.kth.PuddingCamera.WebAcitivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 188282572
+SourceActivity: com.kth.PuddingCamera.WebAcitivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3b6d15}
+Class: class android.webkit.WebView
+WidgetID: com.kth.PuddingCamera:id/WebCtrl
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.WebAcitivity
+TargetActivity: com.kth.PuddingCamera.WebAcitivity
+Hash: 247300887
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a70bb54}
+Class: class android.widget.LinearLayout
+WidgetID: com.kth.PuddingCamera:id/help
+Hash: 220493339
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a70bb54}
+Class: class android.widget.ScrollView
+WidgetID: com.kth.PuddingCamera:id/scr
+Hash: 220493339
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a70bb54}
+Class: class android.widget.ScrollView
+WidgetID: com.kth.PuddingCamera:id/scr
+Hash: 220493339
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a70bb54}
+Class: class android.widget.ScrollView
+WidgetID: com.kth.PuddingCamera:id/scr
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+TargetActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Hash: 62291190
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial
+Hash: 62291190
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial
+Hash: 62291190
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial
+Hash: 62291190
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial
+Hash: 62291190
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial
+Hash: 62291190
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial
+Hash: 62291190
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial
+Hash: 62291190
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial
+Hash: 62291190
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial
+Hash: 62291190
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial
+Hash: 62291190
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial
+Hash: 62291190
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial
+Hash: 62291190
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial
+Hash: 62291190
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial
+Hash: 62291190
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial
+Hash: 9261924
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class com.kth.view.CameraImageView
+WidgetID: com.kth.PuddingCamera:id/cameraImage
+Hash: 212833737
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class android.widget.FrameLayout
+WidgetID: com.kth.PuddingCamera:id/setting_container
+Hash: 148649166
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class com.kth.view.DrawItemView
+Class: class com.kth.view.DrawItemView
+Hash: 119893374
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Hash: 103211914
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Hash: 186101334
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class com.kth.view.DrawItemView
+Class: class com.kth.view.DrawItemView
+Hash: 66415205
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Hash: 163058201
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnBack
+Hash: 213734583
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnShutter
+Hash: 72089413
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 78793409
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {799afd7}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnGallery
+Hash: 159923617
+SourceActivity: com.kth.PuddingCamera.NewImageInfoActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d4f7bc6}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnUpload
+Hash: 261159760
+SourceActivity: com.kth.PuddingCamera.Setting.LoginActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 120912133
+SourceActivity: com.kth.PuddingCamera.Setting.LoginActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {44bbd5a}
+Class: class android.webkit.WebView
+WidgetID: com.kth.PuddingCamera:id/loginWeb
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.Setting.LoginActivity
+TargetActivity: com.kth.PuddingCamera.Setting.LoginActivity
+Hash: 76619905
+SourceActivity: com.kth.PuddingCamera.NewImageInfoActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d4f7bc6}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnSend
+Hash: 41670498
+SourceActivity: com.kth.PuddingCamera.Setting.LoginActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 147064750
+SourceActivity: com.kth.PuddingCamera.Setting.LoginActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {462794f}
+Class: class android.webkit.WebView
+WidgetID: com.kth.PuddingCamera:id/loginWeb
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.Setting.LoginActivity
+TargetActivity: com.kth.PuddingCamera.NewImageInfoActivity
+Hash: 223146170
+SourceActivity: com.kth.PuddingCamera.NewImageInfoActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d4f7bc6}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnMail
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.NewImageInfoActivity
+TargetActivity: com.kth.PuddingCamera.NewImageInfoActivity
+Hash: 183416520
+SourceActivity: com.kth.PuddingCamera.NewImageInfoActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d4f7bc6}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnDelete
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.NewImageInfoActivity
+TargetActivity: com.kth.PuddingCamera.CameraActivity
+Hash: 119578313
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1bb09ce}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnGallery
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.NewImageInfoActivity
+TargetActivity: com.kth.PuddingCamera.NewImageInfoActivity
+Hash: 196825584
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1593369}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnSetting
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+TargetActivity: com.kth.PuddingCamera.Setting.SettingActivity

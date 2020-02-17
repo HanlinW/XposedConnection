@@ -1,0 +1,666 @@
+Hash: 250624101
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {94f93a}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 250624101
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {94f93a}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 201301340
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ef03865}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/botton_new_conversation
+Hash: 160904008
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8b0f5e1}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/goto_dashboardButton
+Hash: 229935652
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3cdf98d}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/goto_conversations_button
+Hash: 39896148
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8b0f5e1}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 90696324
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: 2167134248
+Hash: 225274
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2f109ab}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 250624101
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {94f93a}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 96347370
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: 2167134248
+Hash: 79832208
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {52da189}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 250624101
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {94f93a}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 264116440
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: 2167134248
+Hash: 173347566
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {411c38f}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 268367990
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class com.zlango.mms.app.DeleteDialog
+DialogTitle: Delete
+Hash: 194181860
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {65e7b4d}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: 250624101
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {94f93a}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 169654667
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: 2167134248
+Hash: 110021817
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d43b8fe}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 229504087
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class com.zlango.mms.app.DeleteDialog
+DialogTitle: Delete
+Hash: 37725229
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {eccd62}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Delete
+Hash: 236934697
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {94f93a}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/goto_dashboardButton
+Hash: 90410590
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b78723f}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_inbox
+Hash: 22647742
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {11bfc1f}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_sort
+Hash: 79520344
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a9dfb1}
+Class: class com.zlango.zms.widget.DropDownListView
+Class: class com.zlango.zms.widget.DropDownListView
+Hash: 79520344
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a9dfb1}
+Class: class com.zlango.zms.widget.DropDownListView
+Class: class com.zlango.zms.widget.DropDownListView
+Hash: 22647742
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {11bfc1f}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_sort
+Hash: 79520344
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8d24c04}
+Class: class com.zlango.zms.widget.DropDownListView
+Class: class com.zlango.zms.widget.DropDownListView
+Hash: 22647742
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {11bfc1f}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_sort
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+TargetActivity: com.zlango.zms.app.CheckableMessagesList
+Hash: 90410590
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b78723f}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_inbox
+Hash: 103768530
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c66d2a3}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+TargetActivity: com.zlango.zms.app.CheckableMessagesList
+Hash: 134072606
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b78723f}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_sent
+Hash: 218757765
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f7260da}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 38912304
+SourceActivity: com.zlango.zms.app.MessagePreviewScreen
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cc11a9}
+Class: class android.widget.ScrollView
+Class: class android.widget.ScrollView
+Hash: 38912304
+SourceActivity: com.zlango.zms.app.MessagePreviewScreen
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cc11a9}
+Class: class android.widget.ScrollView
+Class: class android.widget.ScrollView
+Hash: 38912304
+SourceActivity: com.zlango.zms.app.MessagePreviewScreen
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cc11a9}
+Class: class android.widget.ScrollView
+Class: class android.widget.ScrollView
+Hash: 100348718
+SourceActivity: com.zlango.zms.app.MessagePreviewScreen
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cc11a9}
+Class: class android.widget.Button
+WidgetID: com.zlango.zms:id/button_delete
+ButtonText: Delete
+Hash: 218757765
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f7260da}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 157684088
+SourceActivity: com.zlango.zms.app.MessagePreviewScreen
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4983051}
+Class: class android.widget.Button
+WidgetID: com.zlango.zms:id/button_forward
+ButtonText: Forward
+Hash: 44964859
+Hash: 45894087
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f903bf4}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_sent
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+TargetActivity: com.zlango.zms.app.CheckableMessagesList
+Hash: 174495849
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f903bf4}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_drafts
+Hash: 216794194
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33b0323}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_sort
+Hash: 94318156
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {faa0e95}
+Class: class com.zlango.zms.widget.DropDownListView
+Class: class com.zlango.zms.widget.DropDownListView
+Hash: 94318156
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {faa0e95}
+Class: class com.zlango.zms.widget.DropDownListView
+Class: class com.zlango.zms.widget.DropDownListView
+Hash: 94318156
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {faa0e95}
+Class: class com.zlango.zms.widget.DropDownListView
+Class: class com.zlango.zms.widget.DropDownListView
+Hash: 216794194
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33b0323}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_sort
+Hash: 94318156
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bb6e338}
+Class: class com.zlango.zms.widget.DropDownListView
+Class: class com.zlango.zms.widget.DropDownListView
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+TargetActivity: com.zlango.zms.app.CheckableMessagesList
+Hash: 194181860
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f903bf4}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_skins
+Hash: 40947459
+SourceActivity: com.zlango.zms.app.SkinSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {86d3e80}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/default_skin_button
+Hash: 105114070
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {dadf457}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_skins
+Hash: 236934697
+SourceActivity: com.zlango.zms.app.SkinSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c4e5dae}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/summer_skin_button
+Hash: 8197967
+SourceActivity: com.zlango.zms.app.SkinSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c4e5dae}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/hiphop_skin_button
+Hash: 119143648
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {65d1b99}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_skins
+Hash: 136218616
+SourceActivity: com.zlango.zms.app.SkinSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {43da4d1}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/regular_skin_button
+Hash: 236456474
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d6c694b}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_skins
+Hash: 97387389
+SourceActivity: com.zlango.zms.app.SkinSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d75c272}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/valentine_skin_button
+Hash: 147999748
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3cbc5ed}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_skins
+Hash: 230595962
+SourceActivity: com.zlango.zms.app.SkinSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {480692b}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/horror_skin_button
+Hash: 98863449
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7fdc91e}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_skins
+Hash: 257074679
+SourceActivity: com.zlango.zms.app.SkinSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8cc1c64}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/summer_skin_button
+Hash: 259154138
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd1d90b}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_skins
+Hash: 135112761
+SourceActivity: com.zlango.zms.app.SkinSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c282e7e}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/default_skin_button
+Hash: 254781357
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {92f4ae2}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_skins
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.SkinSelection
+TargetActivity: com.zlango.zms.app.SkinSelection
+Hash: 123766344
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {92f4ae2}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_share
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ChooserActivity
+TargetActivity: com.android.internal.app.ChooserActivity
+Hash: 11982365
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a843092}
+Class: class com.android.internal.policy.PhoneWindow$DecorView
+Class: class com.android.internal.policy.PhoneWindow$DecorView
+Hash: 67197539
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {92f4ae2}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_template
+Hash: 67197539
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {92f4ae2}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_template
+Hash: 67197539
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {92f4ae2}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_template
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.DashboardActivity
+TargetActivity: com.zlango.zms.app.DashboardActivity
+Hash: 162518624
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {92f4ae2}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/goto_conversations_button
+Hash: 212911070
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd1d90b}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/goto_conversations_button
+Hash: 212596876
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7fdc91e}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/goto_conversations_button
+Hash: 176242666
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3cbc5ed}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/goto_conversations_button
+Hash: 157684088
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d6c694b}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/goto_conversations_button
+Hash: 53178550
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {65d1b99}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/goto_conversations_button
+Hash: 27708708
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {dadf457}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/goto_conversations_button
+Hash: 54529897
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b2ebdee}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: NONE
+MenuItemTitle: Compose
+MenuItemID: NONE
+MenuItemTitle: Compose
+Hash: 147657110
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ab06117}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/goto_conversations_button
+Hash: 153525822
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b9c749f}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: NONE
+MenuItemTitle: Tell a friend
+Hash: 96347370
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {83133db}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: NONE
+MenuItemTitle: Search
+MenuItemID: NONE
+MenuItemTitle: Search
+Hash: 265130421
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class android.app.SearchDialog
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.mms.app.SearchActivity
+TargetActivity: com.zlango.mms.app.SearchActivity
+Hash: 147999748
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3cbc5ed}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: NONE
+MenuItemTitle: Settings
+Hash: 247459443
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {251c130}
+Class: class android.widget.Button
+WidgetID: com.zlango.zms:id/rate_us_button
+ButtonText: Rate us
+Hash: 216794194
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33b0323}
+Class: class android.widget.Button
+WidgetID: com.zlango.zms:id/send_review_button
+ButtonText: Tell us what you think
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ChooserActivity
+TargetActivity: com.android.internal.app.ChooserActivity
+Hash: 152661465
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33b0323}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ChooserActivity
+TargetActivity: com.android.internal.app.ChooserActivity
+Hash: 152661465
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33b0323}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 152661465
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33b0323}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 152661465
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33b0323}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 152661465
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33b0323}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 152661465
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33b0323}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 152661465
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33b0323}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 152661465
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33b0323}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 152661465
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33b0323}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 152661465
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33b0323}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 152661465
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33b0323}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.providers.media.RingtonePickerActivity
+TargetActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Hash: 152661465
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33b0323}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 142028508
+SourceActivity: com.zlango.zms.app.SkinSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {52e2be5}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/hiphop_skin_button
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.DashboardActivity
+TargetActivity: com.zlango.zms.app.DashboardActivity
+Hash: 189361926
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7bc5a79}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: NONE
+MenuItemTitle: Settings
+Hash: 3978702
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4925cef}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 3978702
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4925cef}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.SkinSelection
+TargetActivity: com.zlango.zms.app.SkinSelection
+Hash: 54242261
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a813fea}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: NONE
+MenuItemTitle: Delete threads
+MenuItemID: NONE
+MenuItemTitle: Delete threads
+Hash: 201339973
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class com.zlango.mms.app.DeleteDialog
+DialogTitle: Delete
+Hash: 241268634
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d0d08cb}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: 54242261
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bf4cfc1}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: NONE
+MenuItemTitle: Delete threads
+MenuItemID: NONE
+MenuItemTitle: Delete threads
+Hash: 74418494
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class com.zlango.mms.app.DeleteDialog
+DialogTitle: Delete
+Hash: 54690719
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {366acec}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Delete
+Hash: 81115835
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {587abd8}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 166119595
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7a9bb08}
+Class: class com.android.internal.view.menu.ExpandedMenuView
+WidgetID: android:id/expanded_menu
+MenuItemID: NONE
+MenuItemTitle: About Zlango
+Hash: 30597920
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: About Zlango
+Hash: 46048473
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a3c7e9e}
+Class: class android.widget.ScrollView
+WidgetID: android:id/scrollView
+Hash: 109723007
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a3c7e9e}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Ok
+Hash: 81115835
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3ebb595}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 166119595
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f9f1611}
+Class: class com.android.internal.view.menu.ExpandedMenuView
+WidgetID: android:id/expanded_menu
+MenuItemID: NONE
+MenuItemTitle: Help
+Hash: 39450150
+SourceActivity: com.zlango.zms.app.WebViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b19267}
+Class: class android.webkit.WebView
+Class: class android.webkit.WebView
+Hash: 39450150
+SourceActivity: com.zlango.zms.app.WebViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b19267}
+Class: class android.webkit.WebView
+Class: class android.webkit.WebView
+Hash: 39450150
+SourceActivity: com.zlango.zms.app.WebViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b19267}
+Class: class android.webkit.WebView
+Class: class android.webkit.WebView
+Hash: 39450150
+SourceActivity: com.zlango.zms.app.WebViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b19267}
+Class: class android.webkit.WebView
+Class: class android.webkit.WebView
+Hash: 39450150
+SourceActivity: com.zlango.zms.app.WebViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b19267}
+Class: class android.webkit.WebView
+Class: class android.webkit.WebView
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.WebViewActivity
+TargetActivity: com.zlango.zms.app.WebViewActivity

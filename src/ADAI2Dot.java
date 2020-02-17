@@ -59,8 +59,9 @@ public class ADAI2Dot{
 	}
 	
 	public void WriteDot(){
-		File file = new File(outputFilePath);
+		File file = new File(this.outputFilePath);
 		try {
+			file.createNewFile();
 			FileWriter Afile = new FileWriter(file);
 			Iterator iter = Activities.entrySet().iterator();
 			while (iter.hasNext()){

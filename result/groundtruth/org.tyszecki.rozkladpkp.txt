@@ -1,0 +1,771 @@
+Hash: 129889909
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {77c60a}
+Class: class com.android.internal.policy.PhoneWindow$DecorView
+Class: class com.android.internal.policy.PhoneWindow$DecorView
+Hash: 70358871
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.StationEdit
+WidgetID: org.tyszecki.rozkladpkp:id/departure_edit
+Hash: 36426581
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fcb116a}
+Class: class android.widget.ListPopupWindow$DropDownListView
+Class: class android.widget.ListPopupWindow$DropDownListView
+Hash: 150496194
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.StationEdit
+WidgetID: org.tyszecki.rozkladpkp:id/arrival_edit
+Hash: 189013067
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9a11628}
+Class: class android.widget.ListPopupWindow$DropDownListView
+Class: class android.widget.ListPopupWindow$DropDownListView
+Hash: 150496194
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.StationEdit
+WidgetID: org.tyszecki.rozkladpkp:id/arrival_edit
+Hash: 122276291
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class android.widget.ImageButton
+WidgetID: org.tyszecki.rozkladpkp:id/location_button
+Hash: 10529203
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Czekaj...
+Hash: 239099548
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.TimeButton
+WidgetID: org.tyszecki.rozkladpkp:id/time_button
+ButtonText: 6:28
+Hash: 82651880
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.TimePickerDialog
+DialogTitle: 
+Hash: 40954859
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b83d48}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: 239099548
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.TimeButton
+WidgetID: org.tyszecki.rozkladpkp:id/time_button
+ButtonText: 6:28
+Hash: 82651880
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.TimePickerDialog
+DialogTitle: 
+Hash: 54562702
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {40e93af}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 239099548
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.TimeButton
+WidgetID: org.tyszecki.rozkladpkp:id/time_button
+ButtonText: 6:28
+Hash: 82651880
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.TimePickerDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+TargetActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Hash: 241625250
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.DateButton
+WidgetID: org.tyszecki.rozkladpkp:id/date_button
+ButtonText: February 17, 2020
+Hash: 36999798
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.DatePickerDialog
+DialogTitle: 
+Hash: 142433067
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d691b88}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: 241625250
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.DateButton
+WidgetID: org.tyszecki.rozkladpkp:id/date_button
+ButtonText: February 17, 2020
+Hash: 36999798
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.DatePickerDialog
+DialogTitle: 
+Hash: 51250876
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {46e5645}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 241625250
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.DateButton
+WidgetID: org.tyszecki.rozkladpkp:id/date_button
+ButtonText: February 17, 2020
+Hash: 36999798
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.DatePickerDialog
+DialogTitle: 
+Hash: 239319119
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {117bbdc}
+Class: class android.widget.EditText
+WidgetID: android:id/numberpicker_input
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+TargetActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Hash: 36968550
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {117bbdc}
+Class: class android.widget.ImageButton
+WidgetID: android:id/decrement
+Hash: 81328620
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {117bbdc}
+Class: class android.widget.ImageButton
+WidgetID: android:id/increment
+Hash: 244113058
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {117bbdc}
+Class: class android.widget.ImageButton
+WidgetID: android:id/decrement
+Hash: 196417544
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {117bbdc}
+Class: class android.widget.ImageButton
+WidgetID: android:id/increment
+Hash: 209142686
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {117bbdc}
+Class: class android.widget.ImageButton
+WidgetID: android:id/increment
+Hash: 248097508
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {117bbdc}
+Class: class android.widget.ImageButton
+WidgetID: android:id/decrement
+Hash: 51250876
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {117bbdc}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 239099548
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.TimeButton
+WidgetID: org.tyszecki.rozkladpkp:id/time_button
+ButtonText: 6:28
+Hash: 82651880
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.TimePickerDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+TargetActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Hash: 241625250
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.DateButton
+WidgetID: org.tyszecki.rozkladpkp:id/date_button
+ButtonText: February 17, 2020
+Hash: 36999798
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.DatePickerDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+TargetActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Hash: 51842550
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.ProductsButton
+WidgetID: org.tyszecki.rozkladpkp:id/products_button
+ButtonText: Wszystkie pociągi
+Hash: 196514010
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.AlertDialog
+DialogTitle: Środki transportu
+Hash: 199511236
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33097ad}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Anuluj
+Hash: 51842550
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.ProductsButton
+WidgetID: org.tyszecki.rozkladpkp:id/products_button
+ButtonText: Wszystkie pociągi
+Hash: 196514010
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.AlertDialog
+DialogTitle: Środki transportu
+Hash: 200016297
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {db4632e}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 51842550
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.ProductsButton
+WidgetID: org.tyszecki.rozkladpkp:id/products_button
+ButtonText: Wszystkie pociągi
+Hash: 196514010
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.AlertDialog
+DialogTitle: Środki transportu
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+TargetActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Hash: 232394597
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.AttributesButton
+WidgetID: org.tyszecki.rozkladpkp:id/attributes_button
+ButtonText: Wszystkie połączenia
+Hash: 234250386
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.AlertDialog
+DialogTitle: Szczegóły połączenia
+Hash: 67727338
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {11a22db}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 67727338
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {11a22db}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 253870456
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {11a22db}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Anuluj
+Hash: 232394597
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.AttributesButton
+WidgetID: org.tyszecki.rozkladpkp:id/attributes_button
+ButtonText: Wszystkie połączenia
+Hash: 234250386
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.AlertDialog
+DialogTitle: Szczegóły połączenia
+Hash: 193860023
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f6d7d24}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 232394597
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.AttributesButton
+WidgetID: org.tyszecki.rozkladpkp:id/attributes_button
+ButtonText: Wszystkie połączenia
+Hash: 234250386
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.AlertDialog
+DialogTitle: Szczegóły połączenia
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+TargetActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Hash: 232002114
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class android.widget.Button
+WidgetID: org.tyszecki.rozkladpkp:id/ok_button
+ButtonText: OK
+Hash: 9854340
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Czekaj...
+Hash: 98946547
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {48aeab0}
+Class: class android.widget.ListView
+WidgetID: org.tyszecki.rozkladpkp:id/connection_list
+Hash: 98946547
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {48aeab0}
+Class: class android.widget.ListView
+WidgetID: org.tyszecki.rozkladpkp:id/connection_list
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+TargetActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+Hash: 98946547
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {48aeab0}
+Class: class android.widget.ListView
+WidgetID: org.tyszecki.rozkladpkp:id/connection_list
+Hash: 259411906
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionDetailsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3b941d3}
+Class: class android.widget.ListView
+WidgetID: org.tyszecki.rozkladpkp:id/connection_details
+Hash: 220035871
+SourceActivity: org.tyszecki.rozkladpkp.TrainDetailsActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Czekaj...
+Hash: 170437179
+SourceActivity: org.tyszecki.rozkladpkp.TrainDetailsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bd0a558}
+Class: class android.widget.ListView
+WidgetID: org.tyszecki.rozkladpkp:id/route
+Hash: 170437179
+SourceActivity: org.tyszecki.rozkladpkp.TrainDetailsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bd0a558}
+Class: class android.widget.ListView
+WidgetID: org.tyszecki.rozkladpkp:id/route
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionDetailsActivity
+TargetActivity: org.tyszecki.rozkladpkp.ConnectionDetailsActivity
+Hash: 259411906
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionDetailsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3b941d3}
+Class: class android.widget.ListView
+WidgetID: org.tyszecki.rozkladpkp:id/connection_details
+Hash: 265441862
+SourceActivity: org.tyszecki.rozkladpkp.TrainDetailsActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Czekaj...
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionDetailsActivity
+TargetActivity: org.tyszecki.rozkladpkp.ConnectionDetailsActivity
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+TargetActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+Hash: 113280247
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6860f64}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: org.tyszecki.rozkladpkp:id/item_favourite
+MenuItemTitle: Dodaj do zapamiętanych
+Hash: 70353153
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6286ba6}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: org.tyszecki.rozkladpkp:id/item_return_journey
+MenuItemTitle: Podróż powrotna
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionsFormActivity
+TargetActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+Hash: 42305864
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {85f93e1}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: org.tyszecki.rozkladpkp:id/item_continue_journey
+MenuItemTitle: Dalsza podróż
+Hash: 118876096
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionsFormActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f705cf9}
+Class: class android.widget.ImageButton
+WidgetID: org.tyszecki.rozkladpkp:id/location_button
+Hash: 93041201
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionsFormActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Czekaj...
+Hash: 221790317
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionsFormActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f705cf9}
+Class: class org.tyszecki.rozkladpkp.widgets.ProductsButton
+WidgetID: org.tyszecki.rozkladpkp:id/products_button
+ButtonText: Wszystkie pociągi
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionsFormActivity
+TargetActivity: org.tyszecki.rozkladpkp.ConnectionsFormActivity
+Hash: 43388965
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionsFormActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f705cf9}
+Class: class android.widget.ScrollView
+Class: class android.widget.ScrollView
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionsFormActivity
+TargetActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+Hash: 70353153
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {109be08}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: org.tyszecki.rozkladpkp:id/item_return_journey
+MenuItemTitle: Podróż powrotna
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionsFormActivity
+TargetActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+TargetActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Hash: 240872577
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4c2b126}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: org.tyszecki.rozkladpkp:id/item_settings
+MenuItemTitle: Ustawienia
+Hash: 179102638
+SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f90254f}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 139817117
+SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Wybierz kartę
+Hash: 193116215
+SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c5361a4}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: 179102638
+SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f90254f}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 179102638
+SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f90254f}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 179102638
+SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f90254f}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+TargetActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Hash: 86178569
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class android.widget.ScrollView
+Class: class android.widget.ScrollView
+Hash: 173527310
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7ea772f}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: org.tyszecki.rozkladpkp:id/item_via
+MenuItemTitle: Dodaj przesiadkę
+Hash: 86178569
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class android.widget.ScrollView
+Class: class android.widget.ScrollView
+Hash: 21229594
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.StationEdit
+WidgetID: org.tyszecki.rozkladpkp:id/via_edit
+Hash: 4128177
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4042296}
+Class: class android.widget.ListPopupWindow$DropDownListView
+Class: class android.widget.ListPopupWindow$DropDownListView
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+TargetActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Hash: 86178569
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class android.widget.ScrollView
+Class: class android.widget.ScrollView
+Hash: 232002114
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class android.widget.Button
+WidgetID: org.tyszecki.rozkladpkp:id/ok_button
+ButtonText: OK
+Hash: 100821743
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Czekaj...
+Hash: 53800873
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {445b92e}
+Class: class android.widget.ListView
+WidgetID: org.tyszecki.rozkladpkp:id/connection_list
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionDetailsActivity
+TargetActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+TargetActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Hash: 212723576
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 17988948
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class android.widget.ScrollView
+Class: class android.widget.ScrollView
+Hash: 168240381
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class android.widget.ImageButton
+WidgetID: org.tyszecki.rozkladpkp:id/location_button
+Hash: 216934587
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Czekaj...
+Hash: 75096964
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.StationEdit
+WidgetID: org.tyszecki.rozkladpkp:id/station_edit
+Hash: 236938578
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3a95023}
+Class: class android.widget.ListPopupWindow$DropDownListView
+Class: class android.widget.ListPopupWindow$DropDownListView
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+TargetActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Hash: 17988948
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class android.widget.ScrollView
+Class: class android.widget.ScrollView
+Hash: 297334
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.TimetableTypeButton
+WidgetID: org.tyszecki.rozkladpkp:id/type_button
+ButtonText: Odjazdy
+Hash: 185903991
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.ProductsButton
+WidgetID: org.tyszecki.rozkladpkp:id/products_button
+ButtonText: Wszystkie pociągi
+Hash: 11099004
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.AlertDialog
+DialogTitle: Środki transportu
+Hash: 235510787
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4f28780}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Anuluj
+Hash: 185903991
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.ProductsButton
+WidgetID: org.tyszecki.rozkladpkp:id/products_button
+ButtonText: Wszystkie pociągi
+Hash: 11099004
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.AlertDialog
+DialogTitle: Środki transportu
+Hash: 146316204
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {910e075}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 185903991
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class org.tyszecki.rozkladpkp.widgets.ProductsButton
+WidgetID: org.tyszecki.rozkladpkp:id/products_button
+ButtonText: Wszystkie pociągi
+Hash: 11099004
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.AlertDialog
+DialogTitle: Środki transportu
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+TargetActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Hash: 233424536
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class android.widget.Button
+WidgetID: org.tyszecki.rozkladpkp:id/ok_button
+ButtonText: OK
+Hash: 54853470
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Czekaj...
+Hash: 105372113
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Brak połączeń!
+Hash: 144582455
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6d3a4a4}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Powrót
+Hash: 233424536
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class android.widget.Button
+WidgetID: org.tyszecki.rozkladpkp:id/ok_button
+ButtonText: OK
+Hash: 34121787
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Czekaj...
+Hash: 254166276
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Brak połączeń!
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+TargetActivity: org.tyszecki.rozkladpkp.TimetableActivity
+Hash: 77253922
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ab5e3b3}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Powrót
+Hash: 260728902
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5d7ea07}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: org.tyszecki.rozkladpkp:id/item_settings
+MenuItemTitle: Ustawienia
+Hash: 188165372
+SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d1b1f85}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 58069554
+SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Wybierz kartę
+Hash: 44733892
+SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5dbacad}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+TargetActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Hash: 112420521
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 141533024
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class android.widget.ListView
+WidgetID: org.tyszecki.rozkladpkp:id/remembered_list
+Hash: 186108665
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e8f7a3e}
+Class: class android.widget.ListView
+WidgetID: org.tyszecki.rozkladpkp:id/connection_list
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+TargetActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+TargetActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Hash: 141533024
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9842244}
+Class: class android.widget.ListView
+WidgetID: org.tyszecki.rozkladpkp:id/remembered_list
+Hash: 5169519
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Czekaj...
+Hash: 195855976
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Brak połączeń!
+Hash: 71943974
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b7b8f67}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Powrót
+Hash: 170411478
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1f12057}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: org.tyszecki.rozkladpkp:id/item_settings
+MenuItemTitle: Ustawienia
+Hash: 145123934
+SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5f81e3f}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 20965284
+SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Wybierz kartę
+Hash: 234558767
+SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5b6873c}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+TargetActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+TargetActivity: com.android.launcher3.Launcher

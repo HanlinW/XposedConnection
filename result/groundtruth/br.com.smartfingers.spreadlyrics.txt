@@ -1,0 +1,57 @@
+Hash: 178107211
+SourceActivity: br.com.smartfingers.spreadlyrics.activity.Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8c86128}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: NONE
+MenuItemTitle: Refresh
+Hash: 76691751
+SourceActivity: br.com.smartfingers.spreadlyrics.activity.Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ad667d4}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: NONE
+MenuItemTitle: Help and Info
+Hash: 101904189
+SourceActivity: br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {122a332}
+Class: class android.widget.TextView
+WidgetID: br.com.smartfingers.spreadlyrics:id/info_text
+Hash: 69527683
+SourceActivity: br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {122a332}
+Class: class android.widget.ImageButton
+WidgetID: br.com.smartfingers.spreadlyrics:id/email_us_btn
+Hash: BACK
+Event: BACK
+SourceActivity: br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+TargetActivity: br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+Hash: 63193657
+SourceActivity: br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {122a332}
+Class: class android.widget.ImageButton
+WidgetID: br.com.smartfingers.spreadlyrics:id/rate_us_btn
+Hash: 30897640
+SourceActivity: br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {81a1401}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 197667096
+SourceActivity: br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {81a1401}
+Class: class android.widget.TextView
+WidgetID: br.com.smartfingers.spreadlyrics:id/info_text
+Hash: 21954417
+SourceActivity: br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {81a1401}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 207432617
+SourceActivity: br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {81a1401}
+Class: class android.widget.ScrollView
+Class: class android.widget.ScrollView
+Hash: BACK
+Event: BACK
+SourceActivity: br.com.smartfingers.spreadlyrics.activity.Main
+TargetActivity: br.com.smartfingers.spreadlyrics.activity.Main

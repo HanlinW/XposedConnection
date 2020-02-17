@@ -1,0 +1,415 @@
+Hash: 31369054
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {380173f}
+Class: class android.widget.LinearLayout
+Hash: 240732172
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {380173f}
+Class: class android.widget.Button
+Class: class android.widget.Button
+ButtonText: 
+Hash: 121876279
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2be8ca4}
+Class: class android.widget.ImageView
+WidgetID: demo.galmoori.datausage:id/dodol_banner
+Hash: 86126232
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b5056f1}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: NONE
+MenuItemTitle: 문제 해결
+Hash: 218050016
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+DialogClass: class android.app.AlertDialog
+DialogTitle: 문제 해결
+Hash: 146809297
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cc24436}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: NONE
+MenuItemTitle: 처음부터 다시 시작
+Hash: 163892284
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {16d6dc5}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 163892284
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {16d6dc5}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 65324926
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {16d6dc5}
+Class: class android.widget.RadioButton
+Hash: 46906357
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {16d6dc5}
+Class: class android.widget.RadioButton
+Hash: 65324926
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {16d6dc5}
+Class: class android.widget.RadioButton
+Hash: 99164785
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {16d6dc5}
+Class: class android.widget.Spinner
+Class: class android.widget.Spinner
+Hash: 110103598
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+DialogClass: class android.app.AlertDialog
+DialogTitle: 통신사
+Hash: 49711585
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6017306}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 99164785
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {16d6dc5}
+Class: class android.widget.Spinner
+Class: class android.widget.Spinner
+Hash: 263645418
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+DialogClass: class android.app.AlertDialog
+DialogTitle: 통신사
+Hash: BACK
+Event: BACK
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+TargetActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Hash: 99164785
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {16d6dc5}
+Class: class android.widget.Spinner
+Class: class android.widget.Spinner
+Hash: 80961690
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+DialogClass: class android.app.AlertDialog
+DialogTitle: 통신사
+Hash: 218248189
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {87568f2}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.launcher3.Launcher
+TargetActivity: com.android.launcher3.Launcher
+Hash: 185994992
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e91ac69}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 185994992
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e91ac69}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 185574949
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e91ac69}
+Class: class android.widget.RadioButton
+Hash: 191141318
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e91ac69}
+Class: class android.widget.Spinner
+Class: class android.widget.Spinner
+Hash: 93905535
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+DialogClass: class android.app.AlertDialog
+DialogTitle: 사용하시는 데이터 요금제를 설정하세요.
+Hash: 185297410
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {db4ef13}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 108357999
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e91ac69}
+Class: class android.widget.Spinner
+Class: class android.widget.Spinner
+Hash: 199526676
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+DialogClass: class android.app.AlertDialog
+DialogTitle: 사용하시는 음성 요금제를 설정하세요.
+Hash: 44903178
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a948f7b}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 72525911
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e91ac69}
+Class: class android.widget.Spinner
+Class: class android.widget.Spinner
+Hash: 224416476
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+DialogClass: class android.app.AlertDialog
+DialogTitle: 사용하시는 문자 요금제를 설정하세요.
+Hash: 199464722
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1dafee3}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 185994992
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e91ac69}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 244774506
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e91ac69}
+Class: class android.widget.Spinner
+Class: class android.widget.Spinner
+Hash: 251225811
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+DialogClass: class android.app.AlertDialog
+DialogTitle: 통신사
+Hash: 9555482
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cfcdd4b}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 185994992
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e91ac69}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 9583516
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e91ac69}
+Class: class android.widget.RadioButton
+Hash: 185994992
+SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e91ac69}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 8156342
+SourceActivity: demo.galmoori.datausage.activity.TabHostActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b5155b7}
+Class: class demo.galmoori.datausage.activity.DataGraphView
+Class: class demo.galmoori.datausage.activity.DataGraphView
+Hash: 206139684
+SourceActivity: demo.galmoori.datausage.activity.TabHostActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b5155b7}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 4903148
+SourceActivity: demo.galmoori.datausage.activity.TabHostActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b5155b7}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 221959841
+SourceActivity: demo.galmoori.datausage.activity.TabHostActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b5155b7}
+Class: class demo.galmoori.datausage.activity.DataGraphView
+Class: class demo.galmoori.datausage.activity.DataGraphView
+Hash: 164256312
+SourceActivity: demo.galmoori.datausage.activity.TabHostActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1f5aa11}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: NONE
+MenuItemTitle: 설정
+Hash: 251726955
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {afd13c8}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 203553294
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {97bec2f}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 185008830
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+DialogClass: class android.app.AlertDialog
+DialogTitle: 위젯, 알림의 사용량 표시 방법
+Hash: 157594372
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {783a0ed}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 203553294
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {97bec2f}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 139369515
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+DialogClass: class android.app.AlertDialog
+DialogTitle: 위젯, 알림의 사용량 표시 방법
+Hash: BACK
+Event: BACK
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+TargetActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+Hash: 203553294
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {97bec2f}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 172514581
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+DialogClass: class android.app.AlertDialog
+DialogTitle: 알림 표시 시기
+Hash: 120572151
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {49e0364}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 203553294
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {97bec2f}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 86957543
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+DialogClass: class android.app.AlertDialog
+DialogTitle: 알림 테마
+Hash: 27423545
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {85c9d7e}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 203553294
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {97bec2f}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 139792087
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 264052832
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {da43919}
+Class: class android.widget.ListView
+Class: class android.widget.ListView
+Hash: 203553294
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {97bec2f}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 46851163
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+DialogClass: class android.app.AlertDialog
+DialogTitle: 알림 아이콘 종류
+Hash: 205923853
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {48459c2}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 203553294
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {97bec2f}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 114777882
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 84823228
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7e02445}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 취소
+Hash: 203553294
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {97bec2f}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 238981106
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+TargetActivity: demo.galmoori.datausage.activity.preference.KindSetupActivityUi
+Hash: BACK
+Event: BACK
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivity
+TargetActivity: demo.galmoori.datausage.activity.preference.KindSetupActivity
+Hash: BACK
+Event: BACK
+SourceActivity: demo.galmoori.datausage.activity.preference.KindSetupActivity
+TargetActivity: demo.galmoori.datausage.activity.TabHostActivity
+Hash: 50619587
+SourceActivity: demo.galmoori.datausage.activity.TabHostActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1648140}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: NONE
+MenuItemTitle: 문제 해결
+Hash: 98927108
+SourceActivity: demo.galmoori.datausage.activity.TabHostActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 문제 해결
+Hash: BACK
+Event: BACK
+SourceActivity: demo.galmoori.datausage.activity.TabHostActivity
+TargetActivity: demo.galmoori.datausage.activity.TabHostActivity
+Hash: 90770844
+SourceActivity: demo.galmoori.datausage.activity.TabHostActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {28883a5}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: NONE
+MenuItemTitle: 화면 갈무리
+Hash: 198476381
+SourceActivity: demo.galmoori.datausage.activity.TabHostActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Internet screenshot share
+Hash: 170002386
+SourceActivity: demo.galmoori.datausage.activity.TabHostActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d4b80a3}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Close
+Hash: 90770844
+SourceActivity: demo.galmoori.datausage.activity.TabHostActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5be759}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: NONE
+MenuItemTitle: 화면 갈무리
+Hash: 245022506
+SourceActivity: demo.galmoori.datausage.activity.TabHostActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Internet screenshot share
+Hash: BACK
+Event: BACK
+SourceActivity: demo.galmoori.datausage.activity.TabHostActivity
+TargetActivity: demo.galmoori.datausage.activity.TabHostActivity
+Hash: 90770844
+SourceActivity: demo.galmoori.datausage.activity.TabHostActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4e7c2b8}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: NONE
+MenuItemTitle: 화면 갈무리
+Hash: 57530515
+SourceActivity: demo.galmoori.datausage.activity.TabHostActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Internet screenshot share
+Hash: 41169104
+SourceActivity: demo.galmoori.datausage.activity.TabHostActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33858c9}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Share screen
+Hash: 95016754
+SourceActivity: demo.galmoori.datausage.activity.TabHostActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 28959262
+SourceActivity: demo.galmoori.datausage.activity.TabHostActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3e9aff}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: NONE
+MenuItemTitle: 도돌 프로덕트

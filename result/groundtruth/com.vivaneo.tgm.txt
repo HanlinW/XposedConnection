@@ -1,0 +1,338 @@
+Hash: 196962239
+SourceActivity: com.vivaneo.tgm.TabContainer
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 194024341
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 6220856
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 256793941
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 122500683
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 51824873
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.LinearLayout
+WidgetID: com.vivaneo.tgm:id/linearLayoutQuizz
+Hash: 164792789
+Hash: 194024341
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 165788588
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.LinearLayout
+WidgetID: com.vivaneo.tgm:id/linearLayoutQuizz
+Hash: 140578402
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 48162272
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.ScrollView
+WidgetID: com.vivaneo.tgm:id/scrollView1
+Hash: 48162272
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.ScrollView
+WidgetID: com.vivaneo.tgm:id/scrollView1
+Hash: 48162272
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.ScrollView
+WidgetID: com.vivaneo.tgm:id/scrollView1
+Hash: 48162272
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.ScrollView
+WidgetID: com.vivaneo.tgm:id/scrollView1
+Hash: 238178457
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.Button
+WidgetID: com.vivaneo.tgm:id/buttonFacebook
+ButtonText: 
+Hash: 115728909
+SourceActivity: com.vivaneo.tgm.ShareOnFacebook
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {dcf65c2}
+Class: class android.widget.Button
+WidgetID: com.vivaneo.tgm:id/FacebookShareNotButton
+ButtonText: Non
+Hash: 238178457
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.Button
+WidgetID: com.vivaneo.tgm:id/buttonFacebook
+ButtonText: 
+Hash: 86377532
+SourceActivity: com.vivaneo.tgm.ShareOnFacebook
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8e245c5}
+Class: class android.widget.Button
+WidgetID: com.vivaneo.tgm:id/FacebookShareButton
+ButtonText: Oui
+Hash: 43202847
+SourceActivity: com.vivaneo.tgm.ShareOnFacebook
+DialogClass: class com.facebook.android.FbDialog
+Hash: 209513762
+SourceActivity: com.vivaneo.tgm.ShareOnFacebook
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 209513762
+SourceActivity: com.vivaneo.tgm.ShareOnFacebook
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.vivaneo.tgm.ShareOnFacebook
+TargetActivity: com.vivaneo.tgm.ShareOnFacebook
+Hash: BACK
+Event: BACK
+SourceActivity: com.vivaneo.tgm.TabContainer
+TargetActivity: com.vivaneo.tgm.TabContainer
+Hash: 250459492
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.Button
+WidgetID: com.vivaneo.tgm:id/buttonEmail
+ButtonText: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ChooserActivity
+TargetActivity: com.android.internal.app.ChooserActivity
+Hash: 131261389
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.Button
+WidgetID: com.vivaneo.tgm:id/buttonTwitter
+ButtonText: 
+Hash: 169557224
+SourceActivity: com.vivaneo.tgm.ShareOnTwitter
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.vivaneo.tgm.ShareOnTwitter
+TargetActivity: com.vivaneo.tgm.TabContainer
+Hash: 48162272
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.ScrollView
+WidgetID: com.vivaneo.tgm:id/scrollView1
+Hash: 109505836
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 263763258
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 230229483
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 10814569
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.Button
+WidgetID: com.vivaneo.tgm:id/b_recherche
+ButtonText: 
+Hash: 36856348
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.EditText
+WidgetID: com.vivaneo.tgm:id/recherche
+Hash: 10814569
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.Button
+WidgetID: com.vivaneo.tgm:id/b_recherche
+ButtonText: 
+Hash: 240481398
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 10814569
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.Button
+WidgetID: com.vivaneo.tgm:id/b_recherche
+ButtonText: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.vivaneo.tgm.TabContainer
+TargetActivity: com.vivaneo.tgm.TabContainer
+Hash: 23080794
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 125605700
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 32724965
+SourceActivity: com.vivaneo.tgm.TabContainer
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 159539898
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c74e56b}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Oui
+Hash: 125605700
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 241604323
+SourceActivity: com.vivaneo.tgm.TabContainer
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 171546848
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {45a8799}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Non
+Hash: 125605700
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 88278101
+SourceActivity: com.vivaneo.tgm.TabContainer
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 127463018
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4bdff5b}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Non
+Hash: 125605700
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 248722999
+SourceActivity: com.vivaneo.tgm.TabContainer
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 268240804
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3e8690d}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Oui
+Hash: 125605700
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 125605700
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 125605700
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 20941065
+SourceActivity: com.vivaneo.tgm.TabContainer
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 163858190
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {90cb52f}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Non
+Hash: 125605700
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 255423819
+SourceActivity: com.vivaneo.tgm.TabContainer
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 3537704
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2725041}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Oui
+Hash: 5672894
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f9b481f}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 129506327
+SourceActivity: com.vivaneo.tgm.TabContainer
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 64188909
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {80be822}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Non
+Hash: 5672894
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3e6c070}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 163804459
+SourceActivity: com.vivaneo.tgm.TabContainer
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 3026312
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b90321}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Oui
+Hash: 164792789
+SourceActivity: com.vivaneo.tgm.TabContainer
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 230229483
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 109505836
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 56994783
+SourceActivity: com.vivaneo.tgm.TabContainer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c46caa}
+Class: class android.widget.ListView
+WidgetID: android:id/list

@@ -1,0 +1,382 @@
+Hash: 174976444
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {aa5b145}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 退出
+Hash: 182861292
+SourceActivity: com.cc.MainActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 非常抱歉！
+Hash: 82392613
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b6983fa}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 61444504
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 128549619
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {404fbb0}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Latest
+ButtonText: 最新动画
+Hash: 128549619
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {404fbb0}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Latest
+ButtonText: 最新动画
+Hash: 82770473
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {404fbb0}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Sort
+ButtonText: 动画排行
+Hash: 162931420
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {404fbb0}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Elite
+ButtonText: 精品动画
+Hash: 198204779
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {404fbb0}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Category
+ButtonText: 动画分类
+Hash: 53397713
+SourceActivity: com.cc.PictureCategoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ec15f36}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Refresh
+ButtonText: 返回上级
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.PictureCategoryActivity
+TargetActivity: com.cc.PictureListActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.MainActivity
+TargetActivity: com.cc.MainActivity
+Hash: 82392613
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b6983fa}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 160750259
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.PictureListActivity
+TargetActivity: com.cc.MainActivity
+Hash: 82392613
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b6983fa}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 170892574
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b5939ff}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_friend
+ButtonText: CC好友
+Hash: 170892574
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b5939ff}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_friend
+ButtonText: CC好友
+Hash: 249795532
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b5939ff}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_phone
+ButtonText: 通讯录好友
+Hash: 78626535
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.ContactListActivity
+TargetActivity: com.cc.MainActivity
+Hash: 82392613
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b6983fa}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 221295708
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 103201991
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4ed32f4}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Sort
+ButtonText: 动画排行
+Hash: 3458194
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4ed32f4}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Elite
+ButtonText: 精品动画
+Hash: 133716761
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4ed32f4}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Category
+ButtonText: 动画分类
+Hash: 88519822
+SourceActivity: com.cc.PictureCategoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df254af}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Refresh
+ButtonText: 返回上级
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.PictureCategoryActivity
+TargetActivity: com.cc.PictureListActivity
+Hash: 133175365
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4ed32f4}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Latest
+ButtonText: 最新动画
+Hash: 256441512
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4ed32f4}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Refresh
+ButtonText: 返回上级
+Hash: 256441512
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4ed32f4}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Refresh
+ButtonText: 返回上级
+Hash: 133716761
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4ed32f4}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Category
+ButtonText: 动画分类
+Hash: 211070317
+SourceActivity: com.cc.PictureCategoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7733da2}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Elite
+ButtonText: 精品动画
+Hash: 252005547
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.PictureListActivity
+TargetActivity: com.cc.MainActivity
+Hash: 82392613
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b6983fa}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 100135427
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 加载中，请稍等...
+Hash: 125542011
+SourceActivity: com.cc.RingListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {80e2498}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_ringlist_Sort
+ButtonText: 铃声排行
+Hash: 9316943
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 112008299
+SourceActivity: com.cc.RingListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {80e2498}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_ringlist_Elite
+ButtonText: 精品铃声
+Hash: 77723289
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 248930666
+SourceActivity: com.cc.RingListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {80e2498}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_ringlist_Refresh
+ButtonText: 返回上级
+Hash: 116491536
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 116491536
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 16906522
+SourceActivity: com.cc.RingListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {80e2498}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_ringlist_Category
+ButtonText: 铃声分类
+Hash: 154686016
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 201997090
+SourceActivity: com.cc.RingCategoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cabb9b3}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_ringlist_Refresh
+ButtonText: 返回上级
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.RingListActivity
+TargetActivity: com.cc.RingListActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.RingListActivity
+TargetActivity: com.cc.MainActivity
+Hash: 82392613
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b6983fa}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 33317977
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4e0081e}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_friend
+ButtonText: CC好友
+Hash: 185649407
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4e0081e}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_heimidan
+ButtonText: 黑名单
+Hash: 95204558
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ef3efef}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_phone
+ButtonText: 通讯录好友
+Hash: 111109002
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 111284909
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {380d9e2}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_commend
+ButtonText: 推荐
+Hash: 118215027
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {380d9e2}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_SetCallPic
+ButtonText: 设大头贴
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.ContactListActivity
+TargetActivity: com.cc.MainActivity
+Hash: 82392613
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b6983fa}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 90833630
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 82392613
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b6983fa}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 3571525
+SourceActivity: com.cc.MyPictureActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {659669a}
+Class: class android.widget.Button
+Tag: CallIO
+WidgetID: com.cc:id/mypicture_CallIO
+ButtonText: 来去电动画
+Hash: 179132839
+SourceActivity: com.cc.MyPictureActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {659669a}
+Class: class android.widget.Button
+Tag: BeCalled
+WidgetID: com.cc:id/mypicture_BeCalled
+ButtonText: 传情动画
+Hash: 3571525
+SourceActivity: com.cc.MyPictureActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {659669a}
+Class: class android.widget.Button
+Tag: CallIO
+WidgetID: com.cc:id/mypicture_CallIO
+ButtonText: 来去电动画
+Hash: 122415427
+SourceActivity: com.cc.MyPictureActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {659669a}
+Class: class android.widget.Button
+WidgetID: com.cc:id/mypicture_browse_file
+ButtonText: 设置本地图片为来去电动画
+Hash: 136777855
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e2e84c}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 136777855
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e2e84c}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 136777855
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e2e84c}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 136777855
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e2e84c}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 136777855
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e2e84c}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.BrowseFileActivity
+TargetActivity: com.cc.BrowseFileActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.BrowseFileActivity
+TargetActivity: com.cc.BrowseFileActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.BrowseFileActivity
+TargetActivity: com.cc.BrowseFileActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.BrowseFileActivity
+TargetActivity: com.cc.BrowseFileActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.MyPictureActivity
+TargetActivity: com.cc.MyPictureActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.MainActivity
+TargetActivity: com.cc.MainActivity

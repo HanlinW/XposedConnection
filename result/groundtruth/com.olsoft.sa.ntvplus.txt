@@ -1,0 +1,532 @@
+Hash: 172123798
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {78b9217}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_news
+MenuItemTitle: Новости
+Hash: 157092651
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4470b88}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+Hash: 157092651
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4470b88}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+Hash: 183732513
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4470b88}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_home
+Hash: 195525387
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {34eede8}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_settings
+MenuItemTitle: Настройки
+Hash: 77042351
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {594f6bc}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 77042351
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {594f6bc}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 77042351
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {594f6bc}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 77042351
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {594f6bc}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 107054828
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Список сервисов
+Hash: 208934031
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {14a831c}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 77042351
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {594f6bc}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 149875026
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Список сервисов
+Hash: 183652522
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b3c549b}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Отказ
+Hash: 77042351
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {594f6bc}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 19441737
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Новости оператора
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+TargetActivity: com.olsoft.sa.alt.SettingsActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+TargetActivity: com.olsoft.sa.alt.SettingsActivity
+Hash: 145523220
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8daabd}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_about
+MenuItemTitle: О программе
+Hash: 229124356
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a30deed}
+Class: class android.widget.TextView
+WidgetID: com.olsoft.sa.ntvplus:id/textAbout
+Hash: 50942242
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a30deed}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_favorites
+Hash: 57269044
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3145d5d}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_search
+Hash: 199865221
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+DialogClass: class android.app.SearchDialog
+Hash: 57269044
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3145d5d}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_search
+Hash: 199865221
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+DialogClass: class android.app.SearchDialog
+Hash: 56283754
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1c4135b}
+Class: class android.widget.LinearLayout
+WidgetID: android:id/closeButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+TargetActivity: com.olsoft.sa.alt.FavoritesActivity
+Hash: 109233361
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a30deed}
+Class: class android.widget.ScrollView
+Class: class android.widget.ScrollView
+Hash: 229124356
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a30deed}
+Class: class android.widget.TextView
+WidgetID: com.olsoft.sa.ntvplus:id/textAbout
+Hash: 139176758
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a30deed}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/contacts
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.documentsui.DocumentsActivity
+TargetActivity: com.android.documentsui.DocumentsActivity
+Hash: 136743479
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a30deed}
+Class: class android.widget.Button
+WidgetID: com.olsoft.sa.ntvplus:id/sendToFriend
+ButtonText: Отправить другу
+Hash: 139879026
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Ошибка
+Hash: 83023555
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6a70b40}
+Class: class android.widget.ScrollView
+WidgetID: android:id/scrollView
+Hash: 235764345
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6a70b40}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Ok
+Hash: 50942242
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a30deed}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_favorites
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+TargetActivity: com.olsoft.sa.alt.FavoritesActivity
+Hash: 82360220
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a30deed}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_search
+Hash: 148764970
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+DialogClass: class android.app.SearchDialog
+Hash: 196175700
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6fcc6fd}
+Class: class android.widget.LinearLayout
+WidgetID: android:id/closeButton
+Hash: 235447199
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a30deed}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_home
+Hash: 4470289
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7aa6376}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_settings
+MenuItemTitle: Настройки
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+TargetActivity: com.olsoft.sa.alt.SettingsActivity
+Hash: 106154467
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1c24fe0}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_news
+MenuItemTitle: Новости
+Hash: 142085796
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {66c640d}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_favorites
+Hash: 101863976
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {dc55b41}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_search
+Hash: 261264728
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+DialogClass: class android.app.SearchDialog
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+TargetActivity: com.olsoft.sa.alt.FavoritesActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+TargetActivity: com.olsoft.sa.alt.FavoritesActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+TargetActivity: com.olsoft.sa.alt.FavoritesActivity
+Hash: 262451236
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {66c640d}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_search
+Hash: 124695975
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+DialogClass: class android.app.SearchDialog
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+TargetActivity: com.olsoft.sa.alt.NewsActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+TargetActivity: com.olsoft.sa.alt.NewsActivity
+Hash: 144533778
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {66c640d}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+TargetActivity: com.olsoft.sa.alt.NewsActivity
+Hash: 251986656
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {542a999}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+Hash: 251986656
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {542a999}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+Hash: 250534002
+SourceActivity: com.olsoft.sa.alt.MenuActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bd114c3}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_favorites
+Hash: 212832918
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b6f4e17}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_search
+Hash: 202362182
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+DialogClass: class android.app.SearchDialog
+Hash: 263454984
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c2510a1}
+Class: class android.widget.LinearLayout
+WidgetID: android:id/closeButton
+Hash: 49463943
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b6f4e17}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_home
+Hash: 173064526
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f9c426f}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_favorites
+Hash: 166356146
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7274c03}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_home
+Hash: 225968357
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {27c57ba}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+Hash: 17601700
+SourceActivity: com.olsoft.sa.alt.MenuActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {27d720d}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+Hash: 188200386
+SourceActivity: com.olsoft.sa.alt.MenuActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {27d720d}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_favorites
+Hash: 162072897
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {710eee6}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_home
+Hash: 65327011
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ac242a0}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+Hash: 229269249
+SourceActivity: com.olsoft.sa.alt.MenuActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {642f1a6}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+Hash: 112129125
+SourceActivity: com.olsoft.sa.alt.MenuActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {213053a}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+Hash: 195167448
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8861031}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_favorites
+Hash: 195047964
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {220e25}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_home
+Hash: 91533826
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {789713}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+Hash: 110126916
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d8ae02d}
+Class: class android.widget.EditText
+Tag: com.olsoft.ussdmenu.data.FieldItem@43d5962
+WidgetID: com.olsoft.sa.ntvplus:id/value
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+TargetActivity: com.olsoft.sa.alt.SendCommandActivity
+Hash: 254076901
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d8ae02d}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/bookmark
+Hash: 13412067
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d8ae02d}
+Class: class android.widget.ScrollView
+Class: class android.widget.ScrollView
+Hash: 143550688
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d8ae02d}
+Class: class android.widget.Gallery
+WidgetID: com.olsoft.sa.ntvplus:id/path
+Hash: 143550688
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d8ae02d}
+Class: class android.widget.Gallery
+WidgetID: com.olsoft.sa.ntvplus:id/path
+Hash: 152382247
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {85371d4}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+Hash: 180876704
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {dba8559}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_home
+Hash: 134830934
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5447d7}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+TargetActivity: com.olsoft.sa.alt.SendCommandActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+TargetActivity: com.olsoft.sa.alt.RootActivity
+Hash: 134830934
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5447d7}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+Hash: 118224165
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {466d6fa}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_favorites
+Hash: 241080703
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8463d4c}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+Hash: 67260844
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e75e75}
+Class: class android.widget.ScrollView
+Class: class android.widget.ScrollView
+Hash: 27145851
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e75e75}
+Class: class android.widget.EditText
+Tag: com.olsoft.ussdmenu.data.FieldItem@43d5962
+WidgetID: com.olsoft.sa.ntvplus:id/value
+Hash: 205121325
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e75e75}
+Class: class android.widget.Button
+WidgetID: com.olsoft.sa.ntvplus:id/sms
+ButtonText: СМС '691#200' на '6788'
+Hash: 144709132
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Отправка SMS запроса
+Hash: 251686355
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Результат
+Hash: 148323600
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2a01009}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Ok
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+TargetActivity: com.olsoft.sa.alt.SendCommandActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+TargetActivity: com.olsoft.sa.alt.SendCommandActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+TargetActivity: com.olsoft.sa.alt.FavoritesActivity
+Hash: 119309949
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {466d6fa}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_search
+Hash: 148984243
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+DialogClass: class android.app.SearchDialog
+Hash: 94143081
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {995b4ee}
+Class: class android.widget.LinearLayout
+WidgetID: android:id/closeButton
+Hash: 119309949
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {466d6fa}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_search
+Hash: 148984243
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+DialogClass: class android.app.SearchDialog
+Hash: 101967075
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c7cee0}
+Class: class android.widget.LinearLayout
+WidgetID: android:id/closeButton
+Hash: 119309949
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {466d6fa}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_search
+Hash: 148984243
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+DialogClass: class android.app.SearchDialog
+Hash: 37699574
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8af5ff7}
+Class: class android.widget.LinearLayout
+WidgetID: android:id/closeButton
+Hash: 118224165
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {466d6fa}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_favorites
+Hash: 126804993
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b1592a6}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_search
+Hash: 261607281
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+DialogClass: class android.app.SearchDialog
+Hash: 62796212
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b1592a6}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_home
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.RootActivity
+TargetActivity: com.olsoft.sa.alt.RootActivity
