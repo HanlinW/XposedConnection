@@ -1,0 +1,299 @@
+Instrumentation detected, disabling framework for com.github.uiautomator
+Hook Loaded App:com.droiddream.lovePositions
+Hook Loaded App:com.droiddream.lovePositions
+#Hash: MENU
+#Event: MENU
+#Hash: 1104221472
+#SourceActivity: com.apk.com.lovePositions.MainActivity
+Source Activity com.apk.com.lovePositions.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41d29d10}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41d29d10}   class: class android.widget.ImageButton  id: 2131034122
+Widget id: com.droiddream.lovePositions:id/about
+#WidgetID: com.droiddream.lovePositions:id/about
+#Hash: 1104804840
+#SourceActivity: com.apk.com.lovePositions.MainActivity
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: ABout
+#Hash: 1104831064
+#SourceActivity: com.apk.com.lovePositions.MainActivity
+Source Activity com.apk.com.lovePositions.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4206cfc8}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4206cfc8}   class: class android.widget.ScrollView  id: 16908919
+Widget id: android:id/scrollView
+#WidgetID: android:id/scrollView
+#Hash: MENU
+#Event: MENU
+#Hash: 1107678144
+#SourceActivity: com.apk.com.lovePositions.MainActivity
+Source Activity com.apk.com.lovePositions.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4206cfc8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4206cfc8}   class: class android.widget.Button  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: OK
+#Hash: 1104221472
+#SourceActivity: com.apk.com.lovePositions.MainActivity
+Source Activity com.apk.com.lovePositions.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41d29d10}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41d29d10}   class: class android.widget.ImageButton  id: 2131034122
+Widget id: com.droiddream.lovePositions:id/about
+#WidgetID: com.droiddream.lovePositions:id/about
+#Hash: 1107889144
+#SourceActivity: com.apk.com.lovePositions.MainActivity
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: ABout
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.apk.com.lovePositions.MainActivity
+#Hash: 1104173720
+#SourceActivity: com.apk.com.lovePositions.MainActivity
+Source Activity com.apk.com.lovePositions.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41d29d10}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41d29d10}   class: class android.widget.ImageButton  id: 2131034120
+Widget id: com.droiddream.lovePositions:id/all
+#WidgetID: com.droiddream.lovePositions:id/all
+#Hash: MENU
+#Event: MENU
+#Hash: 1108721024
+#SourceActivity: com.apk.com.lovePositions.AllActivity
+Source Activity com.apk.com.lovePositions.AllActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}
+#Class: class android.widget.GridView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}   class: class android.widget.GridView  id: 2131034113
+Widget id: com.droiddream.lovePositions:id/all_gird
+#WidgetID: com.droiddream.lovePositions:id/all_gird
+#Hash: 1109509552
+#SourceActivity: com.apk.com.lovePositions.ViewActivity
+Source Activity com.apk.com.lovePositions.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422c0e00}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422c0e00}   class: class android.widget.ImageButton  id: 2131034128
+Widget id: com.droiddream.lovePositions:id/next
+#WidgetID: com.droiddream.lovePositions:id/next
+#Hash: MENU
+#Event: MENU
+#Hash: 1109485968
+#SourceActivity: com.apk.com.lovePositions.ViewActivity
+Source Activity com.apk.com.lovePositions.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422c0e00}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422c0e00}   class: class android.widget.ImageButton  id: 2131034125
+Widget id: com.droiddream.lovePositions:id/des
+#WidgetID: com.droiddream.lovePositions:id/des
+#Hash: 1110979152
+#SourceActivity: com.apk.com.lovePositions.ContentActivity
+Source Activity com.apk.com.lovePositions.ContentActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41d74480}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41d74480}   class: class android.widget.ImageButton  id: 2131034115
+Widget id: com.droiddream.lovePositions:id/back
+#WidgetID: com.droiddream.lovePositions:id/back
+Hook Loaded App:com.droiddream.lovePositions
+#Hash: 1109485968
+#SourceActivity: com.apk.com.lovePositions.ViewActivity
+Source Activity com.apk.com.lovePositions.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422c0e00}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422c0e00}   class: class android.widget.ImageButton  id: 2131034125
+Widget id: com.droiddream.lovePositions:id/des
+#WidgetID: com.droiddream.lovePositions:id/des
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.apk.com.lovePositions.ContentActivity
+#Hash: 1109500472
+#SourceActivity: com.apk.com.lovePositions.ViewActivity
+Source Activity com.apk.com.lovePositions.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422c0e00}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422c0e00}   class: class android.widget.ImageButton  id: 2131034127
+Widget id: com.droiddream.lovePositions:id/pre
+#WidgetID: com.droiddream.lovePositions:id/pre
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.apk.com.lovePositions.ViewActivity
+#Hash: 1108721024
+#SourceActivity: com.apk.com.lovePositions.AllActivity
+Source Activity com.apk.com.lovePositions.AllActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}
+#Class: class android.widget.GridView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}   class: class android.widget.GridView  id: 2131034113
+Widget id: com.droiddream.lovePositions:id/all_gird
+#WidgetID: com.droiddream.lovePositions:id/all_gird
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.apk.com.lovePositions.ViewActivity
+#Hash: 1108721024
+#SourceActivity: com.apk.com.lovePositions.AllActivity
+Source Activity com.apk.com.lovePositions.AllActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}
+#Class: class android.widget.GridView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}   class: class android.widget.GridView  id: 2131034113
+Widget id: com.droiddream.lovePositions:id/all_gird
+#WidgetID: com.droiddream.lovePositions:id/all_gird
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.apk.com.lovePositions.ViewActivity
+#Hash: 1108721024
+#SourceActivity: com.apk.com.lovePositions.AllActivity
+Source Activity com.apk.com.lovePositions.AllActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}
+#Class: class android.widget.GridView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}   class: class android.widget.GridView  id: 2131034113
+Widget id: com.droiddream.lovePositions:id/all_gird
+#WidgetID: com.droiddream.lovePositions:id/all_gird
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.apk.com.lovePositions.ViewActivity
+#Hash: 1108721024
+#SourceActivity: com.apk.com.lovePositions.AllActivity
+Source Activity com.apk.com.lovePositions.AllActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}
+#Class: class android.widget.GridView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}   class: class android.widget.GridView  id: 2131034113
+Widget id: com.droiddream.lovePositions:id/all_gird
+#WidgetID: com.droiddream.lovePositions:id/all_gird
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.apk.com.lovePositions.ViewActivity
+#Hash: 1108721024
+#SourceActivity: com.apk.com.lovePositions.AllActivity
+Source Activity com.apk.com.lovePositions.AllActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}
+#Class: class android.widget.GridView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}   class: class android.widget.GridView  id: 2131034113
+Widget id: com.droiddream.lovePositions:id/all_gird
+#WidgetID: com.droiddream.lovePositions:id/all_gird
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.apk.com.lovePositions.ViewActivity
+#Hash: 1108721024
+#SourceActivity: com.apk.com.lovePositions.AllActivity
+Source Activity com.apk.com.lovePositions.AllActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}
+#Class: class android.widget.GridView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}   class: class android.widget.GridView  id: 2131034113
+Widget id: com.droiddream.lovePositions:id/all_gird
+#WidgetID: com.droiddream.lovePositions:id/all_gird
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.apk.com.lovePositions.ViewActivity
+#Hash: 1108721024
+#SourceActivity: com.apk.com.lovePositions.AllActivity
+Source Activity com.apk.com.lovePositions.AllActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}
+#Class: class android.widget.GridView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}   class: class android.widget.GridView  id: 2131034113
+Widget id: com.droiddream.lovePositions:id/all_gird
+#WidgetID: com.droiddream.lovePositions:id/all_gird
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.apk.com.lovePositions.ViewActivity
+#Hash: 1108721024
+#SourceActivity: com.apk.com.lovePositions.AllActivity
+Source Activity com.apk.com.lovePositions.AllActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}
+#Class: class android.widget.GridView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}   class: class android.widget.GridView  id: 2131034113
+Widget id: com.droiddream.lovePositions:id/all_gird
+#WidgetID: com.droiddream.lovePositions:id/all_gird
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.apk.com.lovePositions.ViewActivity
+#Hash: 1108721024
+#SourceActivity: com.apk.com.lovePositions.AllActivity
+Source Activity com.apk.com.lovePositions.AllActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}
+#Class: class android.widget.GridView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}   class: class android.widget.GridView  id: 2131034113
+Widget id: com.droiddream.lovePositions:id/all_gird
+#WidgetID: com.droiddream.lovePositions:id/all_gird
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.apk.com.lovePositions.ViewActivity
+#Hash: 1108721024
+#SourceActivity: com.apk.com.lovePositions.AllActivity
+Source Activity com.apk.com.lovePositions.AllActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}
+#Class: class android.widget.GridView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}   class: class android.widget.GridView  id: 2131034113
+Widget id: com.droiddream.lovePositions:id/all_gird
+#WidgetID: com.droiddream.lovePositions:id/all_gird
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.apk.com.lovePositions.ViewActivity
+#Hash: 1108721024
+#SourceActivity: com.apk.com.lovePositions.AllActivity
+Source Activity com.apk.com.lovePositions.AllActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}
+#Class: class android.widget.GridView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}   class: class android.widget.GridView  id: 2131034113
+Widget id: com.droiddream.lovePositions:id/all_gird
+#WidgetID: com.droiddream.lovePositions:id/all_gird
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.apk.com.lovePositions.ViewActivity
+#Hash: 1108721024
+#SourceActivity: com.apk.com.lovePositions.AllActivity
+Source Activity com.apk.com.lovePositions.AllActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}
+#Class: class android.widget.GridView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}   class: class android.widget.GridView  id: 2131034113
+Widget id: com.droiddream.lovePositions:id/all_gird
+#WidgetID: com.droiddream.lovePositions:id/all_gird
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.apk.com.lovePositions.ViewActivity
+#Hash: 1108721024
+#SourceActivity: com.apk.com.lovePositions.AllActivity
+Source Activity com.apk.com.lovePositions.AllActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}
+#Class: class android.widget.GridView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}   class: class android.widget.GridView  id: 2131034113
+Widget id: com.droiddream.lovePositions:id/all_gird
+#WidgetID: com.droiddream.lovePositions:id/all_gird
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.apk.com.lovePositions.ViewActivity
+#Hash: 1108721024
+#SourceActivity: com.apk.com.lovePositions.AllActivity
+Source Activity com.apk.com.lovePositions.AllActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}
+#Class: class android.widget.GridView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}   class: class android.widget.GridView  id: 2131034113
+Widget id: com.droiddream.lovePositions:id/all_gird
+#WidgetID: com.droiddream.lovePositions:id/all_gird
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.apk.com.lovePositions.ViewActivity
+#Hash: 1108721024
+#SourceActivity: com.apk.com.lovePositions.AllActivity
+Source Activity com.apk.com.lovePositions.AllActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}
+#Class: class android.widget.GridView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42175ef0}   class: class android.widget.GridView  id: 2131034113
+Widget id: com.droiddream.lovePositions:id/all_gird
+#WidgetID: com.droiddream.lovePositions:id/all_gird
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.apk.com.lovePositions.ViewActivity
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.apk.com.lovePositions.AllActivity
+#Hash: 1104197608
+#SourceActivity: com.apk.com.lovePositions.MainActivity
+Source Activity com.apk.com.lovePositions.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41d29d10}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41d29d10}   class: class android.widget.ImageButton  id: 2131034121
+Widget id: com.droiddream.lovePositions:id/random
+#WidgetID: com.droiddream.lovePositions:id/random
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.apk.com.lovePositions.ViewActivity

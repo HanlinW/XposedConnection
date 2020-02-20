@@ -1,0 +1,803 @@
+Instrumentation detected, disabling framework for com.github.uiautomator
+Hook Loaded App:com.tinyvital.wxr.demo
+#Hash: MENU
+#Event: MENU
+#Hash: 1107274904
+#SourceActivity: com.tinyvital.wxr.demo.app.StartAct
+Source Activity com.tinyvital.wxr.demo.app.StartAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420dd3d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420dd3d0}   class: class android.widget.Button  id: 2131230730
+Widget id: com.tinyvital.wxr.demo:id/helpNextButton
+#WidgetID: com.tinyvital.wxr.demo:id/helpNextButton
+#ButtonText: NEXT
+#Hash: 1104266144
+#SourceActivity: com.tinyvital.wxr.demo.app.StartAct
+Source Activity com.tinyvital.wxr.demo.app.StartAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420dd3d0}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420dd3d0}   class: class android.widget.ScrollView  id: 2131230725
+Widget id: com.tinyvital.wxr.demo:id/scrollView1
+#WidgetID: com.tinyvital.wxr.demo:id/scrollView1
+#Hash: 1107274904
+#SourceActivity: com.tinyvital.wxr.demo.app.StartAct
+Source Activity com.tinyvital.wxr.demo.app.StartAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420dd3d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420dd3d0}   class: class android.widget.Button  id: 2131230730
+Widget id: com.tinyvital.wxr.demo:id/helpNextButton
+#WidgetID: com.tinyvital.wxr.demo:id/helpNextButton
+#ButtonText: NEXT
+#Hash: 1108635360
+#SourceActivity: com.tinyvital.wxr.demo.app.StartAct
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 
+#Hash: 1109332264
+#SourceActivity: com.tinyvital.wxr.demo.app.StartAct
+Source Activity com.tinyvital.wxr.demo.app.StartAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422166d8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422166d8}   class: class android.widget.Button  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: View Agreement
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.tinyvital.wxr.demo.app.StartAct
+#Hash: 1107045136
+#SourceActivity: com.tinyvital.wxr.demo.app.StartAct
+Source Activity com.tinyvital.wxr.demo.app.StartAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420dd3d0}
+#Class: class android.widget.TextView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420dd3d0}   class: class android.widget.TextView  id: 2131230726
+Widget id: com.tinyvital.wxr.demo:id/mainTextView
+#WidgetID: com.tinyvital.wxr.demo:id/mainTextView
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.tinyvital.wxr.demo.app.StartAct
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.cyanogenmod.trebuchet.CustomHomeLauncher
+Hook Loaded App:com.tinyvital.wxr.demo
+#Hash: 1107330160
+#SourceActivity: com.tinyvital.wxr.demo.app.StartAct
+Source Activity com.tinyvital.wxr.demo.app.StartAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42077908}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42077908}   class: class android.widget.Button  id: 2131230730
+Widget id: com.tinyvital.wxr.demo:id/helpNextButton
+#WidgetID: com.tinyvital.wxr.demo:id/helpNextButton
+#ButtonText: NEXT
+#Hash: 1107906760
+#SourceActivity: com.tinyvital.wxr.demo.app.StartAct
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 
+#Hash: 1107964840
+#SourceActivity: com.tinyvital.wxr.demo.app.StartAct
+Source Activity com.tinyvital.wxr.demo.app.StartAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42164b80}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42164b80}   class: class android.widget.ScrollView  id: 16908919
+Widget id: android:id/scrollView
+#WidgetID: android:id/scrollView
+#Hash: MENU
+#Event: MENU
+#Hash: 1108609744
+#SourceActivity: com.tinyvital.wxr.demo.app.StartAct
+Source Activity com.tinyvital.wxr.demo.app.StartAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42164b80}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42164b80}   class: class android.widget.Button  id: 16908314
+Widget id: android:id/button2
+#WidgetID: android:id/button2
+#ButtonText: I Agree
+#Hash: 1107330160
+#SourceActivity: com.tinyvital.wxr.demo.app.StartAct
+Source Activity com.tinyvital.wxr.demo.app.StartAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42077908}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42077908}   class: class android.widget.Button  id: 2131230730
+Widget id: com.tinyvital.wxr.demo:id/helpNextButton
+#WidgetID: com.tinyvital.wxr.demo:id/helpNextButton
+#ButtonText: NEXT
+#Hash: 1109732248
+#SourceActivity: com.tinyvital.wxr.demo.app.InitializeActivity
+#DialogClass: class android.app.ProgressDialog
+#DialogTitle: Installing Samples
+#Hash: 1107640992
+#SourceActivity: com.tinyvital.wxr.demo.app.InitializeActivity
+#DialogClass: class android.app.ProgressDialog
+#DialogTitle: Installing Map Files:
+#Hash: 1110770672
+#SourceActivity: com.tinyvital.wxr.demo.app.MainAct
+Source Activity com.tinyvital.wxr.demo.app.MainAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422c9e10}
+#Class: class com.tinyvital.wxr.demo.graphics.MyGLSurfaceView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422c9e10}   class: class com.tinyvital.wxr.demo.graphics.MyGLSurfaceView  id: 2131230734
+Widget id: com.tinyvital.wxr.demo:id/glSurface
+#WidgetID: com.tinyvital.wxr.demo:id/glSurface
+#Hash: 1110770672
+#SourceActivity: com.tinyvital.wxr.demo.app.MainAct
+Source Activity com.tinyvital.wxr.demo.app.MainAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422c9e10}
+#Class: class com.tinyvital.wxr.demo.graphics.MyGLSurfaceView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422c9e10}   class: class com.tinyvital.wxr.demo.graphics.MyGLSurfaceView  id: 2131230734
+Widget id: com.tinyvital.wxr.demo:id/glSurface
+#WidgetID: com.tinyvital.wxr.demo:id/glSurface
+#Hash: 1110770672
+#SourceActivity: com.tinyvital.wxr.demo.app.MainAct
+Source Activity com.tinyvital.wxr.demo.app.MainAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422c9e10}
+#Class: class com.tinyvital.wxr.demo.graphics.MyGLSurfaceView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422c9e10}   class: class com.tinyvital.wxr.demo.graphics.MyGLSurfaceView  id: 2131230734
+Widget id: com.tinyvital.wxr.demo:id/glSurface
+#WidgetID: com.tinyvital.wxr.demo:id/glSurface
+#Hash: 1110770672
+#SourceActivity: com.tinyvital.wxr.demo.app.MainAct
+Source Activity com.tinyvital.wxr.demo.app.MainAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422c9e10}
+#Class: class com.tinyvital.wxr.demo.graphics.MyGLSurfaceView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422c9e10}   class: class com.tinyvital.wxr.demo.graphics.MyGLSurfaceView  id: 2131230734
+Widget id: com.tinyvital.wxr.demo:id/glSurface
+#WidgetID: com.tinyvital.wxr.demo:id/glSurface
+#Hash: 1110770672
+#SourceActivity: com.tinyvital.wxr.demo.app.MainAct
+Source Activity com.tinyvital.wxr.demo.app.MainAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422c9e10}
+#Class: class com.tinyvital.wxr.demo.graphics.MyGLSurfaceView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422c9e10}   class: class com.tinyvital.wxr.demo.graphics.MyGLSurfaceView  id: 2131230734
+Widget id: com.tinyvital.wxr.demo:id/glSurface
+#WidgetID: com.tinyvital.wxr.demo:id/glSurface
+#Hash: 1110844088
+#SourceActivity: com.tinyvital.wxr.demo.app.MainAct
+Source Activity com.tinyvital.wxr.demo.app.MainAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422c9e10}
+#Class: class android.widget.ImageView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422c9e10}   class: class android.widget.ImageView  id: 2131230742
+Widget id: com.tinyvital.wxr.demo:id/menuButton
+#WidgetID: com.tinyvital.wxr.demo:id/menuButton
+#Hash: 1103226376
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+Source Activity com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c454b8}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c454b8}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1107338272
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 
+#Hash: 1110969192
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+Source Activity com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cc5f50}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cc5f50}   class: class android.widget.ScrollView  id: 16908919
+Widget id: android:id/scrollView
+#WidgetID: android:id/scrollView
+#Hash: MENU
+#Event: MENU
+#Hash: 1110973376
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+Source Activity com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cc5f50}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cc5f50}   class: class android.widget.Button  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: Close
+#Hash: 1103226376
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+Source Activity com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c454b8}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c454b8}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1107338272
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#Hash: 1103226376
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+Source Activity com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c454b8}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c454b8}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1107338272
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#Hash: MENU
+#Event: MENU
+#Hash: 1103226376
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+Source Activity com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c454b8}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c454b8}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103226376
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+Source Activity com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c454b8}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c454b8}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1110693304
+#SourceActivity: com.tinyvital.wxr.demo.app.MainAct
+Source Activity com.tinyvital.wxr.demo.app.MainAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422c9e10}
+#Class: class android.widget.ImageView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422c9e10}   class: class android.widget.ImageView  id: 2131230742
+Widget id: com.tinyvital.wxr.demo:id/menuButton
+#WidgetID: com.tinyvital.wxr.demo:id/menuButton
+#Hash: 1110225368
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+Source Activity com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4202d0f8}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4202d0f8}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108609304
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#Hash: 1110225368
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+Source Activity com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4202d0f8}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4202d0f8}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108609304
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#Hash: 1110225368
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+Source Activity com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4202d0f8}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4202d0f8}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108609304
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#Hash: 1110225368
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+Source Activity com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4202d0f8}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4202d0f8}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.tinyvital.wxr.demo.view.lvmenu.LVProdSelAct
+#Hash: 1111387368
+#SourceActivity: com.tinyvital.wxr.demo.app.MainAct
+Source Activity com.tinyvital.wxr.demo.app.MainAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422c9e10}
+#Class: class android.widget.ImageView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422c9e10}   class: class android.widget.ImageView  id: 2131230740
+Widget id: com.tinyvital.wxr.demo:id/zoomInButton
+#WidgetID: com.tinyvital.wxr.demo:id/zoomInButton
+#Hash: MENU
+#Event: MENU
+#Hash: 1112063328
+#SourceActivity: com.tinyvital.wxr.demo.app.MainAct
+Source Activity com.tinyvital.wxr.demo.app.MainAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421c84f0}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421c84f0}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+#Hash: 1109816848
+#SourceActivity: com.tinyvital.wxr.demo.app.HtmlDisplayAct
+Source Activity com.tinyvital.wxr.demo.app.HtmlDisplayAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e5fe0}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e5fe0}   class: class android.widget.ScrollView  id: 2131230725
+Widget id: com.tinyvital.wxr.demo:id/scrollView1
+#WidgetID: com.tinyvital.wxr.demo:id/scrollView1
+#Hash: MENU
+#Event: MENU
+#Hash: 1109800296
+#SourceActivity: com.tinyvital.wxr.demo.app.HtmlDisplayAct
+Source Activity com.tinyvital.wxr.demo.app.HtmlDisplayAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e5fe0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e5fe0}   class: class android.widget.Button  id: 2131230729
+Widget id: com.tinyvital.wxr.demo:id/helpBackButton
+#WidgetID: com.tinyvital.wxr.demo:id/helpBackButton
+#ButtonText: BACK
+#Hash: 1109811912
+#SourceActivity: com.tinyvital.wxr.demo.app.HtmlDisplayAct
+Source Activity com.tinyvital.wxr.demo.app.HtmlDisplayAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e5fe0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e5fe0}   class: class android.widget.Button  id: 2131230731
+Widget id: com.tinyvital.wxr.demo:id/helpDoneButton
+#WidgetID: com.tinyvital.wxr.demo:id/helpDoneButton
+#ButtonText: DONE
+#Hash: MENU
+#Event: MENU
+#Hash: 1112063328
+#SourceActivity: com.tinyvital.wxr.demo.app.MainAct
+Source Activity com.tinyvital.wxr.demo.app.MainAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42305d50}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42305d50}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+#Hash: 1104046296
+#SourceActivity: com.tinyvital.wxr.demo.app.HtmlDisplayAct
+Source Activity com.tinyvital.wxr.demo.app.HtmlDisplayAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ba3448}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ba3448}   class: class android.widget.Button  id: 2131230730
+Widget id: com.tinyvital.wxr.demo:id/helpNextButton
+#WidgetID: com.tinyvital.wxr.demo:id/helpNextButton
+#ButtonText: NEXT
+#Hash: 1111264592
+#SourceActivity: com.tinyvital.wxr.demo.app.HtmlDisplayAct
+Source Activity com.tinyvital.wxr.demo.app.HtmlDisplayAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ba3448}
+#Class: class android.widget.TextView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ba3448}   class: class android.widget.TextView  id: 2131230726
+Widget id: com.tinyvital.wxr.demo:id/mainTextView
+#WidgetID: com.tinyvital.wxr.demo:id/mainTextView
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.tinyvital.wxr.demo.app.HtmlDisplayAct
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: 1112245040
+#SourceActivity: com.tinyvital.wxr.demo.app.MainAct
+Source Activity com.tinyvital.wxr.demo.app.MainAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fd61b0}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fd61b0}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.cyanogenmod.trebuchet.CustomHomeLauncher
+Hook Loaded App:com.tinyvital.wxr.demo
+#Hash: 1107334024
+#SourceActivity: com.tinyvital.wxr.demo.app.StartAct
+Source Activity com.tinyvital.wxr.demo.app.StartAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420ecfe0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420ecfe0}   class: class android.widget.Button  id: 2131230730
+Widget id: com.tinyvital.wxr.demo:id/helpNextButton
+#WidgetID: com.tinyvital.wxr.demo:id/helpNextButton
+#ButtonText: NEXT
+#Hash: 1108978000
+#SourceActivity: com.tinyvital.wxr.demo.app.InitializeActivity
+#DialogClass: class android.app.ProgressDialog
+#DialogTitle: Validating Map Files
+#Hash: MENU
+#Event: MENU
+#Hash: 1109429512
+#SourceActivity: com.tinyvital.wxr.demo.app.MainAct
+Source Activity com.tinyvital.wxr.demo.app.MainAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c0ba18}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c0ba18}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+#Hash: 1108978208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108978208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108978208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108978208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1109247856
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: GPS Fix Frequency
+#Hash: 1110615664
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c57278}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c57278}   class: class android.widget.Button  id: 16908314
+Widget id: android:id/button2
+#WidgetID: android:id/button2
+#ButtonText: 取消
+#Hash: 1108978208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1107279208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: GPS Fix Frequency
+#Hash: 1107280896
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4239fb58}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4239fb58}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1108978208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1111806784
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: GPS Fix Frequency
+#Hash: 1111808072
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42457918}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42457918}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1108978208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1104154688
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: GPS Fix Frequency
+#Hash: 1111955784
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4200c2a8}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4200c2a8}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1108978208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103701648
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: GPS Fix Frequency
+#Hash: 1109410152
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424306b0}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {424306b0}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1108978208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1112354624
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: GPS Fix Frequency
+#Hash: 1112355912
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424dd518}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {424dd518}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1108978208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1112705496
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: GPS Fix Frequency
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+#Hash: 1108978208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108978208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108978208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108978208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108978208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108978208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108978208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108978208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108978208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108978208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108978208
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+Source Activity com.tinyvital.wxr.demo.app.PrefsAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420bb6f0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.tinyvital.wxr.demo.app.PrefsAct
+#Hash: MENU
+#Event: MENU
+#Hash: 1109423704
+#SourceActivity: com.tinyvital.wxr.demo.app.MainAct
+Source Activity com.tinyvital.wxr.demo.app.MainAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c38980}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c38980}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+#Hash: 1112504872
+#SourceActivity: com.tinyvital.wxr.demo.app.HtmlDisplayAct
+Source Activity com.tinyvital.wxr.demo.app.HtmlDisplayAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4249d088}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4249d088}   class: class android.widget.Button  id: 2131230729
+Widget id: com.tinyvital.wxr.demo:id/helpBackButton
+#WidgetID: com.tinyvital.wxr.demo:id/helpBackButton
+#ButtonText: BACK
+#Hash: 1113962704
+#SourceActivity: com.tinyvital.wxr.demo.app.HtmlDisplayAct
+Source Activity com.tinyvital.wxr.demo.app.HtmlDisplayAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4249d088}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4249d088}   class: class android.widget.Button  id: 2131230730
+Widget id: com.tinyvital.wxr.demo:id/helpNextButton
+#WidgetID: com.tinyvital.wxr.demo:id/helpNextButton
+#ButtonText: NEXT
+#Hash: 1112504872
+#SourceActivity: com.tinyvital.wxr.demo.app.HtmlDisplayAct
+Source Activity com.tinyvital.wxr.demo.app.HtmlDisplayAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4249d088}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4249d088}   class: class android.widget.Button  id: 2131230729
+Widget id: com.tinyvital.wxr.demo:id/helpBackButton
+#WidgetID: com.tinyvital.wxr.demo:id/helpBackButton
+#ButtonText: BACK
+#Hash: 1112173856
+#SourceActivity: com.tinyvital.wxr.demo.app.HtmlDisplayAct
+Source Activity com.tinyvital.wxr.demo.app.HtmlDisplayAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4249d088}
+#Class: class android.widget.TextView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4249d088}   class: class android.widget.TextView  id: 2131230726
+Widget id: com.tinyvital.wxr.demo:id/mainTextView
+#WidgetID: com.tinyvital.wxr.demo:id/mainTextView
+#Hash: MENU
+#Event: MENU
+#Hash: 1112157000
+#SourceActivity: com.tinyvital.wxr.demo.app.HtmlDisplayAct
+Source Activity com.tinyvital.wxr.demo.app.HtmlDisplayAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4249d088}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4249d088}   class: class android.widget.Button  id: 2131230731
+Widget id: com.tinyvital.wxr.demo:id/helpDoneButton
+#WidgetID: com.tinyvital.wxr.demo:id/helpDoneButton
+#ButtonText: DONE
+#Hash: 1108580472
+#SourceActivity: com.tinyvital.wxr.demo.app.MainAct
+Source Activity com.tinyvital.wxr.demo.app.MainAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42070720}
+#Class: class android.widget.ImageView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42070720}   class: class android.widget.ImageView  id: 2131230739
+Widget id: com.tinyvital.wxr.demo:id/zoomOutButton
+#WidgetID: com.tinyvital.wxr.demo:id/zoomOutButton
+#Hash: 1109401376
+#SourceActivity: com.tinyvital.wxr.demo.app.MainAct
+Source Activity com.tinyvital.wxr.demo.app.MainAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42070720}
+#Class: class com.tinyvital.wxr.demo.view.widgets.MyTrackingImageView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42070720}   class: class com.tinyvital.wxr.demo.view.widgets.MyTrackingImageView  id: 2131230741
+Widget id: com.tinyvital.wxr.demo:id/loopButton
+#WidgetID: com.tinyvital.wxr.demo:id/loopButton
+#Hash: 1108393304
+#SourceActivity: com.tinyvital.wxr.demo.app.MainAct
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 
+#Hash: 1112141744
+#SourceActivity: com.tinyvital.wxr.demo.app.MainAct
+Source Activity com.tinyvital.wxr.demo.app.MainAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42606340}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42606340}   class: class android.widget.ScrollView  id: 16908919
+Widget id: android:id/scrollView
+#WidgetID: android:id/scrollView
+#Hash: 1113260328
+#SourceActivity: com.tinyvital.wxr.demo.app.MainAct
+Source Activity com.tinyvital.wxr.demo.app.MainAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42606340}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42606340}   class: class android.widget.Button  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: Yes
+#Hash: 1109401376
+#SourceActivity: com.tinyvital.wxr.demo.app.MainAct
+Source Activity com.tinyvital.wxr.demo.app.MainAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42070720}
+#Class: class com.tinyvital.wxr.demo.view.widgets.MyTrackingImageView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42070720}   class: class com.tinyvital.wxr.demo.view.widgets.MyTrackingImageView  id: 2131230741
+Widget id: com.tinyvital.wxr.demo:id/loopButton
+#WidgetID: com.tinyvital.wxr.demo:id/loopButton
+#Hash: 1112269560
+#SourceActivity: com.tinyvital.wxr.demo.app.MainAct
+Source Activity com.tinyvital.wxr.demo.app.MainAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42070720}
+#Class: class android.widget.ImageView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42070720}   class: class android.widget.ImageView  id: 2131230743
+Widget id: com.tinyvital.wxr.demo:id/gpsButton
+#WidgetID: com.tinyvital.wxr.demo:id/gpsButton
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.tinyvital.wxr.demo.app.MainAct
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.cyanogenmod.trebuchet.CustomHomeLauncher
+Hook Loaded App:com.tinyvital.wxr.demo
+#Hash: 1107106008
+#SourceActivity: com.tinyvital.wxr.demo.app.StartAct
+Source Activity com.tinyvital.wxr.demo.app.StartAct
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420eda48}
+#Class: class android.widget.TextView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420eda48}   class: class android.widget.TextView  id: 2131230726
+Widget id: com.tinyvital.wxr.demo:id/mainTextView
+#WidgetID: com.tinyvital.wxr.demo:id/mainTextView

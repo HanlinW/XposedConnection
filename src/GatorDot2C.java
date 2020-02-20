@@ -3,6 +3,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.LinkedList;
 
 class GatorDot2C {
@@ -119,7 +120,7 @@ class GatorDot2C {
 			} else if (event.equals("evt: implicit_back_event")) {
 				event = "BACK";
 			} else {
-				event = "";
+				//event = "";
 			}
 			String widgetT = ele[4];
 			String widgetID = "", widget = "";
@@ -130,21 +131,37 @@ class GatorDot2C {
 				}
 			} else if (widgetT.contains("DIALOG")) {
 				widget = "android.app.AlertDialog";
+				if (event.equals("BACK")) {
+					widget = "";
+				}
 			}
 			
-			vertex src = Boxes.get(index1);
-			vertex tgt = Boxes.get(index2);
+			if (event.contains("implicit_power") || event.contains("implicit_rotate") || event.contains("implicit_home")) {
+			} else{
+				vertex src = Boxes.get(index1);
+				vertex tgt = Boxes.get(index2);
 			
-			edge current = new edge(src, tgt);
-			current.className = widget;
-			current.widgetID = widgetID;
-			current.event = event;
-			//System.out.println(event);
-			Edges.add(current);
+				edge current = new edge(src, tgt);
+				current.className = widget;
+				current.widgetID = widgetID;
+				current.event = event;
+				//System.out.println(event);
+				Edges.add(current);
+			}
 			
 			start ++;
 		}
 		
+	}
+	
+	public void RemoveUseless() {
+		Iterator iter = Edges.iterator();
+		while (iter.hasNext()) {
+			edge current = (edge) iter.next();
+			if (current.event.equals("")) {
+				
+			}
+		}
 	}
 
 }

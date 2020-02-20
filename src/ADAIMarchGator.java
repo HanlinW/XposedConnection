@@ -16,7 +16,7 @@ class ADAIMarchGator {
 		LinkedList<GatorDot2C.edge> GPaths = myGator.Edges;
 		
 		HashMap<String, Integer> AActivities = myADAI.Activities;
-		LinkedList<ADAI2Dot.PathTree> APaths = myADAI.allPaths; 
+		LinkedList<ADAI2Dot.PathTree> APaths = myADAI.graphPaths; 
 		
 		int Marched = 0;
 		
@@ -43,22 +43,19 @@ class ADAIMarchGator {
 						AwidgetID = currentA.menuItemID.substring(currentA.menuItemID.indexOf('/')+1);
 					}
 				}
-
-				//System.out.println("AAAA!!"+currentA.src + " to  " + currentA.tgt + "||widget:" + AclassName + "..." + AwidgetID + currentA.event);
-				//System.out.println("GGGG!!"+currentG.src.act + " to  " + currentG.tgt.act + "||widget:" + currentG.className + "..." + currentG.widgetID + currentA.event);
-				if (currentG.src.act.equals(currentA.src) || currentG.tgt.act.equals(currentA.tgt)) {
-					
+				
+				if (currentG.src.act.equals(currentA.src) && currentG.tgt.act.equals(currentA.tgt)) {
 					//System.out.println(AclassName + "|||11||| " +  AwidgetID);
 					//System.out.println(currentG.className + "|||22|||" + currentG.widgetID);
 					if (currentG.widgetID.equals(AwidgetID) && currentG.className.equals(AclassName))
 						if (currentG.event.equals(currentA.event))
 						{
-							System.out.println(currentA.src + " to  " + currentA.tgt );
-							System.out.println(AclassName + "  + " +  AwidgetID);
-							System.out.println(currentG.event + "    " + currentA.event);
+							//System.out.println(currentA.src + " to  " + currentA.tgt );
+							//System.out.println(AclassName + "  + " +  AwidgetID);
+							//System.out.println(currentG.event + "    " + currentA.event);
 							Marched ++;
 							break;
-						}
+						} 
 				}
 			}
 		}
@@ -77,16 +74,16 @@ class ADAIMarchGator {
 			//System.out.println("AAAA!!"+currentA.src + " to  " + currentA.tgt + "||widget:" + AclassName + "..." + AwidgetID + currentA.event);
 		}
 		
-		System.out.println(myGator.Edges.size());
-		System.out.println(myADAI.allPaths.size());
-		
-		System.out.println(Marched);
+		System.out.println("Gator full path: " + myGator.Edges.size());
+		//System.out.println(myADAI.allPaths.size());
+		System.out.println("ADAI full path: " + myADAI.graphPaths.size());
+		System.out.println("Marched: " +Marched);
 	}
 	
 	public static String GatorDotPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/smsdroidGator.dot";
 	
-	public static String ADAIFilePath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/groundtruth/yuku.mp3recorder.lite.txt";
-	public static String ADAIDotPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/groundDOT/yuku.mp3recorder.lite.dot";
+	public static String ADAIFilePath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/groundtruth/de.ub0r.android.smsdroid.txt";
+	public static String ADAIDotPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/groundDOT/de.ub0r.android.smsdroid.dot";
 	
 	public static String PaladinFilePath = "/Users/hanlinwang/Desktop/thesis3/myAPK/Paladin-output/graph-de.ub0r.android.smsdroid.json";
 	public static String PaladinOutputPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/smsdroidPaladin.dot";
@@ -100,6 +97,7 @@ class ADAIMarchGator {
 			
 			PaladinGraph2Dot.Activities act = g.fromJson(new FileReader(myPala.PaladinGraphPath), PaladinGraph2Dot.Activities.class);
 			myPala.BuildDot(act);
+			System.out.println("Paldin Graph:" +myPala.allPaths.size());
 			//myPala.WriteDot();
 		} catch (JsonSyntaxException | JsonIOException | FileNotFoundException e) {
 			// TODO Auto-generated catch block
@@ -114,7 +112,8 @@ class ADAIMarchGator {
 		ADAI2Dot myADAI = new ADAI2Dot(ADAIFilePath, ADAIDotPath);
 		myADAI.ReadLog();
 		myADAI.Run();
-		myADAI.WriteDot();
+		myADAI.BuildPath();
+		myADAI.RemoveDuplicate();
 		CompareTwo(myGator, myADAI);
 	}
 }

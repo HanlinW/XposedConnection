@@ -1,0 +1,252 @@
+Instrumentation detected, disabling framework for com.github.uiautomator
+Hook Loaded App:br.com.smartfingers.spreadlyrics
+#Hash: 1105867080
+#SourceActivity: br.com.smartfingers.spreadlyrics.activity.Main
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: License Agreement
+#Hash: MENU
+#Event: MENU
+#Hash: 1109583064
+#SourceActivity: br.com.smartfingers.spreadlyrics.activity.Main
+Source Activity br.com.smartfingers.spreadlyrics.activity.Main
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42257278}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42257278}   class: class android.widget.Button  id: 16908314
+Widget id: android:id/button2
+#WidgetID: android:id/button2
+#ButtonText: Don't Accept
+#Hash: BACK
+#Event: BACK
+#SourceActivity: de.robv.android.xposed.installer.XposedInstallerActivity
+Hook Loaded App:br.com.smartfingers.spreadlyrics
+#Hash: 1105870728
+#SourceActivity: br.com.smartfingers.spreadlyrics.activity.Main
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: License Agreement
+#Hash: 1109364832
+#SourceActivity: br.com.smartfingers.spreadlyrics.activity.Main
+Source Activity br.com.smartfingers.spreadlyrics.activity.Main
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422580f8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422580f8}   class: class android.widget.Button  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: Accept
+#Hash: 1109791544
+#SourceActivity: br.com.smartfingers.spreadlyrics.activity.Main
+Source Activity br.com.smartfingers.spreadlyrics.activity.Main
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4233ed20}
+#Class: class android.widget.ImageView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4233ed20}   class: class android.widget.ImageView  id: 2131034118
+Widget id: br.com.smartfingers.spreadlyrics:id/buscaButton
+#WidgetID: br.com.smartfingers.spreadlyrics:id/buscaButton
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: 1103555440
+#SourceActivity: br.com.smartfingers.spreadlyrics.activity.Main
+Source Activity br.com.smartfingers.spreadlyrics.activity.Main
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c559f8}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c559f8}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: NONE
+#MenuItemID: NONE
+#MenuItemTitle: Help and Info
+#Hash: 1104893160
+#SourceActivity: br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+Source Activity br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422daf28}
+#Class: class android.widget.TextView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422daf28}   class: class android.widget.TextView  id: 2131034116
+Widget id: br.com.smartfingers.spreadlyrics:id/info_text
+#WidgetID: br.com.smartfingers.spreadlyrics:id/info_text
+#Hash: 1103508608
+#SourceActivity: br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+Source Activity br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422daf28}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422daf28}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: 1109767928
+#SourceActivity: br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+Source Activity br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422daf28}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422daf28}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: 1103508608
+#SourceActivity: br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+Source Activity br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422daf28}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422daf28}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: 1103508608
+#SourceActivity: br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+Source Activity br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422daf28}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422daf28}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: MENU
+#Event: MENU
+#Hash: 1105874160
+#SourceActivity: br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+Source Activity br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5f888}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5f888}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: NONE
+#MenuItemID: NONE
+#MenuItemTitle: Market
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.google.android.finsky.activities.MainActivity
+Hook Loaded App:br.com.smartfingers.spreadlyrics
+#Hash: MENU
+#Event: MENU
+#Hash: 1109923368
+#SourceActivity: br.com.smartfingers.spreadlyrics.activity.Main
+Source Activity br.com.smartfingers.spreadlyrics.activity.Main
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b0598}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b0598}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: NONE
+#MenuItemID: NONE
+#MenuItemTitle: Help and Info
+#Hash: 1103446528
+#SourceActivity: br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+Source Activity br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421ce040}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421ce040}   class: class android.widget.ImageButton  id: 2131034122
+Widget id: br.com.smartfingers.spreadlyrics:id/rate_us_btn
+#WidgetID: br.com.smartfingers.spreadlyrics:id/rate_us_btn
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.google.android.finsky.activities.MainActivity
+#Hash: 1110764056
+#SourceActivity: com.google.android.finsky.activities.MainActivity
+Source Activity com.google.android.finsky.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421ce040}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421ce040}   class: class android.widget.ImageButton  id: 2131034121
+Widget id: br.com.smartfingers.spreadlyrics:id/email_us_btn
+#WidgetID: br.com.smartfingers.spreadlyrics:id/email_us_btn
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.internal.app.ResolverActivity
+#Hash: MENU
+#Event: MENU
+#Hash: 1103559400
+#SourceActivity: br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+Source Activity br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c11268}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c11268}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: NONE
+#MenuItemID: NONE
+#MenuItemTitle: Market
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.google.android.finsky.activities.MainActivity
+Hook Loaded App:br.com.smartfingers.spreadlyrics
+#Hash: MENU
+#Event: MENU
+#Hash: 1109930776
+#SourceActivity: br.com.smartfingers.spreadlyrics.activity.Main
+Source Activity br.com.smartfingers.spreadlyrics.activity.Main
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2288}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2288}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: NONE
+#MenuItemID: NONE
+#MenuItemTitle: Help and Info
+#Hash: 1103522040
+#SourceActivity: br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+Source Activity br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421cef40}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421cef40}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: MENU
+#Event: MENU
+#Hash: 1103567296
+#SourceActivity: br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+Source Activity br.com.smartfingers.spreadlyrics.activity.InfoTabHost
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41d7ffc8}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41d7ffc8}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: NONE
+#MenuItemID: NONE
+#MenuItemTitle: Market
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.google.android.finsky.activities.MainActivity
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.google.android.finsky.activities.MainActivity
+#Hash: MENU
+#Event: MENU
+#Hash: 1110018016
+#SourceActivity: com.google.android.finsky.activities.MainActivity
+Source Activity com.google.android.finsky.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42222e78}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42222e78}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: NONE
+#MenuItemID: NONE
+#MenuItemTitle: Exit
+#Hash: BACK
+#Event: BACK
+#SourceActivity: de.robv.android.xposed.installer.WelcomeActivity
+Hook Loaded App:br.com.smartfingers.spreadlyrics
+#Hash: MENU
+#Event: MENU
+#Hash: 1109844544
+#SourceActivity: br.com.smartfingers.spreadlyrics.activity.Main
+Source Activity br.com.smartfingers.spreadlyrics.activity.Main
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b3368}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b3368}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: NONE
+#MenuItemID: NONE
+#MenuItemTitle: Refresh
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: br.com.smartfingers.spreadlyrics.activity.Main
+#Hash: BACK
+#Event: BACK
+#SourceActivity: br.com.smartfingers.spreadlyrics.activity.Main
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.cyanogenmod.trebuchet.CustomHomeLauncher
+Hook Loaded App:br.com.smartfingers.spreadlyrics

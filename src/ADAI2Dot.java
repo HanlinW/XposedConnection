@@ -5,6 +5,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Map;
@@ -19,8 +20,16 @@ public class ADAI2Dot{
 	public LinkedList<String> ADAIFile = new LinkedList<String>();
 	public HashMap<String, Integer> Activities = new HashMap<String, Integer>();
 	public HashMap<String, Integer> Widgets = new HashMap<String, Integer>();
-	public LinkedList<PathTree> allPaths = new LinkedList<PathTree>(); 
+	public LinkedList<PathTree> allPaths = new LinkedList<PathTree>();
+	
+	public HashSet <PathTree> checkPath = new HashSet<PathTree>();
+	public LinkedList<PathTree> graphPaths = new LinkedList<PathTree>();
 	public class PathTree {
+		public boolean equals(PathTree a){
+			if (src.equals(a.src) && tgt.equals(a.tgt) && handler.equals(a.handler) && widgetID.equals(a.widgetID) && className.equals(a.className) &&
+				dialogClass.equals(a.dialogClass) && event.equals(a.event)) return true;
+			else return false;
+		}
 		public PathTree(String source, String target){
 			src = source;
 			tgt = target;
@@ -58,6 +67,39 @@ public class ADAI2Dot{
 		
 	}
 	
+	public void BuildPath() {
+		PathTree nowPath = root;
+		while (nowPath.next!=null){
+			nowPath = nowPath.next;
+			//nextPath = nowPath.next;
+			if (nowPath !=null && nowPath.next !=null && nowPath.next.src != "" && nowPath.src !="") {
+				String src = nowPath.src;
+				String tgt = "";
+				tgt = nowPath.next.src;
+				nowPath.tgt = tgt;
+				
+				int srcIndex = Activities.get(src);
+				int tgtIndex = Activities.get(tgt);
+				
+				PathTree current = new PathTree(src, tgt);
+				current.handler= nowPath.handler;
+				current.widgetID= nowPath.widgetID;
+				current.className= nowPath.className;
+				current.dialogClass= nowPath.dialogClass;
+				current.dialogTitle= nowPath.dialogTitle; 
+				current.buttonText= nowPath.buttonText;
+				current.hash= nowPath.hash;
+				current.event = nowPath.event;
+				current.menuItemID = nowPath.menuItemID;
+				
+				//System.out.println(src + "->" + tgt + "   Hash: " + current.hash);
+				
+				allPaths.add(current);	
+			} else {
+				// We dont need do anything to the last one
+			}
+		}
+	}
 	public void WriteDot(){
 		File file = new File(this.outputFilePath);
 		try {
@@ -78,10 +120,9 @@ public class ADAI2Dot{
 				if (nowPath !=null && nowPath.next !=null && nowPath.next.src != "" && nowPath.src !="") {
 					String src = nowPath.src;
 					String tgt = "";
-					if (nowPath.tgt!="") tgt = nowPath.tgt; else {
-						tgt = nowPath.next.src;
-						nowPath.tgt = tgt;
-					}
+					tgt = nowPath.next.src;
+					nowPath.tgt = tgt;
+					
 					String line;
 					//System.out.println(src + "->" + tgt);
 					int srcIndex = Activities.get(src);
@@ -94,10 +135,7 @@ public class ADAI2Dot{
 					String handler= nowPath.handler, widgetID= nowPath.widgetID, className= nowPath.className,
 							dialogClass= nowPath.dialogClass, dialogTitle= nowPath.dialogTitle, buttonText= nowPath.buttonText,
 							hash= nowPath.hash, event = nowPath.event, menuItemID = nowPath.menuItemID;
-					if (className.contains("MenuItem")) {
-						className = "class android.view.MenuItem";
-						nowPath.className = "class android.view.MenuItem";
-					} 
+
 					PathTree current = nowPath;
 					allPaths.add(current);
 					if (className!=""){
@@ -111,7 +149,7 @@ public class ADAI2Dot{
 						}
 					}
 					if (dialogClass!=""){
-						line = line + " dialogClass: " + dialogClass + " ";
+						line = line + "\\ndialogClass: " + dialogClass + " ";
 					}
 					if (dialogTitle!=""){
 						line = line + "\\ndialogTitle: " + dialogTitle + " ";
@@ -167,7 +205,7 @@ public class ADAI2Dot{
 		while (i < Aline) {
 			String line = ADAIFile.get(i);
 			if (line.split(": ").length ==1) {
-				//System.out.println(line);
+				//Empty attribute
 				i ++;
 				continue; 
 			}
@@ -179,7 +217,7 @@ public class ADAI2Dot{
 					new_path = true;
 				} else if (new_path) {
 					new_path = false;
-				} else {
+				} else if (i != 0){
 					// another path, save all current data
 					PathTree putPath = new PathTree(srcActName, tgtActName);
 					putPath.handler = handler;
@@ -205,7 +243,7 @@ public class ADAI2Dot{
 					menuItemID = "";
 					event = "CLICK";
 					hash = "";
-					new_path = true;	
+					//new_path = true;	
 				}
 
 				hash = a;
@@ -244,6 +282,9 @@ public class ADAI2Dot{
 				dialogClass = a;
 			} else if (line.contains("Class: ")){
 				className = a;
+				if (className.contains("MenuItem")) {
+					className = "class android.view.MenuItem";
+				}
 			} else if (line.contains("DialogTitle: ")) {
 				dialogTitle = a; 
 			} else if (line.contains("ButtonText: ")){
@@ -269,6 +310,28 @@ public class ADAI2Dot{
 		nowPath.next = putPath;
 		nowPath = putPath;
 		nowPath.next = null;
+		
+	}
+	
+	public boolean find(PathTree target) {
+		Iterator iter = graphPaths.iterator();
+		while (iter.hasNext()) {
+			PathTree current = (PathTree) iter.next();
+			if (current.equals(target)) return true;
+		}
+		return false;
+	}
+	public void RemoveDuplicate() {
+		Iterator iter = allPaths.iterator();
+		while (iter.hasNext()) {
+			PathTree current = (PathTree) iter.next();
+			if (find(current)){
+				
+			} else {
+				checkPath.add(current);
+				graphPaths.add(current);
+			}
+		}
 		
 	}
 }

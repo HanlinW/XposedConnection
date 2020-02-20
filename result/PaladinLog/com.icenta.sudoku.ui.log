@@ -1,0 +1,624 @@
+Instrumentation detected, disabling framework for com.github.uiautomator
+Hook Loaded App:com.icenta.sudoku.ui
+#Hash: 1108427904
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Welcome
+#Hash: MENU
+#Event: MENU
+#Hash: 1108550336
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4213ca88}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4213ca88}   class: class android.widget.Button  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: OK
+#Hash: 1107705032
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}   class: class android.widget.Button  id: 2131361861
+Widget id: com.icenta.sudoku.ui:id/new_puzzle_easy
+#WidgetID: com.icenta.sudoku.ui:id/new_puzzle_easy
+#ButtonText: Easy
+#Hash: 1104623088
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}
+#Class: class com.icenta.sudoku.ui.GameView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}   class: class com.icenta.sudoku.ui.GameView  id: 2131361849
+Widget id: com.icenta.sudoku.ui:id/game
+#WidgetID: com.icenta.sudoku.ui:id/game
+#Hash: 1104623088
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}
+#Class: class com.icenta.sudoku.ui.GameView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}   class: class com.icenta.sudoku.ui.GameView  id: 2131361849
+Widget id: com.icenta.sudoku.ui:id/game
+#WidgetID: com.icenta.sudoku.ui:id/game
+#Hash: MENU
+#Event: MENU
+#Hash: 1111272448
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423cf1b0}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423cf1b0}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+#Hash: MENU
+#Event: MENU
+#Hash: 1111282024
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420d47a0}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420d47a0}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+#Hash: 1107882536
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420ee120}
+#Class: class com.android.internal.view.menu.ExpandedMenuView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420ee120}   class: class com.android.internal.view.menu.ExpandedMenuView  id: 16908953
+Widget id: android:id/expanded_menu
+#WidgetID: android:id/expanded_menu
+#Hash: MENU
+#Event: MENU
+#Hash: 1103554400
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103554400
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103554400
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103554400
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103554400
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108422552
+#SourceActivity: com.icenta.sudoku.ui.Settings
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Board pattern
+#Hash: 1103639984
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423d1180}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423d1180}   class: class android.widget.Button  id: 16908314
+Widget id: android:id/button2
+#WidgetID: android:id/button2
+#ButtonText: 取消
+#Hash: 1103554400
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1111317904
+#SourceActivity: com.icenta.sudoku.ui.Settings
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Board pattern
+#Hash: 1107788656
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423b7928}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423b7928}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1103554400
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1109494816
+#SourceActivity: com.icenta.sudoku.ui.Settings
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Board pattern
+#Hash: 1109496104
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422231f8}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422231f8}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1103554400
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1111316088
+#SourceActivity: com.icenta.sudoku.ui.Settings
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Board pattern
+#Hash: MENU
+#Event: MENU
+#Hash: 1109782400
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4219f2f0}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4219f2f0}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1103554400
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1104627976
+#SourceActivity: com.icenta.sudoku.ui.Settings
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Board pattern
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.icenta.sudoku.ui.Settings
+#Hash: 1103554400
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1109616664
+#SourceActivity: com.icenta.sudoku.ui.Settings
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Board pattern
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.icenta.sudoku.ui.Settings
+#Hash: 1103554400
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103554400
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103554400
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103554400
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103554400
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103554400
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103554400
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103554400
+#SourceActivity: com.icenta.sudoku.ui.Settings
+Source Activity com.icenta.sudoku.ui.Settings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47010}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.icenta.sudoku.ui.Settings
+#Hash: MENU
+#Event: MENU
+#Hash: 1111282024
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422cb828}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422cb828}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: 1111282024
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422f5300}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422f5300}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+#Hash: 1107882536
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42302af0}
+#Class: class com.android.internal.view.menu.ExpandedMenuView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42302af0}   class: class com.android.internal.view.menu.ExpandedMenuView  id: 16908953
+Widget id: android:id/expanded_menu
+#WidgetID: android:id/expanded_menu
+#Hash: 1107624472
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Please select
+#Hash: 1108323584
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423dc908}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423dc908}   class: class android.widget.Button  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: All
+#Hash: MENU
+#Event: MENU
+#Hash: 1111282024
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c811d0}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c811d0}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+#Hash: 1107882536
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422a39a8}
+#Class: class com.android.internal.view.menu.ExpandedMenuView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422a39a8}   class: class com.android.internal.view.menu.ExpandedMenuView  id: 16908953
+Widget id: android:id/expanded_menu
+#WidgetID: android:id/expanded_menu
+#Hash: 1109816368
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: How-To
+#Hash: 1108327136
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42224000}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42224000}   class: class android.widget.Button  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: OK
+#Hash: MENU
+#Event: MENU
+#Hash: 1111282024
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42204988}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42204988}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+#Hash: 1111278832
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421d4848}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421d4848}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+#Hash: 1109985376
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Please confirm
+#Hash: 1109094152
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422aa0a0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422aa0a0}   class: class android.widget.Button  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: No
+#Hash: MENU
+#Event: MENU
+#Hash: 1111275640
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42283820}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42283820}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+#Hash: 1110073048
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Please confirm
+#Hash: 1108975792
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420eaa30}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420eaa30}   class: class android.widget.Button  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: No
+#Hash: MENU
+#Event: MENU
+#Hash: 1111269256
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4207f7d0}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4207f7d0}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+#Hash: 1111263048
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4207f7d0}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4207f7d0}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+#Hash: 1107731544
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}   class: class android.widget.Button  id: 2131361869
+Widget id: com.icenta.sudoku.ui:id/buy
+#WidgetID: com.icenta.sudoku.ui:id/buy
+#ButtonText: Buy Ad-Free
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.google.android.finsky.activities.MainActivity
+#Hash: 1104713216
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}   class: class android.widget.ScrollView  id: -1
+WidgetID: NONE
+#Class: class android.widget.ScrollView
+#Hash: 1107711488
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}   class: class android.widget.Button  id: 2131361863
+Widget id: com.icenta.sudoku.ui:id/new_puzzle_medium
+#WidgetID: com.icenta.sudoku.ui:id/new_puzzle_medium
+#ButtonText: Medium
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+#Hash: 1107722320
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}   class: class android.widget.Button  id: 2131361866
+Widget id: com.icenta.sudoku.ui:id/help
+#WidgetID: com.icenta.sudoku.ui:id/help
+#ButtonText: How-To
+#Hash: 1107790440
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: How-To
+#Hash: 1110157296
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4228e388}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4228e388}   class: class android.widget.Button  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: OK
+#Hash: 1107714280
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}   class: class android.widget.Button  id: 2131361864
+Widget id: com.icenta.sudoku.ui:id/config
+#WidgetID: com.icenta.sudoku.ui:id/config
+#ButtonText: Settings
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.icenta.sudoku.ui.Settings
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.icenta.sudoku.ui.Settings
+#Hash: 1104677840
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}
+#Class: class com.heyzap.sdk.HeyzapButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}   class: class com.heyzap.sdk.HeyzapButton  id: 2131361856
+Widget id: com.icenta.sudoku.ui:id/heyzapButton
+#WidgetID: com.icenta.sudoku.ui:id/heyzapButton
+#Hash: 1108960680
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422f7ea0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422f7ea0}   class: class android.widget.Button  id: -1
+WidgetID: NONE
+#Class: class android.widget.Button
+#ButtonText: Install Heyzap
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.google.android.finsky.activities.MainActivity
+#Hash: 1104677840
+#SourceActivity: com.google.android.finsky.activities.MainActivity
+Source Activity com.google.android.finsky.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}
+#Class: class com.heyzap.sdk.HeyzapButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}   class: class com.heyzap.sdk.HeyzapButton  id: 2131361856
+Widget id: com.icenta.sudoku.ui:id/heyzapButton
+#WidgetID: com.icenta.sudoku.ui:id/heyzapButton
+#Hash: MENU
+#Event: MENU
+#Hash: 1109390840
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421b9e58}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421b9e58}   class: class android.widget.Button  id: -1
+WidgetID: NONE
+#Class: class android.widget.Button
+#ButtonText: Skip
+#Hash: 1104677840
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}
+#Class: class com.heyzap.sdk.HeyzapButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}   class: class com.heyzap.sdk.HeyzapButton  id: 2131361856
+Widget id: com.icenta.sudoku.ui:id/heyzapButton
+#WidgetID: com.icenta.sudoku.ui:id/heyzapButton
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+#Hash: 1107707824
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}   class: class android.widget.Button  id: 2131361862
+Widget id: com.icenta.sudoku.ui:id/competition
+#WidgetID: com.icenta.sudoku.ui:id/competition
+#ButtonText: 20-2-23 上午12:28
+#Hash: 1107698592
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}   class: class android.widget.Button  id: 2131361859
+Widget id: com.icenta.sudoku.ui:id/load_last
+#WidgetID: com.icenta.sudoku.ui:id/load_last
+#ButtonText: Resume Game
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+#Hash: 1107725944
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421474c0}   class: class android.widget.Button  id: 2131361867
+Widget id: com.icenta.sudoku.ui:id/new_puzzle_very
+#WidgetID: com.icenta.sudoku.ui:id/new_puzzle_very
+#ButtonText: Extreme
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.cyanogenmod.trebuchet.CustomHomeLauncher
+Hook Loaded App:com.icenta.sudoku.ui
+#Hash: 1108463336
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Welcome
+#Hash: 1108578592
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+Source Activity com.icenta.sudoku.ui.MobileSudoku
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4213fe88}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4213fe88}   class: class android.widget.Button  id: 16908314
+Widget id: android:id/button2
+#WidgetID: android:id/button2
+#ButtonText: Don't show again
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.icenta.sudoku.ui.MobileSudoku
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.cyanogenmod.trebuchet.CustomHomeLauncher
+Hook Loaded App:com.icenta.sudoku.ui

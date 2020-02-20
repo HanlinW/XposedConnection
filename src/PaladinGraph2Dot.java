@@ -83,8 +83,6 @@ class PaladinGraph2Dot{
 			}
 		}
 		
-		System.out.println(allActs.size());
-		System.out.println(allPaths.size());
 	}
 	
 	static String outputFilePath;
