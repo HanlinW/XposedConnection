@@ -1,0 +1,251 @@
+Instrumentation detected, disabling framework for com.github.uiautomator
+Hook Loaded App:jp.nebusoku.tool.teledirectory
+#Hash: 1106943248
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephoneDirectory
+Source Activity jp.nebusoku.tool.teledirectory.TelephoneDirectory
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1107135328
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephoneDirectory
+Source Activity jp.nebusoku.tool.teledirectory.TelephoneDirectory
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}
+#Class: class android.widget.TextView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}   class: class android.widget.TextView  id: -1  tag: 3
+#Tag: 3
+WidgetID: NONE
+#Tag: 3
+#Hash: 1106943248
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephoneDirectory
+Source Activity jp.nebusoku.tool.teledirectory.TelephoneDirectory
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1107157024
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephoneDirectory
+Source Activity jp.nebusoku.tool.teledirectory.TelephoneDirectory
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}
+#Class: class android.widget.TextView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}   class: class android.widget.TextView  id: 2131165208
+Widget id: jp.nebusoku.tool.teledirectory:id/midashi_a
+#WidgetID: jp.nebusoku.tool.teledirectory:id/midashi_a
+#Hash: 1107132016
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephoneDirectory
+Source Activity jp.nebusoku.tool.teledirectory.TelephoneDirectory
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}
+#Class: class android.widget.TextView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}   class: class android.widget.TextView  id: -1  tag: 1
+#Tag: 1
+WidgetID: NONE
+#Tag: 1
+#Hash: 1107155536
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephoneDirectory
+Source Activity jp.nebusoku.tool.teledirectory.TelephoneDirectory
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}
+#Class: class android.widget.TextView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}   class: class android.widget.TextView  id: 2131165207  tag: NAME_ALL
+#Tag: NAME_ALL
+Widget id: jp.nebusoku.tool.teledirectory:id/midashi_all
+#WidgetID: jp.nebusoku.tool.teledirectory:id/midashi_all
+#Hash: 1107127720
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephoneDirectory
+Source Activity jp.nebusoku.tool.teledirectory.TelephoneDirectory
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}
+#Class: class android.widget.TextView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}   class: class android.widget.TextView  id: -1  tag: GROUP_ALL
+#Tag: GROUP_ALL
+WidgetID: NONE
+#Tag: GROUP_ALL
+#Hash: 1107158432
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephoneDirectory
+Source Activity jp.nebusoku.tool.teledirectory.TelephoneDirectory
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}
+#Class: class android.widget.TextView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}   class: class android.widget.TextView  id: 2131165209
+Widget id: jp.nebusoku.tool.teledirectory:id/midashi_ka
+#WidgetID: jp.nebusoku.tool.teledirectory:id/midashi_ka
+#Hash: 1106943248
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephoneDirectory
+Source Activity jp.nebusoku.tool.teledirectory.TelephoneDirectory
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1107164192
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephoneDirectory
+Source Activity jp.nebusoku.tool.teledirectory.TelephoneDirectory
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}
+#Class: class android.widget.TextView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}   class: class android.widget.TextView  id: 2131165213
+Widget id: jp.nebusoku.tool.teledirectory:id/midashi_ha
+#WidgetID: jp.nebusoku.tool.teledirectory:id/midashi_ha
+#Hash: 1107138704
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephoneDirectory
+Source Activity jp.nebusoku.tool.teledirectory.TelephoneDirectory
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}
+#Class: class android.widget.TextView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}   class: class android.widget.TextView  id: -1  tag: 5
+#Tag: 5
+WidgetID: NONE
+#Tag: 5
+#Hash: 1107133672
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephoneDirectory
+Source Activity jp.nebusoku.tool.teledirectory.TelephoneDirectory
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}
+#Class: class android.widget.TextView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}   class: class android.widget.TextView  id: -1  tag: 2
+#Tag: 2
+WidgetID: NONE
+#Tag: 2
+#Hash: 1107161248
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephoneDirectory
+Source Activity jp.nebusoku.tool.teledirectory.TelephoneDirectory
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}
+#Class: class android.widget.TextView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}   class: class android.widget.TextView  id: 2131165211
+Widget id: jp.nebusoku.tool.teledirectory:id/midashi_ta
+#WidgetID: jp.nebusoku.tool.teledirectory:id/midashi_ta
+#Hash: 1106943248
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephoneDirectory
+Source Activity jp.nebusoku.tool.teledirectory.TelephoneDirectory
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1106943248
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephoneDirectory
+Source Activity jp.nebusoku.tool.teledirectory.TelephoneDirectory
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1107162656
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephoneDirectory
+Source Activity jp.nebusoku.tool.teledirectory.TelephoneDirectory
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}
+#Class: class android.widget.TextView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffbb68}   class: class android.widget.TextView  id: 2131165212
+Widget id: jp.nebusoku.tool.teledirectory:id/midashi_na
+#WidgetID: jp.nebusoku.tool.teledirectory:id/midashi_na
+#Hash: MENU
+#Event: MENU
+#Hash: 1109437264
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephoneDirectory
+Source Activity jp.nebusoku.tool.teledirectory.TelephoneDirectory
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4221a028}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4221a028}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+#Hash: 1109852760
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+Source Activity jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1109852760
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+Source Activity jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1109852760
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+Source Activity jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1109852760
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+Source Activity jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1109852760
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+Source Activity jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1109852760
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+Source Activity jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1109852760
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+Source Activity jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1109852760
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+Source Activity jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1109852760
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+Source Activity jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1109852760
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+Source Activity jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: MENU
+#Event: MENU
+#Hash: 1109852760
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+Source Activity jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1109852760
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+Source Activity jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42288318}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: BACK
+#Event: BACK
+#SourceActivity: jp.nebusoku.tool.teledirectory.TelephonePreferenceActivity
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.cyanogenmod.trebuchet.CustomHomeLauncher
+Hook Loaded App:jp.nebusoku.tool.teledirectory

@@ -1,0 +1,93 @@
+Instrumentation detected, disabling framework for com.github.uiautomator
+Hook Loaded App:com.fatdivers.sexbible
+#Hash: 1107229024
+#SourceActivity: com.fatdivers.flippershell.MainActivity
+Source Activity com.fatdivers.flippershell.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fec640}
+#Class: class android.widget.TextView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fec640}   class: class android.widget.TextView  id: -1  tag: 0
+#Tag: 0
+WidgetID: NONE
+#Tag: 0
+#Hash: 1107588160
+#SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+Source Activity com.fatdivers.flippershell.FlipperPageActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420d9ab0}
+#Class: class com.fatdivers.flippershell.ImageGallery
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420d9ab0}   class: class com.fatdivers.flippershell.ImageGallery  id: 2131099652
+Widget id: com.fatdivers.sexbible:id/galleryItemImages
+#WidgetID: com.fatdivers.sexbible:id/galleryItemImages
+#Hash: 1108105376
+#SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+Source Activity com.fatdivers.flippershell.FlipperPageActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420d9ab0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420d9ab0}   class: class android.widget.Button  id: 2131099658
+Widget id: com.fatdivers.sexbible:id/buttonCenter
+#WidgetID: com.fatdivers.sexbible:id/buttonCenter
+#ButtonText: Flip
+#Hash: 1107869032
+#SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+Source Activity com.fatdivers.flippershell.FlipperPageActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420d9ab0}
+#Class: class android.webkit.WebView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420d9ab0}   class: class android.webkit.WebView  id: 2131099656
+Widget id: com.fatdivers.sexbible:id/webViewInstructions
+#WidgetID: com.fatdivers.sexbible:id/webViewInstructions
+#Hash: 1107883792
+#SourceActivity: com.fatdivers.flippershell.FlipperPageActivity
+Source Activity com.fatdivers.flippershell.FlipperPageActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420d9ab0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420d9ab0}   class: class android.widget.Button  id: 2131099657
+Widget id: com.fatdivers.sexbible:id/buttonLeft
+#WidgetID: com.fatdivers.sexbible:id/buttonLeft
+#ButtonText: Send
+#Hash: 1103589240
+#SourceActivity: com.fatdivers.flippershell.ShareActivity
+Source Activity com.fatdivers.flippershell.ShareActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4204d9a8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4204d9a8}   class: class android.widget.Button  id: 2131099673
+Widget id: com.fatdivers.sexbible:id/buttonEmail
+#WidgetID: com.fatdivers.sexbible:id/buttonEmail
+#ButtonText: Email your Friends
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.internal.app.ChooserActivity
+#Hash: MENU
+#Event: MENU
+#Hash: 1107594872
+#SourceActivity: com.fatdivers.flippershell.ShareActivity
+Source Activity com.fatdivers.flippershell.ShareActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4204d9a8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4204d9a8}   class: class android.widget.Button  id: 2131099671
+Widget id: com.fatdivers.sexbible:id/buttonFacebook
+#WidgetID: com.fatdivers.sexbible:id/buttonFacebook
+#ButtonText: Share on Facebook
+#Hash: 1107544496
+#SourceActivity: com.fatdivers.flippershell.ShareActivity
+#DialogClass: class com.facebook.android.FbDialog
+This Dialog No Title
+#Hash: 1108252064
+#SourceActivity: com.fatdivers.flippershell.ShareActivity
+#DialogClass: class android.app.ProgressDialog
+#DialogTitle: 
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.fatdivers.flippershell.ShareActivity
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.fatdivers.flippershell.ShareActivity
+#Hash: 1106617512
+#SourceActivity: com.fatdivers.flippershell.ShareActivity
+Source Activity com.fatdivers.flippershell.ShareActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4204d9a8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4204d9a8}   class: class android.widget.Button  id: 2131099675
+Widget id: com.fatdivers.sexbible:id/buttonSina
+#WidgetID: com.fatdivers.sexbible:id/buttonSina
+#ButtonText: Share with Sina Weibo

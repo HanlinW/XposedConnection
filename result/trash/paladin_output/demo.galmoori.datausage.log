@@ -1,0 +1,486 @@
+Instrumentation detected, disabling framework for com.github.uiautomator
+Hook Loaded App:demo.galmoori.datausage
+#Hash: MENU
+#Event: MENU
+#Hash: 1109118456
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421d6330}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421d6330}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: NONE
+#MenuItemID: NONE
+#MenuItemTitle: 처음부터 다시 시작
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: 1109420480
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42215300}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42215300}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: NONE
+#MenuItemID: NONE
+#MenuItemTitle: 문제 해결
+#Hash: 1109518816
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 문제 해결
+#Hash: 1109521120
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e4ab58}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e4ab58}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1105777440
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 사용량 표시 불량 신고
+#Hash: MENU
+#Event: MENU
+#Hash: 1105788560
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421c73a8}
+#Class: class android.widget.RatingBar
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421c73a8}   class: class android.widget.RatingBar  id: -1  tag: android.widget.TextView{420e9d00 V.ED.... ......I. 10,448-950,505}
+#Tag: android.widget.TextView{420e9d00 V.ED.... ......I. 10,448-950,505}
+WidgetID: NONE
+#Tag: android.widget.TextView{420e9d00 V.ED.... ......I. 10,448-950,505}
+#Hash: 1105795656
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421c73a8}
+#Class: class android.widget.RatingBar
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421c73a8}   class: class android.widget.RatingBar  id: -1  tag: android.widget.TextView{4216e158 V.ED.... ......I. 10,781-950,838}
+#Tag: android.widget.TextView{4216e158 V.ED.... ......I. 10,781-950,838}
+WidgetID: NONE
+#Tag: android.widget.TextView{4216e158 V.ED.... ......I. 10,781-950,838}
+#Hash: 1109474904
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421c73a8}
+#Class: class android.widget.RatingBar
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421c73a8}   class: class android.widget.RatingBar  id: -1  tag: android.widget.TextView{4216eb20 V.ED.... ......I. 10,115-950,172}
+#Tag: android.widget.TextView{4216eb20 V.ED.... ......I. 10,115-950,172}
+WidgetID: NONE
+#Tag: android.widget.TextView{4216eb20 V.ED.... ......I. 10,115-950,172}
+#Hash: 1105518696
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421c73a8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421c73a8}   class: class android.widget.Button  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: 신고
+#Hash: MENU
+#Event: MENU
+#Hash: 1109420480
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421f9de8}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421f9de8}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: NONE
+#MenuItemID: NONE
+#MenuItemTitle: 문제 해결
+#Hash: 1106545560
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 문제 해결
+#Hash: 1106547312
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42161dc8}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42161dc8}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1105837408
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 사용량 표시 불량 신고
+#Hash: 1111074496
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4239c2a0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4239c2a0}   class: class android.widget.Button  id: 16908314
+Widget id: android:id/button2
+#WidgetID: android:id/button2
+#ButtonText: 닫기
+#Hash: MENU
+#Event: MENU
+#Hash: 1109420480
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423f5ca8}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423f5ca8}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: NONE
+#MenuItemID: NONE
+#MenuItemTitle: 문제 해결
+#Hash: 1111482264
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 문제 해결
+#Hash: 1111484016
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42408800}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42408800}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1111693048
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 사용량 표시 불량 신고
+#Hash: BACK
+#Event: BACK
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Hash: MENU
+#Event: MENU
+#Hash: 1109420480
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42462860}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42462860}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: NONE
+#MenuItemID: NONE
+#MenuItemTitle: 문제 해결
+#Hash: 1111927632
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 문제 해결
+#Hash: 1111929384
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424753b8}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {424753b8}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1112090968
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 3G 인터넷 사용이 불가능 합니다
+#Hash: 1112081312
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4249bcb8}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4249bcb8}   class: class android.widget.ScrollView  id: -1
+WidgetID: NONE
+#Class: class android.widget.ScrollView
+#Hash: MENU
+#Event: MENU
+#Hash: 1112121624
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4249bcb8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4249bcb8}   class: class android.widget.Button  id: 16908314
+Widget id: android:id/button2
+#WidgetID: android:id/button2
+#ButtonText: 닫기
+#Hash: MENU
+#Event: MENU
+#Hash: 1109420480
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424d6350}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {424d6350}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: NONE
+#MenuItemID: NONE
+#MenuItemTitle: 문제 해결
+#Hash: 1112401472
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 문제 해결
+#Hash: 1112402760
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424e8cd8}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {424e8cd8}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1112549384
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 3G 인터넷 사용이 불가능 합니다
+#Hash: 1112574584
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4250bb18}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4250bb18}   class: class android.widget.Button  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: APN 설정
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.settings.Settings$ApnSettingsActivity
+#Hash: MENU
+#Event: MENU
+#Hash: 1109420480
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42400f08}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42400f08}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: NONE
+#MenuItemID: NONE
+#MenuItemTitle: 문제 해결
+#Hash: 1108775080
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 문제 해결
+#Hash: 1105554344
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a120}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a120}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1112164976
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 3G 인터넷 사용이 불가능 합니다
+#Hash: BACK
+#Event: BACK
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Hash: MENU
+#Event: MENU
+#Hash: 1109420480
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424a1a40}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {424a1a40}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: NONE
+#MenuItemID: NONE
+#MenuItemTitle: 문제 해결
+#Hash: 1111567168
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 문제 해결
+#Hash: MENU
+#Event: MENU
+#Hash: 1108788312
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424dacd8}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {424dacd8}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.internal.app.ResolverActivity
+#Hash: MENU
+#Event: MENU
+#Hash: 1109420480
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e81510}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e81510}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: NONE
+#MenuItemID: NONE
+#MenuItemTitle: 문제 해결
+#Hash: 1111794608
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 문제 해결
+#Hash: 1111989088
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4245f7d0}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4245f7d0}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1112355304
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 사용량이 정확하지 않습니다
+#Hash: BACK
+#Event: BACK
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Hash: MENU
+#Event: MENU
+#Hash: 1109420480
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42583e50}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42583e50}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: NONE
+#MenuItemID: NONE
+#MenuItemTitle: 문제 해결
+#Hash: 1113112896
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 문제 해결
+#Hash: BACK
+#Event: BACK
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Hash: 1109318344
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421f60f8}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421f60f8}   class: class android.widget.LinearLayout  id: 0
+android.content.res.Resources$NotFoundException: Unable to find resource ID #0x0
+	at android.content.res.Resources.getResourceName(Resources.java:1900)
+	at com.example.root.xposed.click.onTouchEventInject.hookTouchEvent(onTouchEventInject.java:79)
+	at com.example.root.xposed.click.onTouchEventInject$2.afterHookedMethod(onTouchEventInject.java:130)
+	at de.robv.android.xposed.XposedBridge.handleHookedMethod(XposedBridge.java:645)
+	at android.view.View.dispatchTouchEvent(Native Method)
+	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:2210)
+	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:1945)
+	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:2216)
+	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:1917)
+	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:2216)
+	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:1917)
+	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:2216)
+	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:1917)
+	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:2216)
+	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:1917)
+	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:2216)
+	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:1917)
+	at com.android.internal.policy.impl.PhoneWindow$DecorView.superDispatchTouchEvent(PhoneWindow.java:2329)
+	at com.android.internal.policy.impl.PhoneWindow.superDispatchTouchEvent(PhoneWindow.java:1568)
+	at android.app.Activity.dispatchTouchEvent(Activity.java:2458)
+	at com.android.internal.policy.impl.PhoneWindow$DecorView.dispatchTouchEvent(PhoneWindow.java:2277)
+	at android.view.View.dispatchPointerEvent(View.java:7893)
+	at android.view.ViewRootImpl$ViewPostImeInputStage.processPointerEvent(ViewRootImpl.java:3950)
+	at android.view.ViewRootImpl$ViewPostImeInputStage.onProcess(ViewRootImpl.java:3829)
+	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3395)
+	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3445)
+	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3414)
+	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3521)
+	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3422)
+	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:3578)
+	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3395)
+	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3445)
+	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3414)
+	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3422)
+	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3395)
+	at android.view.ViewRootImpl.deliverInputEvent(ViewRootImpl.java:5535)
+	at android.view.ViewRootImpl.doProcessInputEvents(ViewRootImpl.java:5515)
+	at android.view.ViewRootImpl.enqueueInputEvent(ViewRootImpl.java:5486)
+	at android.view.ViewRootImpl$WindowInputEventReceiver.onInputEvent(ViewRootImpl.java:5615)
+	at android.view.InputEventReceiver.dispatchInputEvent(InputEventReceiver.java:185)
+	at android.os.MessageQueue.nativePollOnce(Native Method)
+	at android.os.MessageQueue.next(MessageQueue.java:138)
+	at android.os.Looper.loop(Looper.java:123)
+	at android.app.ActivityThread.main(ActivityThread.java:5146)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:515)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:732)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:566)
+	at de.robv.android.xposed.XposedBridge.main(XposedBridge.java:132)
+	at dalvik.system.NativeStart.main(Native Method)
+#Hash: 1109318344
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421f60f8}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421f60f8}   class: class android.widget.LinearLayout  id: 0
+android.content.res.Resources$NotFoundException: Unable to find resource ID #0x0
+	at android.content.res.Resources.getResourceName(Resources.java:1900)
+	at com.example.root.xposed.click.onTouchEventInject.hookTouchEvent(onTouchEventInject.java:79)
+	at com.example.root.xposed.click.onTouchEventInject$2.afterHookedMethod(onTouchEventInject.java:130)
+	at de.robv.android.xposed.XposedBridge.handleHookedMethod(XposedBridge.java:645)
+	at android.view.View.dispatchTouchEvent(Native Method)
+	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:2210)
+	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:1945)
+	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:2216)
+	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:1917)
+	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:2216)
+	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:1917)
+	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:2216)
+	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:1917)
+	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:2216)
+	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:1917)
+	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:2216)
+	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:1917)
+	at com.android.internal.policy.impl.PhoneWindow$DecorView.superDispatchTouchEvent(PhoneWindow.java:2329)
+	at com.android.internal.policy.impl.PhoneWindow.superDispatchTouchEvent(PhoneWindow.java:1568)
+	at android.app.Activity.dispatchTouchEvent(Activity.java:2458)
+	at com.android.internal.policy.impl.PhoneWindow$DecorView.dispatchTouchEvent(PhoneWindow.java:2277)
+	at android.view.View.dispatchPointerEvent(View.java:7893)
+	at android.view.ViewRootImpl$ViewPostImeInputStage.processPointerEvent(ViewRootImpl.java:3950)
+	at android.view.ViewRootImpl$ViewPostImeInputStage.onProcess(ViewRootImpl.java:3829)
+	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3395)
+	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3445)
+	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3414)
+	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3521)
+	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3422)
+	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:3578)
+	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3395)
+	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3445)
+	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3414)
+	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3422)
+	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3395)
+	at android.view.ViewRootImpl.deliverInputEvent(ViewRootImpl.java:5535)
+	at android.view.ViewRootImpl.doProcessInputEvents(ViewRootImpl.java:5515)
+	at android.view.ViewRootImpl.enqueueInputEvent(ViewRootImpl.java:5486)
+	at android.view.ViewRootImpl$WindowInputEventReceiver.onInputEvent(ViewRootImpl.java:5615)
+	at android.view.InputEventReceiver.dispatchInputEvent(InputEventReceiver.java:185)
+	at android.os.MessageQueue.nativePollOnce(Native Method)
+	at android.os.MessageQueue.next(MessageQueue.java:138)
+	at android.os.Looper.loop(Looper.java:123)
+	at android.app.ActivityThread.main(ActivityThread.java:5146)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:515)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:732)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:566)
+	at de.robv.android.xposed.XposedBridge.main(XposedBridge.java:132)
+	at dalvik.system.NativeStart.main(Native Method)
+#Hash: 1109331016
+#SourceActivity: demo.galmoori.datausage.activity.SetupWizardActivityKor
+Source Activity demo.galmoori.datausage.activity.SetupWizardActivityKor
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421f60f8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421f60f8}   class: class android.widget.ImageButton  id: -1
+WidgetID: NONE
+#Class: class android.widget.ImageButton

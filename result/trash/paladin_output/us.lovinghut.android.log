@@ -1,0 +1,159 @@
+Instrumentation detected, disabling framework for com.github.uiautomator
+Hook Loaded App:us.lovinghut.android
+#Hash: 1105358240
+#SourceActivity: us.lovinghut.android.main
+Source Activity us.lovinghut.android.main
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e40790}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e40790}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: 1105365312
+#SourceActivity: us.lovinghut.android.main
+Source Activity us.lovinghut.android.main
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e40790}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e40790}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: MENU
+#Event: MENU
+#Hash: 1129651512
+#SourceActivity: us.lovinghut.android.blog_display
+Source Activity us.lovinghut.android.blog_display
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41d1b528}
+#Class: class android.webkit.WebView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41d1b528}   class: class android.webkit.WebView  id: -1
+WidgetID: NONE
+#Class: class android.webkit.WebView
+#Hash: BACK
+#Event: BACK
+#SourceActivity: us.lovinghut.android.blog_display
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: 1103504240
+#SourceActivity: us.lovinghut.android.main
+Source Activity us.lovinghut.android.main
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cb7f60}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cb7f60}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: us.lovinghut.android:id/refresh
+#MenuItemID: us.lovinghut.android:id/refresh
+#MenuItemTitle: Refresh
+#Hash: 1104054504
+#SourceActivity: us.lovinghut.android.main
+#DialogClass: class android.app.ProgressDialog
+#DialogTitle: Status
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: us.lovinghut.android.main
+#Hash: BACK
+#Event: BACK
+#SourceActivity: us.lovinghut.android.main
+#Hash: BACK
+#Event: BACK
+#SourceActivity: us.lovinghut.android.main
+Hook Loaded App:us.lovinghut.android
+#Hash: 1105361968
+#SourceActivity: us.lovinghut.android.main
+Source Activity us.lovinghut.android.main
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e41590}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e41590}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: MENU
+#Event: MENU
+#Hash: 1129866824
+#SourceActivity: us.lovinghut.android.main
+Source Activity us.lovinghut.android.main
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {435a0098}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {435a0098}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: us.lovinghut.android:id/quit
+#MenuItemID: us.lovinghut.android:id/quit
+#MenuItemTitle: Close
+#Hash: MENU
+#Event: MENU
+#Hash: 1129689552
+#SourceActivity: us.lovinghut.android.main
+Source Activity us.lovinghut.android.main
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {435c7d10}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {435c7d10}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: us.lovinghut.android:id/info
+#MenuItemID: us.lovinghut.android:id/info
+#MenuItemTitle: Info
+#Hash: MENU
+#Event: MENU
+#Hash: 1130203448
+#SourceActivity: us.lovinghut.android.info
+Source Activity us.lovinghut.android.info
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {435fd088}
+#Class: class android.webkit.WebView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {435fd088}   class: class android.webkit.WebView  id: -1
+WidgetID: NONE
+#Class: class android.webkit.WebView
+#Hash: BACK
+#Event: BACK
+#SourceActivity: us.lovinghut.android.info
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: us.lovinghut.android.main
+#Hash: 1105361968
+#SourceActivity: us.lovinghut.android.main
+Source Activity us.lovinghut.android.main
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e41590}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e41590}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: 1105372768
+#SourceActivity: us.lovinghut.android.main
+Source Activity us.lovinghut.android.main
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e41590}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e41590}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: BACK
+#Event: BACK
+#SourceActivity: us.lovinghut.android.blog_display
+#Hash: 1105442688
+#SourceActivity: us.lovinghut.android.main
+Source Activity us.lovinghut.android.main
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e41590}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e41590}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: 1105361968
+#SourceActivity: us.lovinghut.android.main
+Source Activity us.lovinghut.android.main
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e41590}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e41590}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: 1105048000
+#SourceActivity: us.lovinghut.android.main
+Source Activity us.lovinghut.android.main
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e41590}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e41590}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout

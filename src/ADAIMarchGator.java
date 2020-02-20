@@ -80,7 +80,7 @@ class ADAIMarchGator {
 		System.out.println("Marched: " +Marched);
 	}
 	
-	public static String GatorDotPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/smsdroidGator.dot";
+	public static String GatorDotPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/GatorDOT/de.ub0r.android.smsdroid.apk.wtg.dot";
 	
 	public static String ADAIFilePath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/groundtruth/de.ub0r.android.smsdroid.txt";
 	public static String ADAIDotPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/groundDOT/de.ub0r.android.smsdroid.dot";
@@ -91,7 +91,7 @@ class ADAIMarchGator {
 	public static void main(String[] args){
 		
 		// Read Graph.Json from Paladin
-		Gson g = new Gson();
+		/*Gson g = new Gson();
 		try {
 			PaladinGraph2Dot myPala = new PaladinGraph2Dot(PaladinFilePath, PaladinOutputPath);
 			
@@ -102,7 +102,7 @@ class ADAIMarchGator {
 		} catch (JsonSyntaxException | JsonIOException | FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}
+		}*/
 		
 		// Read dot file from Gator 
 		GatorDot2C myGator = new GatorDot2C(GatorDotPath);
