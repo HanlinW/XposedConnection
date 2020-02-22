@@ -26,8 +26,11 @@ public class ADAI2Dot{
 	public LinkedList<PathTree> graphPaths = new LinkedList<PathTree>();
 	public class PathTree {
 		public boolean equals(PathTree a){
-			if (src.equals(a.src) && tgt.equals(a.tgt) && handler.equals(a.handler) && widgetID.equals(a.widgetID) && className.equals(a.className) &&
-				dialogClass.equals(a.dialogClass) && event.equals(a.event)) return true;
+			if (src.equals(a.src) && tgt.equals(a.tgt)  && widgetID.equals(a.widgetID) && className.equals(a.className) &&
+				dialogClass.equals(a.dialogClass) && event.equals(a.event) && buttonText.equals(a.buttonText) && menuItemID.equals(a.menuItemID) 
+				&& dialogTitle.equals(a.dialogTitle) //&& handler.equals(a.handler)
+				)
+				return true;
 			else return false;
 		}
 		public PathTree(String source, String target){
@@ -185,6 +188,149 @@ public class ADAI2Dot{
 		
 	}
 	public void Run(){
+		if (ADAIFilePath.contains(".txt")) {
+			this.Txtfile();
+		} else {
+			//System.out.println("Do log file");
+			this.Logfile();
+		}
+		
+	}
+	public void Logfile(){
+		int Aline = ADAIFile.size();
+		int i = 0;
+		String srcActName, handler, widgetID, tgtActName, className, 
+				dialogClass, dialogTitle, buttonText, hash ,event, menuItemID; 
+		srcActName = "";
+		handler = "";
+		widgetID = "";
+		tgtActName = ""; 
+		className = "";
+		dialogClass = "";
+		dialogTitle = "";
+		buttonText = "";
+		menuItemID = "";
+		hash = "";
+		event = "CLICK";
+		Boolean new_path = true;
+		PathTree nowPath = root;
+		while (i < Aline) {
+			String line = ADAIFile.get(i);
+			if (line.split(": ").length ==1) {
+				//Empty attribute
+				i ++;
+				continue; 
+			}
+			if (line.charAt(0)!='#') {
+				i ++;
+				continue;
+			} else {
+				line = line.substring(1);
+			}
+			
+			String a = line.split(": ")[1];
+
+			if (line.contains("Hash: ")){
+				if (a.contains("MENU") && srcActName ==""){
+					// skip the empty path
+					new_path = true;
+				} else if (new_path) {
+					new_path = false;
+				} else if (i != 0){
+					// another path, save all current data
+					PathTree putPath = new PathTree(srcActName, tgtActName);
+					putPath.handler = handler;
+					putPath.widgetID = widgetID;
+					putPath.className = className;
+					putPath.dialogClass = dialogClass;
+					putPath.dialogTitle = dialogTitle;
+					putPath.buttonText = buttonText;
+					putPath.event = event;
+					putPath.menuItemID = menuItemID;
+					putPath.hash = hash;
+					nowPath.next = putPath;
+					nowPath = putPath;
+					
+					srcActName = "";
+					handler = "";
+					widgetID = "";
+					tgtActName = ""; 
+					className = "";
+					dialogClass = "";
+					dialogTitle = "";
+					buttonText = "";
+					menuItemID = "";
+					event = "CLICK";
+					hash = "";
+					//new_path = true;	
+				}
+
+				hash = a;
+
+				if (!Widgets.containsKey(hash)) {
+					Widgets.put(hash, 0);
+				} else {
+					Widgets.replace(hash, Widgets.get(hash) + 1 );
+				}
+				
+			} else if (line.contains("SourceActivity: ")) {
+				srcActName = a;
+				if (a.charAt(0)=='.') {
+					srcActName = srcActName.substring(1);
+				}
+				if (!Activities.containsKey(srcActName)) {
+					Activities.put(srcActName, acts);
+					acts ++;
+				}
+				
+			} else if (line.contains("TargetActivity: ")) {
+				tgtActName = a;
+				if (a.charAt(0)=='.') {
+					tgtActName = tgtActName.substring(1);
+				}
+				
+				if (!Activities.containsKey(tgtActName)) {
+					Activities.put(tgtActName, acts);
+					acts ++;
+				}
+			} else if (line.contains("WidgetID: ")){
+				widgetID = a;
+			} else if (line.contains("Handler: ")){
+				handler = a;
+			} else if (line.contains("DialogClass: ")){
+				dialogClass = a;
+			} else if (line.contains("Class: ")){
+				className = a;
+				if (className.contains("MenuItem")) {
+					className = "class android.view.MenuItem";
+				}
+			} else if (line.contains("DialogTitle: ")) {
+				dialogTitle = a; 
+			} else if (line.contains("ButtonText: ")){
+				buttonText = a;
+			} else if (line.contains("Event: ")) {
+				event = a;
+			} else if (line.contains("MenuItemID: ")) {
+				menuItemID = a;
+			}
+			i++;
+		}
+		
+		// Put last path in tree
+		PathTree putPath = new PathTree(srcActName, tgtActName);
+		putPath.handler = handler;
+		putPath.widgetID = widgetID;
+		putPath.className = className;
+		putPath.dialogClass = dialogClass;
+		putPath.dialogTitle = dialogTitle;
+		putPath.buttonText = buttonText;
+		putPath.event = event;
+		putPath.hash = hash;
+		nowPath.next = putPath;
+		nowPath = putPath;
+		nowPath.next = null;		
+	}
+	public void Txtfile(){
 		int Aline = ADAIFile.size();
 		int i = 0;
 		String srcActName, handler, widgetID, tgtActName, className, 
@@ -310,7 +456,6 @@ public class ADAI2Dot{
 		nowPath.next = putPath;
 		nowPath = putPath;
 		nowPath.next = null;
-		
 	}
 	
 	public boolean find(PathTree target) {
@@ -328,7 +473,6 @@ public class ADAI2Dot{
 			if (find(current)){
 				
 			} else {
-				checkPath.add(current);
 				graphPaths.add(current);
 			}
 		}

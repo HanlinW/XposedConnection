@@ -99,6 +99,9 @@ class GatorDot2C {
 				String detail = "LAUNCHER_NODE";
 				vertex v = new vertex (detail, false, false);
 				Boxes.put(index, v);
+			} else {
+				vertex v = new vertex (act, false ,false);
+				Boxes.put(index, v);
 			}
 			
 			start ++;
@@ -106,6 +109,7 @@ class GatorDot2C {
 		
 		while (start < len-1) {
 			String temp = GatorFile.get(start);
+			
 			String two = temp.split(" \\[label")[0];
 			String index1 = two.split(" -> ")[0];
 			String index2 = two.split(" -> ")[1];
@@ -136,7 +140,9 @@ class GatorDot2C {
 				}
 			}
 			
-			if (event.contains("implicit_power") || event.contains("implicit_rotate") || event.contains("implicit_home")) {
+			if (event.contains("implicit_power") || event.contains("implicit_rotate") || event.contains("implicit_home")) 
+			{
+				// Empty
 			} else{
 				vertex src = Boxes.get(index1);
 				vertex tgt = Boxes.get(index2);
