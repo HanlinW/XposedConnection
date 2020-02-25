@@ -125,8 +125,7 @@ class ADAIMarchGator {
 		// Read Graph.Json from Paladin
 		/*Gson g = new Gson();
 		try {
-			PaladinGraph2Dot myPala = new PaladinGraph2Dot(PaladinFilePath, PaladinOutputPath);
-			
+			PaladinGraph2Dot myPala = new PaladinGraph2Dot(PaladinFilePath, PaladinOutputPath);			
 			PaladinGraph2Dot.Activities act = g.fromJson(new FileReader(myPala.PaladinGraphPath), PaladinGraph2Dot.Activities.class);
 			myPala.BuildDot(act);
 			System.out.println("Paldin Graph:" +myPala.allPaths.size());
@@ -157,7 +156,7 @@ class ADAIMarchGator {
 		CompareTwo(myGator, myADAI);
 		// Compare Gator with paladin + ProMal
 		System.out.println("Compare Gator with paladin + ProMal");
-		CompareTwo(myGator,paladinADAI);
+		CompareTwo(myGator, paladinADAI);
 		// Compare paladin + ProMal with ground truth
 		System.out.println("Compare paladin + ProMal with ground truth");
 		CompareADAI(paladinADAI, myADAI);
