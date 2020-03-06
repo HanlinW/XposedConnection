@@ -1,0 +1,44 @@
+Instrumentation detected, disabling framework for com.github.uiautomator
+Hook Loaded App:com.fisheradelakin.interactivestory
+#Hash: 1107984656
+#SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Source Activity com.fisheradelakin.interactivestory.ui.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420b5c88}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420b5c88}   class: class android.widget.Button  id: 2131427392
+Widget id: com.fisheradelakin.interactivestory:id/startButton
+#WidgetID: com.fisheradelakin.interactivestory:id/startButton
+#ButtonText: START YOUR ADVENTURE
+#Hash: 1108022832
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b23d90}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b23d90}   class: class android.widget.Button  id: 2131427397
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton1
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+#ButtonText: Stop and investigate
+#Hash: MENU
+#Event: MENU
+#Hash: 1108120640
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b23d90}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b23d90}   class: class android.widget.Button  id: 2131427396
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton2
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+#ButtonText: Explore the rover
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+#Hash: MENU
+#Event: MENU
+#Hash: 1107989336
+#SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Source Activity com.fisheradelakin.interactivestory.ui.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420b5c88}
+#Class: class android.support.v7.internal.widget.TintEditText
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420b5c88}   class: class android.support.v7.internal.widget.TintEditText  id: 2131427393
+Widget id: com.fisheradelakin.interactivestory:id/nameEditText
+#WidgetID: com.fisheradelakin.interactivestory:id/nameEditText

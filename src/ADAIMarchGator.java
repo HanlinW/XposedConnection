@@ -1,5 +1,8 @@
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
@@ -81,6 +84,12 @@ class ADAIMarchGator {
 		//System.out.println(myADAI.allPaths.size());
 		System.out.println("ADAI full path: " + myADAI.graphPaths.size());
 		System.out.println("Marched: " +Marched);
+		OutputToFile("Gator full edges: " + myGator.Edges.size(), conclusionPath);
+		OutputToFile("ADAI full edges: " + myADAI.graphPaths.size(), conclusionPath);
+		OutputToFile("Marched:" + Marched, conclusionPath);
+		OutputToFile("Gator full nodes: " + myGator.Boxes.size(), conclusionPath);
+		OutputToFile("ADAI full nodes: " + myADAI.Activities.size(), conclusionPath);
+		
 	}
 	
 	public static void CompareADAI(ADAI2Dot a, ADAI2Dot groundtruth) {
@@ -107,8 +116,21 @@ class ADAIMarchGator {
 		}
 		
 		System.out.println("Marched:" + Marched);
+		OutputToFile("Marched:" + Marched, conclusionPath);
 	}
-	public static String APKname = "yuku.mp3recorder.lite";
+	
+	public static boolean OutputToFile(String line, String path){
+		File file = new File(path);
+		try {
+			FileWriter Afile = new FileWriter(file,true);
+			Afile.write(line + '\n');
+			Afile.close();
+		} catch (IOException e) {
+			System.out.println(e);
+		}
+		return true;
+	}
+	public static String APKname = "br.com.smartfingers.spreadlyrics";
 	
 	public static String GatorDotPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/GatorDOT/" + APKname + ".apk.wtg.dot";
 	
@@ -119,6 +141,8 @@ class ADAIMarchGator {
 	
 	public static String PaladinFilePath = "/Users/hanlinwang/Desktop/thesis3/myAPK/Paladin-output/graph-" + APKname + ".json";
 	public static String PaladinOutputPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/" + APKname + "Paladin.dot";
+	
+	public static String conclusionPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/conclusion/" + APKname + ".txt";
 	
 	public static void main(String[] args){
 		
@@ -136,6 +160,7 @@ class ADAIMarchGator {
 		}
 		*/
 		// Read dot file from Gator 
+		/*
 		GatorDot2C myGator = new GatorDot2C(GatorDotPath);
 		myGator.Read();
 		myGator.Dot2Class();
@@ -153,12 +178,21 @@ class ADAIMarchGator {
 		
 		// Compare Gator with ground truth
 		System.out.println("Compare Gator with ground truth");
+		OutputToFile("Compare Gator with ground truth", conclusionPath);
 		CompareTwo(myGator, myADAI);
 		// Compare Gator with paladin + ProMal
 		System.out.println("Compare Gator with paladin + ProMal");
-		CompareTwo(myGator, paladinADAI);
+		OutputToFile("Compare Gator with paladin + ProMal", conclusionPath);
+		CompareTwo(myGator,paladinADAI);
 		// Compare paladin + ProMal with ground truth
 		System.out.println("Compare paladin + ProMal with ground truth");
-		CompareADAI(paladinADAI, myADAI);
+		OutputToFile("Compare paladin + ProMal with ground truth", conclusionPath);
+		CompareADAI(paladinADAI, myADAI);*/
+		
+		ADAI2Dot aADAI = new ADAI2Dot("/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/groundtruth/de.ub0r.android.smsdroid_ViewTree.txt", ADAIDotPath);
+		aADAI.ReadLog();
+		aADAI.Run();
+		aADAI.BuildPath();
+		
 	}
 }

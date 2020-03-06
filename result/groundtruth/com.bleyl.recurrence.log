@@ -1,0 +1,1820 @@
+Hook Loaded App:com.bleyl.recurrence
+#Hash: 1106095216
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.design.widget.FloatingActionButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.design.widget.FloatingActionButton  id: 2131689618
+Widget id: com.bleyl.recurrence:id/fab_button
+#WidgetID: com.bleyl.recurrence:id/fab_button
+#Hash: 1108514296
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}   class: class android.widget.LinearLayout  id: 2131689591
+Widget id: com.bleyl.recurrence:id/time_row
+#WidgetID: com.bleyl.recurrence:id/time_row
+#Hash: 1109156968
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#DialogClass: class android.app.TimePickerDialog
+#DialogTitle: 设置时间
+#Hash: 1109314896
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42221860}
+#Class: class android.support.v7.widget.AppCompatButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42221860}   class: class android.support.v7.widget.AppCompatButton  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: 完成
+#Hash: 1108514296
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}   class: class android.widget.LinearLayout  id: 2131689591
+Widget id: com.bleyl.recurrence:id/time_row
+#WidgetID: com.bleyl.recurrence:id/time_row
+#Hash: 1109784120
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#DialogClass: class android.app.TimePickerDialog
+#DialogTitle: 设置时间
+#Hash: 1109801408
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4227ba70}
+#Class: class android.widget.NumberPicker
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4227ba70}   class: class android.widget.NumberPicker  id: 16909136
+Widget id: android:id/minute
+#WidgetID: android:id/minute
+#Hash: 1109801408
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4227ba70}
+#Class: class android.widget.NumberPicker
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4227ba70}   class: class android.widget.NumberPicker  id: 16909136
+Widget id: android:id/minute
+#WidgetID: android:id/minute
+#Hash: 1109789040
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4227ba70}
+#Class: class android.widget.NumberPicker
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4227ba70}   class: class android.widget.NumberPicker  id: 16909135
+Widget id: android:id/hour
+#WidgetID: android:id/hour
+#Hash: 1109789040
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4227ba70}
+#Class: class android.widget.NumberPicker
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4227ba70}   class: class android.widget.NumberPicker  id: 16909135
+Widget id: android:id/hour
+#WidgetID: android:id/hour
+#Hash: 1109894120
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4227ba70}
+#Class: class android.support.v7.widget.AppCompatButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4227ba70}   class: class android.support.v7.widget.AppCompatButton  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: 完成
+#Hash: 1108565336
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}   class: class android.widget.LinearLayout  id: 2131689595
+Widget id: com.bleyl.recurrence:id/date_row
+#WidgetID: com.bleyl.recurrence:id/date_row
+#Hash: 1110352408
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#DialogClass: class android.app.DatePickerDialog
+#DialogTitle: 2020年2月23日周日
+#Hash: 1110542016
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42319d48}
+#Class: class android.support.v7.widget.AppCompatButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42319d48}   class: class android.support.v7.widget.AppCompatButton  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: 完成
+#Hash: 1108594784
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}   class: class android.widget.LinearLayout  id: 2131689598
+Widget id: com.bleyl.recurrence:id/icon_select
+#WidgetID: com.bleyl.recurrence:id/icon_select
+#Hash: 1107987464
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#DialogClass: class android.support.v7.app.AlertDialog
+This Dialog No Title
+#Hash: 1106065312
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b6330}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b6330}   class: class android.widget.LinearLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.LinearLayout
+#Hash: 1108600256
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}   class: class android.widget.LinearLayout  id: 2131689601
+Widget id: com.bleyl.recurrence:id/colour_select
+#WidgetID: com.bleyl.recurrence:id/colour_select
+#Hash: 1110593520
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#DialogClass: class com.afollestad.materialdialogs.MaterialDialog
+This Dialog No Title
+#Hash: 1110507352
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41bd7240}
+#Class: class com.afollestad.materialdialogs.color.CircleView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41bd7240}   class: class com.afollestad.materialdialogs.color.CircleView  id: -1  tag: 6:-4048015
+#Tag: 6:-4048015
+WidgetID: NONE
+#Tag: 6:-4048015
+#Hash: 1109958840
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41bd7240}
+#Class: class com.afollestad.materialdialogs.internal.MDButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41bd7240}   class: class com.afollestad.materialdialogs.internal.MDButton  id: 2131689653  tag: POSITIVE
+#Tag: POSITIVE
+Widget id: com.bleyl.recurrence:id/buttonDefaultPositive
+#WidgetID: com.bleyl.recurrence:id/buttonDefaultPositive
+#Hash: 1108628032
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}   class: class android.widget.LinearLayout  id: 2131689604
+Widget id: com.bleyl.recurrence:id/repeat_row
+#WidgetID: com.bleyl.recurrence:id/repeat_row
+#Hash: 1108514296
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}   class: class android.widget.LinearLayout  id: 2131689591
+Widget id: com.bleyl.recurrence:id/time_row
+#WidgetID: com.bleyl.recurrence:id/time_row
+#Hash: 1110815128
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#DialogClass: class android.app.TimePickerDialog
+#DialogTitle: 设置时间
+#Hash: 1110820048
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42379918}
+#Class: class android.widget.NumberPicker
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42379918}   class: class android.widget.NumberPicker  id: 16909135
+Widget id: android:id/hour
+#WidgetID: android:id/hour
+#Hash: 1110834424
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42379918}
+#Class: class android.widget.NumberPicker
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42379918}   class: class android.widget.NumberPicker  id: 16909136
+Widget id: android:id/minute
+#WidgetID: android:id/minute
+#Hash: 1110834424
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42379918}
+#Class: class android.widget.NumberPicker
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42379918}   class: class android.widget.NumberPicker  id: 16909136
+Widget id: android:id/minute
+#WidgetID: android:id/minute
+#Hash: 1110834424
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42379918}
+#Class: class android.widget.NumberPicker
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42379918}   class: class android.widget.NumberPicker  id: 16909136
+Widget id: android:id/minute
+#WidgetID: android:id/minute
+#Hash: 1110934160
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42379918}
+#Class: class android.support.v7.widget.AppCompatButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42379918}   class: class android.support.v7.widget.AppCompatButton  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: 完成
+#Hash: 1108438944
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}
+#Class: class android.support.v7.widget.AppCompatEditText
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}   class: class android.support.v7.widget.AppCompatEditText  id: 2131689589
+Widget id: com.bleyl.recurrence:id/notification_title
+#WidgetID: com.bleyl.recurrence:id/notification_title
+#Hash: 1108438944
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}
+#Class: class android.support.v7.widget.AppCompatEditText
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}   class: class android.support.v7.widget.AppCompatEditText  id: 2131689589
+Widget id: com.bleyl.recurrence:id/notification_title
+#WidgetID: com.bleyl.recurrence:id/notification_title
+#Hash: 1108438944
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}
+#Class: class android.support.v7.widget.AppCompatEditText
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}   class: class android.support.v7.widget.AppCompatEditText  id: 2131689589
+Widget id: com.bleyl.recurrence:id/notification_title
+#WidgetID: com.bleyl.recurrence:id/notification_title
+#Hash: 1108438944
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}
+#Class: class android.support.v7.widget.AppCompatEditText
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}   class: class android.support.v7.widget.AppCompatEditText  id: 2131689589
+Widget id: com.bleyl.recurrence:id/notification_title
+#WidgetID: com.bleyl.recurrence:id/notification_title
+#Hash: 1108906616
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}
+#Class: class android.support.v7.view.menu.ActionMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421769b0}   class: class android.support.v7.view.menu.ActionMenuItemView  id: 2131689692
+Widget id: com.bleyl.recurrence:id/action_save
+#WidgetID: com.bleyl.recurrence:id/action_save
+#Hash: 1111334904
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423bf1a0}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423bf1a0}   class: class android.widget.ScrollView  id: 2131689499
+Widget id: com.bleyl.recurrence:id/scroll
+#WidgetID: com.bleyl.recurrence:id/scroll
+#Hash: 1111334904
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423bf1a0}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423bf1a0}   class: class android.widget.ScrollView  id: 2131689499
+Widget id: com.bleyl.recurrence:id/scroll
+#WidgetID: com.bleyl.recurrence:id/scroll
+#Hash: 1111334904
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423bf1a0}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423bf1a0}   class: class android.widget.ScrollView  id: 2131689499
+Widget id: com.bleyl.recurrence:id/scroll
+#WidgetID: com.bleyl.recurrence:id/scroll
+#Hash: 1111334904
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423bf1a0}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423bf1a0}   class: class android.widget.ScrollView  id: 2131689499
+Widget id: com.bleyl.recurrence:id/scroll
+#WidgetID: com.bleyl.recurrence:id/scroll
+#Hash: 1110090456
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423bf1a0}
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423bf1a0}   class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+#Hash: 1102924312
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4236d560}
+#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4236d560}   class: class android.support.v7.widget.ListPopupWindow$DropDownListView  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+#Hash: 1110090456
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423bf1a0}
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423bf1a0}   class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+#Hash: 1111503032
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424076a8}
+#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {424076a8}   class: class android.support.v7.widget.ListPopupWindow$DropDownListView  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+#Hash: 1110014352
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423bf1a0}
+#Class: class android.support.v7.view.menu.ActionMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423bf1a0}   class: class android.support.v7.view.menu.ActionMenuItemView  id: 2131689695
+Widget id: com.bleyl.recurrence:id/action_edit
+#WidgetID: com.bleyl.recurrence:id/action_edit
+#Hash: 1110578448
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422665f8}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422665f8}   class: class android.widget.LinearLayout  id: 2131689595
+Widget id: com.bleyl.recurrence:id/date_row
+#WidgetID: com.bleyl.recurrence:id/date_row
+#Hash: 1105973224
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422665f8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422665f8}   class: class android.widget.ImageButton  id: -1
+WidgetID: NONE
+#Class: class android.widget.ImageButton
+#Hash: 1110050016
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}   class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+#Hash: 1108822624
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+java.lang.NullPointerException
+	at com.example.root.xposed.click.onTouchEventInject.hookTouchEvent(onTouchEventInject.java:56)
+	at com.example.root.xposed.click.onTouchEventInject$2.afterHookedMethod(onTouchEventInject.java:130)
+	at de.robv.android.xposed.XposedBridge.handleHookedMethod(XposedBridge.java:645)
+	at android.view.View.dispatchTouchEvent(Native Method)
+	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:2210)
+	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:1945)
+	at android.widget.PopupWindow$PopupViewContainer.dispatchTouchEvent(PopupWindow.java:1633)
+	at android.view.View.dispatchPointerEvent(View.java:7893)
+	at android.view.ViewRootImpl$ViewPostImeInputStage.processPointerEvent(ViewRootImpl.java:3950)
+	at android.view.ViewRootImpl$ViewPostImeInputStage.onProcess(ViewRootImpl.java:3829)
+	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3395)
+	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3445)
+	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3414)
+	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3521)
+	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3422)
+	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:3578)
+	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3395)
+	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3445)
+	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3414)
+	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3422)
+	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3395)
+	at android.view.ViewRootImpl.deliverInputEvent(ViewRootImpl.java:5535)
+	at android.view.ViewRootImpl.doProcessInputEvents(ViewRootImpl.java:5515)
+	at android.view.ViewRootImpl.enqueueInputEvent(ViewRootImpl.java:5486)
+	at android.view.ViewRootImpl$WindowInputEventReceiver.onInputEvent(ViewRootImpl.java:5615)
+	at android.view.InputEventReceiver.dispatchInputEvent(InputEventReceiver.java:185)
+	at android.os.MessageQueue.nativePollOnce(Native Method)
+	at android.os.MessageQueue.next(MessageQueue.java:138)
+	at android.os.Looper.loop(Looper.java:123)
+	at android.app.ActivityThread.main(ActivityThread.java:5146)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:515)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:732)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:566)
+	at de.robv.android.xposed.XposedBridge.main(XposedBridge.java:132)
+	at dalvik.system.NativeStart.main(Native Method)
+#Hash: 1108922440
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}   class: class android.widget.ScrollView  id: 2131689499
+Widget id: com.bleyl.recurrence:id/scroll
+#WidgetID: com.bleyl.recurrence:id/scroll
+#Hash: 1108922440
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}   class: class android.widget.ScrollView  id: 2131689499
+Widget id: com.bleyl.recurrence:id/scroll
+#WidgetID: com.bleyl.recurrence:id/scroll
+#Hash: 1108922440
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}   class: class android.widget.ScrollView  id: 2131689499
+Widget id: com.bleyl.recurrence:id/scroll
+#WidgetID: com.bleyl.recurrence:id/scroll
+#Hash: 1108922440
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}   class: class android.widget.ScrollView  id: 2131689499
+Widget id: com.bleyl.recurrence:id/scroll
+#WidgetID: com.bleyl.recurrence:id/scroll
+#Hash: 1108922440
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}   class: class android.widget.ScrollView  id: 2131689499
+Widget id: com.bleyl.recurrence:id/scroll
+#WidgetID: com.bleyl.recurrence:id/scroll
+#Hash: 1108922440
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}   class: class android.widget.ScrollView  id: 2131689499
+Widget id: com.bleyl.recurrence:id/scroll
+#WidgetID: com.bleyl.recurrence:id/scroll
+#Hash: 1108922440
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}   class: class android.widget.ScrollView  id: 2131689499
+Widget id: com.bleyl.recurrence:id/scroll
+#WidgetID: com.bleyl.recurrence:id/scroll
+#Hash: 1108922440
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}   class: class android.widget.ScrollView  id: 2131689499
+Widget id: com.bleyl.recurrence:id/scroll
+#WidgetID: com.bleyl.recurrence:id/scroll
+#Hash: 1110050016
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}   class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+#Hash: 1111585120
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+java.lang.NullPointerException
+	at com.example.root.xposed.click.onTouchEventInject.hookTouchEvent(onTouchEventInject.java:56)
+	at com.example.root.xposed.click.onTouchEventInject$2.afterHookedMethod(onTouchEventInject.java:130)
+	at de.robv.android.xposed.XposedBridge.handleHookedMethod(XposedBridge.java:645)
+	at android.view.View.dispatchTouchEvent(Native Method)
+	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:2210)
+	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:1945)
+	at android.widget.PopupWindow$PopupViewContainer.dispatchTouchEvent(PopupWindow.java:1633)
+	at android.view.View.dispatchPointerEvent(View.java:7893)
+	at android.view.ViewRootImpl$ViewPostImeInputStage.processPointerEvent(ViewRootImpl.java:3950)
+	at android.view.ViewRootImpl$ViewPostImeInputStage.onProcess(ViewRootImpl.java:3829)
+	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3395)
+	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3445)
+	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3414)
+	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3521)
+	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3422)
+	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:3578)
+	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3395)
+	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3445)
+	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3414)
+	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3422)
+	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3395)
+	at android.view.ViewRootImpl.deliverInputEvent(ViewRootImpl.java:5535)
+	at android.view.ViewRootImpl.doProcessInputEvents(ViewRootImpl.java:5515)
+	at android.view.ViewRootImpl.enqueueInputEvent(ViewRootImpl.java:5486)
+	at android.view.ViewRootImpl$WindowInputEventReceiver.onInputEvent(ViewRootImpl.java:5615)
+	at android.view.InputEventReceiver.dispatchInputEvent(InputEventReceiver.java:185)
+	at android.os.MessageQueue.nativePollOnce(Native Method)
+	at android.os.MessageQueue.next(MessageQueue.java:138)
+	at android.os.Looper.loop(Looper.java:123)
+	at android.app.ActivityThread.main(ActivityThread.java:5146)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:515)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:732)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:566)
+	at de.robv.android.xposed.XposedBridge.main(XposedBridge.java:132)
+	at dalvik.system.NativeStart.main(Native Method)
+#Hash: 1108514136
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}
+#Class: class android.support.v7.view.menu.ActionMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42266d68}   class: class android.support.v7.view.menu.ActionMenuItemView  id: 2131689696
+Widget id: com.bleyl.recurrence:id/action_delete
+#WidgetID: com.bleyl.recurrence:id/action_delete
+#Hash: 1111581536
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+#DialogClass: class android.support.v7.app.AlertDialog
+This Dialog No Title
+#Hash: 1102944088
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423e6dc8}
+#Class: class android.support.v7.widget.AppCompatButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423e6dc8}   class: class android.support.v7.widget.AppCompatButton  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: 是的
+#Hash: 1106050320
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v4.view.ViewPager
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v4.view.ViewPager  id: 2131689617
+Widget id: com.bleyl.recurrence:id/viewpager
+#WidgetID: com.bleyl.recurrence:id/viewpager
+#Hash: 1106050320
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v4.view.ViewPager
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v4.view.ViewPager  id: 2131689617
+Widget id: com.bleyl.recurrence:id/viewpager
+#WidgetID: com.bleyl.recurrence:id/viewpager
+#Hash: 1106095216
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.design.widget.FloatingActionButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.design.widget.FloatingActionButton  id: 2131689618
+Widget id: com.bleyl.recurrence:id/fab_button
+#WidgetID: com.bleyl.recurrence:id/fab_button
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#Hash: 1111599752
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}   class: class android.widget.LinearLayout  id: 2131689598
+Widget id: com.bleyl.recurrence:id/icon_select
+#WidgetID: com.bleyl.recurrence:id/icon_select
+#Hash: 1111639512
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}   class: class android.widget.LinearLayout  id: 2131689591
+Widget id: com.bleyl.recurrence:id/time_row
+#WidgetID: com.bleyl.recurrence:id/time_row
+#Hash: 1108846672
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#DialogClass: class android.app.TimePickerDialog
+#DialogTitle: 设置时间
+#Hash: 1111648176
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}   class: class android.widget.LinearLayout  id: 2131689595
+Widget id: com.bleyl.recurrence:id/date_row
+#WidgetID: com.bleyl.recurrence:id/date_row
+#Hash: 1110616968
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#DialogClass: class android.app.DatePickerDialog
+#DialogTitle: 2020年2月23日周日
+#Hash: 1111639512
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}   class: class android.widget.LinearLayout  id: 2131689591
+Widget id: com.bleyl.recurrence:id/time_row
+#WidgetID: com.bleyl.recurrence:id/time_row
+#Hash: 1111096160
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#DialogClass: class android.app.TimePickerDialog
+#DialogTitle: 设置时间
+#Hash: 1111648176
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}   class: class android.widget.LinearLayout  id: 2131689595
+Widget id: com.bleyl.recurrence:id/date_row
+#WidgetID: com.bleyl.recurrence:id/date_row
+#Hash: 1110776360
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#DialogClass: class android.app.DatePickerDialog
+#DialogTitle: 2020年2月23日周日
+#Hash: 1111599752
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}   class: class android.widget.LinearLayout  id: 2131689598
+Widget id: com.bleyl.recurrence:id/icon_select
+#WidgetID: com.bleyl.recurrence:id/icon_select
+#Hash: 1114479832
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#DialogClass: class android.support.v7.app.AlertDialog
+This Dialog No Title
+#Hash: 1110398640
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {426e7638}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {426e7638}   class: class android.widget.LinearLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.LinearLayout
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#Hash: 1111648176
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}   class: class android.widget.LinearLayout  id: 2131689595
+Widget id: com.bleyl.recurrence:id/date_row
+#WidgetID: com.bleyl.recurrence:id/date_row
+#Hash: 1110977640
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#DialogClass: class android.app.DatePickerDialog
+#DialogTitle: 2020年2月23日周日
+#Hash: 1111599752
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}   class: class android.widget.LinearLayout  id: 2131689598
+Widget id: com.bleyl.recurrence:id/icon_select
+#WidgetID: com.bleyl.recurrence:id/icon_select
+#Hash: 1106383200
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#DialogClass: class android.support.v7.app.AlertDialog
+This Dialog No Title
+#Hash: 1110055976
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4228e6c0}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4228e6c0}   class: class android.widget.LinearLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.LinearLayout
+#Hash: 1109970688
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4228e6c0}
+#Class: class android.support.v7.widget.RecyclerView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4228e6c0}   class: class android.support.v7.widget.RecyclerView  id: 2131689688
+Widget id: com.bleyl.recurrence:id/icons_recycler_view
+#WidgetID: com.bleyl.recurrence:id/icons_recycler_view
+#Hash: 1109970688
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4228e6c0}
+#Class: class android.support.v7.widget.RecyclerView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4228e6c0}   class: class android.support.v7.widget.RecyclerView  id: 2131689688
+Widget id: com.bleyl.recurrence:id/icons_recycler_view
+#WidgetID: com.bleyl.recurrence:id/icons_recycler_view
+#Hash: 1109970688
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4228e6c0}
+#Class: class android.support.v7.widget.RecyclerView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4228e6c0}   class: class android.support.v7.widget.RecyclerView  id: 2131689688
+Widget id: com.bleyl.recurrence:id/icons_recycler_view
+#WidgetID: com.bleyl.recurrence:id/icons_recycler_view
+#Hash: 1108357952
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4228e6c0}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4228e6c0}   class: class android.widget.LinearLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.LinearLayout
+#Hash: 1108357952
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4228e6c0}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4228e6c0}   class: class android.widget.LinearLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.LinearLayout
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#Hash: 1108386600
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}   class: class android.widget.LinearLayout  id: 2131689601
+Widget id: com.bleyl.recurrence:id/colour_select
+#WidgetID: com.bleyl.recurrence:id/colour_select
+#Hash: 1102990224
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#DialogClass: class com.afollestad.materialdialogs.MaterialDialog
+This Dialog No Title
+#Hash: 1110088848
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {426e7e68}
+#Class: class com.afollestad.materialdialogs.color.CircleView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {426e7e68}   class: class com.afollestad.materialdialogs.color.CircleView  id: -1  tag: 8:-1802704
+#Tag: 8:-1802704
+WidgetID: NONE
+#Tag: 8:-1802704
+#Hash: 1108768192
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {426e7e68}
+#Class: class com.afollestad.materialdialogs.internal.MDButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {426e7e68}   class: class com.afollestad.materialdialogs.internal.MDButton  id: 2131689651  tag: NEUTRAL
+#Tag: NEUTRAL
+Widget id: com.bleyl.recurrence:id/buttonDefaultNeutral
+#WidgetID: com.bleyl.recurrence:id/buttonDefaultNeutral
+#Hash: 1103094848
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {426e7e68}
+#Class: class android.support.v7.widget.AppCompatSeekBar
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {426e7e68}   class: class android.support.v7.widget.AppCompatSeekBar  id: 2131689661
+Widget id: com.bleyl.recurrence:id/colorR
+#WidgetID: com.bleyl.recurrence:id/colorR
+#Hash: 1110475736
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {426e7e68}
+#Class: class android.support.v7.widget.AppCompatSeekBar
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {426e7e68}   class: class android.support.v7.widget.AppCompatSeekBar  id: 2131689664
+Widget id: com.bleyl.recurrence:id/colorG
+#WidgetID: com.bleyl.recurrence:id/colorG
+#Hash: 1102815064
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {426e7e68}
+#Class: class android.support.v7.widget.AppCompatSeekBar
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {426e7e68}   class: class android.support.v7.widget.AppCompatSeekBar  id: 2131689667
+Widget id: com.bleyl.recurrence:id/colorB
+#WidgetID: com.bleyl.recurrence:id/colorB
+#Hash: 1110220032
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {426e7e68}
+#Class: class com.afollestad.materialdialogs.internal.MDButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {426e7e68}   class: class com.afollestad.materialdialogs.internal.MDButton  id: 2131689653  tag: POSITIVE
+#Tag: POSITIVE
+Widget id: com.bleyl.recurrence:id/buttonDefaultPositive
+#WidgetID: com.bleyl.recurrence:id/buttonDefaultPositive
+#Hash: 1108386600
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}   class: class android.widget.LinearLayout  id: 2131689601
+Widget id: com.bleyl.recurrence:id/colour_select
+#WidgetID: com.bleyl.recurrence:id/colour_select
+#Hash: 1111429720
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#DialogClass: class com.afollestad.materialdialogs.MaterialDialog
+This Dialog No Title
+#Hash: 1110973112
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41bdd5e8}
+#Class: class com.afollestad.materialdialogs.internal.MDButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41bdd5e8}   class: class com.afollestad.materialdialogs.internal.MDButton  id: 2131689652  tag: NEGATIVE
+#Tag: NEGATIVE
+Widget id: com.bleyl.recurrence:id/buttonDefaultNegative
+#WidgetID: com.bleyl.recurrence:id/buttonDefaultNegative
+#Hash: 1108386600
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}   class: class android.widget.LinearLayout  id: 2131689601
+Widget id: com.bleyl.recurrence:id/colour_select
+#WidgetID: com.bleyl.recurrence:id/colour_select
+#Hash: 1109234288
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#DialogClass: class com.afollestad.materialdialogs.MaterialDialog
+This Dialog No Title
+#Hash: 1109249168
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4215a440}
+#Class: class com.afollestad.materialdialogs.internal.MDButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4215a440}   class: class com.afollestad.materialdialogs.internal.MDButton  id: 2131689651  tag: NEUTRAL
+#Tag: NEUTRAL
+Widget id: com.bleyl.recurrence:id/buttonDefaultNeutral
+#WidgetID: com.bleyl.recurrence:id/buttonDefaultNeutral
+#Hash: 1109250472
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4215a440}
+#Class: class com.afollestad.materialdialogs.internal.MDButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4215a440}   class: class com.afollestad.materialdialogs.internal.MDButton  id: 2131689652  tag: NEGATIVE
+#Tag: NEGATIVE
+Widget id: com.bleyl.recurrence:id/buttonDefaultNegative
+#WidgetID: com.bleyl.recurrence:id/buttonDefaultNegative
+#Hash: 1108386600
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}   class: class android.widget.LinearLayout  id: 2131689601
+Widget id: com.bleyl.recurrence:id/colour_select
+#WidgetID: com.bleyl.recurrence:id/colour_select
+#Hash: 1102848104
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#DialogClass: class com.afollestad.materialdialogs.MaterialDialog
+This Dialog No Title
+#Hash: 1102861552
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422e7568}
+#Class: class com.afollestad.materialdialogs.internal.MDButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422e7568}   class: class com.afollestad.materialdialogs.internal.MDButton  id: 2131689651  tag: NEUTRAL
+#Tag: NEUTRAL
+Widget id: com.bleyl.recurrence:id/buttonDefaultNeutral
+#WidgetID: com.bleyl.recurrence:id/buttonDefaultNeutral
+#Hash: 1102861552
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422e7568}
+#Class: class com.afollestad.materialdialogs.internal.MDButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422e7568}   class: class com.afollestad.materialdialogs.internal.MDButton  id: 2131689651  tag: NEUTRAL
+#Tag: NEUTRAL
+Widget id: com.bleyl.recurrence:id/buttonDefaultNeutral
+#WidgetID: com.bleyl.recurrence:id/buttonDefaultNeutral
+#Hash: 1109306104
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}   class: class android.widget.LinearLayout  id: 2131689604
+Widget id: com.bleyl.recurrence:id/repeat_row
+#WidgetID: com.bleyl.recurrence:id/repeat_row
+#Hash: 1108435032
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#DialogClass: class android.support.v7.app.AlertDialog
+This Dialog No Title
+#Hash: 1108096504
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420ccd00}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420ccd00}   class: class android.widget.ListView  id: 2131689581
+Widget id: com.bleyl.recurrence:id/select_dialog_listview
+#WidgetID: com.bleyl.recurrence:id/select_dialog_listview
+#Hash: 1103132112
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d7878}   class: class android.widget.ImageButton  id: -1
+WidgetID: NONE
+#Class: class android.widget.ImageButton
+#Hash: 1106275384
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.widget.FrameLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.widget.FrameLayout  id: 2131689627
+Widget id: com.bleyl.recurrence:id/frame
+#WidgetID: com.bleyl.recurrence:id/frame
+#Hash: 1106050320
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v4.view.ViewPager
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v4.view.ViewPager  id: 2131689617
+Widget id: com.bleyl.recurrence:id/viewpager
+#WidgetID: com.bleyl.recurrence:id/viewpager
+#Hash: 1106095216
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.design.widget.FloatingActionButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.design.widget.FloatingActionButton  id: 2131689618
+Widget id: com.bleyl.recurrence:id/fab_button
+#WidgetID: com.bleyl.recurrence:id/fab_button
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#Hash: 1108199288
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41be4fd8}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41be4fd8}   class: class android.widget.LinearLayout  id: 2131689601
+Widget id: com.bleyl.recurrence:id/colour_select
+#WidgetID: com.bleyl.recurrence:id/colour_select
+#Hash: 1102997528
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41be4fd8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41be4fd8}   class: class android.widget.ImageButton  id: -1
+WidgetID: NONE
+#Class: class android.widget.ImageButton
+#Hash: 1106218816
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.widget.FrameLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.widget.FrameLayout  id: 2131689627
+Widget id: com.bleyl.recurrence:id/frame
+#WidgetID: com.bleyl.recurrence:id/frame
+#Hash: 1106275384
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.widget.FrameLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.widget.FrameLayout  id: 2131689627
+Widget id: com.bleyl.recurrence:id/frame
+#WidgetID: com.bleyl.recurrence:id/frame
+#Hash: 1106050320
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v4.view.ViewPager
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v4.view.ViewPager  id: 2131689617
+Widget id: com.bleyl.recurrence:id/viewpager
+#WidgetID: com.bleyl.recurrence:id/viewpager
+#Hash: 1108041824
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+#Hash: 1108768192
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422a3ef8}
+#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422a3ef8}   class: class android.support.v7.widget.ListPopupWindow$DropDownListView  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+#Hash: 1103192896
+#SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Source Activity com.bleyl.recurrence.activities.AboutActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42103558}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42103558}   class: class android.widget.LinearLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.LinearLayout
+#Hash: 1106028872
+#SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Source Activity com.bleyl.recurrence.activities.AboutActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42103558}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42103558}   class: class android.widget.LinearLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.LinearLayout
+#Hash: 1106153656
+#SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Source Activity com.bleyl.recurrence.activities.AboutActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42103558}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42103558}   class: class android.widget.LinearLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.LinearLayout
+#Hash: 1102753728
+#SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+#DialogClass: class android.support.v7.app.AlertDialog
+This Dialog No Title
+#Hash: 1102922328
+#SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Source Activity com.bleyl.recurrence.activities.AboutActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f26490}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f26490}   class: class android.widget.ScrollView  id: -1
+WidgetID: NONE
+#Class: class android.widget.ScrollView
+#Hash: 1102922328
+#SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Source Activity com.bleyl.recurrence.activities.AboutActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f26490}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f26490}   class: class android.widget.ScrollView  id: -1
+WidgetID: NONE
+#Class: class android.widget.ScrollView
+#Hash: 1111647280
+#SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Source Activity com.bleyl.recurrence.activities.AboutActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f26490}
+#Class: class android.support.v7.widget.AppCompatButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f26490}   class: class android.support.v7.widget.AppCompatButton  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: 确定
+#Hash: 1106359528
+#SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Source Activity com.bleyl.recurrence.activities.AboutActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42103558}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42103558}   class: class android.widget.LinearLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.LinearLayout
+#Hash: 1111159008
+#SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+#DialogClass: class android.support.v7.app.AlertDialog
+This Dialog No Title
+#Hash: 1106425160
+#SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Source Activity com.bleyl.recurrence.activities.AboutActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422efa70}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422efa70}   class: class android.widget.ScrollView  id: -1
+WidgetID: NONE
+#Class: class android.widget.ScrollView
+#Hash: 1108782624
+#SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Source Activity com.bleyl.recurrence.activities.AboutActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422efa70}
+#Class: class android.support.v7.widget.AppCompatButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422efa70}   class: class android.support.v7.widget.AppCompatButton  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: 确定
+#Hash: 1109212576
+#SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Source Activity com.bleyl.recurrence.activities.AboutActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42103558}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42103558}   class: class android.widget.ImageButton  id: -1
+WidgetID: NONE
+#Class: class android.widget.ImageButton
+#Hash: 1108041824
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+#Hash: 1109795752
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42264de8}
+#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42264de8}   class: class android.support.v7.widget.ListPopupWindow$DropDownListView  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+#Hash: 1108851760
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108851760
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108851760
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108851760
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108851760
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108851760
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108851760
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108851760
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108851760
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108851760
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108851760
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108851760
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108851760
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108851760
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108851760
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108851760
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1110726440
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Nagging interval
+#Hash: 1108671560
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42151928}
+#Class: class android.support.v7.widget.AppCompatButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42151928}   class: class android.support.v7.widget.AppCompatButton  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: 确定
+#Hash: 1108851760
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1102866208
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Nagging interval
+#Hash: 1109766552
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4225db20}
+#Class: class android.support.v7.widget.AppCompatButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4225db20}   class: class android.support.v7.widget.AppCompatButton  id: 16908314
+Widget id: android:id/button2
+#WidgetID: android:id/button2
+#ButtonText: 取消
+#Hash: 1108851760
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1109971672
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42233c90}   class: class android.widget.ImageButton  id: -1
+WidgetID: NONE
+#Class: class android.widget.ImageButton
+#Hash: 1106050320
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v4.view.ViewPager
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v4.view.ViewPager  id: 2131689617
+Widget id: com.bleyl.recurrence:id/viewpager
+#WidgetID: com.bleyl.recurrence:id/viewpager
+#Hash: 1108041824
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+#Hash: 1108189448
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42304858}
+#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42304858}   class: class android.support.v7.widget.ListPopupWindow$DropDownListView  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+#Hash: 1107322088
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420adef0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420adef0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1107322088
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420adef0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420adef0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1107322088
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420adef0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420adef0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+#Hash: 1106050320
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v4.view.ViewPager
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v4.view.ViewPager  id: 2131689617
+Widget id: com.bleyl.recurrence:id/viewpager
+#WidgetID: com.bleyl.recurrence:id/viewpager
+#Hash: 1106218816
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.widget.FrameLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.widget.FrameLayout  id: 2131689627
+Widget id: com.bleyl.recurrence:id/frame
+#WidgetID: com.bleyl.recurrence:id/frame
+#Hash: 1106050320
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v4.view.ViewPager
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v4.view.ViewPager  id: 2131689617
+Widget id: com.bleyl.recurrence:id/viewpager
+#WidgetID: com.bleyl.recurrence:id/viewpager
+#Hash: 1106050320
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v4.view.ViewPager
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v4.view.ViewPager  id: 2131689617
+Widget id: com.bleyl.recurrence:id/viewpager
+#WidgetID: com.bleyl.recurrence:id/viewpager
+#Hash: 1106275384
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.widget.FrameLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.widget.FrameLayout  id: 2131689627
+Widget id: com.bleyl.recurrence:id/frame
+#WidgetID: com.bleyl.recurrence:id/frame
+#Hash: 1106050320
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v4.view.ViewPager
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v4.view.ViewPager  id: 2131689617
+Widget id: com.bleyl.recurrence:id/viewpager
+#WidgetID: com.bleyl.recurrence:id/viewpager
+#Hash: 1106095216
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.design.widget.FloatingActionButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.design.widget.FloatingActionButton  id: 2131689618
+Widget id: com.bleyl.recurrence:id/fab_button
+#WidgetID: com.bleyl.recurrence:id/fab_button
+#Hash: 1108221568
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421b5af8}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421b5af8}   class: class android.widget.LinearLayout  id: 2131689591
+Widget id: com.bleyl.recurrence:id/time_row
+#WidgetID: com.bleyl.recurrence:id/time_row
+#Hash: 1102829344
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421b5af8}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421b5af8}   class: class android.widget.ScrollView  id: -1
+WidgetID: NONE
+#Class: class android.widget.ScrollView
+#Hash: 1110959808
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421b5af8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421b5af8}   class: class android.widget.ImageButton  id: -1
+WidgetID: NONE
+#Class: class android.widget.ImageButton
+#Hash: 1106095216
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.design.widget.FloatingActionButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.design.widget.FloatingActionButton  id: 2131689618
+Widget id: com.bleyl.recurrence:id/fab_button
+#WidgetID: com.bleyl.recurrence:id/fab_button
+#Hash: 1110382792
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42423188}
+#Class: class android.support.v7.view.menu.ActionMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42423188}   class: class android.support.v7.view.menu.ActionMenuItemView  id: 2131689692
+Widget id: com.bleyl.recurrence:id/action_save
+#WidgetID: com.bleyl.recurrence:id/action_save
+#Hash: 1106218816
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.widget.FrameLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.widget.FrameLayout  id: 2131689627
+Widget id: com.bleyl.recurrence:id/frame
+#WidgetID: com.bleyl.recurrence:id/frame
+#Hash: 1106275384
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.widget.FrameLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.widget.FrameLayout  id: 2131689627
+Widget id: com.bleyl.recurrence:id/frame
+#WidgetID: com.bleyl.recurrence:id/frame
+#Hash: 1110603912
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.widget.LinearLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.LinearLayout
+#Hash: 1106383208
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4241e560}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4241e560}   class: class android.widget.ImageButton  id: -1
+WidgetID: NONE
+#Class: class android.widget.ImageButton
+#Hash: 1103097064
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422c8d80}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422c8d80}   class: class android.widget.ImageButton  id: -1
+WidgetID: NONE
+#Class: class android.widget.ImageButton
+#Hash: 1106275384
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.widget.FrameLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.widget.FrameLayout  id: 2131689627
+Widget id: com.bleyl.recurrence:id/frame
+#WidgetID: com.bleyl.recurrence:id/frame
+#Hash: 1106218816
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.widget.FrameLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.widget.FrameLayout  id: 2131689627
+Widget id: com.bleyl.recurrence:id/frame
+#WidgetID: com.bleyl.recurrence:id/frame
+#Hash: 1106275384
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.widget.FrameLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.widget.FrameLayout  id: 2131689627
+Widget id: com.bleyl.recurrence:id/frame
+#WidgetID: com.bleyl.recurrence:id/frame
+#Hash: 1110603912
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.widget.LinearLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.LinearLayout
+#Hash: 1103100832
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42254bc8}
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42254bc8}   class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+#Hash: 1102923144
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+java.lang.NullPointerException
+	at com.example.root.xposed.click.onTouchEventInject.hookTouchEvent(onTouchEventInject.java:56)
+	at com.example.root.xposed.click.onTouchEventInject$2.afterHookedMethod(onTouchEventInject.java:130)
+	at de.robv.android.xposed.XposedBridge.handleHookedMethod(XposedBridge.java:645)
+	at android.view.View.dispatchTouchEvent(Native Method)
+	at android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:2210)
+	at android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:1945)
+	at android.widget.PopupWindow$PopupViewContainer.dispatchTouchEvent(PopupWindow.java:1633)
+	at android.view.View.dispatchPointerEvent(View.java:7893)
+	at android.view.ViewRootImpl$ViewPostImeInputStage.processPointerEvent(ViewRootImpl.java:3950)
+	at android.view.ViewRootImpl$ViewPostImeInputStage.onProcess(ViewRootImpl.java:3829)
+	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3395)
+	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3445)
+	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3414)
+	at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:3521)
+	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3422)
+	at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:3578)
+	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3395)
+	at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:3445)
+	at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:3414)
+	at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:3422)
+	at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:3395)
+	at android.view.ViewRootImpl.deliverInputEvent(ViewRootImpl.java:5535)
+	at android.view.ViewRootImpl.doProcessInputEvents(ViewRootImpl.java:5515)
+	at android.view.ViewRootImpl.enqueueInputEvent(ViewRootImpl.java:5486)
+	at android.view.ViewRootImpl$WindowInputEventReceiver.onInputEvent(ViewRootImpl.java:5615)
+	at android.view.InputEventReceiver.dispatchInputEvent(InputEventReceiver.java:185)
+	at android.os.MessageQueue.nativePollOnce(Native Method)
+	at android.os.MessageQueue.next(MessageQueue.java:138)
+	at android.os.Looper.loop(Looper.java:123)
+	at android.app.ActivityThread.main(ActivityThread.java:5146)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:515)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:732)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:566)
+	at de.robv.android.xposed.XposedBridge.main(XposedBridge.java:132)
+	at dalvik.system.NativeStart.main(Native Method)
+#Hash: 1108428176
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42254bc8}
+#Class: class android.support.v7.view.menu.ActionMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42254bc8}   class: class android.support.v7.view.menu.ActionMenuItemView  id: 2131689695
+Widget id: com.bleyl.recurrence:id/action_edit
+#WidgetID: com.bleyl.recurrence:id/action_edit
+#Hash: 1106171280
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423232c8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423232c8}   class: class android.widget.ImageButton  id: -1
+WidgetID: NONE
+#Class: class android.widget.ImageButton
+#Hash: 1110603912
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.widget.LinearLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.LinearLayout
+#Hash: 1111615920
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ba25a0}
+#Class: class android.support.v7.view.menu.ActionMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ba25a0}   class: class android.support.v7.view.menu.ActionMenuItemView  id: 2131689696
+Widget id: com.bleyl.recurrence:id/action_delete
+#WidgetID: com.bleyl.recurrence:id/action_delete
+#Hash: 1109263728
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+#DialogClass: class android.support.v7.app.AlertDialog
+This Dialog No Title
+#Hash: 1109965688
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4240d078}
+#Class: class android.support.v7.widget.AppCompatButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4240d078}   class: class android.support.v7.widget.AppCompatButton  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: 是的
+#Hash: 1106050320
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v4.view.ViewPager
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v4.view.ViewPager  id: 2131689617
+Widget id: com.bleyl.recurrence:id/viewpager
+#WidgetID: com.bleyl.recurrence:id/viewpager
+#Hash: 1106218816
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.widget.FrameLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.widget.FrameLayout  id: 2131689627
+Widget id: com.bleyl.recurrence:id/frame
+#WidgetID: com.bleyl.recurrence:id/frame
+#Hash: 1106050320
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v4.view.ViewPager
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v4.view.ViewPager  id: 2131689617
+Widget id: com.bleyl.recurrence:id/viewpager
+#WidgetID: com.bleyl.recurrence:id/viewpager
+#Hash: 1106050320
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v4.view.ViewPager
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v4.view.ViewPager  id: 2131689617
+Widget id: com.bleyl.recurrence:id/viewpager
+#WidgetID: com.bleyl.recurrence:id/viewpager
+#Hash: 1106095216
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.design.widget.FloatingActionButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.design.widget.FloatingActionButton  id: 2131689618
+Widget id: com.bleyl.recurrence:id/fab_button
+#WidgetID: com.bleyl.recurrence:id/fab_button
+#Hash: 1106062536
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421d78d8}
+#Class: class android.support.v7.view.menu.ActionMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421d78d8}   class: class android.support.v7.view.menu.ActionMenuItemView  id: 2131689692
+Widget id: com.bleyl.recurrence:id/action_save
+#WidgetID: com.bleyl.recurrence:id/action_save
+#Hash: 1106050320
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v4.view.ViewPager
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v4.view.ViewPager  id: 2131689617
+Widget id: com.bleyl.recurrence:id/viewpager
+#WidgetID: com.bleyl.recurrence:id/viewpager
+#Hash: 1106050320
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v4.view.ViewPager
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v4.view.ViewPager  id: 2131689617
+Widget id: com.bleyl.recurrence:id/viewpager
+#WidgetID: com.bleyl.recurrence:id/viewpager
+#Hash: 1106050320
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v4.view.ViewPager
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v4.view.ViewPager  id: 2131689617
+Widget id: com.bleyl.recurrence:id/viewpager
+#WidgetID: com.bleyl.recurrence:id/viewpager
+#Hash: 1106050320
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v4.view.ViewPager
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v4.view.ViewPager  id: 2131689617
+Widget id: com.bleyl.recurrence:id/viewpager
+#WidgetID: com.bleyl.recurrence:id/viewpager
+#Hash: 1107384880
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v7.widget.RecyclerView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v7.widget.RecyclerView  id: 2131689637
+Widget id: com.bleyl.recurrence:id/recycler_view
+#WidgetID: com.bleyl.recurrence:id/recycler_view
+#Hash: 1106095216
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.design.widget.FloatingActionButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.design.widget.FloatingActionButton  id: 2131689618
+Widget id: com.bleyl.recurrence:id/fab_button
+#WidgetID: com.bleyl.recurrence:id/fab_button
+#Hash: 1110421520
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423a64b0}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423a64b0}   class: class android.widget.LinearLayout  id: 2131689591
+Widget id: com.bleyl.recurrence:id/time_row
+#WidgetID: com.bleyl.recurrence:id/time_row
+#Hash: 1110773592
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+#DialogClass: class android.app.TimePickerDialog
+#DialogTitle: 设置时间
+#Hash: 1109259528
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423a7440}
+#Class: class android.widget.NumberPicker
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423a7440}   class: class android.widget.NumberPicker  id: 16909136
+Widget id: android:id/minute
+#WidgetID: android:id/minute
+#Hash: 1110232744
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423a7440}
+#Class: class android.support.v7.widget.AppCompatButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423a7440}   class: class android.support.v7.widget.AppCompatButton  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: 完成
+#Hash: 1106083256
+#SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Source Activity com.bleyl.recurrence.activities.CreateEditActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423a64b0}
+#Class: class android.support.v7.view.menu.ActionMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423a64b0}   class: class android.support.v7.view.menu.ActionMenuItemView  id: 2131689692
+Widget id: com.bleyl.recurrence:id/action_save
+#WidgetID: com.bleyl.recurrence:id/action_save
+#Hash: 1106379384
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v7.widget.RecyclerView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v7.widget.RecyclerView  id: 2131689637
+Widget id: com.bleyl.recurrence:id/recycler_view
+#WidgetID: com.bleyl.recurrence:id/recycler_view
+#Hash: 1106275384
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.widget.FrameLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.widget.FrameLayout  id: 2131689627
+Widget id: com.bleyl.recurrence:id/frame
+#WidgetID: com.bleyl.recurrence:id/frame
+#Hash: 1106218816
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.widget.FrameLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.widget.FrameLayout  id: 2131689627
+Widget id: com.bleyl.recurrence:id/frame
+#WidgetID: com.bleyl.recurrence:id/frame
+#Hash: 1102779064
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.widget.LinearLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.widget.LinearLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.LinearLayout
+#Hash: 1109968200
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422e7860}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422e7860}   class: class android.widget.ImageButton  id: -1
+WidgetID: NONE
+#Class: class android.widget.ImageButton
+#Hash: 1106275384
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.widget.FrameLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.widget.FrameLayout  id: 2131689627
+Widget id: com.bleyl.recurrence:id/frame
+#WidgetID: com.bleyl.recurrence:id/frame
+#Hash: 1106218816
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.widget.FrameLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.widget.FrameLayout  id: 2131689627
+Widget id: com.bleyl.recurrence:id/frame
+#WidgetID: com.bleyl.recurrence:id/frame
+#Hash: 1108041824
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+#Hash: 1108846800
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b4a10}
+#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b4a10}   class: class android.support.v7.widget.ListPopupWindow$DropDownListView  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+#Hash: 1107322088
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41bb7158}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41bb7158}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1107322088
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Source Activity com.bleyl.recurrence.activities.PreferenceActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41bb7158}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41bb7158}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+#Hash: 1106379384
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v7.widget.RecyclerView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v7.widget.RecyclerView  id: 2131689637
+Widget id: com.bleyl.recurrence:id/recycler_view
+#WidgetID: com.bleyl.recurrence:id/recycler_view
+#Hash: 1106379384
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v7.widget.RecyclerView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v7.widget.RecyclerView  id: 2131689637
+Widget id: com.bleyl.recurrence:id/recycler_view
+#WidgetID: com.bleyl.recurrence:id/recycler_view
+#Hash: 1107384880
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.support.v7.widget.RecyclerView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.support.v7.widget.RecyclerView  id: 2131689637
+Widget id: com.bleyl.recurrence:id/recycler_view
+#WidgetID: com.bleyl.recurrence:id/recycler_view
+#Hash: 1106218816
+#SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Source Activity com.bleyl.recurrence.activities.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}
+#Class: class android.widget.FrameLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f140b0}   class: class android.widget.FrameLayout  id: 2131689627
+Widget id: com.bleyl.recurrence:id/frame
+#WidgetID: com.bleyl.recurrence:id/frame
+#Hash: 1103032832
+#SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Source Activity com.bleyl.recurrence.activities.ViewActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421908d8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421908d8}   class: class android.widget.ImageButton  id: -1
+WidgetID: NONE
+#Class: class android.widget.ImageButton

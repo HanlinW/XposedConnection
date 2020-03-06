@@ -1,0 +1,221 @@
+Hook Loaded App:com.secuso.torchlight2
+#Hash: 1102881224
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.widget.ImageButton  id: 2131492933
+Widget id: com.secuso.torchlight2:id/btnSwitch
+#WidgetID: com.secuso.torchlight2:id/btnSwitch
+#Hash: 1102881224
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.widget.ImageButton  id: 2131492933
+Widget id: com.secuso.torchlight2:id/btnSwitch
+#WidgetID: com.secuso.torchlight2:id/btnSwitch
+#Hash: 1103035152
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.support.v7.internal.widget.TintCheckBox
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.support.v7.internal.widget.TintCheckBox  id: 2131492935
+Widget id: com.secuso.torchlight2:id/cbPause
+#WidgetID: com.secuso.torchlight2:id/cbPause
+#ButtonText: turn off on app minimize or standby
+#Hash: 1102881224
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.widget.ImageButton  id: 2131492933
+Widget id: com.secuso.torchlight2:id/btnSwitch
+#WidgetID: com.secuso.torchlight2:id/btnSwitch
+#Hash: 1102881224
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.widget.ImageButton  id: 2131492933
+Widget id: com.secuso.torchlight2:id/btnSwitch
+#WidgetID: com.secuso.torchlight2:id/btnSwitch
+#Hash: 1102881224
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.widget.ImageButton  id: 2131492933
+Widget id: com.secuso.torchlight2:id/btnSwitch
+#WidgetID: com.secuso.torchlight2:id/btnSwitch
+#Hash: 1102881224
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.widget.ImageButton  id: 2131492933
+Widget id: com.secuso.torchlight2:id/btnSwitch
+#WidgetID: com.secuso.torchlight2:id/btnSwitch
+#Hash: 1102881224
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.widget.ImageButton  id: 2131492933
+Widget id: com.secuso.torchlight2:id/btnSwitch
+#WidgetID: com.secuso.torchlight2:id/btnSwitch
+#Hash: 1103035152
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.support.v7.internal.widget.TintCheckBox
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.support.v7.internal.widget.TintCheckBox  id: 2131492935
+Widget id: com.secuso.torchlight2:id/cbPause
+#WidgetID: com.secuso.torchlight2:id/cbPause
+#ButtonText: turn off on app minimize or standby
+#Hash: 1103035152
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.support.v7.internal.widget.TintCheckBox
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.support.v7.internal.widget.TintCheckBox  id: 2131492935
+Widget id: com.secuso.torchlight2:id/cbPause
+#WidgetID: com.secuso.torchlight2:id/cbPause
+#ButtonText: turn off on app minimize or standby
+#Hash: 1102881224
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.widget.ImageButton  id: 2131492933
+Widget id: com.secuso.torchlight2:id/btnSwitch
+#WidgetID: com.secuso.torchlight2:id/btnSwitch
+#Hash: 1102881224
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.widget.ImageButton  id: 2131492933
+Widget id: com.secuso.torchlight2:id/btnSwitch
+#WidgetID: com.secuso.torchlight2:id/btnSwitch
+#Hash: 1102881224
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.widget.ImageButton  id: 2131492933
+Widget id: com.secuso.torchlight2:id/btnSwitch
+#WidgetID: com.secuso.torchlight2:id/btnSwitch
+#Hash: 1102743848
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.support.v7.widget.Toolbar
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.support.v7.widget.Toolbar  id: 2131492913
+Widget id: com.secuso.torchlight2:id/action_bar
+#WidgetID: com.secuso.torchlight2:id/action_bar
+#Hash: 1102881224
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.widget.ImageButton  id: 2131492933
+Widget id: com.secuso.torchlight2:id/btnSwitch
+#WidgetID: com.secuso.torchlight2:id/btnSwitch
+#Hash: 1102881224
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.widget.ImageButton  id: 2131492933
+Widget id: com.secuso.torchlight2:id/btnSwitch
+#WidgetID: com.secuso.torchlight2:id/btnSwitch
+#Hash: 1102881224
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.widget.ImageButton  id: 2131492933
+Widget id: com.secuso.torchlight2:id/btnSwitch
+#WidgetID: com.secuso.torchlight2:id/btnSwitch
+#Hash: 1102881224
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.widget.ImageButton  id: 2131492933
+Widget id: com.secuso.torchlight2:id/btnSwitch
+#WidgetID: com.secuso.torchlight2:id/btnSwitch
+#Hash: 1102881224
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.widget.ImageButton  id: 2131492933
+Widget id: com.secuso.torchlight2:id/btnSwitch
+#WidgetID: com.secuso.torchlight2:id/btnSwitch
+#Hash: 1102881224
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.widget.ImageButton  id: 2131492933
+Widget id: com.secuso.torchlight2:id/btnSwitch
+#WidgetID: com.secuso.torchlight2:id/btnSwitch
+#Hash: 1102743848
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.support.v7.widget.Toolbar
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.support.v7.widget.Toolbar  id: 2131492913
+Widget id: com.secuso.torchlight2:id/action_bar
+#WidgetID: com.secuso.torchlight2:id/action_bar
+#Hash: 1103331752
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c280f8}   class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+#Hash: 1104567192
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42010028}
+#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42010028}   class: class android.support.v7.widget.ListPopupWindow$DropDownListView  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+#Hash: 1103359488
+#SourceActivity: com.secuso.torchlight2.AboutActivity
+Source Activity com.secuso.torchlight2.AboutActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47390}
+#Class: class android.widget.TextView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47390}   class: class android.widget.TextView  id: -1
+WidgetID: NONE
+#Class: class android.widget.TextView
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+#Hash: 1107463496
+#SourceActivity: com.secuso.torchlight2.AboutActivity
+Source Activity com.secuso.torchlight2.AboutActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47390}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c47390}   class: class android.widget.ImageButton  id: -1
+WidgetID: NONE
+#Class: class android.widget.ImageButton
+#Hash: 1103382256
+#SourceActivity: com.secuso.torchlight2.MainActivity
+Source Activity com.secuso.torchlight2.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c04fc0}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c04fc0}   class: class android.widget.ImageButton  id: -1
+WidgetID: NONE
+#Class: class android.widget.ImageButton
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.secuso.torchlight2.MainActivity

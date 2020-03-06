@@ -1,0 +1,268 @@
+Hook Loaded App:org.legtux.m_316k.fortune
+#Hash: 1105885336
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}   class: class android.widget.Button  id: 2131492930
+Widget id: org.legtux.m_316k.fortune:id/prev
+#WidgetID: org.legtux.m_316k.fortune:id/prev
+#ButtonText: ←
+#Hash: 1102946048
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}   class: class android.widget.Button  id: 2131492927
+Widget id: org.legtux.m_316k.fortune:id/newFortune
+#WidgetID: org.legtux.m_316k.fortune:id/newFortune
+#ButtonText: Next fortune
+#Hash: 1102946048
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}   class: class android.widget.Button  id: 2131492927
+Widget id: org.legtux.m_316k.fortune:id/newFortune
+#WidgetID: org.legtux.m_316k.fortune:id/newFortune
+#ButtonText: Next fortune
+#Hash: 1102946048
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}   class: class android.widget.Button  id: 2131492927
+Widget id: org.legtux.m_316k.fortune:id/newFortune
+#WidgetID: org.legtux.m_316k.fortune:id/newFortune
+#ButtonText: Next fortune
+#Hash: 1102946048
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}   class: class android.widget.Button  id: 2131492927
+Widget id: org.legtux.m_316k.fortune:id/newFortune
+#WidgetID: org.legtux.m_316k.fortune:id/newFortune
+#ButtonText: Next fortune
+#Hash: 1102946048
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}   class: class android.widget.Button  id: 2131492927
+Widget id: org.legtux.m_316k.fortune:id/newFortune
+#WidgetID: org.legtux.m_316k.fortune:id/newFortune
+#ButtonText: Next fortune
+#Hash: 1102946048
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}   class: class android.widget.Button  id: 2131492927
+Widget id: org.legtux.m_316k.fortune:id/newFortune
+#WidgetID: org.legtux.m_316k.fortune:id/newFortune
+#ButtonText: Next fortune
+#Hash: 1105885336
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}   class: class android.widget.Button  id: 2131492930
+Widget id: org.legtux.m_316k.fortune:id/prev
+#WidgetID: org.legtux.m_316k.fortune:id/prev
+#ButtonText: ←
+#Hash: 1105885336
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}   class: class android.widget.Button  id: 2131492930
+Widget id: org.legtux.m_316k.fortune:id/prev
+#WidgetID: org.legtux.m_316k.fortune:id/prev
+#ButtonText: ←
+#Hash: 1105885336
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}   class: class android.widget.Button  id: 2131492930
+Widget id: org.legtux.m_316k.fortune:id/prev
+#WidgetID: org.legtux.m_316k.fortune:id/prev
+#ButtonText: ←
+#Hash: 1105885336
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}   class: class android.widget.Button  id: 2131492930
+Widget id: org.legtux.m_316k.fortune:id/prev
+#WidgetID: org.legtux.m_316k.fortune:id/prev
+#ButtonText: ←
+#Hash: 1105885336
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}   class: class android.widget.Button  id: 2131492930
+Widget id: org.legtux.m_316k.fortune:id/prev
+#WidgetID: org.legtux.m_316k.fortune:id/prev
+#ButtonText: ←
+#Hash: 1105885336
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}   class: class android.widget.Button  id: 2131492930
+Widget id: org.legtux.m_316k.fortune:id/prev
+#WidgetID: org.legtux.m_316k.fortune:id/prev
+#ButtonText: ←
+#Hash: 1105885336
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}   class: class android.widget.Button  id: 2131492930
+Widget id: org.legtux.m_316k.fortune:id/prev
+#WidgetID: org.legtux.m_316k.fortune:id/prev
+#ButtonText: ←
+#Hash: 1105885336
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}   class: class android.widget.Button  id: 2131492930
+Widget id: org.legtux.m_316k.fortune:id/prev
+#WidgetID: org.legtux.m_316k.fortune:id/prev
+#ButtonText: ←
+#Hash: 1105885336
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}   class: class android.widget.Button  id: 2131492930
+Widget id: org.legtux.m_316k.fortune:id/prev
+#WidgetID: org.legtux.m_316k.fortune:id/prev
+#ButtonText: ←
+#Hash: 1102946048
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}   class: class android.widget.Button  id: 2131492927
+Widget id: org.legtux.m_316k.fortune:id/newFortune
+#WidgetID: org.legtux.m_316k.fortune:id/newFortune
+#ButtonText: Next fortune
+#Hash: 1102946048
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f4a1d0}   class: class android.widget.Button  id: 2131492927
+Widget id: org.legtux.m_316k.fortune:id/newFortune
+#WidgetID: org.legtux.m_316k.fortune:id/newFortune
+#ButtonText: Next fortune
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+#Hash: 1112679392
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4251c768}
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4251c768}   class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+#Hash: 1112828248
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea7330}
+#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea7330}   class: class android.support.v7.widget.ListPopupWindow$DropDownListView  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+#Hash: 1112679392
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4251c768}
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4251c768}   class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+#Hash: 1102081016
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42078290}
+#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42078290}   class: class android.support.v7.widget.ListPopupWindow$DropDownListView  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+#Hash: 1102120752
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4251c768}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4251c768}   class: class android.widget.ScrollView  id: 2131492928
+Widget id: org.legtux.m_316k.fortune:id/scrollView
+#WidgetID: org.legtux.m_316k.fortune:id/scrollView
+#Hash: 1102120752
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4251c768}
+#Class: class android.widget.ScrollView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4251c768}   class: class android.widget.ScrollView  id: 2131492928
+Widget id: org.legtux.m_316k.fortune:id/scrollView
+#WidgetID: org.legtux.m_316k.fortune:id/scrollView
+#Hash: 1112648128
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4251c768}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4251c768}   class: class android.widget.Button  id: 2131492930
+Widget id: org.legtux.m_316k.fortune:id/prev
+#WidgetID: org.legtux.m_316k.fortune:id/prev
+#ButtonText: ←
+#Hash: 1102117736
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4251c768}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4251c768}   class: class android.widget.Button  id: 2131492927
+Widget id: org.legtux.m_316k.fortune:id/newFortune
+#WidgetID: org.legtux.m_316k.fortune:id/newFortune
+#ButtonText: Next fortune
+#Hash: 1102117736
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4251c768}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4251c768}   class: class android.widget.Button  id: 2131492927
+Widget id: org.legtux.m_316k.fortune:id/newFortune
+#WidgetID: org.legtux.m_316k.fortune:id/newFortune
+#ButtonText: Next fortune
+#Hash: 1112648128
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4251c768}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4251c768}   class: class android.widget.Button  id: 2131492930
+Widget id: org.legtux.m_316k.fortune:id/prev
+#WidgetID: org.legtux.m_316k.fortune:id/prev
+#ButtonText: ←
+#Hash: 1112648128
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4251c768}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4251c768}   class: class android.widget.Button  id: 2131492930
+Widget id: org.legtux.m_316k.fortune:id/prev
+#WidgetID: org.legtux.m_316k.fortune:id/prev
+#ButtonText: ←
+#Hash: 1112648128
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4251c768}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4251c768}   class: class android.widget.Button  id: 2131492930
+Widget id: org.legtux.m_316k.fortune:id/prev
+#WidgetID: org.legtux.m_316k.fortune:id/prev
+#ButtonText: ←

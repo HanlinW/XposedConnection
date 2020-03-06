@@ -1,0 +1,378 @@
+Hook Loaded App:com.fisheradelakin.interactivestory
+#Hash: 1108116000
+#SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Source Activity com.fisheradelakin.interactivestory.ui.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420d4b50}
+#Class: class android.support.v7.internal.widget.TintEditText
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420d4b50}   class: class android.support.v7.internal.widget.TintEditText  id: 2131427393
+Widget id: com.fisheradelakin.interactivestory:id/nameEditText
+#WidgetID: com.fisheradelakin.interactivestory:id/nameEditText
+#Hash: 1108111320
+#SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Source Activity com.fisheradelakin.interactivestory.ui.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420d4b50}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420d4b50}   class: class android.widget.Button  id: 2131427392
+Widget id: com.fisheradelakin.interactivestory:id/startButton
+#WidgetID: com.fisheradelakin.interactivestory:id/startButton
+#ButtonText: START YOUR ADVENTURE
+#Hash: 1108149496
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3fca8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3fca8}   class: class android.widget.Button  id: 2131427397
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton1
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+#ButtonText: Stop and investigate
+#Hash: 1108149496
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3fca8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3fca8}   class: class android.widget.Button  id: 2131427397
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton1
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+#ButtonText: Explore the cave
+#Hash: 1108149496
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3fca8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3fca8}   class: class android.widget.Button  id: 2131427397
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton1
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+#ButtonText: Refill at ship and explore the rover
+#Hash: 1108149496
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3fca8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3fca8}   class: class android.widget.Button  id: 2131427397
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton1
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+#ButtonText: Explore the coordinates
+#Hash: 1102601568
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3fca8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3fca8}   class: class android.widget.Button  id: 2131427396
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton2
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+#ButtonText: Play Again
+#Hash: 1108111320
+#SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Source Activity com.fisheradelakin.interactivestory.ui.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420d4b50}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420d4b50}   class: class android.widget.Button  id: 2131427392
+Widget id: com.fisheradelakin.interactivestory:id/startButton
+#WidgetID: com.fisheradelakin.interactivestory:id/startButton
+#ButtonText: START YOUR ADVENTURE
+#Hash: 1108149496
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1a10}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1a10}   class: class android.widget.Button  id: 2131427397
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton1
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+#ButtonText: Stop and investigate
+#Hash: 1108149496
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1a10}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1a10}   class: class android.widget.Button  id: 2131427397
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton1
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+#ButtonText: Explore the cave
+#Hash: 1108149496
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1a10}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1a10}   class: class android.widget.Button  id: 2131427397
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton1
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+#ButtonText: Refill at ship and explore the rover
+#Hash: 1102601568
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1a10}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1a10}   class: class android.widget.Button  id: 2131427396
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton2
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+#ButtonText: Return to Earth
+#Hash: 1102601568
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1a10}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1a10}   class: class android.widget.Button  id: 2131427396
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton2
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+#ButtonText: Play Again
+#Hash: 1108111320
+#SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Source Activity com.fisheradelakin.interactivestory.ui.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420d4b50}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420d4b50}   class: class android.widget.Button  id: 2131427392
+Widget id: com.fisheradelakin.interactivestory:id/startButton
+#WidgetID: com.fisheradelakin.interactivestory:id/startButton
+#ButtonText: START YOUR ADVENTURE
+#Hash: 1108149496
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3c4a8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3c4a8}   class: class android.widget.Button  id: 2131427397
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton1
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+#ButtonText: Stop and investigate
+#Hash: 1108149496
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3c4a8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3c4a8}   class: class android.widget.Button  id: 2131427397
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton1
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+#ButtonText: Explore the cave
+#Hash: 1102601568
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3c4a8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3c4a8}   class: class android.widget.Button  id: 2131427396
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton2
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+#ButtonText: Continue towards the faint light
+#Hash: 1102601568
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3c4a8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3c4a8}   class: class android.widget.Button  id: 2131427396
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton2
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+#ButtonText: Play Again
+#Hash: 1108111320
+#SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Source Activity com.fisheradelakin.interactivestory.ui.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420d4b50}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420d4b50}   class: class android.widget.Button  id: 2131427392
+Widget id: com.fisheradelakin.interactivestory:id/startButton
+#WidgetID: com.fisheradelakin.interactivestory:id/startButton
+#ButtonText: START YOUR ADVENTURE
+#Hash: 1108149496
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420eb5c8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420eb5c8}   class: class android.widget.Button  id: 2131427397
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton1
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+#ButtonText: Stop and investigate
+#Hash: 1102601568
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420eb5c8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420eb5c8}   class: class android.widget.Button  id: 2131427396
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton2
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+#ButtonText: Explore the rover
+#Hash: 1108149496
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420eb5c8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420eb5c8}   class: class android.widget.Button  id: 2131427397
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton1
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+#ButtonText: Explore the coordinates
+#Hash: 1102601568
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420eb5c8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420eb5c8}   class: class android.widget.Button  id: 2131427396
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton2
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+#ButtonText: Play Again
+#Hash: 1108111320
+#SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Source Activity com.fisheradelakin.interactivestory.ui.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420d4b50}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420d4b50}   class: class android.widget.Button  id: 2131427392
+Widget id: com.fisheradelakin.interactivestory:id/startButton
+#WidgetID: com.fisheradelakin.interactivestory:id/startButton
+#ButtonText: START YOUR ADVENTURE
+#Hash: 1108149496
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3a230}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3a230}   class: class android.widget.Button  id: 2131427397
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton1
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+#ButtonText: Stop and investigate
+#Hash: 1102601568
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3a230}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3a230}   class: class android.widget.Button  id: 2131427396
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton2
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+#ButtonText: Explore the rover
+#Hash: 1102601568
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3a230}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3a230}   class: class android.widget.Button  id: 2131427396
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton2
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+#ButtonText: Return to Earth
+#Hash: 1102601568
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3a230}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b3a230}   class: class android.widget.Button  id: 2131427396
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton2
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+#ButtonText: Play Again
+#Hash: 1108111320
+#SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Source Activity com.fisheradelakin.interactivestory.ui.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420d4b50}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420d4b50}   class: class android.widget.Button  id: 2131427392
+Widget id: com.fisheradelakin.interactivestory:id/startButton
+#WidgetID: com.fisheradelakin.interactivestory:id/startButton
+#ButtonText: START YOUR ADVENTURE
+#Hash: 1102601568
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420cc018}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420cc018}   class: class android.widget.Button  id: 2131427396
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton2
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+#ButtonText: Continue home to Earth
+#Hash: 1108149496
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420cc018}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420cc018}   class: class android.widget.Button  id: 2131427397
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton1
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+#ButtonText: Head back to Mars to investigate
+#Hash: 1108149496
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420cc018}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420cc018}   class: class android.widget.Button  id: 2131427397
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton1
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+#ButtonText: Explore the coordinates
+#Hash: 1102601568
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420cc018}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420cc018}   class: class android.widget.Button  id: 2131427396
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton2
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+#ButtonText: Play Again
+#Hash: 1108111320
+#SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Source Activity com.fisheradelakin.interactivestory.ui.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420d4b50}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420d4b50}   class: class android.widget.Button  id: 2131427392
+Widget id: com.fisheradelakin.interactivestory:id/startButton
+#WidgetID: com.fisheradelakin.interactivestory:id/startButton
+#ButtonText: START YOUR ADVENTURE
+#Hash: 1102601568
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4210b5d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4210b5d0}   class: class android.widget.Button  id: 2131427396
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton2
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+#ButtonText: Continue home to Earth
+#Hash: 1108149496
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4210b5d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4210b5d0}   class: class android.widget.Button  id: 2131427397
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton1
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+#ButtonText: Head back to Mars to investigate
+#Hash: 1102601568
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4210b5d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4210b5d0}   class: class android.widget.Button  id: 2131427396
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton2
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+#ButtonText: Return to Earth
+#Hash: 1102601568
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4210b5d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4210b5d0}   class: class android.widget.Button  id: 2131427396
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton2
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+#ButtonText: Play Again
+#Hash: 1108111320
+#SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Source Activity com.fisheradelakin.interactivestory.ui.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420d4b50}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420d4b50}   class: class android.widget.Button  id: 2131427392
+Widget id: com.fisheradelakin.interactivestory:id/startButton
+#WidgetID: com.fisheradelakin.interactivestory:id/startButton
+#ButtonText: START YOUR ADVENTURE
+#Hash: 1102601568
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420e1368}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420e1368}   class: class android.widget.Button  id: 2131427396
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton2
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+#ButtonText: Continue home to Earth
+#Hash: 1102601568
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420e1368}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420e1368}   class: class android.widget.Button  id: 2131427396
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton2
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+#ButtonText: Continue home to Earth
+#Hash: 1102601568
+#SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Source Activity com.fisheradelakin.interactivestory.ui.StoryActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420e1368}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420e1368}   class: class android.widget.Button  id: 2131427396
+Widget id: com.fisheradelakin.interactivestory:id/choiceButton2
+#WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+#ButtonText: Play Again

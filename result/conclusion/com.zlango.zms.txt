@@ -1,0 +1,14 @@
+Compare Gator with ground truth
+Gator full edges: 746
+ADAI full edges: 56
+Marched:12
+Gator full nodes: 60
+ADAI full nodes: 10
+Compare Gator with paladin + ProMal
+Gator full edges: 746
+ADAI full edges: 9
+Marched:14
+Gator full nodes: 60
+ADAI full nodes: 3
+Compare paladin + ProMal with ground truth
+Marched:0

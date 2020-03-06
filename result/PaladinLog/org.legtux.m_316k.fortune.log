@@ -1,0 +1,79 @@
+Instrumentation detected, disabling framework for com.github.uiautomator
+Hook Loaded App:org.legtux.m_316k.fortune
+#Hash: MENU
+#Event: MENU
+#Hash: 1109000664
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421a5728}
+#Class: class android.support.v7.internal.view.menu.ExpandedMenuView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421a5728}   class: class android.support.v7.internal.view.menu.ExpandedMenuView  id: 2131492904
+Widget id: org.legtux.m_316k.fortune:id/expanded_menu
+#WidgetID: org.legtux.m_316k.fortune:id/expanded_menu
+#Hash: MENU
+#Event: MENU
+#Hash: 1109000664
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42519868}
+#Class: class android.support.v7.internal.view.menu.ExpandedMenuView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42519868}   class: class android.support.v7.internal.view.menu.ExpandedMenuView  id: 2131492904
+Widget id: org.legtux.m_316k.fortune:id/expanded_menu
+#WidgetID: org.legtux.m_316k.fortune:id/expanded_menu
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.internal.app.ResolverActivity
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+#Hash: 1102490272
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b42b40}
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b42b40}   class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton  id: -1
+WidgetID: NONE
+#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+#Hash: 1102808960
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b42b40}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b42b40}   class: class android.widget.Button  id: 2131492927
+Widget id: org.legtux.m_316k.fortune:id/newFortune
+#WidgetID: org.legtux.m_316k.fortune:id/newFortune
+#ButtonText: Next fortune
+#Hash: 1105743568
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b42b40}
+#Class: class android.widget.TextView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b42b40}   class: class android.widget.TextView  id: 2131492929
+Widget id: org.legtux.m_316k.fortune:id/fortuneDisplayer
+#WidgetID: org.legtux.m_316k.fortune:id/fortuneDisplayer
+#Hash: 1102650352
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b42b40}
+#Class: class android.support.v7.widget.Toolbar
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b42b40}   class: class android.support.v7.widget.Toolbar  id: 2131492913
+Widget id: org.legtux.m_316k.fortune:id/action_bar
+#WidgetID: org.legtux.m_316k.fortune:id/action_bar
+#Hash: 1105748248
+#SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Source Activity org.legtux.m_316k.fortune.MainActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b42b40}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b42b40}   class: class android.widget.Button  id: 2131492930
+Widget id: org.legtux.m_316k.fortune:id/prev
+#WidgetID: org.legtux.m_316k.fortune:id/prev
+#ButtonText: ←

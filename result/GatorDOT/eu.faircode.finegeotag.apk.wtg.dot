@@ -1,0 +1,11 @@
+digraph G {
+ rankdir=LR;
+ node[shape=box];
+ n1 [label="ACT[eu.faircode.finegeotag.ActivitySettings]585"];
+ n2 [label="LAUNCHER_NODE[]6008"];
+ n1 -> n2 [label="src: ACT[eu.faircode.finegeotag.ActivitySettings]585\ntgt: LAUNCHER_NODE[]6008\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[eu.faircode.finegeotag.ActivitySettings]585\nhandler: []\nstack: [[pop ACT[eu.faircode.finegeotag.ActivitySettings]585]]\n"];
+ n1 -> n1 [label="src: ACT[eu.faircode.finegeotag.ActivitySettings]585\ntgt: ACT[eu.faircode.finegeotag.ActivitySettings]585\ntag: implicit_rotate\nevt: implicit_rotate_event\nwidget: ACT[eu.faircode.finegeotag.ActivitySettings]585\nhandler: []\nstack: [[pop ACT[eu.faircode.finegeotag.ActivitySettings]585], [push ACT[eu.faircode.finegeotag.ActivitySettings]585]]\n"];
+ n1 -> n1 [label="src: ACT[eu.faircode.finegeotag.ActivitySettings]585\ntgt: ACT[eu.faircode.finegeotag.ActivitySettings]585\ntag: implicit_home\nevt: implicit_home_event\nwidget: ACT[eu.faircode.finegeotag.ActivitySettings]585\nhandler: []\nstack: []\n"];
+ n1 -> n1 [label="src: ACT[eu.faircode.finegeotag.ActivitySettings]585\ntgt: ACT[eu.faircode.finegeotag.ActivitySettings]585\ntag: implicit_power\nevt: implicit_power_event\nwidget: ACT[eu.faircode.finegeotag.ActivitySettings]585\nhandler: []\nstack: []\n"];
+ n2 -> n1 [label="src: LAUNCHER_NODE[]6008\ntgt: ACT[eu.faircode.finegeotag.ActivitySettings]585\ntag: implicit_launch\nevt: implicit_launch_event\nwidget: LAUNCHER_NODE[]6008\nhandler: []\nstack: [[push ACT[eu.faircode.finegeotag.ActivitySettings]585]]\n"];
+}

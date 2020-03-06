@@ -45,7 +45,7 @@ public class ADAI2Dot{
 		String src= "";
 		String tgt= "";
 		String handler= "", widgetID= "", className= "", dialogClass= "", dialogTitle= "", buttonText= "", hash= "", event = "", 
-				menuItemID = "";
+				menuItemID = "", xpath = "";
 	}
 	
 	public PathTree root = new PathTree(); 
@@ -94,7 +94,7 @@ public class ADAI2Dot{
 				current.hash= nowPath.hash;
 				current.event = nowPath.event;
 				current.menuItemID = nowPath.menuItemID;
-				
+				current.xpath = nowPath.xpath;
 				//System.out.println(src + "->" + tgt + "   Hash: " + current.hash);
 				
 				allPaths.add(current);	
@@ -200,7 +200,7 @@ public class ADAI2Dot{
 		int Aline = ADAIFile.size();
 		int i = 0;
 		String srcActName, handler, widgetID, tgtActName, className, 
-				dialogClass, dialogTitle, buttonText, hash ,event, menuItemID; 
+				dialogClass, dialogTitle, buttonText, hash ,event, menuItemID, xpath; 
 		srcActName = "";
 		handler = "";
 		widgetID = "";
@@ -211,6 +211,7 @@ public class ADAI2Dot{
 		buttonText = "";
 		menuItemID = "";
 		hash = "";
+		xpath = "";
 		event = "CLICK";
 		Boolean new_path = true;
 		PathTree nowPath = root;
@@ -262,6 +263,7 @@ public class ADAI2Dot{
 					menuItemID = "";
 					event = "CLICK";
 					hash = "";
+					xpath = "";
 					//new_path = true;	
 				}
 
@@ -312,6 +314,8 @@ public class ADAI2Dot{
 				event = a;
 			} else if (line.contains("MenuItemID: ")) {
 				menuItemID = a;
+			} else if (line.contains("Xpath: ")) {
+				xpath = a;
 			}
 			i++;
 		}
@@ -334,7 +338,7 @@ public class ADAI2Dot{
 		int Aline = ADAIFile.size();
 		int i = 0;
 		String srcActName, handler, widgetID, tgtActName, className, 
-				dialogClass, dialogTitle, buttonText, hash ,event, menuItemID; 
+				dialogClass, dialogTitle, buttonText, hash ,event, menuItemID, xpath; 
 		srcActName = "";
 		handler = "";
 		widgetID = "";
@@ -345,6 +349,7 @@ public class ADAI2Dot{
 		buttonText = "";
 		menuItemID = "";
 		hash = "";
+		xpath = "";
 		event = "CLICK";
 		Boolean new_path = true;
 		PathTree nowPath = root;
@@ -375,6 +380,7 @@ public class ADAI2Dot{
 					putPath.event = event;
 					putPath.menuItemID = menuItemID;
 					putPath.hash = hash;
+					putPath.xpath = xpath;
 					nowPath.next = putPath;
 					nowPath = putPath;
 					
@@ -388,6 +394,7 @@ public class ADAI2Dot{
 					buttonText = "";
 					menuItemID = "";
 					event = "CLICK";
+					xpath = "";
 					hash = "";
 					//new_path = true;	
 				}
@@ -439,6 +446,8 @@ public class ADAI2Dot{
 				event = a;
 			} else if (line.contains("MenuItemID: ")) {
 				menuItemID = a;
+			} else if (line.contains("Xpath: ")) {
+				xpath = a;
 			}
 			i++;
 		}
@@ -453,6 +462,8 @@ public class ADAI2Dot{
 		putPath.buttonText = buttonText;
 		putPath.event = event;
 		putPath.hash = hash;
+		putPath.menuItemID = menuItemID;
+		putPath.xpath = xpath;
 		nowPath.next = putPath;
 		nowPath = putPath;
 		nowPath.next = null;
