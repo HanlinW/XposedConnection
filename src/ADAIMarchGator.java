@@ -7,14 +7,32 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.LinkedList;
+import java.util.Map;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonIOException;
 import com.google.gson.JsonSyntaxException;
 
 
+
 class ADAIMarchGator {
 
+	public static void ElimateMeanlessActivities(GatorDot2C myGator, ADAI2Dot myADAI){
+		HashMap<String, GatorDot2C.vertex> boxGator = myGator.Boxes;
+		HashMap<String, Integer> boxADAI = myADAI.Activities;
+		HashSet<String> bADAI = new HashSet<String>();
+		Iterator iter = boxGator.entrySet().iterator();
+		while (iter.hasNext()){
+			Map.Entry<String, GatorDot2C.vertex> entry = (Map.Entry<String, GatorDot2C.vertex>) iter.next();
+			String key = entry.getKey();
+			GatorDot2C.vertex val = entry.getValue();
+			// Check if it show up at static analysis
+			System.out.println(val.act);
+			if (boxGator.containsKey(key)) {
+				//System.out.println(key);
+			}
+		}
+	}
 	public static void CompareTwo(GatorDot2C myGator, ADAI2Dot myADAI) {
 		HashMap<String, GatorDot2C.vertex> GActivities = myGator.Boxes;
 		LinkedList<GatorDot2C.edge> GPaths = myGator.Edges;
@@ -130,7 +148,7 @@ class ADAIMarchGator {
 		}
 		return true;
 	}
-	public static String APKname = "br.com.smartfingers.spreadlyrics";
+	public static String APKname = "de.ub0r.android.smsdroid";
 	
 	public static String GatorDotPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/GatorDOT/" + APKname + ".apk.wtg.dot";
 	
@@ -160,7 +178,7 @@ class ADAIMarchGator {
 		}
 		*/
 		// Read dot file from Gator 
-		/*
+		
 		GatorDot2C myGator = new GatorDot2C(GatorDotPath);
 		myGator.Read();
 		myGator.Dot2Class();
@@ -170,6 +188,9 @@ class ADAIMarchGator {
 		myADAI.Run();
 		myADAI.BuildPath();
 		myADAI.RemoveDuplicate();
+		ElimateMeanlessActivities(myGator, myADAI);
+		
+		/*
 		ADAI2Dot paladinADAI = new ADAI2Dot(PaladinLogPath, PaladinLogOutputPath);
 		paladinADAI.ReadLog();
 		paladinADAI.Run();
@@ -187,12 +208,12 @@ class ADAIMarchGator {
 		// Compare paladin + ProMal with ground truth
 		System.out.println("Compare paladin + ProMal with ground truth");
 		OutputToFile("Compare paladin + ProMal with ground truth", conclusionPath);
-		CompareADAI(paladinADAI, myADAI);*/
+		CompareADAI(paladinADAI, myADAI);
 		
-		ADAI2Dot aADAI = new ADAI2Dot("/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/groundtruth/de.ub0r.android.smsdroid_ViewTree.txt", ADAIDotPath);
+		/*ADAI2Dot aADAI = new ADAI2Dot("/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/groundtruth/de.ub0r.android.smsdroid_ViewTree.txt", ADAIDotPath);
 		aADAI.ReadLog();
 		aADAI.Run();
 		aADAI.BuildPath();
-		
+		*/
 	}
 }

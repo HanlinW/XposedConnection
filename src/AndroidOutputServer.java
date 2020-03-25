@@ -52,6 +52,19 @@ public class AndroidOutputServer{
 	}
 
 	public static String nowXpath = "";
+	
+	// the error between two magnification less than er
+	public static double er = 0.1;
+	public static boolean compareTwo(double a, double b) {
+		if (a < b) {
+			if ( a + er > b) return true; else return false;
+		} else if (a > b) {
+			if ( a - er < b) return true; else return false;
+		} else if (a == b) {
+			return true;
+		}
+		return false;
+	}
 	public static boolean checkNode(ViewNode vn) {
 		//System.out.println(vn.xpath + " Current " + vn.resourceID + vn.viewText + "    " +vn.viewTag);
 		// vn's coordinate larger
@@ -60,29 +73,49 @@ public class AndroidOutputServer{
 			
 			if (Vx >= x && Vx2 >= x2 && Vy >= y && Vy2 >= y2) {
 				
-				int mag = -1;
+				double magx = -1, magx2 = -1, magy = -1, magy2 = -1; 
 				if (x!=0) {
-					mag = Vx/x;
+					magx = ((double)Vx)/x;
 				}
 				if (x2!=0) {
-					mag = Vx2/x2;
+					magx2 = ((double)Vx2)/x2;
 				}
 				if (y!=0) {
-					mag = Vy/y;
+					magy = ((double)Vy)/y;
 				}
 				if (y2!=0) {
-					mag = Vy2/y2;
+					magy2 = ((double)Vy2)/y2;
 				}
 				
+				
 				//System.out.println(Vx + " " + Vx2 + " " + Vy + " " + Vy2);
-				System.out.println("mag: " + mag);				
-				if ((mag == -1) && (Vx==Vx2) && (Vy==Vy2) && (Vx==Vy) && (Vx==0)) {
+				//System.out.println(magx + " " + magx2 + " " + magy + " " + magy2);				
+				if ( compareTwo(magx, magx2) && compareTwo(magx, magy) && compareTwo(magx, magy2)) {
+					System.out.println(vn.xpath + " GOT IT " + vn.resourceID + vn.viewText);
+					System.out.println("mag: " + magx);
+					nowXpath = vn.xpath;
+					return true;
+				}
+				
+				if ((magx == -1) && compareTwo(magx2, magy) && compareTwo(magy2, magy)) {
 					System.out.println(vn.xpath + " GOT IT " + vn.resourceID + vn.viewText);
 					nowXpath = vn.xpath;
 					return true;
 				}
-
-				if (x * mag == Vx && x2 * mag == Vx2 && y * mag == Vy && y2 * mag == Vy2) {
+				
+				if ((magx2 == -1) && compareTwo(magx, magy) && compareTwo(magx, magy2)) {
+					System.out.println(vn.xpath + " GOT IT " + vn.resourceID + vn.viewText);
+					nowXpath = vn.xpath;
+					return true;
+				}
+				
+				if ((magy == -1) && compareTwo(magx, magx2) && compareTwo(magx, magy2)) {
+					System.out.println(vn.xpath + " GOT IT " + vn.resourceID + vn.viewText);
+					nowXpath = vn.xpath;
+					return true;
+				}
+				
+				if ((magy2 == -1) && compareTwo(magx, magy) && compareTwo(magx, magx2)) {
 					System.out.println(vn.xpath + " GOT IT " + vn.resourceID + vn.viewText);
 					nowXpath = vn.xpath;
 					return true;
