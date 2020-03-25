@@ -148,13 +148,14 @@ class ADAIMarchGator {
 		}
 		return true;
 	}
-	public static String APKname = "de.ub0r.android.smsdroid";
+	public static String APKname = "com.cc";
 	
 	public static String GatorDotPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/GatorDOT/" + APKname + ".apk.wtg.dot";
 	
 	public static String PaladinLogPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/PaladinLog/" + APKname + ".log";
 	public static String PaladinLogOutputPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/PaladinDOT/" + APKname + ".dot";
 	public static String ADAIFilePath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/groundtruth/" + APKname + ".txt";
+	public static String ADAIFileViewTreePath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/groundtruth/" + APKname + "_ViewTree.txt";
 	public static String ADAIDotPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/groundDOT/" + APKname + ".dot";
 	
 	public static String PaladinFilePath = "/Users/hanlinwang/Desktop/thesis3/myAPK/Paladin-output/graph-" + APKname + ".json";
@@ -176,9 +177,8 @@ class ADAIMarchGator {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		*/
-		// Read dot file from Gator 
 		
+		// Read dot file from Gator 		
 		GatorDot2C myGator = new GatorDot2C(GatorDotPath);
 		myGator.Read();
 		myGator.Dot2Class();
@@ -215,5 +215,20 @@ class ADAIMarchGator {
 		aADAI.Run();
 		aADAI.BuildPath();
 		*/
+		
+		
+		/*/ Output to Dot/SVG file
+		ADAI2Dot myADAI = new ADAI2Dot(ADAIFileViewTreePath, ADAIDotPath);
+		myADAI.ReadLog();
+		myADAI.Run();
+		myADAI.BuildPath();
+		myADAI.RemoveDuplicate();
+		myADAI.WriteDot();
+		*/
+		String command = "dot -Tsvg "+ ADAIDotPath + " -o /Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/svg/" + APKname + ".svg";
+		System.out.println(command);
+		//AndroidOutputServer.ExecuteCommand(command);
+		
+		
 	}
 }
