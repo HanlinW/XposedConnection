@@ -47,7 +47,7 @@ public class AndroidOutputServer{
 		System.out.println("Saved Current View Tree");
 		command = adbPath + "adb shell su -c /system/bin/uiautomator dump /sdcard/tmp.xml";
 		ExecuteCommand(command);
-		
+
 
 	}
 
@@ -154,6 +154,37 @@ public class AndroidOutputServer{
 		}
 		
 	}
+	
+	public static String ClickableFile = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/trash/clickableList.txt";
+	public static void findAll(ViewNode vn, FileWriter file) throws IOException {
+		if (vn.clickable) {
+			file.write("[" + vn.x + ", " + vn.x2 + "][" + vn.y + ", " + vn.y2 + "]  : " + vn.xpath + "   id:" + vn.resourceID + '\n');
+		}
+		
+		Iterator iter = null;
+		if (vn.children!=null) iter =  vn.children.iterator(); else return ;
+		boolean current = false;
+		while (iter.hasNext()) {
+			findAll((ViewNode)iter.next(), file);
+		}
+	}
+	public static void outputClickableXpath() {
+		String xmlName = "tmp.xml";
+		String xmlPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/tmp/";
+		
+		File file = new File(ClickableFile);
+		try {
+			file.createNewFile();
+			FileWriter writeFile = new FileWriter(file);
+			ViewTree current_tree = new ViewTree(xmlPath + xmlName);;
+			ViewNode current_root = current_tree.root;
+			findAll(current_root, writeFile);
+			writeFile.close();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+	
 	public static void ExecuteCommand(String command) {
         BufferedReader successResult = null;
         BufferedReader errorResult = null;
@@ -184,9 +215,7 @@ public class AndroidOutputServer{
             } catch (IOException e) {
                 e.printStackTrace();
             }
-        }
-		
-		
+        }				
 	}
 	public static void main(String[] args) throws IOException {
 		File file = new File(filePath);
@@ -215,6 +244,7 @@ public class AndroidOutputServer{
 			System.out.println(line);
 			if (line.contains("SaveViewTree")) {
 				SaveViewTree();
+				outputClickableXpath();
 			} else if (line.contains("ClickPosition: ")) {
 				String pos = line.split("ClickPosition: ")[1];
 				findPosition(pos, sock);

@@ -1,0 +1,125 @@
+Hash: 125284028
+SourceActivity: com.apk.com.lovePositions.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2a001f2}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/all
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 7965857
+SourceActivity: com.apk.com.lovePositions.AllActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {558bce5}
+Class: class android.widget.GridView
+WidgetID: com.droiddream.lovePositions:id/all_gird
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/GridView/LinearLayout
+Hash: 197176845
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b4b80e}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/des
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ImageButton
+Hash: 164411425
+SourceActivity: com.apk.com.lovePositions.ContentActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b1bb55d}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/back
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/ImageButton
+Hash: 197176845
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b4b80e}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/des
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ImageButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ContentActivity
+Hash: 40485648
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b4b80e}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/next
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 215043027
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b4b80e}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/pre
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+Hash: 7965857
+SourceActivity: com.apk.com.lovePositions.AllActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {558bce5}
+Class: class android.widget.GridView
+WidgetID: com.droiddream.lovePositions:id/all_gird
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/GridView/LinearLayout
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.AllActivity
+Hash: 110812741
+SourceActivity: com.apk.com.lovePositions.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2a001f2}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/random
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 18315289
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {68d62bf}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/next
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+Hash: 235395482
+SourceActivity: com.apk.com.lovePositions.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2a001f2}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/about
+Hash: 110218664
+SourceActivity: com.apk.com.lovePositions.MainActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: ABout
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.MainActivity
+Hash: 235395482
+SourceActivity: com.apk.com.lovePositions.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2a001f2}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/about
+Hash: 63119155
+SourceActivity: com.apk.com.lovePositions.MainActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: ABout
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 62725202
+SourceActivity: com.apk.com.lovePositions.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f5a0820}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 110812741
+SourceActivity: com.apk.com.lovePositions.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2a001f2}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/random
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 72892165
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1900326}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/des
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ImageButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ContentActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity

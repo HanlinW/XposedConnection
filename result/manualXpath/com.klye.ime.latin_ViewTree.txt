@@ -1,0 +1,357 @@
+Hash: 116813770
+SourceActivity: com.klye.ime.latin.M
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a6032b}
+Class: class android.widget.Button
+WidgetID: com.klye.ime.latin:id/enable
+ButtonText: 1. Enable MultiLing
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
+Hash: 221861179
+SourceActivity: com.klye.ime.latin.M
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a6032b}
+Class: class android.widget.Button
+WidgetID: com.klye.ime.latin:id/enable2
+ButtonText: 2. Switch IME to MultiLing
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
+Hash: 226392
+SourceActivity: com.klye.ime.latin.M
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a6032b}
+Class: class android.widget.Button
+WidgetID: com.klye.ime.latin:id/enable3
+ButtonText: 3. Download Plug-ins
+(A must for word prediction to work)
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: 50039217
+SourceActivity: com.klye.ime.latin.M
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a6032b}
+Class: class android.widget.Button
+WidgetID: com.klye.ime.latin:id/enable4
+ButtonText: 4. Enable Languages
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
+Hash: BACK
+Event: BACK
+SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Hash: 150191766
+SourceActivity: com.klye.ime.latin.M
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a6032b}
+Class: class android.widget.Button
+WidgetID: com.klye.ime.latin:id/settings
+ButtonText: Keyboard settings
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
+Hash: 212631151
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d5acf8}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: 212631151
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d5acf8}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 203751282
+SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {59172a9}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 203751282
+SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {59172a9}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 203751282
+SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {59172a9}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 203751282
+SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {59172a9}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 203751282
+SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {59172a9}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 203751282
+SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {59172a9}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 203751282
+SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {59172a9}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 203751282
+SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {59172a9}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 203751282
+SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {59172a9}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: BACK
+Event: BACK
+SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Hash: 212631151
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d5acf8}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: 212631151
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d5acf8}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 100930714
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+DialogClass: class android.app.Dialog
+Hash: 22132733
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {af0f05f}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 83551964
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+DialogClass: class android.app.AlertDialog
+DialogTitle: Vibrate on keypress
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: 114901774
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9b4d8c5}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 22132733
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {af0f05f}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: 22132733
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {af0f05f}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: BACK
+Event: BACK
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Hash: 212631151
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d5acf8}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 155614676
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+DialogClass: class android.app.Dialog
+Hash: 12424223
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d79f930}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 218506465
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+DialogClass: class android.app.AlertDialog
+DialogTitle: Long-press enter key
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: 205609538
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1bb7089}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 12424223
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d79f930}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 12424223
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d79f930}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 233068016
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+DialogClass: class android.app.AlertDialog
+DialogTitle: → ⇢
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: BACK
+Event: BACK
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Hash: BACK
+Event: BACK
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Hash: 212631151
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d5acf8}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 178243162
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+DialogClass: class android.app.Dialog
+Hash: BACK
+Event: BACK
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Hash: 212631151
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d5acf8}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 212631151
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d5acf8}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 85049419
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+DialogClass: class android.app.Dialog
+Hash: BACK
+Event: BACK
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Hash: 212631151
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d5acf8}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 256219225
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+DialogClass: class android.app.Dialog
+Hash: 148584376
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2e2938c}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 104423309
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+DialogClass: class android.app.AlertDialog
+DialogTitle: Latin Layouts
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: 75023638
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ce1a86d}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 148584376
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2e2938c}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: BACK
+Event: BACK
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Hash: 212631151
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d5acf8}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Hash: 50039217
+SourceActivity: com.klye.ime.latin.M
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a6032b}
+Class: class android.widget.Button
+WidgetID: com.klye.ime.latin:id/enable4
+ButtonText: 4. Enable Languages
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
+Hash: 31216769
+SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f4deba5}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 31216769
+SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f4deba5}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: BACK
+Event: BACK
+SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Hash: 31328791
+SourceActivity: com.klye.ime.latin.M
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a6032b}
+Class: class android.widget.Button
+WidgetID: com.klye.ime.latin:id/share
+ButtonText: ★ Share it ★
+(via eMail, Tweet, Facebook, Buzz... :)
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ChooserActivity
+Hash: 124222980
+SourceActivity: com.klye.ime.latin.M
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a6032b}
+Class: class android.widget.Button
+WidgetID: com.klye.ime.latin:id/home
+ButtonText: Help | FAQ | Changelog
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: 177082349
+SourceActivity: com.klye.ime.latin.M
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a6032b}
+Class: class android.widget.EditText
+Class: class android.widget.EditText
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/EditText
+Hash: BACK
+Event: BACK
+SourceActivity: com.klye.ime.latin.M
+Hash: 116813770
+SourceActivity: com.klye.ime.latin.M
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a6032b}
+Class: class android.widget.Button
+WidgetID: com.klye.ime.latin:id/enable
+ButtonText: 1. Enable MultiLing
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 151339009
+SourceActivity: com.klye.ime.latin.M
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {282bea6}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: com.klye.ime.latin:id/exit
+MenuItemTitle: Exit
+Hash: 150191766
+SourceActivity: com.klye.ime.latin.M
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a6032b}
+Class: class android.widget.Button
+WidgetID: com.klye.ime.latin:id/settings
+ButtonText: Keyboard settings
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.klye.ime.latin.LatinIMESettings
+Hash: MENU
+Event: MENU
+Hash: 10222017
+SourceActivity: com.klye.ime.latin.M
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4c85566}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: com.klye.ime.latin:id/exit
+MenuItemTitle: Exit

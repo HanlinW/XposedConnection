@@ -1,0 +1,600 @@
+Hash: 59483275
+SourceActivity: yuku.perekammp3.RekamActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Information
+Hash: 130776305
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3da6a12}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Later
+Hash: 23364705
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e0f4b55}
+Class: class android.widget.ImageButton
+WidgetID: yuku.mp3recorder.lite:id/bStop
+Hash: 113109960
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e0f4b55}
+Class: class android.widget.ImageButton
+WidgetID: yuku.mp3recorder.lite:id/bRekam
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 113109960
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e0f4b55}
+Class: class android.widget.ImageButton
+WidgetID: yuku.mp3recorder.lite:id/bRekam
+Hash: 23364705
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e0f4b55}
+Class: class android.widget.ImageButton
+WidgetID: yuku.mp3recorder.lite:id/bStop
+Hash: MENU
+Event: MENU
+Hash: 198743677
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ac05972}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: yuku.mp3recorder.lite:id/menuList
+MenuItemTitle: List
+Hash: 244414674
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Information
+Hash: 240137619
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {484560}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.DaftarActivity
+Hash: MENU
+Event: MENU
+Hash: 198743677
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cefb4bf}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: yuku.mp3recorder.lite:id/menuList
+MenuItemTitle: List
+Hash: 46963302
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Information
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.DaftarActivity
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.DaftarActivity
+Hash: MENU
+Event: MENU
+Hash: 23381204
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {483903}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: yuku.mp3recorder.lite:id/menuPengaturan
+MenuItemTitle: Settings
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Hash: MENU
+Event: MENU
+Hash: 177984742
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {64f9485}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: yuku.mp3recorder.lite:id/menuAbout
+MenuItemTitle: About
+Hash: 59099267
+SourceActivity: yuku.perekammp3.RekamActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: About
+Hash: 37345395
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {265e2eb}
+Class: class android.widget.Button
+WidgetID: yuku.mp3recorder.lite:id/bSeeOtherApps
+ButtonText: See other apps by Yuku
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/LinearLayout/Button
+Hash: 143723433
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {265e2eb}
+Class: class android.widget.Button
+WidgetID: yuku.mp3recorder.lite:id/bAboutLame
+ButtonText: About LAME
+Hash: 12905041
+SourceActivity: yuku.perekammp3.RekamActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: About LAME
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/LinearLayout/Button
+Hash: 238856872
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {94430a7}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 12958053
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {265e2eb}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 253487655
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {105c954}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: yuku.mp3recorder.lite:id/menuBeli
+MenuItemTitle: Get Full Version
+Hash: 59483275
+SourceActivity: yuku.perekammp3.RekamActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Information
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.RekamActivity
+Hash: 10324467
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1dced3f}
+Class: class android.widget.ImageButton
+WidgetID: yuku.mp3recorder.lite:id/bList
+Hash: 54371530
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Information
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 94622763
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4e77656}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 152631456
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {91fc6d7}
+Class: class android.widget.ListView
+WidgetID: yuku.mp3recorder.lite:id/lsRekaman
+Hash: 55348026
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/ListView/RelativeLayout
+Hash: 217035967
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33ab942}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 98106574
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {91fc6d7}
+Class: class android.widget.ImageButton
+Tag: yuku.perekammp3.DaftarActivity$Entri@f7f2d53
+WidgetID: yuku.mp3recorder.lite:id/bPlay
+Hash: 152631456
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {91fc6d7}
+Class: class android.widget.ListView
+WidgetID: yuku.mp3recorder.lite:id/lsRekaman
+Hash: 55348026
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/ListView/RelativeLayout
+Hash: 217035967
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2bf278e}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 112176053
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Rename
+Hash: 228665493
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d5d055a}
+Class: class android.widget.EditText
+WidgetID: yuku.mp3recorder.lite:id/tBaru
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/LinearLayout/EditText
+Hash: 179878161
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d5d055a}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 152631456
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {91fc6d7}
+Class: class android.widget.ListView
+WidgetID: yuku.mp3recorder.lite:id/lsRekaman
+Hash: 55348026
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/ListView/RelativeLayout
+Hash: 217035967
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3f4fe2d}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ChooserActivity
+Hash: 152631456
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {91fc6d7}
+Class: class android.widget.ListView
+WidgetID: yuku.mp3recorder.lite:id/lsRekaman
+Hash: 55348026
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/ListView/RelativeLayout
+Hash: 217035967
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9dde9b0}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 238632648
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Delete
+Hash: 138648923
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e1de9f8}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Yes
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 152631456
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {91fc6d7}
+Class: class android.widget.ListView
+WidgetID: yuku.mp3recorder.lite:id/lsRekaman
+Hash: 55348026
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/ListView/RelativeLayout
+Hash: 217035967
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {daf6c2}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 220142277
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Delete
+Hash: 236586527
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1d53f35}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: No
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 152631456
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {91fc6d7}
+Class: class android.widget.ListView
+WidgetID: yuku.mp3recorder.lite:id/lsRekaman
+Hash: 55348026
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/ListView/RelativeLayout
+Hash: 217035967
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a15c458}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.music.AudioPreview
+Hash: 152631456
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {91fc6d7}
+Class: class android.widget.ListView
+WidgetID: yuku.mp3recorder.lite:id/lsRekaman
+Event: LongClick
+Hash: 55348026
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 217035967
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e968e96}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 250007017
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Delete
+Hash: 95763619
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6d20359}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: No
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 109518081
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {91fc6d7}
+Class: class android.widget.SeekBar
+WidgetID: yuku.mp3recorder.lite:id/geseran
+Hash: 109518081
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {91fc6d7}
+Class: class android.widget.SeekBar
+WidgetID: yuku.mp3recorder.lite:id/geseran
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.DaftarActivity
+Hash: 188471593
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1dced3f}
+Class: class android.widget.ImageButton
+WidgetID: yuku.mp3recorder.lite:id/bPengaturan
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 252404390
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {853eb1c}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 62669277
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Bit rate
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 131803004
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6f7e05a}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 252404390
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {853eb1c}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 234510339
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Minimum disk space
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 198552805
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b6bc26b}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 252404390
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {853eb1c}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 252404390
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {853eb1c}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 252404390
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {853eb1c}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 177989646
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Minimum disk space
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 171792216
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33fd996}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 252404390
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {853eb1c}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 252404390
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {853eb1c}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 243811124
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Keep screen on
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 129544144
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9ff52ce}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 252404390
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {853eb1c}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 252404390
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {853eb1c}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 191720340
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 11799638
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Result
+Hash: 53135357
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cd46cf2}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 252404390
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {853eb1c}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 182084539
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Keep screen on
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 241370292
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d354c52}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 252404390
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {853eb1c}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 10247067
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Buffer size
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 107428285
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {887703}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 252404390
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {853eb1c}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 252404390
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {853eb1c}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 252404390
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {853eb1c}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 252404390
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {853eb1c}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 47529094
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Gain (Experimental!)
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 217720077
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2d9ecc2}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 252404390
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {853eb1c}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 262235944
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Gain (Experimental!)
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 150283414
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b565404}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 252404390
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {853eb1c}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 160509349
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Minimum disk space
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 259378679
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d6226cd}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Hash: MENU
+Event: MENU
+Hash: 135462026
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5c3c2fb}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: yuku.mp3recorder.lite:id/menuList
+MenuItemTitle: List
+Hash: 241531026
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Information
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.DaftarActivity
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.DaftarActivity
+Hash: MENU
+Event: MENU
+Hash: 125077471
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ca06c87}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: yuku.mp3recorder.lite:id/menuAbout
+MenuItemTitle: About
+Hash: 12076516
+SourceActivity: yuku.perekammp3.RekamActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: About
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.RekamActivity

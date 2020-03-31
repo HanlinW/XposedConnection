@@ -1,0 +1,10 @@
+[0, 1080][0, 1775]  : /FrameLayout   id:
+[0, 1080][0, 1775]  : /FrameLayout/LinearLayout   id:
+[0, 1080][71, 155]  : /FrameLayout/LinearLayout/FrameLayout   id:
+[13, 1066][74, 148]  : /FrameLayout/LinearLayout/FrameLayout/TextView   id:android:id/title
+[0, 1080][155, 1775]  : /FrameLayout/LinearLayout/FrameLayout   id:android:id/content
+[0, 1080][155, 1775]  : /FrameLayout/LinearLayout/FrameLayout/LinearLayout   id:
+[0, 1080][155, 1137]  : /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout   id:
+[321, 759][661, 820]  : /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton   id:com.droiddream.lovePositions:id/all
+[321, 759][820, 979]  : /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton   id:com.droiddream.lovePositions:id/random
+[321, 759][979, 1137]  : /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton   id:com.droiddream.lovePositions:id/about

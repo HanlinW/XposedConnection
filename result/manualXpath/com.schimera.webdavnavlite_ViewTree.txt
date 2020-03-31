@@ -1,0 +1,324 @@
+Hash: 51512838
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a474a8}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: 174526107
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 84798020
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: 23227508
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3e05a12}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 107025597
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {de405e3}
+Class: class android.widget.ImageButton
+WidgetID: com.schimera.webdavnavlite:id/tool_newfolder
+Hash: 189563406
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Folder
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
+Hash: 251865253
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2cf401e}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 107025597
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {de405e3}
+Class: class android.widget.ImageButton
+WidgetID: com.schimera.webdavnavlite:id/tool_newfolder
+Hash: 267603483
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Folder
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
+Hash: 66442644
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5f0f871}
+Class: class android.widget.EditText
+Class: class android.widget.EditText
+Hash: 99670403
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5f0f871}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Create
+Hash: 238167786
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 178072508
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 207682540
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {287624a}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 29444611
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {de405e3}
+Class: class android.widget.ImageButton
+WidgetID: com.schimera.webdavnavlite:id/tool_camera
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: 176439913
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 21798179
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: 41626799
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a474a8}
+Class: class android.widget.ImageButton
+WidgetID: com.schimera.webdavnavlite:id/tool_settings
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.SettingsEdit
+Hash: 51512838
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a474a8}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: 139990331
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 94707703
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: 52950247
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c07f3d}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: MENU
+Event: MENU
+Hash: 20230573
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a608ce2}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: com.schimera.webdavnavlite:id/addServer
+MenuItemTitle: Add Server
+Hash: 2065077
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cc4a416}
+Class: class android.widget.Button
+WidgetID: com.schimera.webdavnavlite:id/cancelButton
+ButtonText: Cancel
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 20230573
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {dc87f95}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: com.schimera.webdavnavlite:id/addServer
+MenuItemTitle: Add Server
+Hash: 72680458
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {57201c8}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/nameField
+Hash: 63402052
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {57201c8}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/usernameField
+Hash: 179075059
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {57201c8}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/passwordField
+Hash: 42432297
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {57201c8}
+Class: class android.widget.Button
+WidgetID: com.schimera.webdavnavlite:id/addServerButton
+ButtonText: Add Server
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 20230573
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7a9756e}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: com.schimera.webdavnavlite:id/addServer
+MenuItemTitle: Add Server
+Hash: 47519619
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {371092c}
+Class: class android.widget.Button
+WidgetID: com.schimera.webdavnavlite:id/cancelButton
+ButtonText: Cancel
+Hash: MENU
+Event: MENU
+Hash: 23105220
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9651cd5}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: com.schimera.webdavnavlite:id/showInfo
+MenuItemTitle: Info
+Hash: 78610243
+SourceActivity: com.schimera.webdavnavlite.Activities.InfoActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {851c9c0}
+Class: class android.widget.Button
+WidgetID: com.schimera.webdavnavlite:id/reviewAppButton
+ButtonText: Review
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/RelativeLayout/Button
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.InfoActivity
+Hash: 51512838
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a474a8}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 51512838
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a474a8}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 33299343
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+DialogClass: class android.app.AlertDialog
+DialogTitle: Actions
+Hash: 105645529
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b243a7c}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 242675797
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {787c237}
+Class: class android.widget.Button
+WidgetID: com.schimera.webdavnavlite:id/addServerButton
+ButtonText: Update server
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/Button
+Hash: 51512838
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a474a8}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 166215979
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+DialogClass: class android.app.AlertDialog
+DialogTitle: Actions
+Hash: 239041045
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5dfebe8}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 201115251
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+DialogClass: class android.app.AlertDialog
+DialogTitle: Confirmation
+Hash: 203264447
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e87c3d5}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 51512838
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a474a8}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 97559512
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+DialogClass: class android.app.AlertDialog
+DialogTitle: Actions
+Hash: 259851002
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {aecae11}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 51512838
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a474a8}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 172612719
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+DialogClass: class android.app.AlertDialog
+DialogTitle: Actions
+Hash: 148511673
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a6c9dc}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 176083357
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+DialogClass: class android.app.AlertDialog
+DialogTitle: Confirmation
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Hash: 51512838
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a474a8}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 168378580
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+DialogClass: class android.app.AlertDialog
+DialogTitle: Actions
+Hash: 17915798
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5ade35d}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 89369642
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+DialogClass: class android.app.AlertDialog
+DialogTitle: Confirmation
+Hash: 14713319
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6d5e194}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
