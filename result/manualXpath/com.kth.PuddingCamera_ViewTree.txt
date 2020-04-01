@@ -32,6 +32,7 @@ SourceActivity: com.kth.PuddingCamera.CameraActivity
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6d0afbd}
 Class: class android.widget.ImageButton
 WidgetID: com.kth.PuddingCamera:id/btnShutter
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/FrameLayout/FrameLayout/ImageButton
 Hash: 87043317
 SourceActivity: com.kth.PuddingCamera.CameraActivity
 DialogClass: class android.app.ProgressDialog

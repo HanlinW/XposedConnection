@@ -45,6 +45,7 @@ SourceActivity: com.klye.ime.latin.LatinIMESettings
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d5acf8}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: BACK
 Event: BACK
 SourceActivity: com.android.internal.app.ResolverActivity
@@ -53,51 +54,61 @@ SourceActivity: com.klye.ime.latin.LatinIMESettings
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d5acf8}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: 203751282
 SourceActivity: com.klye.ime.latin.InputLanguageSelection
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {59172a9}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: 203751282
 SourceActivity: com.klye.ime.latin.InputLanguageSelection
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {59172a9}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: 203751282
 SourceActivity: com.klye.ime.latin.InputLanguageSelection
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {59172a9}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: 203751282
 SourceActivity: com.klye.ime.latin.InputLanguageSelection
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {59172a9}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: 203751282
 SourceActivity: com.klye.ime.latin.InputLanguageSelection
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {59172a9}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: 203751282
 SourceActivity: com.klye.ime.latin.InputLanguageSelection
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {59172a9}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: 203751282
 SourceActivity: com.klye.ime.latin.InputLanguageSelection
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {59172a9}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: 203751282
 SourceActivity: com.klye.ime.latin.InputLanguageSelection
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {59172a9}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: 203751282
 SourceActivity: com.klye.ime.latin.InputLanguageSelection
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {59172a9}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: BACK
 Event: BACK
 SourceActivity: com.klye.ime.latin.InputLanguageSelection
@@ -106,6 +117,7 @@ SourceActivity: com.klye.ime.latin.LatinIMESettings
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d5acf8}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: BACK
 Event: BACK
 SourceActivity: com.android.internal.app.ResolverActivity
@@ -114,6 +126,7 @@ SourceActivity: com.klye.ime.latin.LatinIMESettings
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d5acf8}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: 100930714
 SourceActivity: com.klye.ime.latin.LatinIMESettings
 DialogClass: class android.app.Dialog
@@ -122,6 +135,7 @@ SourceActivity: com.klye.ime.latin.LatinIMESettings
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {af0f05f}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: 83551964
 SourceActivity: com.klye.ime.latin.LatinIMESettings
 DialogClass: class android.app.AlertDialog
@@ -156,6 +170,7 @@ SourceActivity: com.klye.ime.latin.LatinIMESettings
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d5acf8}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: 155614676
 SourceActivity: com.klye.ime.latin.LatinIMESettings
 DialogClass: class android.app.Dialog
@@ -164,6 +179,7 @@ SourceActivity: com.klye.ime.latin.LatinIMESettings
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d79f930}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: 218506465
 SourceActivity: com.klye.ime.latin.LatinIMESettings
 DialogClass: class android.app.AlertDialog
@@ -181,11 +197,13 @@ SourceActivity: com.klye.ime.latin.LatinIMESettings
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d79f930}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: 12424223
 SourceActivity: com.klye.ime.latin.LatinIMESettings
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d79f930}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: 233068016
 SourceActivity: com.klye.ime.latin.LatinIMESettings
 DialogClass: class android.app.AlertDialog
@@ -202,6 +220,7 @@ SourceActivity: com.klye.ime.latin.LatinIMESettings
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d5acf8}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: 178243162
 SourceActivity: com.klye.ime.latin.LatinIMESettings
 DialogClass: class android.app.Dialog
@@ -213,11 +232,13 @@ SourceActivity: com.klye.ime.latin.LatinIMESettings
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d5acf8}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: 212631151
 SourceActivity: com.klye.ime.latin.LatinIMESettings
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d5acf8}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: 85049419
 SourceActivity: com.klye.ime.latin.LatinIMESettings
 DialogClass: class android.app.Dialog
@@ -229,6 +250,7 @@ SourceActivity: com.klye.ime.latin.LatinIMESettings
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d5acf8}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: 256219225
 SourceActivity: com.klye.ime.latin.LatinIMESettings
 DialogClass: class android.app.Dialog
@@ -237,6 +259,7 @@ SourceActivity: com.klye.ime.latin.LatinIMESettings
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2e2938c}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: 104423309
 SourceActivity: com.klye.ime.latin.LatinIMESettings
 DialogClass: class android.app.AlertDialog
@@ -254,6 +277,7 @@ SourceActivity: com.klye.ime.latin.LatinIMESettings
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2e2938c}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: BACK
 Event: BACK
 SourceActivity: com.klye.ime.latin.LatinIMESettings
@@ -262,6 +286,7 @@ SourceActivity: com.klye.ime.latin.LatinIMESettings
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d5acf8}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: BACK
 Event: BACK
 SourceActivity: com.android.internal.app.ResolverActivity
@@ -280,11 +305,13 @@ SourceActivity: com.klye.ime.latin.InputLanguageSelection
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f4deba5}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: 31216769
 SourceActivity: com.klye.ime.latin.InputLanguageSelection
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f4deba5}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView
 Hash: BACK
 Event: BACK
 SourceActivity: com.klye.ime.latin.InputLanguageSelection

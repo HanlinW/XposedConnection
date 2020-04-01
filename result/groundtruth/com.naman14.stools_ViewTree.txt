@@ -1,0 +1,176 @@
+Hash: 75479069
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.widget.ScrollView
+Class: class android.widget.ScrollView
+Hash: 168364591
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/ViewGroup/LinearLayoutCompat/ImageView
+Hash: 140668665
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a7ef9ab}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+MenuItemID: com.naman14.stools:id/menu_refresh
+MenuItemTitle: Refresh
+MenuItemID: com.naman14.stools:id/menu_refresh
+MenuItemTitle: Refresh
+Hash: 168364591
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/ViewGroup/LinearLayoutCompat/ImageView
+Hash: 75007777
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {db19382}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+MenuItemID: com.naman14.stools:id/menu_reset
+MenuItemTitle: Reset Timers
+MenuItemID: com.naman14.stools:id/menu_reset
+MenuItemTitle: Reset Timers
+Hash: 168364591
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/ViewGroup/LinearLayoutCompat/ImageView
+Hash: 121135270
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8fde73}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+MenuItemID: com.naman14.stools:id/menu_restore
+MenuItemTitle: Restore Timers
+MenuItemID: com.naman14.stools:id/menu_restore
+MenuItemTitle: Restore Timers
+Hash: 155864634
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/ViewGroup/ImageButton
+Hash: 207287639
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.widget.ListView
+WidgetID: com.naman14.stools:id/list_slidermenu
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/LinearLayout/ListView/LinearLayout
+Hash: 94567199
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 155864634
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 207287639
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.widget.ListView
+WidgetID: com.naman14.stools:id/list_slidermenu
+Hash: 121087566
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class com.shamanland.fab.FloatingActionButton
+WidgetID: com.naman14.stools:id/fab2
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/FrameLayout/FrameLayout/RelativeLayout/ImageButton
+Hash: 161426675
+SourceActivity: com.naman14.stools.location.LocationActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b1282d9}
+Class: class android.support.v4.view.ViewPager
+WidgetID: com.naman14.stools:id/pager
+Hash: 32377340
+SourceActivity: com.naman14.stools.location.LocationActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b1282d9}
+Class: class android.support.v7.internal.widget.ScrollingTabContainerView$TabView
+Class: class android.support.v7.internal.widget.ScrollingTabContainerView$TabView
+Hash: 117868930
+SourceActivity: com.naman14.stools.location.LocationActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b1282d9}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+MenuItemID: android:id/home
+MenuItemTitle: null
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/ViewGroup/ImageButton
+Hash: 155864634
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 207287639
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.widget.ListView
+WidgetID: com.naman14.stools:id/list_slidermenu
+Hash: 206704353
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.support.v4.widget.DrawerLayout
+WidgetID: com.naman14.stools:id/drawer_layout
+Hash: 155864634
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 207287639
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.widget.ListView
+WidgetID: com.naman14.stools:id/list_slidermenu
+Hash: 103226094
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.widget.ScrollView
+Class: class android.widget.ScrollView
+Hash: 155864634
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 207287639
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.widget.ListView
+WidgetID: com.naman14.stools:id/list_slidermenu
+Hash: 84907614
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.widget.TextView
+WidgetID: com.naman14.stools:id/text2
+Hash: 123712970
+SourceActivity: com.naman14.stools.MainActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 84907614
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.widget.TextView
+WidgetID: com.naman14.stools:id/text2
+Hash: 157057109
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.widget.TextView
+WidgetID: com.naman14.stools:id/text3
+Hash: 159975751
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.widget.ScrollView
+Class: class android.widget.ScrollView
+Hash: 157057109
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {df8698d}
+Class: class android.widget.TextView
+WidgetID: com.naman14.stools:id/text3
+Hash: BACK
+Event: BACK
+SourceActivity: com.naman14.stools.MainActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.launcher3.Launcher

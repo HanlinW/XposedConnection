@@ -78,11 +78,11 @@ SourceActivity: com.apk.com.lovePositions.MainActivity
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2a001f2}
 Class: class android.widget.ImageButton
 WidgetID: com.droiddream.lovePositions:id/about
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
 Hash: 110218664
 SourceActivity: com.apk.com.lovePositions.MainActivity
 DialogClass: class android.app.AlertDialog
 DialogTitle: ABout
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
 Hash: BACK
 Event: BACK
 SourceActivity: com.apk.com.lovePositions.MainActivity
@@ -91,11 +91,11 @@ SourceActivity: com.apk.com.lovePositions.MainActivity
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2a001f2}
 Class: class android.widget.ImageButton
 WidgetID: com.droiddream.lovePositions:id/about
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
 Hash: 63119155
 SourceActivity: com.apk.com.lovePositions.MainActivity
 DialogClass: class android.app.AlertDialog
 DialogTitle: ABout
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
 Hash: 62725202
 SourceActivity: com.apk.com.lovePositions.MainActivity
 Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f5a0820}

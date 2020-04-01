@@ -1,0 +1,69 @@
+Hash: 75724007
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4f8907e}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/ViewGroup/LinearLayoutCompat/ImageView
+Hash: 52713018
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {15a25de}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+MenuItemID: com.secuso.torchlight2:id/action_about
+MenuItemTitle: About
+Hash: BACK
+Event: BACK
+SourceActivity: com.secuso.torchlight2.AboutActivity
+Hash: 75724007
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4f8907e}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Hash: 224636900
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {afed28b}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+MenuItemID: com.secuso.torchlight2:id/action_about
+MenuItemTitle: About
+Hash: 43688326
+SourceActivity: com.secuso.torchlight2.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b64c39d}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 198963139
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {724906c}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+MenuItemID: android:id/home
+MenuItemTitle: null
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/ViewGroup/ImageButton
+Hash: 13196006
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {724906c}
+Class: class android.widget.ImageButton
+WidgetID: com.secuso.torchlight2:id/btnSwitch
+Hash: 13196006
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {724906c}
+Class: class android.widget.ImageButton
+WidgetID: com.secuso.torchlight2:id/btnSwitch
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/RelativeLayout/ImageButton
+Hash: 145537748
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {724906c}
+Class: class android.widget.CheckBox
+WidgetID: com.secuso.torchlight2:id/cbPause
+ButtonText: turn off on app minimize or standby
+Hash: 13196006
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {724906c}
+Class: class android.widget.ImageButton
+WidgetID: com.secuso.torchlight2:id/btnSwitch
+Hash: 13196006
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {724906c}
+Class: class android.widget.ImageButton
+WidgetID: com.secuso.torchlight2:id/btnSwitch
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/RelativeLayout/ImageButton
