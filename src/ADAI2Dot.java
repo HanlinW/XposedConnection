@@ -45,7 +45,7 @@ public class ADAI2Dot{
 		String src= "";
 		String tgt= "";
 		String handler= "", widgetID= "", className= "", dialogClass= "", dialogTitle= "", buttonText= "", hash= "", event = "", 
-				menuItemID = "", xpath = "";
+				menuItemID = "", xpath = "", xml = "", screenshot = "";
 	}
 	
 	public PathTree root = new PathTree(); 
@@ -338,7 +338,7 @@ public class ADAI2Dot{
 		int Aline = ADAIFile.size();
 		int i = 0;
 		String srcActName, handler, widgetID, tgtActName, className, 
-				dialogClass, dialogTitle, buttonText, hash ,event, menuItemID, xpath; 
+				dialogClass, dialogTitle, buttonText, hash ,event, menuItemID, xpath, xml, screenshot; 
 		srcActName = "";
 		handler = "";
 		widgetID = "";
@@ -350,6 +350,8 @@ public class ADAI2Dot{
 		menuItemID = "";
 		hash = "";
 		xpath = "";
+		xml = "";
+		screenshot = "";
 		event = "CLICK";
 		Boolean new_path = true;
 		PathTree nowPath = root;
@@ -381,6 +383,8 @@ public class ADAI2Dot{
 					putPath.menuItemID = menuItemID;
 					putPath.hash = hash;
 					putPath.xpath = xpath;
+					putPath.xml = xml;
+					putPath.screenshot = screenshot;
 					nowPath.next = putPath;
 					nowPath = putPath;
 					
@@ -395,6 +399,8 @@ public class ADAI2Dot{
 					menuItemID = "";
 					event = "CLICK";
 					xpath = "";
+					xml = "";
+					screenshot = "";
 					hash = "";
 					//new_path = true;	
 				}
@@ -418,6 +424,7 @@ public class ADAI2Dot{
 				}
 				
 			} else if (line.contains("TargetActivity: ")) {
+				// we didn't use TargetActivity anymore after upgrade
 				tgtActName = a;
 				if (a.charAt(0)=='.') {
 					tgtActName = tgtActName.substring(1);
@@ -448,6 +455,10 @@ public class ADAI2Dot{
 				menuItemID = a;
 			} else if (line.contains("Xpath: ")) {
 				xpath = a;
+			} else if (line.contains("XML: ")) {
+				xml = a;
+			} else if (line.contains("Screenshot")) {
+				screenshot = a;
 			}
 			i++;
 		}
@@ -464,6 +475,8 @@ public class ADAI2Dot{
 		putPath.hash = hash;
 		putPath.menuItemID = menuItemID;
 		putPath.xpath = xpath;
+		putPath.xml = xml;
+		putPath.screenshot = screenshot;
 		nowPath.next = putPath;
 		nowPath = putPath;
 		nowPath.next = null;

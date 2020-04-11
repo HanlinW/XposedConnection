@@ -1,0 +1,235 @@
+Hash: 124199325
+SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {afb9e36}
+Class: class android.widget.EditText
+WidgetID: com.fisheradelakin.interactivestory:id/nameEditText
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/0.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/0.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/EditText
+Hash: 124199325
+SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {afb9e36}
+Class: class android.widget.EditText
+WidgetID: com.fisheradelakin.interactivestory:id/nameEditText
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/1.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/1.png
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/2.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/2.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Hash: 74975348
+SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {afb9e36}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/startButton
+ButtonText: START YOUR ADVENTURE
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/3.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/3.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/Button
+Hash: 202731766
+SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {93fadcd}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+ButtonText: Stop and investigate
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/4.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/4.png
+Hash: 202731766
+SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {93fadcd}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+ButtonText: Explore the cave
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/5.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/5.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/Button
+Hash: 202731766
+SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {93fadcd}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+ButtonText: Refill at ship and explore the rover
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/6.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/6.png
+Hash: 202731766
+SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {93fadcd}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+ButtonText: Explore the coordinates
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/7.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/7.png
+Hash: 90507665
+SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {93fadcd}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+ButtonText: Play Again
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/8.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/8.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/Button
+Hash: 74975348
+SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {afb9e36}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/startButton
+ButtonText: START YOUR ADVENTURE
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/9.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/9.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/Button
+Hash: 202428359
+SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {dad051d}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+ButtonText: Continue home to Earth
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/10.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/10.png
+Hash: 202428359
+SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {dad051d}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+ButtonText: Continue home to Earth
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/11.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/11.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/Button
+Hash: 202428359
+SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {dad051d}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+ButtonText: Play Again
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/12.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/12.png
+Hash: 74975348
+SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {afb9e36}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/startButton
+ButtonText: START YOUR ADVENTURE
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/13.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/13.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/Button
+Hash: 13682392
+SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5cb9516}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+ButtonText: Continue home to Earth
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/14.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/14.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/Button
+Hash: 143305265
+SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5cb9516}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+ButtonText: Head back to Mars to investigate
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/15.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/15.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/Button
+Hash: 143305265
+SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5cb9516}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+ButtonText: Explore the coordinates
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/16.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/16.png
+Hash: 13682392
+SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5cb9516}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+ButtonText: Play Again
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/17.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/17.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/Button
+Hash: 74975348
+SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {afb9e36}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/startButton
+ButtonText: START YOUR ADVENTURE
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/18.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/18.png
+Hash: 239795055
+SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {61bfd05}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+ButtonText: Continue home to Earth
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/19.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/19.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/Button
+Hash: 90378364
+SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {61bfd05}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+ButtonText: Head back to Mars to investigate
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/20.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/20.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/Button
+Hash: 90378364
+SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {61bfd05}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+ButtonText: Explore the coordinates
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/21.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/21.png
+Hash: 239795055
+SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {61bfd05}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+ButtonText: Play Again
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/22.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/22.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/Button
+Hash: 74975348
+SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {afb9e36}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/startButton
+ButtonText: START YOUR ADVENTURE
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/23.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/23.png
+Hash: 41742563
+SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {329eae0}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+ButtonText: Stop and investigate
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/24.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/24.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/Button
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/25.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/25.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Hash: 124199325
+SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {afb9e36}
+Class: class android.widget.EditText
+WidgetID: com.fisheradelakin.interactivestory:id/nameEditText
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/26.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/26.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/EditText
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/27.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/27.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Hash: 124199325
+SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {afb9e36}
+Class: class android.widget.EditText
+WidgetID: com.fisheradelakin.interactivestory:id/nameEditText
+XML: /XposedConnection/result/XML/com.fisheradelakin.interactivestory/28.xml
+Screenshot: /XposedConnection/result/screenshots/com.fisheradelakin.interactivestory/28.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/EditText

@@ -27,16 +27,36 @@ public class AndroidOutputServer{
 			e.printStackTrace();
 		}
 	}
-	
+	public static boolean CheckEmptyFolder(String path) {
+		File file = new File(path);
+		if (!file.exists()) {
+			file.mkdirs();
+			return true;
+		}
+		return false;
+	}
+	public static void CheckAllFolders(){
+		String path = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/XML/" + currentAPK + '/';
+		CheckEmptyFolder(path);
+		path = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/screenshots/" + currentAPK + '/';
+		CheckEmptyFolder(path);
+	}
 	public static ViewTree tree;
-	public static String adbPath = "/usr/local/bin/";
-	public static void SaveViewTree() {
-		String xmlName = "tmp.xml";
-		String xmlPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/tmp/";
+	public static final String adbPath = "/usr/local/bin/";
+	public static int initXML = 0;
+	// manuallyCheck = true, output xpath for manually checking, otherwise no extra output
+	public static boolean manuallyChecker = false;
+	public static void SaveViewTree(Socket sock) {
+		String xmlName = initXML + ".xml";
+		String xmlPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/XML/" + currentAPK + '/';
 		String command = "";
 		command = adbPath + "adb pull /sdcard/tmp.xml " + xmlPath + xmlName;
+		initXML ++;
 		ExecuteCommand(command);
 		
+		String tmp = "XML: " + "/XposedConnection/result/XML/" + currentAPK + '/' + xmlName + '\n';
+		byte[] bytestmp = tmp.getBytes();
+		OutputToFile(bytestmp, sock);
 		// Save the xml first, in order to find the correct result
 		try {
 			tree = new ViewTree(xmlPath + xmlName);
@@ -48,7 +68,27 @@ public class AndroidOutputServer{
 		command = adbPath + "adb shell su -c /system/bin/uiautomator dump /sdcard/tmp.xml";
 		ExecuteCommand(command);
 
-
+		if (manuallyChecker) OutputClickableXpath(xmlName, xmlPath);
+		
+	}
+	
+	public static String screenShotPath = "";
+	public static int initShot = 0;
+	public static void SaveScreenShot(Socket sock){
+		String 	command = "";
+		String screenshotPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/screenshots/" + currentAPK + "/";
+		String screenshotName = initShot + ".png";
+		
+		command = adbPath + "adb pull /sdcard/screenshot.png " + screenshotPath + screenshotName;
+		initShot ++;
+		ExecuteCommand(command);
+		String tmp = "Screenshot: " + "/XposedConnection/result/screenshots/" + currentAPK + "/" + screenshotName + '\n';
+		byte[] bytestmp = tmp.getBytes();
+		OutputToFile(bytestmp, sock);
+		
+		
+		command = adbPath + "adb shell /system/bin/screencap -p /sdcard/screenshot.png";
+		ExecuteCommand(command);	
 	}
 
 	public static String nowXpath = "";
@@ -168,10 +208,7 @@ public class AndroidOutputServer{
 			findAll((ViewNode)iter.next(), file);
 		}
 	}
-	public static void outputClickableXpath() {
-		String xmlName = "tmp.xml";
-		String xmlPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/tmp/";
-		
+	public static void OutputClickableXpath(String xmlName, String xmlPath) {
 		File file = new File(ClickableFile);
 		try {
 			file.createNewFile();
@@ -217,6 +254,8 @@ public class AndroidOutputServer{
             }
         }				
 	}
+	
+	public static String currentAPK = "com.secuso.torchlight2";
 	public static void main(String[] args) throws IOException {
 		File file = new File(filePath);
 		if (!file.exists()) {
@@ -227,7 +266,7 @@ public class AndroidOutputServer{
 		//long start = System.currentTimeMillis();
 		ServerSocket servSock = new ServerSocket(9998);
 		System.out.println("Waiting...");
-		
+		CheckAllFolders();
 		while (true) {
 			Socket sock = servSock.accept();
 			
@@ -243,15 +282,14 @@ public class AndroidOutputServer{
 			line = line.trim();
 			System.out.println(line);
 			if (line.contains("SaveViewTree")) {
-				SaveViewTree();
-				outputClickableXpath();
+				SaveViewTree(sock);
+				SaveScreenShot(sock);
 			} else if (line.contains("ClickPosition: ")) {
 				String pos = line.split("ClickPosition: ")[1];
 				findPosition(pos, sock);
 			} else {
 				OutputToFile(byteArray, sock);
-			}
-			
+			}			
 			
 			// Send response from server
 			PrintWriter out = new PrintWriter(sock.getOutputStream(), true);
