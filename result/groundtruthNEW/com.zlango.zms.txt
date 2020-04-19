@@ -1,0 +1,177 @@
+Hash: 785088
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {22f2caa}
+Class: class android.widget.QuickContactBadge
+WidgetID: com.zlango.zms:id/avatar
+XML: /XposedConnection/result/XML/com.zlango.zms/9.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/9.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ListView/RelativeLayout/QuickContactBadge
+Hash: 184255741
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {22f2caa}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/botton_new_conversation
+XML: /XposedConnection/result/XML/com.zlango.zms/10.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/10.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/LinearLayout/ImageButton
+Hash: 139126258
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9ee5395}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.zlango.zms/11.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/11.png
+Hash: 193743877
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: 6788
+XML: /XposedConnection/result/XML/com.zlango.zms/12.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/12.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.ConversationList
+Hash: 139126258
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9ee5395}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.zlango.zms/13.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/13.png
+Hash: 207594886
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: 6788
+Hash: 212025435
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f70f64b}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/com.zlango.zms/14.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/14.png
+Hash: 139126258
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {246604d}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.zlango.zms/15.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/15.png
+Hash: 196933309
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: 6788
+Hash: 234674902
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6a0979d}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/com.zlango.zms/16.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/16.png
+Hash: 47367228
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class com.zlango.mms.app.DeleteDialog
+DialogTitle: Delete
+Hash: 57521260
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ebc0eca}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Delete
+XML: /XposedConnection/result/XML/com.zlango.zms/17.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/17.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 139126258
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {246604d}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.zlango.zms/18.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/18.png
+Hash: 84184432
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: 6788
+Hash: 201697629
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a383d0}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/com.zlango.zms/19.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/19.png
+Hash: 92376833
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class com.zlango.mms.app.DeleteDialog
+DialogTitle: Delete
+Hash: 33325142
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2108d7}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+XML: /XposedConnection/result/XML/com.zlango.zms/20.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/20.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 139126258
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {246604d}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.zlango.zms/21.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/21.png
+Hash: 193116508
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: 6788
+Hash: 184593433
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9f7cd89}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/com.zlango.zms/22.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/22.png
+Hash: 80028774
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class com.zlango.mms.app.DeleteDialog
+DialogTitle: Delete
+XML: /XposedConnection/result/XML/com.zlango.zms/23.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/23.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.ConversationList
+Hash: 139126258
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {246604d}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.zlango.zms/24.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/24.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ListView/RelativeLayout
+Hash: MENU
+Event: MENU
+Hash: 241499139
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {31a6780}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.zlango.zms/25.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/25.png
+XML: /XposedConnection/result/XML/com.zlango.zms/26.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/26.png
+MenuItemID: NONE
+MenuItemTitle: Compose
+XML: /XposedConnection/result/XML/com.zlango.zms/27.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/27.png
+MenuItemID: NONE
+MenuItemTitle: Compose
+Hash: MENU
+Event: MENU
+Hash: 97572018
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {31a6780}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.zlango.zms/28.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/28.png
+XML: /XposedConnection/result/XML/com.zlango.zms/29.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/29.png
+MenuItemID: NONE
+MenuItemTitle: Tell a friend

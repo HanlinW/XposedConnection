@@ -148,7 +148,7 @@ class ADAIMarchGator {
 		}
 		return true;
 	}
-	public static String APKname = "com.cc";
+	public static String APKname = "com.zlango.zms";
 	
 	public static String GatorDotPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/GatorDOT/" + APKname + ".apk.wtg.dot";
 	

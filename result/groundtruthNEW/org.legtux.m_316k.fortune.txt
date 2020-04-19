@@ -1,0 +1,97 @@
+Hash: 120096866
+SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ecdc13f}
+Class: class android.widget.Button
+WidgetID: org.legtux.m_316k.fortune:id/newFortune
+ButtonText: Next fortune
+XML: /XposedConnection/result/XML/org.legtux.m_316k.fortune/1.xml
+Screenshot: /XposedConnection/result/screenshots/org.legtux.m_316k.fortune/1.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/RelativeLayout/Button
+Hash: 120096866
+SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ecdc13f}
+Class: class android.widget.Button
+WidgetID: org.legtux.m_316k.fortune:id/newFortune
+ButtonText: Next fortune
+XML: /XposedConnection/result/XML/org.legtux.m_316k.fortune/2.xml
+Screenshot: /XposedConnection/result/screenshots/org.legtux.m_316k.fortune/2.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/RelativeLayout/Button
+Hash: 44993833
+SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ecdc13f}
+Class: class android.widget.Button
+WidgetID: org.legtux.m_316k.fortune:id/prev
+ButtonText: ←
+XML: /XposedConnection/result/XML/org.legtux.m_316k.fortune/3.xml
+Screenshot: /XposedConnection/result/screenshots/org.legtux.m_316k.fortune/3.png
+Hash: 44993833
+SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ecdc13f}
+Class: class android.widget.Button
+WidgetID: org.legtux.m_316k.fortune:id/prev
+ButtonText: ←
+XML: /XposedConnection/result/XML/org.legtux.m_316k.fortune/4.xml
+Screenshot: /XposedConnection/result/screenshots/org.legtux.m_316k.fortune/4.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/RelativeLayout/Button
+Hash: 120096866
+SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ecdc13f}
+Class: class android.widget.Button
+WidgetID: org.legtux.m_316k.fortune:id/newFortune
+ButtonText: Next fortune
+XML: /XposedConnection/result/XML/org.legtux.m_316k.fortune/5.xml
+Screenshot: /XposedConnection/result/screenshots/org.legtux.m_316k.fortune/5.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/RelativeLayout/Button
+Hash: 261427271
+SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ecdc13f}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+XML: /XposedConnection/result/XML/org.legtux.m_316k.fortune/6.xml
+Screenshot: /XposedConnection/result/screenshots/org.legtux.m_316k.fortune/6.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/ViewGroup/LinearLayoutCompat/ImageView
+Hash: 48656936
+SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b436b1}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+XML: /XposedConnection/result/XML/org.legtux.m_316k.fortune/7.xml
+Screenshot: /XposedConnection/result/screenshots/org.legtux.m_316k.fortune/7.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+XML: /XposedConnection/result/XML/org.legtux.m_316k.fortune/8.xml
+Screenshot: /XposedConnection/result/screenshots/org.legtux.m_316k.fortune/8.png
+Hash: 261427271
+SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ecdc13f}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+XML: /XposedConnection/result/XML/org.legtux.m_316k.fortune/9.xml
+Screenshot: /XposedConnection/result/screenshots/org.legtux.m_316k.fortune/9.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/ViewGroup/LinearLayoutCompat/ImageView
+Hash: 107357320
+SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {92fbfb8}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+XML: /XposedConnection/result/XML/org.legtux.m_316k.fortune/10.xml
+Screenshot: /XposedConnection/result/screenshots/org.legtux.m_316k.fortune/10.png
+Hash: 261427271
+SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ecdc13f}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+XML: /XposedConnection/result/XML/org.legtux.m_316k.fortune/11.xml
+Screenshot: /XposedConnection/result/screenshots/org.legtux.m_316k.fortune/11.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/ViewGroup/LinearLayoutCompat/ImageView
+Hash: 77146516
+SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a241fc4}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+XML: /XposedConnection/result/XML/org.legtux.m_316k.fortune/12.xml
+Screenshot: /XposedConnection/result/screenshots/org.legtux.m_316k.fortune/12.png
+Hash: 120096866
+SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ecdc13f}
+Class: class android.widget.Button
+WidgetID: org.legtux.m_316k.fortune:id/newFortune
+ButtonText: Next fortune
+XML: /XposedConnection/result/XML/org.legtux.m_316k.fortune/13.xml
+Screenshot: /XposedConnection/result/screenshots/org.legtux.m_316k.fortune/13.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/RelativeLayout/Button

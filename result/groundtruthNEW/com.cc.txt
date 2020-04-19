@@ -1,0 +1,1017 @@
+Hash: 25656253
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ebed46a}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/MainRoot
+XML: /XposedConnection/result/XML/com.cc/4.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/4.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout
+Hash: 22885678
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c332eb}
+Class: class com.android.internal.policy.PhoneWindow$DecorView
+XML: /XposedConnection/result/XML/com.cc/5.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/5.png
+Hash: 25656253
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ebed46a}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/MainRoot
+XML: /XposedConnection/result/XML/com.cc/6.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/6.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout
+Hash: 235632186
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {627848}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.cc/7.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/7.png
+Hash: 166542263
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Xpath: /FrameLayout/ViewGroup/TextView
+Hash: 5747899
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3f84}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_commend
+ButtonText: 推荐
+XML: /XposedConnection/result/XML/com.cc/8.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/8.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/Button
+Hash: 34282968
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3f84}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_SetCallPic
+ButtonText: 设大头贴
+XML: /XposedConnection/result/XML/com.cc/9.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/9.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 113175802
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {edb42ab}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.cc/10.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/10.png
+Hash: 106950361
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 198522560
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3f84}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_friend
+ButtonText: CC好友
+XML: /XposedConnection/result/XML/com.cc/11.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/11.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 234583980
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6ff7d57}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_heimidan
+ButtonText: 黑名单
+XML: /XposedConnection/result/XML/com.cc/12.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/12.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 105046496
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {976c5b}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_phone
+ButtonText: 通讯录好友
+XML: /XposedConnection/result/XML/com.cc/13.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/13.png
+Hash: 34161985
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.ContactListActivity
+XML: /XposedConnection/result/XML/com.cc/14.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/14.png
+Hash: 25656253
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ebed46a}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/MainRoot
+XML: /XposedConnection/result/XML/com.cc/15.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/15.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout
+Hash: 141461861
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d13607}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.cc/16.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/16.png
+Xpath: /FrameLayout/ViewGroup/TextView
+Hash: 162708320
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a9afd14}
+Class: class android.widget.CheckBox
+WidgetID: com.cc:id/setting_SwitcherCallInScreen
+ButtonText: 
+XML: /XposedConnection/result/XML/com.cc/17.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/17.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/RelativeLayout/CheckBox
+Hash: 175648140
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a9afd14}
+Class: class android.widget.CheckBox
+WidgetID: com.cc:id/setting_SwitcherCallOutScreen
+ButtonText: 
+XML: /XposedConnection/result/XML/com.cc/18.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/18.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/RelativeLayout/CheckBox
+Hash: 4232824
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a9afd14}
+Class: class android.widget.CheckBox
+WidgetID: com.cc:id/setting_SwitcherChuanQingScreen
+ButtonText: 
+XML: /XposedConnection/result/XML/com.cc/19.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/19.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/RelativeLayout/CheckBox
+Hash: 203727396
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a9afd14}
+Class: class android.widget.CheckBox
+WidgetID: com.cc:id/setting_SwitcherShowAreaInfo
+ButtonText: 
+XML: /XposedConnection/result/XML/com.cc/20.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/20.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/RelativeLayout/CheckBox
+Hash: 245799681
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a9afd14}
+Class: class android.widget.Spinner
+WidgetID: com.cc:id/setting_ChoicePicturePreviewType
+XML: /XposedConnection/result/XML/com.cc/21.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/21.png
+Hash: 256445993
+SourceActivity: com.cc.SettingActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/RelativeLayout/Spinner
+Hash: 252548320
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {395eb5b}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/com.cc/22.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/22.png
+Hash: 47753516
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a9afd14}
+Class: class android.widget.Spinner
+WidgetID: com.cc:id/setting_ChoiceRingPreviewType
+XML: /XposedConnection/result/XML/com.cc/23.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/23.png
+Hash: 241827237
+SourceActivity: com.cc.SettingActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/RelativeLayout/Spinner
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.SettingActivity
+XML: /XposedConnection/result/XML/com.cc/24.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/24.png
+Hash: 203520916
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a9afd14}
+Class: class android.widget.ScrollView
+XML: /XposedConnection/result/XML/com.cc/25.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/25.png
+Hash: 151444564
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a9afd14}
+Class: class android.widget.CheckBox
+WidgetID: com.cc:id/setting_SwitcherAutoUpdate
+ButtonText: 
+XML: /XposedConnection/result/XML/com.cc/26.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/26.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/RelativeLayout/CheckBox
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.SettingActivity
+XML: /XposedConnection/result/XML/com.cc/27.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/27.png
+Hash: MENU
+Event: MENU
+Hash: 137400924
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {63c1df7}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.cc/28.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/28.png
+Hash: 23211325
+SourceActivity: com.cc.TaskListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {16ff000}
+Class: class android.widget.ExpandableListView
+WidgetID: com.cc:id/tasklist_download_task_view
+XML: /XposedConnection/result/XML/com.cc/29.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/29.png
+Hash: 23211325
+SourceActivity: com.cc.TaskListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {16ff000}
+Class: class android.widget.ExpandableListView
+WidgetID: com.cc:id/tasklist_download_task_view
+XML: /XposedConnection/result/XML/com.cc/30.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/30.png
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.TaskListActivity
+XML: /XposedConnection/result/XML/com.cc/31.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/31.png
+Hash: MENU
+Event: MENU
+Hash: 175626447
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fe1e756}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.cc/32.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/32.png
+Hash: 56324295
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {44817ea}
+Class: class android.widget.RelativeLayout
+WidgetID: com.cc:id/about_Root
+XML: /XposedConnection/result/XML/com.cc/33.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/33.png
+Hash: MENU
+Event: MENU
+Hash: 175626447
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e4a978}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.cc/34.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/34.png
+Hash: 183492436
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f766df9}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_Uninstall
+ButtonText: 卸载CC
+XML: /XposedConnection/result/XML/com.cc/35.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/35.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/RelativeLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 175626447
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {328fb9f}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.cc/36.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/36.png
+Hash: 28733733
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {53af4c6}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_Uninstall
+ButtonText: 卸载CC
+XML: /XposedConnection/result/XML/com.cc/37.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/37.png
+Hash: MENU
+Event: MENU
+Hash: 175498225
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9f3ce2d}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.cc/38.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/38.png
+Hash: 247387242
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2edcd36}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_CheckUpdate
+ButtonText: 检查更新并升级
+XML: /XposedConnection/result/XML/com.cc/39.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/39.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/RelativeLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 175498225
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5888707}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.cc/40.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/40.png
+Hash: 59926012
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {db982da}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_suggest
+ButtonText: 提供改进意见
+XML: /XposedConnection/result/XML/com.cc/41.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/41.png
+Hash: 128452055
+SourceActivity: com.cc.AboutActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/RelativeLayout/LinearLayout/Button
+Hash: 65251981
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {96150fd}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+XML: /XposedConnection/result/XML/com.cc/42.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/42.png
+Hash: 59926012
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {db982da}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_suggest
+ButtonText: 提供改进意见
+XML: /XposedConnection/result/XML/com.cc/43.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/43.png
+Hash: 34282968
+SourceActivity: com.cc.AboutActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/RelativeLayout/LinearLayout/Button
+Hash: 157488416
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {aa0f777}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 提交
+XML: /XposedConnection/result/XML/com.cc/44.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/44.png
+Hash: 59926012
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {db982da}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_suggest
+ButtonText: 提供改进意见
+XML: /XposedConnection/result/XML/com.cc/45.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/45.png
+Hash: 198684545
+SourceActivity: com.cc.AboutActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/RelativeLayout/LinearLayout/Button
+Hash: 52090157
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a88639d}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/suggest_value_et
+XML: /XposedConnection/result/XML/com.cc/46.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/46.png
+Hash: 75689136
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a88639d}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 提交
+XML: /XposedConnection/result/XML/com.cc/47.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/47.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.AboutActivity
+XML: /XposedConnection/result/XML/com.cc/48.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/48.png
+Hash: 223372421
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {db982da}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_Close
+ButtonText: 返回
+XML: /XposedConnection/result/XML/com.cc/49.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/49.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/RelativeLayout/Button
+Hash: 193536307
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e299c56}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+XML: /XposedConnection/result/XML/com.cc/50.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/50.png
+Hash: 151444564
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/GridView/LinearLayout
+Hash: 257722917
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cef14b4}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Sort
+ButtonText: 动画排行
+XML: /XposedConnection/result/XML/com.cc/51.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/51.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RadioGroup/RadioButton
+Hash: 169625594
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cef14b4}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Elite
+ButtonText: 精品动画
+XML: /XposedConnection/result/XML/com.cc/52.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/52.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RadioGroup/RadioButton
+Hash: 22348203
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cef14b4}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Category
+ButtonText: 动画分类
+XML: /XposedConnection/result/XML/com.cc/53.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/53.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RadioGroup/RadioButton
+Hash: 55493414
+SourceActivity: com.cc.PictureCategoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {15a84b9}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Category
+ButtonText: 动画分类
+XML: /XposedConnection/result/XML/com.cc/54.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/54.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RadioGroup/RadioButton
+Hash: 35948161
+SourceActivity: com.cc.PictureCategoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {15a84b9}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Elite
+ButtonText: 精品动画
+XML: /XposedConnection/result/XML/com.cc/55.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/55.png
+Hash: 40124886
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RadioGroup/RadioButton
+Hash: 217448456
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cef14b4}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Refresh
+ButtonText: 返回上级
+XML: /XposedConnection/result/XML/com.cc/56.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/56.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RadioGroup/RadioButton
+Hash: 217448456
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cef14b4}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Refresh
+ButtonText: 返回上级
+XML: /XposedConnection/result/XML/com.cc/57.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/57.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RadioGroup/RadioButton
+Hash: 217448456
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cef14b4}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Refresh
+ButtonText: 返回上级
+XML: /XposedConnection/result/XML/com.cc/58.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/58.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RadioGroup/RadioButton
+Hash: 22348203
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cef14b4}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Category
+ButtonText: 动画分类
+XML: /XposedConnection/result/XML/com.cc/59.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/59.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RadioGroup/RadioButton
+Hash: 197540733
+SourceActivity: com.cc.PictureCategoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a92741f}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Refresh
+ButtonText: 返回上级
+XML: /XposedConnection/result/XML/com.cc/60.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/60.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RadioGroup/RadioButton
+Hash: 197540733
+SourceActivity: com.cc.PictureCategoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a92741f}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Refresh
+ButtonText: 返回上级
+XML: /XposedConnection/result/XML/com.cc/61.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/61.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RadioGroup/RadioButton
+Hash: MENU
+Event: MENU
+Hash: 210050113
+SourceActivity: com.cc.PictureCategoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a92741f}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Latest
+ButtonText: 最新动画
+XML: /XposedConnection/result/XML/com.cc/62.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/62.png
+Hash: 158277918
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RadioGroup/RadioButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.PictureListActivity
+XML: /XposedConnection/result/XML/com.cc/63.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/63.png
+Hash: 193536307
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e299c56}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+XML: /XposedConnection/result/XML/com.cc/64.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/64.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/GridView/LinearLayout
+Hash: 115608620
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a2fe3d7}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_friend
+ButtonText: CC好友
+XML: /XposedConnection/result/XML/com.cc/65.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/65.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 258529247
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a2fe3d7}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_phone
+ButtonText: 通讯录好友
+XML: /XposedConnection/result/XML/com.cc/66.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/66.png
+Hash: 188357598
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.ContactListActivity
+XML: /XposedConnection/result/XML/com.cc/67.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/67.png
+Hash: 193536307
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e299c56}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+XML: /XposedConnection/result/XML/com.cc/68.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/68.png
+Hash: 254391792
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/GridView/LinearLayout
+Hash: 192796023
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b86ec50}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Category
+ButtonText: 动画分类
+XML: /XposedConnection/result/XML/com.cc/69.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/69.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RadioGroup/RadioButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.PictureCategoryActivity
+XML: /XposedConnection/result/XML/com.cc/70.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/70.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.PictureListActivity
+XML: /XposedConnection/result/XML/com.cc/71.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/71.png
+Hash: 193536307
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e299c56}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+XML: /XposedConnection/result/XML/com.cc/72.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/72.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/GridView/LinearLayout
+Hash: 195651856
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 加载中，请稍等...
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.RingListActivity
+XML: /XposedConnection/result/XML/com.cc/73.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/73.png
+Hash: 193536307
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e299c56}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+XML: /XposedConnection/result/XML/com.cc/74.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/74.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/GridView/LinearLayout
+Hash: MENU
+Event: MENU
+Hash: 6914452
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {edf743d}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.cc/75.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/75.png
+Hash: 205484011
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 17809646
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {47b117b}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_name
+XML: /XposedConnection/result/XML/com.cc/76.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/76.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/LinearLayout/TableLayout/TableRow/EditText
+Hash: 218912805
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {47b117b}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_number
+XML: /XposedConnection/result/XML/com.cc/77.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/77.png
+Hash: 111669603
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {47b117b}
+Class: class android.widget.Spinner
+WidgetID: com.cc:id/alert_Friend_ChooseFriendGroip
+XML: /XposedConnection/result/XML/com.cc/78.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/78.png
+Hash: 209368894
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/LinearLayout/TableLayout/TableRow/Spinner
+Hash: 184071529
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {25a871c}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/com.cc/79.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/79.png
+Hash: 181359009
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {47b117b}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 确认
+XML: /XposedConnection/result/XML/com.cc/80.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/80.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 201236967
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d903ac}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.cc/81.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/81.png
+Hash: 168563699
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 179923035
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {460a141}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_frigrp_GroupName
+XML: /XposedConnection/result/XML/com.cc/82.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/82.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/LinearLayout/TableLayout/TableRow/EditText
+Hash: 153928758
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {460a141}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 确定
+XML: /XposedConnection/result/XML/com.cc/83.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/83.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 142316454
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a23d421}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.cc/84.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/84.png
+Hash: MENU
+Event: MENU
+Hash: 6914452
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e699046}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.cc/85.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/85.png
+Hash: 29124635
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 167586230
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {889b3fa}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+XML: /XposedConnection/result/XML/com.cc/86.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/86.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 201236967
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4d3fdab}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.cc/87.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/87.png
+Hash: 143988638
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 191420338
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c6b2857}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+XML: /XposedConnection/result/XML/com.cc/88.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/88.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 220371660
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a34df44}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_phone
+ButtonText: 通讯录好友
+XML: /XposedConnection/result/XML/com.cc/89.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/89.png
+Hash: 119386009
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 203904893
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {84297be}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_commend
+ButtonText: 推荐
+XML: /XposedConnection/result/XML/com.cc/90.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/90.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/Button
+Hash: 18253426
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {84297be}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_SetCallPic
+ButtonText: 设大头贴
+XML: /XposedConnection/result/XML/com.cc/91.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/91.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/Button
+Hash: 65887563
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {84297be}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_heimidan
+ButtonText: 黑名单
+XML: /XposedConnection/result/XML/com.cc/92.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/92.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 58941942
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {10dd9f7}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.cc/93.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/93.png
+Hash: 204645594
+SourceActivity: com.cc.HMDListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 189372460
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f2530}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_hmd_number
+XML: /XposedConnection/result/XML/com.cc/94.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/94.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/LinearLayout/EditText
+Hash: 189337339
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f2530}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 确认
+XML: /XposedConnection/result/XML/com.cc/95.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/95.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 58941942
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fcbeb54}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.cc/96.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/96.png
+Hash: 228830907
+SourceActivity: com.cc.HMDListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 2053793
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2b54720}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+XML: /XposedConnection/result/XML/com.cc/97.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/97.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 151002769
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {59b38d9}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.cc/98.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/98.png
+Xpath: /FrameLayout/ViewGroup/TextView
+Hash: MENU
+Event: MENU
+Hash: 173789368
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9fd8995}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.cc/99.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/99.png
+Hash: MENU
+Event: MENU
+Hash: 151002769
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {610da38}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.cc/100.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/100.png
+Hash: 109796651
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e879177}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_phone
+ButtonText: 通讯录好友
+XML: /XposedConnection/result/XML/com.cc/101.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/101.png
+Hash: 245787837
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 181571946
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5f2665b}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.cc/102.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/102.png
+Hash: 136095753
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.ContactListActivity
+XML: /XposedConnection/result/XML/com.cc/103.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/103.png
+Hash: 193536307
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e299c56}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+XML: /XposedConnection/result/XML/com.cc/104.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/104.png
+Hash: 75638476
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/GridView/LinearLayout
+Hash: 193536307
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e299c56}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+XML: /XposedConnection/result/XML/com.cc/105.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/105.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/GridView/LinearLayout
+Hash: 153688112
+SourceActivity: com.cc.MyPictureActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {172da65}
+Class: class android.widget.Button
+Tag: BeCalled
+WidgetID: com.cc:id/mypicture_BeCalled
+ButtonText: 传情动画
+XML: /XposedConnection/result/XML/com.cc/106.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/106.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 227688819
+SourceActivity: com.cc.MyPictureActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {172da65}
+Class: class android.widget.Button
+Tag: CallIO
+WidgetID: com.cc:id/mypicture_CallIO
+ButtonText: 来去电动画
+XML: /XposedConnection/result/XML/com.cc/107.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/107.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 239436239
+SourceActivity: com.cc.MyPictureActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {172da65}
+Class: class android.widget.Button
+WidgetID: com.cc:id/mypicture_browse_file
+ButtonText: 设置本地图片为来去电动画
+XML: /XposedConnection/result/XML/com.cc/108.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/108.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/Button
+Hash: 197090189
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3bb4111}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+XML: /XposedConnection/result/XML/com.cc/109.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/109.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: 197090189
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3bb4111}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+XML: /XposedConnection/result/XML/com.cc/110.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/110.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.BrowseFileActivity
+XML: /XposedConnection/result/XML/com.cc/111.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/111.png
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.BrowseFileActivity
+XML: /XposedConnection/result/XML/com.cc/112.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/112.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.BrowseFileActivity
+XML: /XposedConnection/result/XML/com.cc/113.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/113.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.MyPictureActivity
+XML: /XposedConnection/result/XML/com.cc/114.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/114.png
+Hash: 48664738
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e299c56}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/MainRoot
+XML: /XposedConnection/result/XML/com.cc/115.xml
+Screenshot: /XposedConnection/result/screenshots/com.cc/115.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout

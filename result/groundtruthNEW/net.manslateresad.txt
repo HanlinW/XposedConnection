@@ -1,0 +1,218 @@
+Hash: 207722987
+SourceActivity: net.manslateresad.Inicio
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8239592}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/TraductorMujer
+XML: /XposedConnection/result/XML/net.manslateresad/1.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/1.png
+Hash: 46139862
+SourceActivity: net.manslateresad.TraductorMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1004147}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+XML: /XposedConnection/result/XML/net.manslateresad/2.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/2.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/RelativeLayout/ImageButton
+Hash: 191251665
+SourceActivity: net.manslateresad.listaMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3f0cde6}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+XML: /XposedConnection/result/XML/net.manslateresad/3.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/3.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/RelativeLayout/ListView/TextView
+Hash: 46139862
+SourceActivity: net.manslateresad.TraductorMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1004147}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+XML: /XposedConnection/result/XML/net.manslateresad/4.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/4.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/RelativeLayout/ImageButton
+Hash: 67009686
+SourceActivity: net.manslateresad.listaMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {efc0d07}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+XML: /XposedConnection/result/XML/net.manslateresad/5.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/5.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/RelativeLayout/ListView/TextView
+Hash: 183040497
+SourceActivity: net.manslateresad.TraductorMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1004147}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/micro
+XML: /XposedConnection/result/XML/net.manslateresad/6.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/6.png
+Hash: 183040497
+SourceActivity: net.manslateresad.TraductorMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1004147}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/micro
+XML: /XposedConnection/result/XML/net.manslateresad/7.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/7.png
+Hash: 46139862
+SourceActivity: net.manslateresad.TraductorMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1004147}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+XML: /XposedConnection/result/XML/net.manslateresad/8.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/8.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/RelativeLayout/ImageButton
+Hash: 31213047
+SourceActivity: net.manslateresad.listaMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c828694}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+XML: /XposedConnection/result/XML/net.manslateresad/9.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/9.png
+Hash: 31213047
+SourceActivity: net.manslateresad.listaMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c828694}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+XML: /XposedConnection/result/XML/net.manslateresad/10.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/10.png
+Hash: 31213047
+SourceActivity: net.manslateresad.listaMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c828694}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+XML: /XposedConnection/result/XML/net.manslateresad/11.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/11.png
+Hash: 31213047
+SourceActivity: net.manslateresad.listaMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c828694}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+XML: /XposedConnection/result/XML/net.manslateresad/12.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/12.png
+Hash: 31213047
+SourceActivity: net.manslateresad.listaMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c828694}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+XML: /XposedConnection/result/XML/net.manslateresad/13.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/13.png
+Hash: 31213047
+SourceActivity: net.manslateresad.listaMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c828694}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+XML: /XposedConnection/result/XML/net.manslateresad/14.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/14.png
+Hash: 31213047
+SourceActivity: net.manslateresad.listaMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c828694}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+XML: /XposedConnection/result/XML/net.manslateresad/15.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/15.png
+Hash: 183040497
+SourceActivity: net.manslateresad.TraductorMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1004147}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/micro
+XML: /XposedConnection/result/XML/net.manslateresad/16.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/16.png
+Hash: 46139862
+SourceActivity: net.manslateresad.TraductorMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1004147}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+XML: /XposedConnection/result/XML/net.manslateresad/17.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/17.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/RelativeLayout/ImageButton
+Hash: BACK
+Event: BACK
+SourceActivity: net.manslateresad.listaMujer
+XML: /XposedConnection/result/XML/net.manslateresad/18.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/18.png
+Hash: BACK
+Event: BACK
+SourceActivity: net.manslateresad.TraductorMujer
+XML: /XposedConnection/result/XML/net.manslateresad/19.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/19.png
+Hash: 187799009
+SourceActivity: net.manslateresad.Inicio
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8239592}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/TraductorHombre
+XML: /XposedConnection/result/XML/net.manslateresad/20.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/20.png
+Hash: BACK
+Event: BACK
+SourceActivity: net.manslateresad.TraductorHombre
+XML: /XposedConnection/result/XML/net.manslateresad/21.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/21.png
+Hash: 187799009
+SourceActivity: net.manslateresad.Inicio
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8239592}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/TraductorHombre
+XML: /XposedConnection/result/XML/net.manslateresad/22.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/22.png
+Hash: 129973744
+SourceActivity: net.manslateresad.TraductorHombre
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {36eeafa}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+XML: /XposedConnection/result/XML/net.manslateresad/23.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/23.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/RelativeLayout/ImageButton
+Hash: BACK
+Event: BACK
+SourceActivity: net.manslateresad.listaHombre
+XML: /XposedConnection/result/XML/net.manslateresad/24.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/24.png
+Hash: 129973744
+SourceActivity: net.manslateresad.TraductorHombre
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {36eeafa}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+XML: /XposedConnection/result/XML/net.manslateresad/25.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/25.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/RelativeLayout/ImageButton
+Hash: 234890169
+SourceActivity: net.manslateresad.listaHombre
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {15c5ab0}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+XML: /XposedConnection/result/XML/net.manslateresad/26.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/26.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/RelativeLayout/ListView/TextView
+Hash: 129973744
+SourceActivity: net.manslateresad.TraductorHombre
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {36eeafa}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+XML: /XposedConnection/result/XML/net.manslateresad/27.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/27.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/RelativeLayout/ImageButton
+Hash: 190042080
+SourceActivity: net.manslateresad.listaHombre
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {48271d3}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+XML: /XposedConnection/result/XML/net.manslateresad/28.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/28.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/RelativeLayout/ListView/TextView
+Hash: 188114483
+SourceActivity: net.manslateresad.TraductorHombre
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {36eeafa}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/micro
+XML: /XposedConnection/result/XML/net.manslateresad/29.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/29.png
+Hash: BACK
+Event: BACK
+SourceActivity: net.manslateresad.TraductorHombre
+XML: /XposedConnection/result/XML/net.manslateresad/30.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/30.png
+Hash: 187799009
+SourceActivity: net.manslateresad.Inicio
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8239592}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/TraductorHombre
+XML: /XposedConnection/result/XML/net.manslateresad/31.xml
+Screenshot: /XposedConnection/result/screenshots/net.manslateresad/31.png

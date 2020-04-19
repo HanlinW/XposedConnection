@@ -1,0 +1,939 @@
+Hash: 175001867
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd099b7}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_favorites
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/0.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/0.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 84631870
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b174c6}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_search
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/1.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/1.png
+Hash: 210085554
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+DialogClass: class android.app.SearchDialog
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 126609680
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5b0cf7}
+Class: class android.widget.LinearLayout
+WidgetID: android:id/closeButton
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/2.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/2.png
+Hash: 84631870
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b174c6}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_search
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/3.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/3.png
+Hash: 210085554
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+DialogClass: class android.app.SearchDialog
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/4.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/4.png
+Hash: 23952287
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b174c6}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/5.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/5.png
+Hash: 41238583
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {37b2b35}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_search
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/6.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/6.png
+Hash: 84473244
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+DialogClass: class android.app.SearchDialog
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 130679956
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {308b1d5}
+Class: class android.widget.LinearLayout
+WidgetID: android:id/closeButton
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/7.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/7.png
+Hash: 180033562
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {37b2b35}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/bookmark
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/8.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/8.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ScrollView/LinearLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 180033562
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {37b2b35}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/bookmark
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/9.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/9.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ScrollView/LinearLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 222387216
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {37b2b35}
+Class: class android.widget.ScrollView
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/10.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/10.png
+Hash: 222387216
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {37b2b35}
+Class: class android.widget.ScrollView
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/11.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/11.png
+Hash: 195191764
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {37b2b35}
+Class: class android.widget.EditText
+Tag: com.olsoft.ussdmenu.data.FieldItem@e393042
+WidgetID: com.olsoft.sa.ntvplus:id/value
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/12.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/12.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ScrollView/LinearLayout/LinearLayout/LinearLayout/LinearLayout/EditText
+Hash: 143083901
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {37b2b35}
+Class: class android.widget.Button
+WidgetID: com.olsoft.sa.ntvplus:id/sms
+ButtonText: СМС '691#200' на '6788'
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/13.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/13.png
+Hash: 190573016
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Отправка SMS запроса
+Hash: 198584463
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Результат
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ScrollView/LinearLayout/Button
+Hash: 121449630
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c66f4c}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Ok
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/14.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/14.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 143083901
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {37b2b35}
+Class: class android.widget.Button
+WidgetID: com.olsoft.sa.ntvplus:id/sms
+ButtonText: СМС '691#200' на '6788'
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/15.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/15.png
+Hash: 138014466
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Отправка SMS запроса
+Hash: 98302286
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Результат
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ScrollView/LinearLayout/Button
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/16.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/16.png
+Hash: 187239121
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {37b2b35}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_favorites
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/17.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/17.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 20910010
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a890a0d}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/18.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/18.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/19.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/19.png
+Hash: 28817273
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7398791}
+Class: class android.widget.Gallery
+WidgetID: com.olsoft.sa.ntvplus:id/path
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/20.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/20.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/Gallery/TextView
+Hash: 195178711
+SourceActivity: com.olsoft.sa.alt.MenuActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {71faf63}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/21.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/21.png
+Hash: 195178711
+SourceActivity: com.olsoft.sa.alt.MenuActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {71faf63}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/22.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/22.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: 180186604
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4c1cc08}
+Class: class android.widget.ScrollView
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/23.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/23.png
+Hash: 138382529
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4c1cc08}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_home
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/24.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/24.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 99741459
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9cb2174}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/25.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/25.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: 11551248
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cea19a5}
+Class: class android.widget.Gallery
+WidgetID: com.olsoft.sa.ntvplus:id/path
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/26.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/26.png
+Hash: 11551248
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cea19a5}
+Class: class android.widget.Gallery
+WidgetID: com.olsoft.sa.ntvplus:id/path
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/27.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/27.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/Gallery/TextView
+Hash: 245520887
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ede0e1}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_search
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/28.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/28.png
+Hash: 54490488
+SourceActivity: com.olsoft.sa.alt.RootActivity
+DialogClass: class android.app.SearchDialog
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 200784435
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a985498}
+Class: class android.widget.LinearLayout
+WidgetID: android:id/closeButton
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/29.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/29.png
+Hash: 244564068
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ede0e1}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/30.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/30.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: 2888356
+SourceActivity: com.olsoft.sa.alt.MenuActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b143227}
+Class: class android.widget.Button
+WidgetID: com.olsoft.sa.ntvplus:id/fulltext
+ButtonText: Полный текст...
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/31.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/31.png
+Hash: 23593662
+SourceActivity: com.olsoft.sa.alt.MenuActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Управление подпиской и пакетами
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout/Button
+Hash: 151740137
+SourceActivity: com.olsoft.sa.alt.MenuActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2102e0f}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Ok
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/32.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/32.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 55475550
+SourceActivity: com.olsoft.sa.alt.MenuActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b143227}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_favorites
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/33.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/33.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 140195882
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1b5103d}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/34.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/34.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: 47078343
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ef0169a}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_favorites
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/35.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/35.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/36.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/36.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/37.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/37.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/38.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/38.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.MenuActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/39.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/39.png
+Hash: 244564068
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ede0e1}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/40.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/40.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.MenuActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/41.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/41.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.MenuActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/42.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/42.png
+Hash: MENU
+Event: MENU
+Hash: 12008239
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {766b53c}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/43.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/43.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_news
+MenuItemTitle: Новости
+Hash: 4907543
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {58f7604}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/44.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/44.png
+Hash: 152824920
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {58f7604}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_favorites
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/45.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/45.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: MENU
+Event: MENU
+Hash: 244419376
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {38113a9}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/46.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/46.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_news
+MenuItemTitle: Новости
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/47.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/47.png
+Hash: MENU
+Event: MENU
+Hash: 207134835
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b5b24db}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/48.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/48.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_settings
+MenuItemTitle: Настройки
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/49.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/49.png
+Hash: MENU
+Event: MENU
+Hash: 64193762
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5005b9}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/50.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/50.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_about
+MenuItemTitle: О программе
+Hash: 258956575
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {808aeed}
+Class: class android.widget.TextView
+WidgetID: com.olsoft.sa.ntvplus:id/textAbout
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/51.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/51.png
+Hash: 258956575
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {808aeed}
+Class: class android.widget.TextView
+WidgetID: com.olsoft.sa.ntvplus:id/textAbout
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/52.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/52.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ScrollView/LinearLayout/LinearLayout/TextView
+Hash: 258956575
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {808aeed}
+Class: class android.widget.TextView
+WidgetID: com.olsoft.sa.ntvplus:id/textAbout
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/53.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/53.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/54.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/54.png
+Hash: 213298235
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {808aeed}
+Class: class android.widget.EditText
+WidgetID: com.olsoft.sa.ntvplus:id/value
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/55.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/55.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/LinearLayout/EditText
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/56.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/56.png
+Hash: 48463704
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {808aeed}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/contacts
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/57.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/57.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/LinearLayout/ImageButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.documentsui.DocumentsActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/58.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/58.png
+Hash: 28981425
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {808aeed}
+Class: class android.widget.Button
+WidgetID: com.olsoft.sa.ntvplus:id/sendToFriend
+ButtonText: Отправить другу
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/59.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/59.png
+Hash: 143755704
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Ошибка
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/Button
+Hash: 86313483
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {90dd301}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Ok
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/60.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/60.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 28981425
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {808aeed}
+Class: class android.widget.Button
+WidgetID: com.olsoft.sa.ntvplus:id/sendToFriend
+ButtonText: Отправить другу
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/61.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/61.png
+Hash: 26268928
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Ошибка
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/Button
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/62.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/62.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/63.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/63.png
+Hash: MENU
+Event: MENU
+Hash: 221809069
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a0f8aa9}
+Class: class com.android.internal.policy.PhoneWindow$DecorView
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/64.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/64.png
+Hash: 7489535
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c93b82e}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_home
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/65.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/65.png
+Hash: MENU
+Event: MENU
+Hash: 129876422
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {28dacb4}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/66.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/66.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_settings
+MenuItemTitle: Настройки
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/67.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/67.png
+Hash: MENU
+Event: MENU
+Hash: 122411937
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b6c0cc8}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/68.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/68.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_about
+MenuItemTitle: О программе
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/69.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/69.png
+Hash: 202089435
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd6fc04}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/70.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/70.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: MENU
+Event: MENU
+Hash: 98173353
+SourceActivity: com.olsoft.sa.alt.MenuActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c0a632e}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/71.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/71.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_news
+MenuItemTitle: Новости
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/72.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/72.png
+Hash: MENU
+Event: MENU
+Hash: 203518256
+SourceActivity: com.olsoft.sa.alt.MenuActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {47c178}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/73.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/73.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_settings
+MenuItemTitle: Настройки
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/74.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/74.png
+Hash: MENU
+Event: MENU
+Hash: 71327347
+SourceActivity: com.olsoft.sa.alt.MenuActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {55c16aa}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/75.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/75.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_about
+MenuItemTitle: О программе
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/76.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/76.png
+Hash: 183756238
+SourceActivity: com.olsoft.sa.alt.MenuActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bb4af86}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/77.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/77.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: MENU
+Event: MENU
+Hash: 109465989
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5e56bda}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/78.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/78.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_news
+MenuItemTitle: Новости
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/79.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/79.png
+Hash: MENU
+Event: MENU
+Hash: 191358716
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {91ef665}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/80.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/80.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_settings
+MenuItemTitle: Настройки
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/81.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/81.png
+Hash: MENU
+Event: MENU
+Hash: 26942447
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e80fc1c}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/82.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/82.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_about
+MenuItemTitle: О программе
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/83.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/83.png
+Hash: 98352900
+SourceActivity: com.olsoft.sa.alt.SendCommandActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1e33398}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_favorites
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/84.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/84.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: MENU
+Event: MENU
+Hash: 43876672
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1f1b879}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/85.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/85.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_news
+MenuItemTitle: Новости
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/86.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/86.png
+Hash: MENU
+Event: MENU
+Hash: 25257155
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d2572b}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/87.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/87.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_settings
+MenuItemTitle: Настройки
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/88.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/88.png
+Hash: MENU
+Event: MENU
+Hash: 116287602
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {691dd65}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/89.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/89.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_about
+MenuItemTitle: О программе
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/90.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/90.png
+Hash: MENU
+Event: MENU
+Hash: 43876672
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {28f4931}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/91.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/91.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_news
+MenuItemTitle: Новости
+Hash: MENU
+Event: MENU
+Hash: 211514340
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {19dc702}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/92.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/92.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_settings
+MenuItemTitle: Настройки
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/93.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/93.png
+Hash: MENU
+Event: MENU
+Hash: 15903607
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a48a35}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/94.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/94.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_about
+MenuItemTitle: О программе
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/95.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/95.png
+Hash: MENU
+Event: MENU
+Hash: 211514340
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cc1a8d7}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/96.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/96.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_settings
+MenuItemTitle: Настройки
+Hash: MENU
+Event: MENU
+Hash: 259791645
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bd3a684}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/97.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/97.png
+Hash: 118877638
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Список сервисов
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 100370253
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {689ddbd}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/98.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/98.png
+Hash: 259791645
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bd3a684}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/99.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/99.png
+Hash: 62490491
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Новости оператора
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 54032608
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c161e3f}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Отказ
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/100.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/100.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 259791645
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bd3a684}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/101.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/101.png
+Hash: 46524324
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Список сервисов
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/102.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/102.png
+Hash: 259791645
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bd3a684}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/103.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/103.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 259791645
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bd3a684}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/104.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/104.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/105.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/105.png
+Hash: MENU
+Event: MENU
+Hash: 15903607
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5902bb1}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/106.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/106.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_about
+MenuItemTitle: О программе
+Hash: MENU
+Event: MENU
+Hash: 112292209
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {883eb56}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/107.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/107.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_news
+MenuItemTitle: Новости
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/108.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/108.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.NewsActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/109.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/109.png
+Hash: MENU
+Event: MENU
+Hash: 205857560
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5bf8c8d}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/110.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/110.png
+MenuItemID: com.olsoft.sa.ntvplus:id/menu_settings
+MenuItemTitle: Настройки
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.SettingsActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/111.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/111.png
+Hash: 268294244
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ff36211}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_favorites
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/112.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/112.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.olsoft.sa.alt.FavoritesActivity
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/113.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/113.png
+Hash: 23521464
+SourceActivity: com.olsoft.sa.alt.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ff36211}
+Class: class android.widget.ImageButton
+WidgetID: com.olsoft.sa.ntvplus:id/action_home
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/114.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/114.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 207965456
+SourceActivity: com.olsoft.sa.alt.RootActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2eb6088}
+Class: class android.widget.ListView
+WidgetID: com.olsoft.sa.ntvplus:id/list
+XML: /XposedConnection/result/XML/com.olsoft.sa.ntvplus/115.xml
+Screenshot: /XposedConnection/result/screenshots/com.olsoft.sa.ntvplus/115.png

@@ -1,0 +1,503 @@
+Hash: 183799234
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ab646e6}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/0.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/0.png
+Hash: 183799234
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ab646e6}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/1.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/1.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/FrameLayout/FrameLayout/FrameLayout/ImageView
+Hash: 183799234
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ab646e6}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/2.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/2.png
+Hash: 183799234
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ab646e6}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/3.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/3.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/FrameLayout/FrameLayout/FrameLayout/ImageView
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/FrameLayout/FrameLayout/FrameLayout/ImageView
+Hash: 183799234
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ab646e6}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/4.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/4.png
+Hash: 145646646
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ab646e6}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnFlash
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/5.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/5.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/FrameLayout/RelativeLayout/ImageButton
+Hash: 239649233
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ab646e6}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnCameraCha
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/6.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/6.png
+Hash: 119535864
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ff9028}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnSelf
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/7.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/7.png
+Hash: 20986012
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 119535864
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ff9028}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnSelf
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/8.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/8.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/9.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/9.png
+Hash: MENU
+Event: MENU
+Hash: 14190683
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ff9028}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnSetting
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/10.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/10.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/FrameLayout/RelativeLayout/ImageButton
+Hash: 229644312
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d0b88f2}
+Class: class android.widget.LinearLayout
+WidgetID: com.kth.PuddingCamera:id/savefilesize
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/11.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/11.png
+Hash: 115652334
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Size
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ScrollView/LinearLayout/LinearLayout
+Hash: 131229496
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d6c77b2}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/12.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/12.png
+Hash: 176542256
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d0b88f2}
+Class: class android.widget.LinearLayout
+WidgetID: com.kth.PuddingCamera:id/enablegps
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/13.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/13.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ScrollView/LinearLayout/LinearLayout
+Hash: 174067179
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d0b88f2}
+Class: class android.widget.LinearLayout
+WidgetID: com.kth.PuddingCamera:id/enableguideline
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/14.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/14.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ScrollView/LinearLayout/LinearLayout
+Hash: 28826002
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d0b88f2}
+Class: class android.widget.LinearLayout
+WidgetID: com.kth.PuddingCamera:id/enablepreview
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/15.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/15.png
+Hash: 156361112
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Auto review
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ScrollView/LinearLayout/LinearLayout
+Hash: 95153515
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fc26210}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/16.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/16.png
+Hash: 28826002
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d0b88f2}
+Class: class android.widget.LinearLayout
+WidgetID: com.kth.PuddingCamera:id/enablepreview
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/17.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/17.png
+Hash: 161665510
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Auto review
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ScrollView/LinearLayout/LinearLayout
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/18.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/18.png
+Hash: 224463082
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d0b88f2}
+Class: class android.widget.LinearLayout
+WidgetID: com.kth.PuddingCamera:id/enablereverse
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/19.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/19.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ScrollView/LinearLayout/LinearLayout
+Hash: 233336205
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d0b88f2}
+Class: class android.widget.LinearLayout
+WidgetID: com.kth.PuddingCamera:id/notice
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/20.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/20.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ScrollView/LinearLayout/LinearLayout
+Hash: 189881344
+SourceActivity: com.kth.PuddingCamera.WebAcitivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 223794990
+SourceActivity: com.kth.PuddingCamera.WebAcitivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ce61365}
+Class: class android.webkit.WebView
+WidgetID: com.kth.PuddingCamera:id/WebCtrl
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/21.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/21.png
+Hash: 189881344
+SourceActivity: com.kth.PuddingCamera.WebAcitivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.WebAcitivity
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/22.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/22.png
+Hash: 142300553
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d0b88f2}
+Class: class android.widget.LinearLayout
+WidgetID: com.kth.PuddingCamera:id/help
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/23.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/23.png
+Hash: 52991158
+SourceActivity: com.kth.PuddingCamera.WebAcitivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ScrollView/LinearLayout/LinearLayout
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.WebAcitivity
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/24.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/24.png
+Hash: 233336205
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d0b88f2}
+Class: class android.widget.LinearLayout
+WidgetID: com.kth.PuddingCamera:id/notice
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/25.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/25.png
+Hash: 110946174
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d0b88f2}
+Class: class android.widget.ScrollView
+WidgetID: com.kth.PuddingCamera:id/scr
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/26.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/26.png
+Hash: 110946174
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d0b88f2}
+Class: class android.widget.ScrollView
+WidgetID: com.kth.PuddingCamera:id/scr
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/27.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/27.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.Setting.SettingActivity
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/28.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/28.png
+Hash: 65955852
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ff9028}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnShutter
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/29.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/29.png
+Hash: 79394465
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 89974646
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ff9028}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnPuddingUp
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/30.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/30.png
+Hash: 207763385
+SourceActivity: com.kth.PuddingCamera.Setting.LoginActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 84982351
+SourceActivity: com.kth.PuddingCamera.Setting.LoginActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bca06e5}
+Class: class android.webkit.WebView
+WidgetID: com.kth.PuddingCamera:id/loginWeb
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/31.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/31.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.Setting.LoginActivity
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/32.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/32.png
+Hash: 182340113
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ff9028}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnShareUp
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/33.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/33.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/RelativeLayout/ImageButton
+Hash: 141263810
+SourceActivity: com.kth.PuddingCamera.Setting.LoginActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.Setting.LoginActivity
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/34.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/34.png
+Hash: 39367031
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ff9028}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnGoBack
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/35.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/35.png
+Hash: 65955852
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ff9028}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnShutter
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/36.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/36.png
+Hash: 26680176
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/37.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/37.png
+Hash: 196458303
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ff9028}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnGallery
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/38.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/38.png
+Hash: 198059868
+SourceActivity: com.kth.PuddingCamera.NewImageInfoActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d533eea}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btncameraback
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/39.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/39.png
+Hash: 123135402
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c448905}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnGallery
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/40.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/40.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/FrameLayout/FrameLayout/RelativeLayout/ImageButton
+Hash: 230836084
+SourceActivity: com.kth.PuddingCamera.NewImageInfoActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {40fc4d3}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnlistback
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/41.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/41.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.NewGalleryActivity
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/42.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/42.png
+Hash: 123135402
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c448905}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnGallery
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/43.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/43.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/FrameLayout/FrameLayout/RelativeLayout/ImageButton
+Hash: 199985000
+SourceActivity: com.kth.PuddingCamera.NewImageInfoActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {101557}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnlistback
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/44.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/44.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
+Hash: 23123418
+SourceActivity: com.kth.PuddingCamera.NewGalleryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {60af500}
+Class: class android.widget.ImageView
+WidgetID: com.kth.PuddingCamera:id/icon1
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/45.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/45.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ListView/LinearLayout/RelativeLayout/LinearLayout/ImageView
+Hash: 106072461
+SourceActivity: com.kth.PuddingCamera.NewImageInfoActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {36447a7}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnUpload
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/46.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/46.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/FrameLayout/LinearLayout/ImageButton
+Hash: 111945833
+SourceActivity: com.kth.PuddingCamera.Setting.LoginActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.Setting.LoginActivity
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/47.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/47.png
+Hash: 128930643
+SourceActivity: com.kth.PuddingCamera.NewImageInfoActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {36447a7}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnSend
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/48.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/48.png
+Hash: 134050663
+SourceActivity: com.kth.PuddingCamera.Setting.LoginActivity
+DialogClass: class android.app.ProgressDialog
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/FrameLayout/LinearLayout/ImageButton
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.Setting.LoginActivity
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/49.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/49.png
+Hash: 57356681
+SourceActivity: com.kth.PuddingCamera.NewImageInfoActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {36447a7}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnMail
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/50.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/50.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/FrameLayout/LinearLayout/ImageButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.NewImageInfoActivity
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/51.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/51.png
+Hash: 22139311
+SourceActivity: com.kth.PuddingCamera.NewImageInfoActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {36447a7}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnDelete
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/52.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/52.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/FrameLayout/LinearLayout/ImageButton
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.NewImageInfoActivity
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/53.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/53.png
+Hash: 221327483
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f47e61}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnGallery
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/54.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/54.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.NewImageInfoActivity
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/55.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/55.png
+Hash: 149085643
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e2e79a8}
+Class: class com.kth.view.CameraImageView
+WidgetID: com.kth.PuddingCamera:id/cameraImage
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/56.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/56.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/FrameLayout/ImageView
+Hash: 28975009
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e2e79a8}
+Class: class com.kth.view.DrawItemView
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/57.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/57.png
+Hash: 254437458
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e2e79a8}
+Class: class com.kth.view.DrawItemView
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/58.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/58.png
+Hash: 245255273
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e2e79a8}
+Class: class com.kth.view.DrawItemView
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/59.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/59.png
+Hash: 104827815
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e2e79a8}
+Class: class android.widget.FrameLayout
+WidgetID: com.kth.PuddingCamera:id/setting_container
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/60.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/60.png
+Hash: 246597531
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e2e79a8}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnBack
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/61.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/61.png
+Hash: 158158161
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e2e79a8}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnGallery
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/62.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/62.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.NewImageInfoActivity
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/63.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/63.png
+Hash: 253612751
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {84b4cc7}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnFlash
+XML: /XposedConnection/result/XML/com.kth.PuddingCamera/64.xml
+Screenshot: /XposedConnection/result/screenshots/com.kth.PuddingCamera/64.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/FrameLayout/RelativeLayout/ImageButton

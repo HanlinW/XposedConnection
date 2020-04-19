@@ -1,0 +1,195 @@
+Hash: 51936887
+SourceActivity: vsin.t16_funny_photo.A_Main
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 145830354
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2c901a3}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/0.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/0.png
+Hash: MENU
+Event: MENU
+Hash: 194933125
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f1cb994}
+Class: class com.android.internal.policy.PhoneWindow$DecorView
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/1.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/1.png
+Hash: 145830354
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2c901a3}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/2.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/2.png
+Hash: 86715657
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2c901a3}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/scrollView1
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/3.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/3.png
+Hash: 214971701
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2c901a3}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_1
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/4.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/4.png
+Hash: 131836411
+SourceActivity: vsin.t16_funny_photo.A_Main
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: 224065839
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2c901a3}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_0
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/5.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/5.png
+Hash: 262834531
+SourceActivity: vsin.t16_funny_photo.A_Main
+DialogClass: class android.app.AlertDialog
+DialogTitle: Photo to Caricature
+Hash: 40581230
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2c901a3}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_2
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/6.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/6.png
+Hash: 40581230
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2c901a3}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_2
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/7.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/7.png
+Hash: 40581230
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2c901a3}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_2
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/8.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/8.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/RelativeLayout/ScrollView/LinearLayout/ListView/LinearLayout
+Hash: 79246643
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fe0068b}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/9.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/9.png
+Hash: 264331789
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {49d6b1a}
+Class: class android.widget.Button
+WidgetID: vsin.t16_funny_photo:id/Button02
+ButtonText: From camera
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/10.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/10.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/11.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/11.png
+Hash: 71624130
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {49d6b1a}
+Class: class android.widget.Button
+WidgetID: vsin.t16_funny_photo:id/Button01
+ButtonText: From gallery
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/12.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/12.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.documentsui.DocumentsActivity
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/13.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/13.png
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/14.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/14.png
+Hash: 79246643
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fe0068b}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/15.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/15.png
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/16.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/16.png
+Hash: 145830354
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2c901a3}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/17.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/17.png
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/18.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/18.png
+Hash: 254667312
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {66d20c0}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/19.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/19.png
+Hash: 254667312
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {66d20c0}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/20.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/20.png
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/21.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/21.png
+Hash: 145830354
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2c901a3}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/22.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/22.png
+Hash: 145830354
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2c901a3}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/23.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/23.png
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/24.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/24.png
+Hash: 145830354
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2c901a3}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/25.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/25.png
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+XML: /XposedConnection/result/XML/vsin.t16_funny_photo/26.xml
+Screenshot: /XposedConnection/result/screenshots/vsin.t16_funny_photo/26.png
+Hash: 51936887
+SourceActivity: vsin.t16_funny_photo.A_Main
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 

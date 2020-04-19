@@ -1,0 +1,418 @@
+Hash: 181290533
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2e2444e}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/1.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/1.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: 114307678
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 103501627
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: 687403
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2ab4b21}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/2.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/2.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/3.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/3.png
+Hash: 181290533
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2e2444e}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/4.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/4.png
+Hash: 32894219
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 264165166
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: 10840030
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {eab3c8c}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/5.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/5.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 153575620
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ba39fd5}
+Class: class android.widget.ImageButton
+WidgetID: com.schimera.webdavnavlite:id/tool_newfolder
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/6.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/6.png
+Hash: 148196520
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Folder
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
+Hash: 120237818
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8e64a11}
+Class: class android.widget.EditText
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/7.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/7.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/EditText
+Hash: 12809889
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8e64a11}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Create
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/8.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/8.png
+Hash: 100591114
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 94737884
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: 99102220
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {762316a}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/9.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/9.png
+Hash: 153575620
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ba39fd5}
+Class: class android.widget.ImageButton
+WidgetID: com.schimera.webdavnavlite:id/tool_newfolder
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/10.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/10.png
+Hash: 262155575
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Folder
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
+Hash: 199991916
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {44c9317}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/11.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/11.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/12.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/12.png
+Hash: 181290533
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2e2444e}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/13.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/13.png
+Hash: 90269943
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: 27472778
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/14.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/14.png
+Hash: 90214144
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7ec5d48}
+Class: class android.widget.ImageButton
+WidgetID: com.schimera.webdavnavlite:id/tool_newfolder
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/15.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/15.png
+Hash: 226562333
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Folder
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/16.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/16.png
+Hash: 209501566
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7ec5d48}
+Class: class android.widget.ImageButton
+WidgetID: com.schimera.webdavnavlite:id/tool_camera
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/17.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/17.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/18.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/18.png
+Hash: 100584891
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 157160485
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: 133517461
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {23dc59b}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/19.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/19.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 209501566
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7ec5d48}
+Class: class android.widget.ImageButton
+WidgetID: com.schimera.webdavnavlite:id/tool_camera
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/20.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/20.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/21.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/21.png
+Hash: 40740719
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 47889781
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/22.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/22.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/23.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/23.png
+Hash: 181290533
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2e2444e}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/24.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/24.png
+Hash: 48335362
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2e2444e}
+Class: class android.widget.ImageButton
+WidgetID: com.schimera.webdavnavlite:id/tool_settings
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/25.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/25.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
+Hash: 31835446
+SourceActivity: com.schimera.webdavnavlite.Activities.SettingsEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e101696}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/26.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/26.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.SettingsEdit
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/27.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/27.png
+Hash: MENU
+Event: MENU
+Hash: 38274653
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3893bd2}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/28.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/28.png
+MenuItemID: com.schimera.webdavnavlite:id/addServer
+MenuItemTitle: Add Server
+Hash: 22060503
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {419d81d}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/nameField
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/29.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/29.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/EditText
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/30.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/30.png
+Hash: 183018722
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {419d81d}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/urlField
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/31.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/31.png
+Hash: 149992361
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {419d81d}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/usernameField
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/32.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/32.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/33.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/33.png
+Hash: 111692380
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {419d81d}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/passwordField
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/34.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/34.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/35.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/35.png
+Hash: 30797370
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {419d81d}
+Class: class android.widget.Button
+WidgetID: com.schimera.webdavnavlite:id/addServerButton
+ButtonText: Add Server
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/36.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/36.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 38274653
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {44687e4}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/37.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/37.png
+MenuItemID: com.schimera.webdavnavlite:id/addServer
+MenuItemTitle: Add Server
+Hash: 87415393
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2ebe812}
+Class: class android.widget.Button
+WidgetID: com.schimera.webdavnavlite:id/cancelButton
+ButtonText: Cancel
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/38.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/38.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 38274653
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {674a7c3}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/39.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/39.png
+MenuItemID: com.schimera.webdavnavlite:id/addServer
+MenuItemTitle: Add Server
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/40.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/40.png
+Hash: MENU
+Event: MENU
+Hash: 267290676
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1ff2aa9}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/41.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/41.png
+MenuItemID: com.schimera.webdavnavlite:id/showInfo
+MenuItemTitle: Info
+Hash: 251347639
+SourceActivity: com.schimera.webdavnavlite.Activities.InfoActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd95a24}
+Class: class android.widget.Button
+WidgetID: com.schimera.webdavnavlite:id/reviewAppButton
+ButtonText: Review
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/42.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/42.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/FrameLayout/RelativeLayout/Button
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.InfoActivity
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/43.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/43.png
+Hash: 181290533
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2e2444e}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/44.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/44.png
+Hash: 163116851
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: 165284627
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: 11263747
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4685cb9}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/45.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/45.png
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/46.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/46.png
+Hash: 181290533
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2e2444e}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.schimera.webdavnavlite/47.xml
+Screenshot: /XposedConnection/result/screenshots/com.schimera.webdavnavlite/47.png

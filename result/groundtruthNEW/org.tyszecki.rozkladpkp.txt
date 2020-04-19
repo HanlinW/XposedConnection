@@ -1,0 +1,803 @@
+Hash: 256801492
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class org.tyszecki.rozkladpkp.widgets.StationEdit
+WidgetID: org.tyszecki.rozkladpkp:id/departure_edit
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/3.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/3.png
+Hash: 6458395
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1ef5fd0}
+Class: class android.widget.ListPopupWindow$DropDownListView
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/4.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/4.png
+Hash: 51904370
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class org.tyszecki.rozkladpkp.widgets.StationEdit
+WidgetID: org.tyszecki.rozkladpkp:id/arrival_edit
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/5.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/5.png
+Hash: 154061848
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a4ff8ad}
+Class: class android.widget.ListPopupWindow$DropDownListView
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/6.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/6.png
+Hash: 30348413
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class android.widget.ImageButton
+WidgetID: org.tyszecki.rozkladpkp:id/location_button
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/7.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/7.png
+Hash: 73387404
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Czekaj...
+Xpath: /FrameLayout/LinearLayout/FrameLayout/TabHost/LinearLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/RelativeLayout/ImageButton
+Hash: 42102848
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class org.tyszecki.rozkladpkp.widgets.TimeButton
+WidgetID: org.tyszecki.rozkladpkp:id/time_button
+ButtonText: 21:29
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/8.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/8.png
+Hash: 163169185
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.TimePickerDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/TabHost/LinearLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/RelativeLayout/Button
+Hash: 27138384
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cae2e29}
+Class: class android.widget.ImageButton
+WidgetID: android:id/increment
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/9.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/9.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/TimePicker/LinearLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 139688572
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cae2e29}
+Class: class android.widget.ImageButton
+WidgetID: android:id/increment
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/10.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/10.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/TimePicker/LinearLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 227448910
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cae2e29}
+Class: class android.widget.ImageButton
+WidgetID: android:id/decrement
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/11.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/11.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/TimePicker/LinearLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 4189018
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cae2e29}
+Class: class android.widget.ImageButton
+WidgetID: android:id/decrement
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/12.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/12.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/TimePicker/LinearLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 268281473
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cae2e29}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/13.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/13.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 42102848
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class org.tyszecki.rozkladpkp.widgets.TimeButton
+WidgetID: org.tyszecki.rozkladpkp:id/time_button
+ButtonText: 21:29
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/14.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/14.png
+Hash: 163169185
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.TimePickerDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/TabHost/LinearLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/RelativeLayout/Button
+Hash: 8479526
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3359610}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/15.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/15.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 20806521
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class org.tyszecki.rozkladpkp.widgets.DateButton
+WidgetID: org.tyszecki.rozkladpkp:id/date_button
+ButtonText: April 18, 2020
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/16.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/16.png
+Hash: 70105009
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.DatePickerDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/TabHost/LinearLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/RelativeLayout/Button
+Hash: 104630102
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {217de33}
+Class: class android.widget.ImageButton
+WidgetID: android:id/increment
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/17.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/17.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/DatePicker/LinearLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 126993122
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {217de33}
+Class: class android.widget.ImageButton
+WidgetID: android:id/increment
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/18.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/18.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/DatePicker/LinearLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 67971886
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {217de33}
+Class: class android.widget.ImageButton
+WidgetID: android:id/increment
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/19.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/19.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/DatePicker/LinearLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 140015708
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {217de33}
+Class: class android.widget.ImageButton
+WidgetID: android:id/decrement
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/20.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/20.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/DatePicker/LinearLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 82114864
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {217de33}
+Class: class android.widget.ImageButton
+WidgetID: android:id/decrement
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/21.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/21.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/DatePicker/LinearLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 210064580
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {217de33}
+Class: class android.widget.ImageButton
+WidgetID: android:id/decrement
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/22.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/22.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/DatePicker/LinearLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 182505707
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {217de33}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/23.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/23.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 20806521
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class org.tyszecki.rozkladpkp.widgets.DateButton
+WidgetID: org.tyszecki.rozkladpkp:id/date_button
+ButtonText: April 18, 2020
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/24.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/24.png
+Hash: 70105009
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.DatePickerDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/TabHost/LinearLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/RelativeLayout/Button
+Hash: 35831368
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b862c1e}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/25.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/25.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 191013054
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class org.tyszecki.rozkladpkp.widgets.ProductsButton
+WidgetID: org.tyszecki.rozkladpkp:id/products_button
+ButtonText: Wszystkie pociągi
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/26.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/26.png
+Hash: 10147458
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.AlertDialog
+DialogTitle: Środki transportu
+Xpath: /FrameLayout/LinearLayout/FrameLayout/TabHost/LinearLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
+Hash: 211181157
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1937be1}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/27.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/27.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 116163871
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class org.tyszecki.rozkladpkp.widgets.AttributesButton
+WidgetID: org.tyszecki.rozkladpkp:id/attributes_button
+ButtonText: Wszystkie połączenia
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/28.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/28.png
+Hash: 13903582
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.AlertDialog
+DialogTitle: Szczegóły połączenia
+Xpath: /FrameLayout/LinearLayout/FrameLayout/TabHost/LinearLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
+Hash: 147467687
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fed45fd}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Anuluj
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/29.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/29.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 138301548
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class android.widget.Button
+WidgetID: org.tyszecki.rozkladpkp:id/ok_button
+ButtonText: OK
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/30.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/30.png
+Hash: 88937145
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Czekaj...
+Xpath: /FrameLayout/LinearLayout/FrameLayout/TabHost/LinearLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 140018956
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9827e55}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/31.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/31.png
+MenuItemID: org.tyszecki.rozkladpkp:id/item_settings
+MenuItemTitle: Ustawienia
+Hash: 176405800
+SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9aacb7a}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/32.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/32.png
+Hash: 189802400
+SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Wybierz kartę
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 105616111
+SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {237ee39}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/33.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/33.png
+Hash: 176405800
+SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9aacb7a}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/34.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/34.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/35.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/35.png
+Hash: MENU
+Event: MENU
+Hash: 120727615
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ce8518}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/36.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/36.png
+MenuItemID: org.tyszecki.rozkladpkp:id/item_via
+MenuItemTitle: Dodaj przesiadkę
+Hash: 231808342
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class org.tyszecki.rozkladpkp.widgets.StationEdit
+WidgetID: org.tyszecki.rozkladpkp:id/via_edit
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/37.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/37.png
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/38.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/38.png
+Hash: MENU
+Event: MENU
+Hash: 120727615
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {993bc1d}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/39.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/39.png
+MenuItemID: org.tyszecki.rozkladpkp:id/item_via
+MenuItemTitle: Usuń Przesiadkę
+Hash: 51904370
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class org.tyszecki.rozkladpkp.widgets.StationEdit
+WidgetID: org.tyszecki.rozkladpkp:id/arrival_edit
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/40.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/40.png
+Hash: 51904370
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class org.tyszecki.rozkladpkp.widgets.StationEdit
+WidgetID: org.tyszecki.rozkladpkp:id/arrival_edit
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/41.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/41.png
+Hash: 51904370
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class org.tyszecki.rozkladpkp.widgets.StationEdit
+WidgetID: org.tyszecki.rozkladpkp:id/arrival_edit
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/42.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/42.png
+Hash: 62357792
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e05438}
+Class: class android.widget.ListPopupWindow$DropDownListView
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/43.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/43.png
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/44.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/44.png
+Hash: 138301548
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class android.widget.Button
+WidgetID: org.tyszecki.rozkladpkp:id/ok_button
+ButtonText: OK
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/45.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/45.png
+Hash: 56758573
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Czekaj...
+Xpath: /FrameLayout/LinearLayout/FrameLayout/TabHost/LinearLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
+Hash: 255465486
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class android.widget.RelativeLayout
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/46.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/46.png
+Hash: 160396327
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class org.tyszecki.rozkladpkp.widgets.StationEdit
+WidgetID: org.tyszecki.rozkladpkp:id/station_edit
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/47.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/47.png
+Hash: 132997486
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {88c3046}
+Class: class android.widget.ListPopupWindow$DropDownListView
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/48.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/48.png
+Hash: 77760212
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class android.widget.ImageButton
+WidgetID: org.tyszecki.rozkladpkp:id/location_button
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/49.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/49.png
+Hash: 82454417
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Czekaj...
+Xpath: /FrameLayout/LinearLayout/FrameLayout/TabHost/LinearLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/RelativeLayout/ImageButton
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/50.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/50.png
+Hash: 171330750
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class android.widget.Button
+WidgetID: org.tyszecki.rozkladpkp:id/ok_button
+ButtonText: OK
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/51.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/51.png
+Hash: 203863880
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Czekaj...
+Xpath: /FrameLayout/LinearLayout/FrameLayout/TabHost/LinearLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
+Hash: 76700046
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Brak połączeń!
+Hash: 162837241
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {635489f}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Powrót
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/52.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/52.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 141533348
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class android.widget.RelativeLayout
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/53.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/53.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/TabHost/LinearLayout/TabWidget/RelativeLayout
+Hash: 194424452
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class android.widget.ListView
+WidgetID: org.tyszecki.rozkladpkp:id/remembered_list
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/54.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/54.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/TabHost/LinearLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/ListView/TableLayout
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionsFormActivity
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/55.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/55.png
+Hash: 194424452
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class android.widget.ListView
+WidgetID: org.tyszecki.rozkladpkp:id/remembered_list
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/56.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/56.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/TabHost/LinearLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/ListView/TableLayout
+Hash: 198955646
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionsFormActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f7d2efb}
+Class: class android.widget.Button
+WidgetID: org.tyszecki.rozkladpkp:id/ok_button
+ButtonText: OK
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/57.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/57.png
+Hash: 79420000
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Czekaj...
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionListActivity
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/58.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/58.png
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.ConnectionsFormActivity
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/59.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/59.png
+Hash: 194424452
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class android.widget.ListView
+WidgetID: org.tyszecki.rozkladpkp:id/remembered_list
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/60.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/60.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/TabHost/LinearLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/ListView/TableLayout
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/61.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/61.png
+Hash: 194424452
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class android.widget.ListView
+WidgetID: org.tyszecki.rozkladpkp:id/remembered_list
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/62.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/62.png
+Hash: 194424452
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class android.widget.ListView
+WidgetID: org.tyszecki.rozkladpkp:id/remembered_list
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/63.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/63.png
+Hash: MENU
+Event: MENU
+Hash: 62085231
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d28a97c}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/64.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/64.png
+MenuItemID: org.tyszecki.rozkladpkp:id/item_settings
+MenuItemTitle: Ustawienia
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/65.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/65.png
+Hash: 194424452
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class android.widget.ListView
+WidgetID: org.tyszecki.rozkladpkp:id/remembered_list
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/66.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/66.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/TabHost/LinearLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/ListView/TableLayout
+Hash: 111072004
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {13a49b3}
+Class: class android.widget.Button
+WidgetID: org.tyszecki.rozkladpkp:id/ok_button
+ButtonText: OK
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/67.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/67.png
+Hash: 172227861
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Czekaj...
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
+Hash: 102338304
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Brak połączeń!
+Hash: 78274931
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d233ca9}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Powrót
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/68.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/68.png
+Hash: 184514904
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {13a49b3}
+Class: class org.tyszecki.rozkladpkp.widgets.TimeButton
+WidgetID: org.tyszecki.rozkladpkp:id/time_button
+ButtonText: 21:37
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/69.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/69.png
+Hash: 8986508
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+DialogClass: class android.app.TimePickerDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/RelativeLayout/Button
+Hash: 249877429
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ccd0cee}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/70.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/70.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 131050161
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {13a49b3}
+Class: class org.tyszecki.rozkladpkp.widgets.DateButton
+WidgetID: org.tyszecki.rozkladpkp:id/date_button
+ButtonText: April 18, 2020
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/71.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/71.png
+Hash: 235692305
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+DialogClass: class android.app.DatePickerDialog
+DialogTitle: 
+Hash: 19649852
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b84fc93}
+Class: class android.widget.ImageButton
+WidgetID: android:id/decrement
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/72.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/72.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/DatePicker/LinearLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 166067019
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b84fc93}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/73.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/73.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 111072004
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {13a49b3}
+Class: class android.widget.Button
+WidgetID: org.tyszecki.rozkladpkp:id/ok_button
+ButtonText: OK
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/74.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/74.png
+Hash: 7646000
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Czekaj...
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
+Hash: 198218321
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Brak połączeń!
+Hash: 267383464
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {38fad66}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Powrót
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/75.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/75.png
+Hash: 131050161
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {13a49b3}
+Class: class org.tyszecki.rozkladpkp.widgets.DateButton
+WidgetID: org.tyszecki.rozkladpkp:id/date_button
+ButtonText: April 18, 2019
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/76.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/76.png
+Hash: 235692305
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+DialogClass: class android.app.DatePickerDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/RelativeLayout/Button
+Hash: 46482702
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4929bba}
+Class: class android.widget.ImageButton
+WidgetID: android:id/increment
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/77.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/77.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/DatePicker/LinearLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 46482702
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4929bba}
+Class: class android.widget.ImageButton
+WidgetID: android:id/increment
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/78.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/78.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/DatePicker/LinearLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 166067019
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4929bba}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/79.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/79.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 184514904
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {13a49b3}
+Class: class org.tyszecki.rozkladpkp.widgets.TimeButton
+WidgetID: org.tyszecki.rozkladpkp:id/time_button
+ButtonText: 21:37
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/80.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/80.png
+Hash: 8986508
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+DialogClass: class android.app.TimePickerDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/RelativeLayout/Button
+Hash: 146050644
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {391686c}
+Class: class android.widget.EditText
+WidgetID: android:id/numberpicker_input
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/81.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/81.png
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/82.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/82.png
+Hash: 249779180
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {391686c}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/83.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/83.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 184514904
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {13a49b3}
+Class: class org.tyszecki.rozkladpkp.widgets.TimeButton
+WidgetID: org.tyszecki.rozkladpkp:id/time_button
+ButtonText: 21:37
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/84.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/84.png
+Hash: 8986508
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+DialogClass: class android.app.TimePickerDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/RelativeLayout/Button
+Hash: 249779180
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e7f9fe2}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/85.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/85.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 111072004
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {13a49b3}
+Class: class android.widget.Button
+WidgetID: org.tyszecki.rozkladpkp:id/ok_button
+ButtonText: OK
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/86.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/86.png
+Hash: 147748074
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: Czekaj...
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
+Hash: 4765507
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Brak połączeń!
+Hash: 206110370
+SourceActivity: org.tyszecki.rozkladpkp.TimetableActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d7dfaf0}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Powrót
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/87.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/87.png
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.TimetableFormActivity
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/88.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/88.png
+Hash: 255465486
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class android.widget.RelativeLayout
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/89.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/89.png
+Hash: MENU
+Event: MENU
+Hash: 103486243
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3e0020}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/90.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/90.png
+MenuItemID: org.tyszecki.rozkladpkp:id/item_settings
+MenuItemTitle: Ustawienia
+Xpath: /FrameLayout/ViewGroup/TextView
+Hash: BACK
+Event: BACK
+SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/91.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/91.png
+Hash: 163614760
+SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2326970}
+Class: class android.widget.ScrollView
+XML: /XposedConnection/result/XML/org.tyszecki.rozkladpkp/92.xml
+Screenshot: /XposedConnection/result/screenshots/org.tyszecki.rozkladpkp/92.png

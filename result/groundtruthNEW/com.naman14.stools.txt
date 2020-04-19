@@ -1,0 +1,591 @@
+Hash: 23402086
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class android.widget.ScrollView
+XML: /XposedConnection/result/XML/com.naman14.stools/0.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/0.png
+Hash: 23402086
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class android.widget.ScrollView
+XML: /XposedConnection/result/XML/com.naman14.stools/1.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/1.png
+Hash: 23402086
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class android.widget.ScrollView
+XML: /XposedConnection/result/XML/com.naman14.stools/2.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/2.png
+Hash: 19235262
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+XML: /XposedConnection/result/XML/com.naman14.stools/3.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/3.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/ViewGroup/LinearLayoutCompat/ImageView
+Hash: 230464564
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42f23ce}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+XML: /XposedConnection/result/XML/com.naman14.stools/4.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/4.png
+MenuItemID: com.naman14.stools:id/menu_reset
+MenuItemTitle: Reset Timers
+Hash: 19235262
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+XML: /XposedConnection/result/XML/com.naman14.stools/5.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/5.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/ViewGroup/LinearLayoutCompat/ImageView
+Hash: 264836608
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {935e565}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+XML: /XposedConnection/result/XML/com.naman14.stools/6.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/6.png
+MenuItemID: com.naman14.stools:id/menu_restore
+MenuItemTitle: Restore Timers
+Hash: 19235262
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+XML: /XposedConnection/result/XML/com.naman14.stools/7.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/7.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/ViewGroup/LinearLayoutCompat/ImageView
+Hash: 85708923
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3dde74}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+XML: /XposedConnection/result/XML/com.naman14.stools/8.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/8.png
+MenuItemID: com.naman14.stools:id/menu_refresh
+MenuItemTitle: Refresh
+Hash: 165451695
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class android.widget.ImageButton
+XML: /XposedConnection/result/XML/com.naman14.stools/9.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/9.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/ViewGroup/ImageButton
+Hash: 151888518
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class android.widget.ListView
+WidgetID: com.naman14.stools:id/list_slidermenu
+XML: /XposedConnection/result/XML/com.naman14.stools/10.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/10.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/LinearLayout/ListView/LinearLayout
+Hash: 97369304
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.naman14.stools/11.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/11.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/FrameLayout/FrameLayout/LinearLayout/ListView/RelativeLayout
+Hash: 53654449
+SourceActivity: com.naman14.stools.sensors.SensorGraphActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3403004}
+Class: class org.achartengine.GraphicalView
+XML: /XposedConnection/result/XML/com.naman14.stools/12.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/12.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.naman14.stools.sensors.SensorGraphActivity
+XML: /XposedConnection/result/XML/com.naman14.stools/13.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/13.png
+Hash: 97369304
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.naman14.stools/14.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/14.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/FrameLayout/FrameLayout/LinearLayout/ListView/RelativeLayout
+Hash: 219349964
+SourceActivity: com.naman14.stools.sensors.SensorGraphActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b8fde91}
+Class: class org.achartengine.GraphicalView
+XML: /XposedConnection/result/XML/com.naman14.stools/15.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/15.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.naman14.stools.sensors.SensorGraphActivity
+XML: /XposedConnection/result/XML/com.naman14.stools/16.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/16.png
+Hash: 97369304
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.naman14.stools/17.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/17.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/FrameLayout/FrameLayout/LinearLayout/ListView/RelativeLayout
+Hash: BACK
+Event: BACK
+SourceActivity: com.naman14.stools.sensors.SensorGraphActivity
+XML: /XposedConnection/result/XML/com.naman14.stools/18.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/18.png
+Hash: 97369304
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.naman14.stools/19.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/19.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/FrameLayout/FrameLayout/LinearLayout/ListView/RelativeLayout
+Hash: BACK
+Event: BACK
+SourceActivity: com.naman14.stools.sensors.SensorGraphActivity
+XML: /XposedConnection/result/XML/com.naman14.stools/20.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/20.png
+Hash: 97369304
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.naman14.stools/21.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/21.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/FrameLayout/FrameLayout/LinearLayout/ListView/RelativeLayout
+Hash: BACK
+Event: BACK
+SourceActivity: com.naman14.stools.sensors.SensorGraphActivity
+XML: /XposedConnection/result/XML/com.naman14.stools/22.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/22.png
+Hash: 97369304
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.naman14.stools/23.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/23.png
+Hash: 97369304
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.naman14.stools/24.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/24.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/FrameLayout/FrameLayout/LinearLayout/ListView/RelativeLayout
+Hash: BACK
+Event: BACK
+SourceActivity: com.naman14.stools.sensors.SensorGraphActivity
+XML: /XposedConnection/result/XML/com.naman14.stools/25.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/25.png
+Hash: 97369304
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.naman14.stools/26.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/26.png
+Hash: 97369304
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/com.naman14.stools/27.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/27.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/FrameLayout/FrameLayout/LinearLayout/ListView/RelativeLayout
+Hash: BACK
+Event: BACK
+SourceActivity: com.naman14.stools.sensors.SensorGraphActivity
+XML: /XposedConnection/result/XML/com.naman14.stools/28.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/28.png
+Hash: 165451695
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class android.widget.ImageButton
+XML: /XposedConnection/result/XML/com.naman14.stools/29.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/29.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/ViewGroup/ImageButton
+Hash: 151888518
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class android.widget.ListView
+WidgetID: com.naman14.stools:id/list_slidermenu
+XML: /XposedConnection/result/XML/com.naman14.stools/30.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/30.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/LinearLayout/ListView/LinearLayout
+Hash: 265480858
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class android.support.v4.widget.DrawerLayout
+WidgetID: com.naman14.stools:id/drawer_layout
+XML: /XposedConnection/result/XML/com.naman14.stools/31.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/31.png
+Hash: 97803637
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class com.shamanland.fab.FloatingActionButton
+WidgetID: com.naman14.stools:id/fab2
+XML: /XposedConnection/result/XML/com.naman14.stools/32.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/32.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/ImageButton
+Hash: 177728684
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class com.shamanland.fab.FloatingActionButton
+WidgetID: com.naman14.stools:id/fab
+XML: /XposedConnection/result/XML/com.naman14.stools/33.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/33.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/ImageButton
+Hash: 177728684
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7f9e058}
+Class: class com.shamanland.fab.FloatingActionButton
+WidgetID: com.naman14.stools:id/fab
+XML: /XposedConnection/result/XML/com.naman14.stools/34.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/34.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.documentsui.DocumentsActivity
+XML: /XposedConnection/result/XML/com.naman14.stools/35.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/35.png
+Hash: 223580997
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f520f88}
+Class: class android.widget.ImageButton
+XML: /XposedConnection/result/XML/com.naman14.stools/36.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/36.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/ViewGroup/ImageButton
+Hash: 214546742
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f520f88}
+Class: class android.widget.ListView
+WidgetID: com.naman14.stools:id/list_slidermenu
+XML: /XposedConnection/result/XML/com.naman14.stools/37.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/37.png
+Hash: 154911949
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f520f88}
+Class: class com.shamanland.fab.FloatingActionButton
+WidgetID: com.naman14.stools:id/fab
+XML: /XposedConnection/result/XML/com.naman14.stools/38.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/38.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/ImageButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.documentsui.DocumentsActivity
+XML: /XposedConnection/result/XML/com.naman14.stools/39.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/39.png
+Hash: 223580997
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f520f88}
+Class: class android.widget.ImageButton
+XML: /XposedConnection/result/XML/com.naman14.stools/40.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/40.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/ViewGroup/ImageButton
+Hash: 214546742
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f520f88}
+Class: class android.widget.ListView
+WidgetID: com.naman14.stools:id/list_slidermenu
+XML: /XposedConnection/result/XML/com.naman14.stools/41.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/41.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/LinearLayout/ListView/LinearLayout
+Hash: 25902422
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f520f88}
+Class: class com.shamanland.fab.FloatingActionButton
+WidgetID: com.naman14.stools:id/fab2
+XML: /XposedConnection/result/XML/com.naman14.stools/42.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/42.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/FrameLayout/FrameLayout/RelativeLayout/ImageButton
+Hash: 109902167
+SourceActivity: com.naman14.stools.location.LocationActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {273c4e8}
+Class: class android.support.v7.internal.widget.ScrollingTabContainerView$TabView
+XML: /XposedConnection/result/XML/com.naman14.stools/43.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/43.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/ViewGroup/HorizontalScrollView/LinearLayoutCompat/ActionBar$Tab
+Hash: 145476294
+SourceActivity: com.naman14.stools.location.LocationActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {273c4e8}
+Class: class android.widget.ScrollView
+XML: /XposedConnection/result/XML/com.naman14.stools/44.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/44.png
+Hash: 145476294
+SourceActivity: com.naman14.stools.location.LocationActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {273c4e8}
+Class: class android.widget.ScrollView
+XML: /XposedConnection/result/XML/com.naman14.stools/45.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/45.png
+Hash: 193238769
+SourceActivity: com.naman14.stools.location.LocationActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {273c4e8}
+Class: class android.support.v7.internal.widget.ScrollingTabContainerView$TabView
+XML: /XposedConnection/result/XML/com.naman14.stools/46.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/46.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/ViewGroup/HorizontalScrollView/LinearLayoutCompat/ActionBar$Tab
+Hash: 1773034
+SourceActivity: com.naman14.stools.location.LocationActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {273c4e8}
+Class: class android.support.v4.view.ViewPager
+WidgetID: com.naman14.stools:id/pager
+XML: /XposedConnection/result/XML/com.naman14.stools/47.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/47.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.naman14.stools.location.LocationActivity
+XML: /XposedConnection/result/XML/com.naman14.stools/48.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/48.png
+Hash: 25902422
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f520f88}
+Class: class com.shamanland.fab.FloatingActionButton
+WidgetID: com.naman14.stools:id/fab2
+XML: /XposedConnection/result/XML/com.naman14.stools/49.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/49.png
+Hash: 230350564
+SourceActivity: com.naman14.stools.location.LocationActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fffbccb}
+Class: class android.widget.ImageButton
+XML: /XposedConnection/result/XML/com.naman14.stools/50.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/50.png
+MenuItemID: android:id/home
+MenuItemTitle: null
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/ViewGroup/ImageButton
+Hash: 223580997
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f520f88}
+Class: class android.widget.ImageButton
+XML: /XposedConnection/result/XML/com.naman14.stools/51.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/51.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/ViewGroup/ImageButton
+Hash: 214546742
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f520f88}
+Class: class android.widget.ListView
+WidgetID: com.naman14.stools:id/list_slidermenu
+XML: /XposedConnection/result/XML/com.naman14.stools/52.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/52.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/LinearLayout/ListView/LinearLayout
+Hash: 200471464
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f520f88}
+Class: class android.support.v4.widget.DrawerLayout
+WidgetID: com.naman14.stools:id/drawer_layout
+XML: /XposedConnection/result/XML/com.naman14.stools/53.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/53.png
+Hash: 200471464
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f520f88}
+Class: class android.support.v4.widget.DrawerLayout
+WidgetID: com.naman14.stools:id/drawer_layout
+XML: /XposedConnection/result/XML/com.naman14.stools/54.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/54.png
+Hash: 200471464
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f520f88}
+Class: class android.support.v4.widget.DrawerLayout
+WidgetID: com.naman14.stools:id/drawer_layout
+XML: /XposedConnection/result/XML/com.naman14.stools/55.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/55.png
+Hash: 223580997
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f520f88}
+Class: class android.widget.ImageButton
+XML: /XposedConnection/result/XML/com.naman14.stools/56.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/56.png
+Hash: 214546742
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f520f88}
+Class: class android.widget.ListView
+WidgetID: com.naman14.stools:id/list_slidermenu
+XML: /XposedConnection/result/XML/com.naman14.stools/57.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/57.png
+Hash: 233580269
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f520f88}
+Class: class android.widget.ScrollView
+XML: /XposedConnection/result/XML/com.naman14.stools/58.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/58.png
+Hash: 223580997
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f520f88}
+Class: class android.widget.ImageButton
+XML: /XposedConnection/result/XML/com.naman14.stools/59.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/59.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/ViewGroup/ImageButton
+Hash: 214546742
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f520f88}
+Class: class android.widget.ListView
+WidgetID: com.naman14.stools:id/list_slidermenu
+XML: /XposedConnection/result/XML/com.naman14.stools/60.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/60.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/LinearLayout/ListView/LinearLayout
+Hash: 141899526
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f520f88}
+Class: class android.widget.TextView
+WidgetID: com.naman14.stools:id/text1
+XML: /XposedConnection/result/XML/com.naman14.stools/61.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/61.png
+Hash: 111301100
+SourceActivity: com.naman14.stools.MainActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/FrameLayout/FrameLayout/ScrollView/LinearLayout/FrameLayout/TextView
+Hash: 215853677
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3eba25}
+Class: class com.naman14.stools.CircleButton
+WidgetID: com.naman14.stools:id/imageButton1
+XML: /XposedConnection/result/XML/com.naman14.stools/62.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/62.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/ImageView
+Hash: 38514442
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a2b3e1d}
+Class: class android.widget.ImageButton
+XML: /XposedConnection/result/XML/com.naman14.stools/63.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/63.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/ViewGroup/ImageButton
+Hash: 256058087
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a2b3e1d}
+Class: class android.widget.ListView
+WidgetID: com.naman14.stools:id/list_slidermenu
+XML: /XposedConnection/result/XML/com.naman14.stools/64.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/64.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/LinearLayout/ListView/LinearLayout
+Hash: 103336375
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a2b3e1d}
+Class: class android.widget.TextView
+WidgetID: com.naman14.stools:id/text1
+XML: /XposedConnection/result/XML/com.naman14.stools/65.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/65.png
+Hash: 8351283
+SourceActivity: com.naman14.stools.MainActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/FrameLayout/FrameLayout/ScrollView/LinearLayout/FrameLayout/TextView
+Hash: BACK
+Event: BACK
+SourceActivity: com.naman14.stools.MainActivity
+XML: /XposedConnection/result/XML/com.naman14.stools/66.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/66.png
+Hash: 72886850
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a2b3e1d}
+Class: class android.widget.TextView
+WidgetID: com.naman14.stools:id/text2
+XML: /XposedConnection/result/XML/com.naman14.stools/67.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/67.png
+Hash: 173304397
+SourceActivity: com.naman14.stools.MainActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/FrameLayout/FrameLayout/ScrollView/LinearLayout/FrameLayout/TextView
+Hash: BACK
+Event: BACK
+SourceActivity: com.naman14.stools.MainActivity
+XML: /XposedConnection/result/XML/com.naman14.stools/68.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/68.png
+Hash: 178028681
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a2b3e1d}
+Class: class android.widget.TextView
+WidgetID: com.naman14.stools:id/text3
+XML: /XposedConnection/result/XML/com.naman14.stools/69.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/69.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/FrameLayout/FrameLayout/ScrollView/LinearLayout/FrameLayout/TextView
+Hash: 178028681
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a2b3e1d}
+Class: class android.widget.TextView
+WidgetID: com.naman14.stools:id/text3
+XML: /XposedConnection/result/XML/com.naman14.stools/70.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/70.png
+Hash: 178028681
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a2b3e1d}
+Class: class android.widget.TextView
+WidgetID: com.naman14.stools:id/text3
+XML: /XposedConnection/result/XML/com.naman14.stools/71.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/71.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/FrameLayout/FrameLayout/ScrollView/LinearLayout/FrameLayout/TextView
+Hash: 264477765
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a2b3e1d}
+Class: class android.widget.TextView
+WidgetID: com.naman14.stools:id/donate
+XML: /XposedConnection/result/XML/com.naman14.stools/72.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/72.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/FrameLayout/FrameLayout/ScrollView/LinearLayout/FrameLayout/LinearLayout/TextView
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+XML: /XposedConnection/result/XML/com.naman14.stools/73.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/73.png
+Hash: 210155457
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a2b3e1d}
+Class: class android.widget.ImageView
+WidgetID: com.naman14.stools:id/github
+XML: /XposedConnection/result/XML/com.naman14.stools/74.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/74.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/FrameLayout/FrameLayout/ScrollView/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageView
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+XML: /XposedConnection/result/XML/com.naman14.stools/75.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/75.png
+Hash: 27212646
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a2b3e1d}
+Class: class android.widget.ImageView
+WidgetID: com.naman14.stools:id/rate
+XML: /XposedConnection/result/XML/com.naman14.stools/76.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/76.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/FrameLayout/FrameLayout/ScrollView/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageView
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+XML: /XposedConnection/result/XML/com.naman14.stools/77.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/77.png
+Hash: 197758631
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a2b3e1d}
+Class: class android.widget.ImageView
+WidgetID: com.naman14.stools:id/share
+XML: /XposedConnection/result/XML/com.naman14.stools/78.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/78.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/FrameLayout/FrameLayout/ScrollView/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageView
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ChooserActivity
+XML: /XposedConnection/result/XML/com.naman14.stools/79.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/79.png
+Hash: 38514442
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a2b3e1d}
+Class: class android.widget.ImageButton
+XML: /XposedConnection/result/XML/com.naman14.stools/80.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/80.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/ViewGroup/ImageButton
+Hash: 256058087
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a2b3e1d}
+Class: class android.widget.ListView
+WidgetID: com.naman14.stools:id/list_slidermenu
+XML: /XposedConnection/result/XML/com.naman14.stools/81.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/81.png
+Hash: 256058087
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a2b3e1d}
+Class: class android.widget.ListView
+WidgetID: com.naman14.stools:id/list_slidermenu
+XML: /XposedConnection/result/XML/com.naman14.stools/82.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/82.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/RelativeLayout/DrawerLayout/LinearLayout/ListView/LinearLayout
+Hash: 35707121
+SourceActivity: com.naman14.stools.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a2b3e1d}
+Class: class android.widget.ScrollView
+XML: /XposedConnection/result/XML/com.naman14.stools/83.xml
+Screenshot: /XposedConnection/result/screenshots/com.naman14.stools/83.png

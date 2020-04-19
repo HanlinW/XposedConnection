@@ -1,0 +1,293 @@
+Hash: 187523505
+SourceActivity: yuku.perekammp3.RekamActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Information
+Hash: 183975687
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a524d0}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Later
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/3.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/3.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 161646276
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {edb49ad}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/4.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/4.png
+MenuItemID: yuku.mp3recorder.lite:id/menuList
+MenuItemTitle: List
+Hash: 243475085
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Information
+Xpath: /FrameLayout/ViewGroup/TextView
+Hash: 133618162
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2af9811}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/5.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/5.png
+Hash: 33352891
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33f1d76}
+Class: class android.widget.ListView
+WidgetID: yuku.mp3recorder.lite:id/lsRekaman
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/6.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/6.png
+Hash: 221188101
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/ListView/RelativeLayout
+Hash: 264158718
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {70e4d2d}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/7.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/7.png
+Hash: 33352891
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33f1d76}
+Class: class android.widget.ListView
+WidgetID: yuku.mp3recorder.lite:id/lsRekaman
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/8.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/8.png
+Hash: 221188101
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 264158718
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3a0cff3}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/9.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/9.png
+Hash: 130356062
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Rename
+Hash: 259436085
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c9d0ce9}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/10.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/10.png
+Hash: 33352891
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33f1d76}
+Class: class android.widget.ListView
+WidgetID: yuku.mp3recorder.lite:id/lsRekaman
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/11.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/11.png
+Hash: 221188101
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/ListView/RelativeLayout
+Hash: 264158718
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {54e649c}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/12.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/12.png
+Hash: 33352891
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33f1d76}
+Class: class android.widget.ListView
+WidgetID: yuku.mp3recorder.lite:id/lsRekaman
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/13.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/13.png
+Hash: 221188101
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 264158718
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {97fda2b}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/14.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/14.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.music.AudioPreview
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/15.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/15.png
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.DaftarActivity
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/16.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/16.png
+Hash: MENU
+Event: MENU
+Hash: 116440535
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7c07021}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/17.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/17.png
+MenuItemID: yuku.mp3recorder.lite:id/menuPengaturan
+MenuItemTitle: Settings
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.PengaturanActivity
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/18.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/18.png
+Hash: MENU
+Event: MENU
+Hash: 125085553
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4db1733}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/19.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/19.png
+MenuItemID: yuku.mp3recorder.lite:id/menuAbout
+MenuItemTitle: About
+Hash: 53648289
+SourceActivity: yuku.perekammp3.RekamActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: About
+Xpath: /FrameLayout/ViewGroup/TextView
+Hash: 9186067
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7492f49}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/20.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/20.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 149882879
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {207904e}
+Class: class android.widget.ImageButton
+WidgetID: yuku.mp3recorder.lite:id/bPengaturan
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/21.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/21.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ImageButton
+Hash: 36112881
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {25d3959}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/22.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/22.png
+Hash: 210294263
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Bit rate
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.PengaturanActivity
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/23.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/23.png
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.PengaturanActivity
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/24.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/24.png
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.RekamActivity
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/25.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/25.png
+Hash: 82362793
+SourceActivity: yuku.perekammp3.RekamActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Information
+Hash: 162884031
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {55438a8}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Later
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/26.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/26.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 140188632
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {256db31}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/27.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/27.png
+MenuItemID: yuku.mp3recorder.lite:id/menuList
+MenuItemTitle: List
+Hash: 137998162
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Information
+Hash: 163613203
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {281c86b}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/28.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/28.png
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.DaftarActivity
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/29.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/29.png
+Hash: MENU
+Event: MENU
+Hash: 134965429
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8346f86}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/30.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/30.png
+MenuItemID: yuku.mp3recorder.lite:id/menuAbout
+MenuItemTitle: About
+Hash: 258552127
+SourceActivity: yuku.perekammp3.RekamActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: About
+Hash: 190244911
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {925ae27}
+Class: class android.widget.Button
+WidgetID: yuku.mp3recorder.lite:id/bSeeOtherApps
+ButtonText: See other apps by Yuku
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/31.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/31.png
+Hash: 233543621
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {925ae27}
+Class: class android.widget.Button
+WidgetID: yuku.mp3recorder.lite:id/bAboutLame
+ButtonText: About LAME
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/32.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/32.png
+Hash: 204176621
+SourceActivity: yuku.perekammp3.RekamActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: About LAME
+Hash: 177582388
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {760a1a3}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/yuku.mp3recorder.lite/33.xml
+Screenshot: /XposedConnection/result/screenshots/yuku.mp3recorder.lite/33.png

@@ -1,0 +1,1003 @@
+Hash: 217578470
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {15d64cd}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/27.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/27.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/RelativeLayout/ListView/LinearLayout
+Hash: 92687140
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c02ef6d}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/28.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/28.png
+Hash: 229998004
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+DialogClass: class android.app.AlertDialog
+DialogTitle: Message options
+Xpath: /FrameLayout/LinearLayout/FrameLayout/RelativeLayout/LinearLayout
+Hash: 198677560
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6a26b81}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/29.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/29.png
+Hash: 92687140
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c02ef6d}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/30.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/30.png
+Hash: 24284640
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+DialogClass: class android.app.AlertDialog
+DialogTitle: Message options
+Hash: 248769700
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f7a707d}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/31.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/31.png
+Hash: 92687140
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c02ef6d}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/32.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/32.png
+Hash: 103563806
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+DialogClass: class android.app.AlertDialog
+DialogTitle: Message options
+Hash: 8719490
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6421383}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/33.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/33.png
+Hash: 92687140
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c02ef6d}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/34.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/34.png
+Hash: 213189233
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+DialogClass: class android.app.AlertDialog
+DialogTitle: Message options
+Xpath: /FrameLayout/LinearLayout/FrameLayout/RelativeLayout/LinearLayout
+Hash: 222981221
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {84f48ea}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/35.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/35.png
+Hash: 92687140
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c02ef6d}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/36.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/36.png
+Hash: 252154874
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+DialogClass: class android.app.AlertDialog
+DialogTitle: Message options
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout
+Hash: 11335582
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2a0496f}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/37.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/37.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ChooserActivity
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/38.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/38.png
+Hash: 92687140
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c02ef6d}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/39.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/39.png
+Hash: 13077424
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+DialogClass: class android.app.AlertDialog
+DialogTitle: Message options
+Xpath: /FrameLayout/LinearLayout/FrameLayout/RelativeLayout/LinearLayout
+Hash: 236945780
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {750710d}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/40.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/40.png
+Hash: 92687140
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c02ef6d}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/41.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/41.png
+Hash: 247606810
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+DialogClass: class android.app.AlertDialog
+DialogTitle: Message options
+Xpath: /FrameLayout/LinearLayout/FrameLayout/RelativeLayout/LinearLayout
+Hash: 78280638
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f983f0f}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/42.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/42.png
+Hash: 78280638
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f983f0f}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/43.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/43.png
+Hash: 191742516
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+DialogClass: class android.app.AlertDialog
+DialogTitle: View message details
+Hash: 186923511
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ce472cd}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/44.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/44.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 92687140
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c02ef6d}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/45.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/45.png
+Hash: 148931802
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+DialogClass: class android.app.AlertDialog
+DialogTitle: Message options
+Xpath: /FrameLayout/LinearLayout/FrameLayout/RelativeLayout/LinearLayout
+Hash: 217911934
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4ab12cf}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/46.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/46.png
+Hash: 116973062
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+DialogClass: class android.app.AlertDialog
+DialogTitle: View message details
+Hash: BACK
+Event: BACK
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/47.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/47.png
+Hash: 92687140
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c02ef6d}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/48.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/48.png
+Hash: 34219183
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+DialogClass: class android.app.AlertDialog
+DialogTitle: Message options
+Xpath: /FrameLayout/LinearLayout/FrameLayout/RelativeLayout/LinearLayout
+Hash: 190552643
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {daa61f0}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/49.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/49.png
+Hash: 190552643
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {daa61f0}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/50.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/50.png
+Hash: 124918955
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+DialogClass: class android.app.AlertDialog
+DialogTitle: Delete message
+Hash: 72551082
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e17869b}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/51.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/51.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 92687140
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c02ef6d}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/52.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/52.png
+Hash: 265132112
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+DialogClass: class android.app.AlertDialog
+DialogTitle: Message options
+Xpath: /FrameLayout/LinearLayout/FrameLayout/RelativeLayout/LinearLayout
+Hash: 75885588
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d0e5f2d}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/53.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/53.png
+Hash: 75885588
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d0e5f2d}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/54.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/54.png
+Hash: 203544028
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+DialogClass: class android.app.AlertDialog
+DialogTitle: Delete message
+Hash: 125820254
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3f46e0c}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/55.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/55.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 32510139
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c02ef6d}
+Class: class android.widget.EditText
+WidgetID: de.ub0r.android.smsdroid:id/text
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/56.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/56.png
+Hash: BACK
+Event: BACK
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/57.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/57.png
+Hash: MENU
+Event: MENU
+Hash: 15065633
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {34d8646}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/58.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/58.png
+MenuItemID: de.ub0r.android.smsdroid:id/item_compose
+MenuItemTitle: Compose
+Hash: MENU
+Event: MENU
+Hash: 93792392
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a5551d0}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/59.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/59.png
+MenuItemID: de.ub0r.android.smsdroid:id/item_answer
+MenuItemTitle: Reply
+Hash: MENU
+Event: MENU
+Hash: 228031531
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9783bc7}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/60.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/60.png
+MenuItemID: de.ub0r.android.smsdroid:id/item_call
+MenuItemTitle: Call
+Hash: MENU
+Event: MENU
+Hash: 222960762
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e168389}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/61.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/61.png
+MenuItemID: de.ub0r.android.smsdroid:id/item_all_threads
+MenuItemTitle: All threads
+Hash: BACK
+Event: BACK
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/62.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/62.png
+Hash: MENU
+Event: MENU
+Hash: 50520229
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a3e2de5}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/63.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/63.png
+MenuItemID: de.ub0r.android.smsdroid:id/item_delete_thread
+MenuItemTitle: Delete thread
+Hash: 80575897
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+DialogClass: class android.app.AlertDialog
+DialogTitle: Delete thread
+Hash: 123469577
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5b51b2f}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/64.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/64.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 50520229
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1bf153c}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/65.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/65.png
+MenuItemID: de.ub0r.android.smsdroid:id/item_delete_thread
+MenuItemTitle: Delete thread
+Hash: 79118631
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+DialogClass: class android.app.AlertDialog
+DialogTitle: Delete thread
+Hash: 175997361
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {55cc217}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/66.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/66.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 218823976
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {15d64cd}
+Class: class android.widget.ImageView
+WidgetID: de.ub0r.android.smsdroid:id/compose
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/67.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/67.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/RelativeLayout/RelativeLayout/ImageView
+Hash: 217578470
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {15d64cd}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/69.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/69.png
+Event: LongClick
+Hash: 77022813
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: 6788
+Hash: 72985745
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9be3ada}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/70.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/70.png
+Hash: 217578470
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {15d64cd}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/72.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/72.png
+Event: LongClick
+Hash: 125309208
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: 6788
+Hash: 44337756
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2441919}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/73.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/73.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.contacts.activities.ContactSelectionActivity
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/74.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/74.png
+Hash: 217578470
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {15d64cd}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/76.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/76.png
+Event: LongClick
+Hash: 57066159
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: 6788
+Hash: 95803459
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e853784}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/77.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/77.png
+Hash: BACK
+Event: BACK
+SourceActivity: de.ub0r.android.smsdroid.MessageList
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/78.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/78.png
+Hash: 217578470
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {15d64cd}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/79.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/79.png
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/80.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/80.png
+Event: LongClick
+Hash: 51902854
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: 6788
+Hash: 96380778
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bff6a2f}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/81.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/81.png
+Hash: 91345620
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: Delete thread
+Hash: 166441239
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8199904}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/82.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/82.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 217578470
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {15d64cd}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/83.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/83.png
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/84.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/84.png
+Event: LongClick
+Hash: 9632299
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: 6788
+Hash: 55031551
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d2237d0}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/85.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/85.png
+Hash: 109111819
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: Delete thread
+Hash: 5126133
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4a46bfb}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/86.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/86.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 217578470
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {15d64cd}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/87.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/87.png
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/88.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/88.png
+Event: LongClick
+Hash: 191698990
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: 6788
+Hash: 255919506
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {67882b7}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/89.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/89.png
+Hash: 217578470
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {15d64cd}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/90.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/90.png
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/91.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/91.png
+Event: LongClick
+Hash: 100271528
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: 6788
+Hash: 1006060
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {de76869}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/92.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/92.png
+Hash: MENU
+Event: MENU
+Hash: 231666488
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {488cf11}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/93.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/93.png
+MenuItemID: de.ub0r.android.smsdroid:id/item_compose
+MenuItemTitle: New message
+Hash: MENU
+Event: MENU
+Hash: 198837147
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {74b3e77}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/94.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/94.png
+MenuItemID: de.ub0r.android.smsdroid:id/item_mark_all_read
+MenuItemTitle: Mark all as read
+Hash: MENU
+Event: MENU
+Hash: 265116586
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a9a4b4d}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/95.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/95.png
+MenuItemID: de.ub0r.android.smsdroid:id/item_delete_all_threads
+MenuItemTitle: Delete all threads
+Hash: 75434379
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: Delete all threads
+Hash: 207353610
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4296b7b}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/96.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/96.png
+Hash: MENU
+Event: MENU
+Hash: 265116586
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {846d98}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/97.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/97.png
+MenuItemID: de.ub0r.android.smsdroid:id/item_delete_all_threads
+MenuItemTitle: Delete all threads
+Hash: 155438835
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: Delete all threads
+Hash: 116834973
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {17e5ae3}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/98.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/98.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 190201420
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1100ce0}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/99.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/99.png
+MenuItemID: de.ub0r.android.smsdroid:id/item_donate
+MenuItemTitle: Donate/remove ads
+Hash: 242099134
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {45b26b3}
+Class: class android.widget.Button
+WidgetID: de.ub0r.android.smsdroid:id/donate_paypal
+ButtonText: Donate (Paypal)
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/100.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/100.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/LinearLayout/Button
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/101.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/101.png
+Hash: 113069087
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {45b26b3}
+Class: class android.widget.Button
+WidgetID: de.ub0r.android.smsdroid:id/donate_bitcoin
+ButtonText: Donate (Bitcoin)
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/102.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/102.png
+Hash: 14919494
+SourceActivity: de.ub0r.android.lib.DonationHelper
+DialogClass: class android.app.AlertDialog
+DialogTitle: Donate (Bitcoin)
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/LinearLayout/Button
+Hash: 197909137
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f8a6df6}
+Class: class android.widget.Button
+WidgetID: android:id/button3
+ButtonText: Copy to clipboard
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/103.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/103.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 113069087
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {45b26b3}
+Class: class android.widget.Button
+WidgetID: de.ub0r.android.smsdroid:id/donate_bitcoin
+ButtonText: Donate (Bitcoin)
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/104.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/104.png
+Hash: 66472649
+SourceActivity: de.ub0r.android.lib.DonationHelper
+DialogClass: class android.app.AlertDialog
+DialogTitle: Donate (Bitcoin)
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/LinearLayout/Button
+Hash: 179744387
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2aa7839}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/105.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/105.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 165985738
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {45b26b3}
+Class: class android.widget.EditText
+WidgetID: de.ub0r.android.smsdroid:id/paypalid
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/106.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/106.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/EditText
+Hash: BACK
+Event: BACK
+SourceActivity: de.ub0r.android.lib.DonationHelper
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/107.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/107.png
+Hash: 179139160
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {45b26b3}
+Class: class android.widget.CheckBox
+WidgetID: de.ub0r.android.smsdroid:id/accept
+ButtonText: Accept Terms
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/108.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/108.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/CheckBox
+Hash: 208964411
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {45b26b3}
+Class: class android.widget.Button
+WidgetID: de.ub0r.android.smsdroid:id/send
+ButtonText: Load noads code
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/109.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/109.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
+Hash: 213954481
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {45b26b3}
+Class: class android.widget.TextView
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/110.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/110.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/111.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/111.png
+Hash: 213954481
+SourceActivity: de.ub0r.android.lib.DonationHelper
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {45b26b3}
+Class: class android.widget.TextView
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/112.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/112.png
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: de.ub0r.android.lib.DonationHelper
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/113.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/113.png
+Hash: MENU
+Event: MENU
+Hash: 92003989
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {43ce1a9}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/114.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/114.png
+MenuItemID: de.ub0r.android.smsdroid:id/item_settings
+MenuItemTitle: Preferences
+Hash: 179285180
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {61ede5a}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/115.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/115.png
+Hash: 100722877
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+DialogClass: class android.app.Dialog
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 105395628
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {35a8a3b}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/116.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/116.png
+Hash: 162351631
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+DialogClass: class android.app.AlertDialog
+DialogTitle: Theme
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: 179312077
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a9f1dd0}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/117.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/117.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 105395628
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {35a8a3b}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/118.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/118.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: 105395628
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {35a8a3b}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/119.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/119.png
+Hash: 263441318
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+DialogClass: class android.app.AlertDialog
+DialogTitle: Text size
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: 214102876
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {70f1a90}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/120.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/120.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 105395628
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {35a8a3b}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/121.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/121.png
+Hash: 191925862
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: 143361687
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {34b3d49}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/122.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/122.png
+Hash: 105395628
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {35a8a3b}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/123.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/123.png
+Hash: 129850627
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: 197559516
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f6cecba}
+Class: class android.widget.Button
+WidgetID: android:id/button3
+ButtonText: Reset
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/124.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/124.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 105395628
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {35a8a3b}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/125.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/125.png
+Hash: 191460064
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: 152936764
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5ab374b}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/126.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/126.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 105395628
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {35a8a3b}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/127.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/127.png
+Hash: 150771833
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
+Hash: 138295083
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d8ec788}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/128.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/128.png
+Hash: 105395628
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {35a8a3b}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/129.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/129.png
+Hash: BACK
+Event: BACK
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/130.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/130.png
+Hash: 179285180
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {61ede5a}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/131.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/131.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 48705105
+SourceActivity: de.ub0r.android.smsdroid.About
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2fa8d90}
+Class: class android.widget.TextView
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/132.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/132.png
+Hash: 194993805
+SourceActivity: de.ub0r.android.smsdroid.About
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2fa8d90}
+Class: class android.widget.TextView
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/133.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/133.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/134.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/134.png
+Hash: BACK
+Event: BACK
+SourceActivity: de.ub0r.android.smsdroid.About
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/135.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/135.png
+Hash: 179285180
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {61ede5a}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/136.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/136.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/137.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/137.png
+Hash: 179285180
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {61ede5a}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/138.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/138.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/139.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/139.png
+Hash: 179285180
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {61ede5a}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/140.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/140.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/141.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/141.png
+Hash: BACK
+Event: BACK
+SourceActivity: de.ub0r.android.smsdroid.Preferences
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/142.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/142.png
+Hash: 217578470
+SourceActivity: de.ub0r.android.smsdroid.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {15d64cd}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/de.ub0r.android.smsdroid/143.xml
+Screenshot: /XposedConnection/result/screenshots/de.ub0r.android.smsdroid/143.png

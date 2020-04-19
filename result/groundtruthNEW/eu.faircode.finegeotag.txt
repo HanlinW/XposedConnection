@@ -1,0 +1,176 @@
+Hash: 58656188
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed45a83}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/0.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/0.png
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 58656188
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed45a83}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/1.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/1.png
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 58656188
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed45a83}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/2.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/2.png
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 58656188
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed45a83}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/3.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/3.png
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 58656188
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed45a83}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/4.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/4.png
+Hash: 158762760
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 143215109
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {204ccf1}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/5.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/5.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/Button
+Hash: 58656188
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed45a83}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/6.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/6.png
+Hash: 22484075
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 154063433
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {904d11a}
+Class: class android.widget.EditText
+WidgetID: android:id/edit
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/7.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/7.png
+Hash: 166934890
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {904d11a}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/8.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/8.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/Button
+Hash: 58656188
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed45a83}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/9.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/9.png
+Hash: 134096858
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: BACK
+Event: BACK
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/10.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/10.png
+Hash: BACK
+Event: BACK
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/11.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/11.png
+Hash: 58656188
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed45a83}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/12.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/12.png
+Hash: 58656188
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed45a83}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/13.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/13.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.settings.Settings$LocationSettingsActivity
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/14.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/14.png
+Hash: 58656188
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed45a83}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/15.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/15.png
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 58656188
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed45a83}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/16.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/16.png
+Hash: 58656188
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed45a83}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/17.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/17.png
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/18.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/18.png
+Hash: 58656188
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed45a83}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/19.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/19.png
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/20.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/20.png
+Hash: 58656188
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed45a83}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/21.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/21.png
+Xpath: /FrameLayout/ViewGroup/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+XML: /XposedConnection/result/XML/eu.faircode.finegeotag/22.xml
+Screenshot: /XposedConnection/result/screenshots/eu.faircode.finegeotag/22.png
