@@ -1,0 +1,190 @@
+Hash: 45261673
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c596cbd}
+Class: class android.widget.RelativeLayout
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/2.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/2.png
+Hash: 109233327
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c596cbd}
+Class: class android.widget.ImageButton
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/3.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/3.png
+MenuItemID: android:id/home
+MenuItemTitle: null
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/DrawerLayout/FrameLayout/ViewGroup/ImageButton
+Hash: 93358485
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c596cbd}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/lv
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/4.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/4.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/DrawerLayout/RelativeLayout/ListView/TextView
+Hash: 109233327
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c596cbd}
+Class: class android.widget.ImageButton
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/5.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/5.png
+MenuItemID: android:id/home
+MenuItemTitle: null
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/DrawerLayout/FrameLayout/ViewGroup/ImageButton
+Hash: 93358485
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c596cbd}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/lv
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/6.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/6.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/DrawerLayout/RelativeLayout/ListView/TextView
+Hash: 109233327
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c596cbd}
+Class: class android.widget.ImageButton
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/7.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/7.png
+MenuItemID: android:id/home
+MenuItemTitle: null
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/DrawerLayout/FrameLayout/ViewGroup/ImageButton
+Hash: 93358485
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c596cbd}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/lv
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/8.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/8.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/DrawerLayout/RelativeLayout/ListView/TextView
+Hash: 109233327
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c596cbd}
+Class: class android.widget.ImageButton
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/9.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/9.png
+MenuItemID: android:id/home
+MenuItemTitle: null
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/DrawerLayout/FrameLayout/ViewGroup/ImageButton
+Hash: 93358485
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c596cbd}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/lv
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/10.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/10.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/DrawerLayout/RelativeLayout/ListView/TextView
+Hash: 109233327
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c596cbd}
+Class: class android.widget.ImageButton
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/11.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/11.png
+MenuItemID: android:id/home
+MenuItemTitle: null
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/DrawerLayout/FrameLayout/ViewGroup/ImageButton
+Hash: 93358485
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c596cbd}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/lv
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/12.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/12.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/DrawerLayout/RelativeLayout/ListView/TextView
+Hash: 101919627
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c596cbd}
+Class: class android.widget.RelativeLayout
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/13.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/13.png
+Hash: 94760075
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c596cbd}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/14.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/14.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/DrawerLayout/FrameLayout/ViewGroup/LinearLayoutCompat/ImageView
+Hash: 96184336
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c4d5c79}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/15.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/15.png
+MenuItemID: za.co.lukestonehm.logicaldefence:id/action_about
+MenuItemTitle: About
+Hash: 69721235
+SourceActivity: za.co.lukestonehm.logicaldefence.About
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {74c4b0b}
+Class: class android.support.v7.widget.AppCompatTextView
+WidgetID: za.co.lukestonehm.logicaldefence:id/about_more
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/16.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/16.png
+Hash: 135903223
+SourceActivity: za.co.lukestonehm.logicaldefence.About
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {74c4b0b}
+Class: class android.widget.ImageButton
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/17.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/17.png
+Hash: 90196445
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e6ef952}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/18.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/18.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/DrawerLayout/FrameLayout/ViewGroup/LinearLayoutCompat/ImageView
+Hash: 246605796
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9921214}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/19.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/19.png
+MenuItemID: za.co.lukestonehm.logicaldefence:id/action_language
+MenuItemTitle: Language
+Hash: 143483566
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+DialogClass: class android.support.v7.app.AlertDialog
+Hash: 90035007
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {acd1b10}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/select_dialog_listview
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/20.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/20.png
+Hash: 78642736
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7820aa9}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/21.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/21.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/DrawerLayout/FrameLayout/ViewGroup/LinearLayoutCompat/ImageView
+Hash: 202681187
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b373353}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/22.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/22.png
+MenuItemID: za.co.lukestonehm.logicaldefence:id/action_language
+MenuItemTitle: Language
+Hash: 79927107
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+DialogClass: class android.support.v7.app.AlertDialog
+Hash: BACK
+Event: BACK
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/23.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/23.png
+Hash: 109404450
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7820aa9}
+Class: class android.widget.ImageButton
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/24.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/24.png
+MenuItemID: android:id/home
+MenuItemTitle: null
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/DrawerLayout/FrameLayout/ViewGroup/ImageButton
+Hash: 219230083
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7820aa9}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/lv
+XML: /XposedConnection/result/XML/za.co.lukestonehm.logicaldefence/25.xml
+Screenshot: /XposedConnection/result/screenshots/za.co.lukestonehm.logicaldefence/25.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/FrameLayout/DrawerLayout/RelativeLayout/ListView/TextView

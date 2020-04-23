@@ -1,492 +1,89 @@
-Hash: 52982214
-SourceActivity: com.klye.ime.latin.M
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9b24e77}
-Class: class android.widget.Button
-WidgetID: com.klye.ime.latin:id/enable
-ButtonText: 1. Enable MultiLing
-XML: /XposedConnection/result/XML/com.klye.ime.latin/0.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/0.png
-Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
-Hash: 456071
-SourceActivity: com.klye.ime.latin.M
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9b24e77}
-Class: class android.widget.Button
-WidgetID: com.klye.ime.latin:id/enable2
-ButtonText: 2. Switch IME to MultiLing
-XML: /XposedConnection/result/XML/com.klye.ime.latin/1.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/1.png
-Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
-Hash: 254794932
-SourceActivity: com.klye.ime.latin.M
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9b24e77}
-Class: class android.widget.Button
-WidgetID: com.klye.ime.latin:id/enable3
-ButtonText: 3. Download Plug-ins
-(A must for word prediction to work)
-XML: /XposedConnection/result/XML/com.klye.ime.latin/2.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/2.png
-Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
-XML: /XposedConnection/result/XML/com.klye.ime.latin/3.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/3.png
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.internal.app.ResolverActivity
-Hash: 64487645
-SourceActivity: com.klye.ime.latin.M
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9b24e77}
-Class: class android.widget.Button
-WidgetID: com.klye.ime.latin:id/enable4
-ButtonText: 4. Enable Languages
-XML: /XposedConnection/result/XML/com.klye.ime.latin/4.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/4.png
-Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
-Hash: 139714291
-SourceActivity: com.klye.ime.latin.InputLanguageSelection
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e11d3e8}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/5.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/5.png
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
-Hash: 64487645
-SourceActivity: com.klye.ime.latin.M
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9b24e77}
-Class: class android.widget.Button
-WidgetID: com.klye.ime.latin:id/enable4
-ButtonText: 4. Enable Languages
-XML: /XposedConnection/result/XML/com.klye.ime.latin/6.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/6.png
-Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
-Hash: 35299632
-SourceActivity: com.klye.ime.latin.InputLanguageSelection
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4cb1de4}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/7.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/7.png
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
-Hash: 35299632
-SourceActivity: com.klye.ime.latin.InputLanguageSelection
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4cb1de4}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/8.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/8.png
-Hash: 35299632
-SourceActivity: com.klye.ime.latin.InputLanguageSelection
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4cb1de4}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/9.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/9.png
-Hash: 35299632
-SourceActivity: com.klye.ime.latin.InputLanguageSelection
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4cb1de4}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/10.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/10.png
-Hash: 35299632
-SourceActivity: com.klye.ime.latin.InputLanguageSelection
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4cb1de4}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/11.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/11.png
-Hash: 35299632
-SourceActivity: com.klye.ime.latin.InputLanguageSelection
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4cb1de4}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/12.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/12.png
-XML: /XposedConnection/result/XML/com.klye.ime.latin/13.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/13.png
-Hash: BACK
-Event: BACK
-SourceActivity: com.klye.ime.latin.InputLanguageSelection
-Hash: 187294802
-SourceActivity: com.klye.ime.latin.M
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9b24e77}
-Class: class android.widget.Button
-WidgetID: com.klye.ime.latin:id/settings
-ButtonText: Keyboard settings
-XML: /XposedConnection/result/XML/com.klye.ime.latin/14.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/14.png
-Hash: 39489480
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b2ced}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/15.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/15.png
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
-XML: /XposedConnection/result/XML/com.klye.ime.latin/16.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/16.png
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.internal.app.ResolverActivity
-Hash: 39489480
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b2ced}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/17.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/17.png
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
-XML: /XposedConnection/result/XML/com.klye.ime.latin/18.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/18.png
-Hash: BACK
-Event: BACK
-SourceActivity: com.klye.ime.latin.InputLanguageSelection
-Hash: 39489480
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b2ced}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/19.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/19.png
-Hash: 181620221
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-DialogClass: class android.app.Dialog
-Hash: 192409580
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3545fd6}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/20.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/20.png
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
-Hash: 192409580
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3545fd6}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/21.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/21.png
-Hash: 192409580
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3545fd6}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/22.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/22.png
-Hash: 192409580
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3545fd6}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/23.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/23.png
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/LinearLayout
-Hash: 192409580
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3545fd6}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/24.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/24.png
-Hash: 230711111
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-DialogClass: class android.app.AlertDialog
-DialogTitle: Vibrate on keypress
-Hash: 256864833
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bd4abd4}
-Class: class android.widget.Button
-WidgetID: android:id/button2
-ButtonText: Cancel
-XML: /XposedConnection/result/XML/com.klye.ime.latin/25.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/25.png
-Hash: 192409580
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3545fd6}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/26.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/26.png
-Hash: 138466101
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-DialogClass: class android.app.AlertDialog
-DialogTitle: Vibrate on keypress
-XML: /XposedConnection/result/XML/com.klye.ime.latin/27.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/27.png
-Hash: BACK
-Event: BACK
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Hash: 192409580
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3545fd6}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/28.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/28.png
-Hash: 192409580
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3545fd6}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/29.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/29.png
-XML: /XposedConnection/result/XML/com.klye.ime.latin/30.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/30.png
-Hash: BACK
-Event: BACK
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Hash: 39489480
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b2ced}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/31.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/31.png
-Hash: 131862549
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-DialogClass: class android.app.Dialog
-Hash: 176783972
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e9fddc1}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/32.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/32.png
-Hash: 150028094
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-DialogClass: class android.app.AlertDialog
-DialogTitle: Long-press enter key
-Hash: 198354603
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6d892c6}
-Class: class android.widget.Button
-WidgetID: android:id/button2
-ButtonText: Cancel
-XML: /XposedConnection/result/XML/com.klye.ime.latin/33.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/33.png
-XML: /XposedConnection/result/XML/com.klye.ime.latin/34.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/34.png
-Hash: BACK
-Event: BACK
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Hash: 39489480
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b2ced}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/35.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/35.png
-Hash: 226259673
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-DialogClass: class android.app.Dialog
-XML: /XposedConnection/result/XML/com.klye.ime.latin/36.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/36.png
-Hash: BACK
-Event: BACK
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Hash: 39489480
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b2ced}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/37.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/37.png
-Hash: 88124430
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-DialogClass: class android.app.Dialog
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
-XML: /XposedConnection/result/XML/com.klye.ime.latin/38.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/38.png
-Hash: BACK
-Event: BACK
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Hash: 39489480
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b2ced}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/39.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/39.png
-Hash: 42891259
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-DialogClass: class android.app.Dialog
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
-XML: /XposedConnection/result/XML/com.klye.ime.latin/40.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/40.png
-Hash: BACK
-Event: BACK
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Hash: 39489480
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b2ced}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-XML: /XposedConnection/result/XML/com.klye.ime.latin/41.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/41.png
-Hash: 257508568
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-DialogClass: class android.app.Dialog
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
-XML: /XposedConnection/result/XML/com.klye.ime.latin/42.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/42.png
-Hash: BACK
-Event: BACK
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-XML: /XposedConnection/result/XML/com.klye.ime.latin/43.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/43.png
-Hash: BACK
-Event: BACK
-SourceActivity: com.klye.ime.latin.LatinIMESettings
-Hash: 231957283
-SourceActivity: com.klye.ime.latin.M
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9b24e77}
-Class: class android.widget.Button
-WidgetID: com.klye.ime.latin:id/share
-ButtonText: ★ Share it ★
-(via eMail, Tweet, Facebook, Buzz... :)
-XML: /XposedConnection/result/XML/com.klye.ime.latin/44.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/44.png
-Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
-XML: /XposedConnection/result/XML/com.klye.ime.latin/45.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/45.png
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.internal.app.ChooserActivity
-Hash: 189272096
-SourceActivity: com.klye.ime.latin.M
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9b24e77}
-Class: class android.widget.Button
-WidgetID: com.klye.ime.latin:id/home
-ButtonText: Help | FAQ | Changelog
-XML: /XposedConnection/result/XML/com.klye.ime.latin/46.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/46.png
-Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/Button
-XML: /XposedConnection/result/XML/com.klye.ime.latin/47.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/47.png
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.internal.app.ResolverActivity
-Hash: 190369241
-SourceActivity: com.klye.ime.latin.M
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9b24e77}
-Class: class android.widget.EditText
-Class: class android.widget.EditText
-XML: /XposedConnection/result/XML/com.klye.ime.latin/48.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/48.png
-Xpath: /FrameLayout/LinearLayout/FrameLayout/ScrollView/LinearLayout/EditText
-XML: /XposedConnection/result/XML/com.klye.ime.latin/49.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/49.png
-Hash: BACK
-Event: BACK
-SourceActivity: com.klye.ime.latin.M
-Hash: 140339627
-SourceActivity: com.klye.ime.latin.M
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9b24e77}
-Class: class android.widget.ScrollView
-WidgetID: com.klye.ime.latin:id/scroll
-XML: /XposedConnection/result/XML/com.klye.ime.latin/50.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/50.png
-Hash: MENU
-Event: MENU
-Hash: 254154225
-SourceActivity: com.klye.ime.latin.M
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {74cf5d6}
-Class: class com.android.internal.view.menu.IconMenuItemView
-WidgetID: android:id/title
-XML: /XposedConnection/result/XML/com.klye.ime.latin/51.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/51.png
-XML: /XposedConnection/result/XML/com.klye.ime.latin/52.xml
-Screenshot: /XposedConnection/result/screenshots/com.klye.ime.latin/52.png
-MenuItemID: com.klye.ime.latin:id/exit
-MenuItemTitle: Exit
-Hash: 70011074
+Hash: 239189929
 SourceActivity: com.secuso.torchlight2.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {72c6672}
-Class: class android.widget.ImageButton
-WidgetID: com.secuso.torchlight2:id/btnSwitch
-XML: /XposedConnection/result/XML/com.secuso.torchlight2/0.xml
-Screenshot: /XposedConnection/result/screenshots/com.secuso.torchlight2/0.png
-Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/RelativeLayout/ImageButton
-Hash: 70011074
-SourceActivity: com.secuso.torchlight2.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {72c6672}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6ace519}
 Class: class android.widget.ImageButton
 WidgetID: com.secuso.torchlight2:id/btnSwitch
 XML: /XposedConnection/result/XML/com.secuso.torchlight2/1.xml
 Screenshot: /XposedConnection/result/screenshots/com.secuso.torchlight2/1.png
 Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/RelativeLayout/ImageButton
-Hash: 210674192
+Hash: 239189929
 SourceActivity: com.secuso.torchlight2.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {72c6672}
-Class: class android.widget.CheckBox
-WidgetID: com.secuso.torchlight2:id/cbPause
-ButtonText: turn off on app minimize or standby
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6ace519}
+Class: class android.widget.ImageButton
+WidgetID: com.secuso.torchlight2:id/btnSwitch
 XML: /XposedConnection/result/XML/com.secuso.torchlight2/2.xml
 Screenshot: /XposedConnection/result/screenshots/com.secuso.torchlight2/2.png
-Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/RelativeLayout/CheckBox
-Hash: 210674192
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/RelativeLayout/ImageButton
+Hash: 85023951
 SourceActivity: com.secuso.torchlight2.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {72c6672}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6ace519}
 Class: class android.widget.CheckBox
 WidgetID: com.secuso.torchlight2:id/cbPause
 ButtonText: turn off on app minimize or standby
 XML: /XposedConnection/result/XML/com.secuso.torchlight2/3.xml
 Screenshot: /XposedConnection/result/screenshots/com.secuso.torchlight2/3.png
-Hash: 41722664
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/RelativeLayout/CheckBox
+Hash: 85023951
 SourceActivity: com.secuso.torchlight2.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {72c6672}
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6ace519}
+Class: class android.widget.CheckBox
+WidgetID: com.secuso.torchlight2:id/cbPause
+ButtonText: turn off on app minimize or standby
 XML: /XposedConnection/result/XML/com.secuso.torchlight2/4.xml
 Screenshot: /XposedConnection/result/screenshots/com.secuso.torchlight2/4.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/RelativeLayout/CheckBox
+Hash: 65410759
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6ace519}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
 XML: /XposedConnection/result/XML/com.secuso.torchlight2/5.xml
 Screenshot: /XposedConnection/result/screenshots/com.secuso.torchlight2/5.png
-MenuItemID: com.secuso.torchlight2:id/action_about
-MenuItemTitle: About
-Hash: 55872649
-SourceActivity: com.secuso.torchlight2.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {57f9b9a}
-Class: class android.widget.ImageButton
-Class: class android.widget.ImageButton
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/ViewGroup/LinearLayoutCompat/ImageView
+Hash: 192365619
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6736287}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
 XML: /XposedConnection/result/XML/com.secuso.torchlight2/6.xml
 Screenshot: /XposedConnection/result/screenshots/com.secuso.torchlight2/6.png
-Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/ViewGroup/ImageButton
-Hash: 119117904
-SourceActivity: com.secuso.torchlight2.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2e6a49}
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-XML: /XposedConnection/result/XML/com.secuso.torchlight2/7.xml
-Screenshot: /XposedConnection/result/screenshots/com.secuso.torchlight2/7.png
-Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/ViewGroup/LinearLayoutCompat/ImageView
-Hash: 103527808
-SourceActivity: com.secuso.torchlight2.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8fd7757}
-Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
-Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
-XML: /XposedConnection/result/XML/com.secuso.torchlight2/8.xml
-Screenshot: /XposedConnection/result/screenshots/com.secuso.torchlight2/8.png
-XML: /XposedConnection/result/XML/com.secuso.torchlight2/9.xml
-Screenshot: /XposedConnection/result/screenshots/com.secuso.torchlight2/9.png
 MenuItemID: com.secuso.torchlight2:id/action_about
 MenuItemTitle: About
-Hash: 131689783
+Hash: 156334381
 SourceActivity: com.secuso.torchlight2.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {db85a0e}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {78977ba}
 Class: class android.widget.TextView
-Class: class android.widget.TextView
+XML: /XposedConnection/result/XML/com.secuso.torchlight2/7.xml
+Screenshot: /XposedConnection/result/screenshots/com.secuso.torchlight2/7.png
+Hash: 227860656
+SourceActivity: com.secuso.torchlight2.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {78977ba}
+Class: class android.widget.ImageButton
+XML: /XposedConnection/result/XML/com.secuso.torchlight2/8.xml
+Screenshot: /XposedConnection/result/screenshots/com.secuso.torchlight2/8.png
+Hash: 263387369
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {441296e}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+XML: /XposedConnection/result/XML/com.secuso.torchlight2/9.xml
+Screenshot: /XposedConnection/result/screenshots/com.secuso.torchlight2/9.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/ViewGroup/LinearLayoutCompat/ImageView
+Hash: 75427417
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {545a564}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
 XML: /XposedConnection/result/XML/com.secuso.torchlight2/10.xml
 Screenshot: /XposedConnection/result/screenshots/com.secuso.torchlight2/10.png
-XML: /XposedConnection/result/XML/com.secuso.torchlight2/11.xml
-Screenshot: /XposedConnection/result/screenshots/com.secuso.torchlight2/11.png
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.internal.app.ResolverActivity
-XML: /XposedConnection/result/XML/com.secuso.torchlight2/12.xml
-Screenshot: /XposedConnection/result/screenshots/com.secuso.torchlight2/12.png
+MenuItemID: com.secuso.torchlight2:id/action_about
+MenuItemTitle: About
 Hash: BACK
 Event: BACK
 SourceActivity: com.secuso.torchlight2.AboutActivity
-XML: /XposedConnection/result/XML/com.secuso.torchlight2/13.xml
-Screenshot: /XposedConnection/result/screenshots/com.secuso.torchlight2/13.png
-Hash: BACK
-Event: BACK
+XML: /XposedConnection/result/XML/com.secuso.torchlight2/11.xml
+Screenshot: /XposedConnection/result/screenshots/com.secuso.torchlight2/11.png
+Hash: 214948696
 SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {441296e}
+Class: class android.widget.ImageButton
+WidgetID: com.secuso.torchlight2:id/btnSwitch
+XML: /XposedConnection/result/XML/com.secuso.torchlight2/12.xml
+Screenshot: /XposedConnection/result/screenshots/com.secuso.torchlight2/12.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/ViewGroup/FrameLayout/RelativeLayout/ImageButton

@@ -255,7 +255,7 @@ public class AndroidOutputServer{
         }				
 	}
 	
-	public static String currentAPK = "za.co.lukestonehm.logicaldefence";
+	public static String currentAPK = "com.secuso.torchlight2";
 	public static void main(String[] args) throws IOException {
 		File file = new File(filePath);
 		if (!file.exists()) {
