@@ -1,0 +1,392 @@
+Hash: 155464308
+SourceActivity: com.apk.com.lovePositions.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ff5c0c}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/about
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/28.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/28.png
+Hash: 63079984
+SourceActivity: com.apk.com.lovePositions.MainActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: ABout
+Hash: MENU
+Event: MENU
+Hash: 242870022
+SourceActivity: com.apk.com.lovePositions.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {333d819}
+Class: class android.widget.ScrollView
+WidgetID: android:id/scrollView
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/29.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/29.png
+Hash: 108417891
+SourceActivity: com.apk.com.lovePositions.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {333d819}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/30.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/30.png
+Hash: 155464308
+SourceActivity: com.apk.com.lovePositions.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ff5c0c}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/about
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/31.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/31.png
+Hash: 77558097
+SourceActivity: com.apk.com.lovePositions.MainActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: ABout
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.MainActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/32.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/32.png
+Hash: 209979975
+SourceActivity: com.apk.com.lovePositions.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ff5c0c}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/random
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/33.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/33.png
+Hash: 100171571
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {dba3e1c}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/des
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/34.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/34.png
+Hash: 215656893
+SourceActivity: com.apk.com.lovePositions.ContentActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b8d24b9}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/back
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/35.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/35.png
+Hash: 100171571
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {dba3e1c}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/des
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/36.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/36.png
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ContentActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/37.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/37.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/38.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/38.png
+Hash: MENU
+Event: MENU
+Hash: 21881222
+SourceActivity: com.apk.com.lovePositions.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ff5c0c}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/all
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/39.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/39.png
+Hash: 17896976
+SourceActivity: com.apk.com.lovePositions.AllActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {706e159}
+Class: class android.widget.GridView
+WidgetID: com.droiddream.lovePositions:id/all_gird
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/40.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/40.png
+Hash: 159002062
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {537710b}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/des
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/41.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/41.png
+Hash: 93750899
+SourceActivity: com.apk.com.lovePositions.ContentActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b54ab2e}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/back
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/42.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/42.png
+Hash: 159002062
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {537710b}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/des
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/43.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/43.png
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ContentActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/44.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/44.png
+Hash: 27251333
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {537710b}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/next
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/45.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/45.png
+Hash: MENU
+Event: MENU
+Hash: 249744380
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {537710b}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/pre
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/46.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/46.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/47.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/47.png
+Hash: 17896976
+SourceActivity: com.apk.com.lovePositions.AllActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {706e159}
+Class: class android.widget.GridView
+WidgetID: com.droiddream.lovePositions:id/all_gird
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/48.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/48.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/49.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/49.png
+Hash: 17896976
+SourceActivity: com.apk.com.lovePositions.AllActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {706e159}
+Class: class android.widget.GridView
+WidgetID: com.droiddream.lovePositions:id/all_gird
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/50.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/50.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/51.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/51.png
+Hash: 17896976
+SourceActivity: com.apk.com.lovePositions.AllActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {706e159}
+Class: class android.widget.GridView
+WidgetID: com.droiddream.lovePositions:id/all_gird
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/52.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/52.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/53.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/53.png
+Hash: 17896976
+SourceActivity: com.apk.com.lovePositions.AllActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {706e159}
+Class: class android.widget.GridView
+WidgetID: com.droiddream.lovePositions:id/all_gird
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/54.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/54.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/55.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/55.png
+Hash: 17896976
+SourceActivity: com.apk.com.lovePositions.AllActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {706e159}
+Class: class android.widget.GridView
+WidgetID: com.droiddream.lovePositions:id/all_gird
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/56.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/56.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/57.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/57.png
+Hash: 17896976
+SourceActivity: com.apk.com.lovePositions.AllActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {706e159}
+Class: class android.widget.GridView
+WidgetID: com.droiddream.lovePositions:id/all_gird
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/58.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/58.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/59.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/59.png
+Hash: 17896976
+SourceActivity: com.apk.com.lovePositions.AllActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {706e159}
+Class: class android.widget.GridView
+WidgetID: com.droiddream.lovePositions:id/all_gird
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/60.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/60.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/61.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/61.png
+Hash: 17896976
+SourceActivity: com.apk.com.lovePositions.AllActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {706e159}
+Class: class android.widget.GridView
+WidgetID: com.droiddream.lovePositions:id/all_gird
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/62.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/62.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/63.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/63.png
+Hash: 17896976
+SourceActivity: com.apk.com.lovePositions.AllActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {706e159}
+Class: class android.widget.GridView
+WidgetID: com.droiddream.lovePositions:id/all_gird
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/64.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/64.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/65.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/65.png
+Hash: 17896976
+SourceActivity: com.apk.com.lovePositions.AllActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {706e159}
+Class: class android.widget.GridView
+WidgetID: com.droiddream.lovePositions:id/all_gird
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/66.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/66.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/67.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/67.png
+Hash: 17896976
+SourceActivity: com.apk.com.lovePositions.AllActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {706e159}
+Class: class android.widget.GridView
+WidgetID: com.droiddream.lovePositions:id/all_gird
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/68.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/68.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/69.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/69.png
+Hash: 17896976
+SourceActivity: com.apk.com.lovePositions.AllActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {706e159}
+Class: class android.widget.GridView
+WidgetID: com.droiddream.lovePositions:id/all_gird
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/70.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/70.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/71.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/71.png
+Hash: MENU
+Event: MENU
+Hash: 17896976
+SourceActivity: com.apk.com.lovePositions.AllActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {706e159}
+Class: class android.widget.GridView
+WidgetID: com.droiddream.lovePositions:id/all_gird
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/72.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/72.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/73.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/73.png
+Hash: 17896976
+SourceActivity: com.apk.com.lovePositions.AllActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {706e159}
+Class: class android.widget.GridView
+WidgetID: com.droiddream.lovePositions:id/all_gird
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/74.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/74.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/75.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/75.png
+Hash: 17896976
+SourceActivity: com.apk.com.lovePositions.AllActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {706e159}
+Class: class android.widget.GridView
+WidgetID: com.droiddream.lovePositions:id/all_gird
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/76.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/76.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/77.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/77.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.AllActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/78.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/78.png
+Hash: 155464308
+SourceActivity: com.apk.com.lovePositions.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ff5c0c}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/about
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/79.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/79.png
+Hash: 125503094
+SourceActivity: com.apk.com.lovePositions.MainActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: ABout
+Hash: 150000769
+SourceActivity: com.apk.com.lovePositions.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a1ad967}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/80.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/80.png
+Hash: 155464308
+SourceActivity: com.apk.com.lovePositions.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ff5c0c}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/about
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/81.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/81.png
+Hash: 84084478
+SourceActivity: com.apk.com.lovePositions.MainActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: ABout
+Hash: 30570820
+SourceActivity: com.apk.com.lovePositions.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c2ecd4f}
+Class: class android.widget.ScrollView
+WidgetID: android:id/scrollView
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/82.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/82.png
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.MainActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/83.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/83.png
+Hash: 209979975
+SourceActivity: com.apk.com.lovePositions.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ff5c0c}
+Class: class android.widget.ImageButton
+WidgetID: com.droiddream.lovePositions:id/random
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/84.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/84.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.apk.com.lovePositions.ViewActivity
+XML: /XposedConnection/result/PaladinXML/com.droiddream.lovePositions/85.xml
+Screenshot: /XposedConnection/result/PaladinScreenshots/com.droiddream.lovePositions/85.png
