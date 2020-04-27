@@ -1,0 +1,977 @@
+Instrumentation detected, disabling framework for com.github.uiautomator
+Hook Loaded App:org.tyszecki.rozkladpkp
+#Hash: 1109564936
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: 1110614528
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class org.tyszecki.rozkladpkp.widgets.TimeButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class org.tyszecki.rozkladpkp.widgets.TimeButton  id: 2131230735
+Widget id: org.tyszecki.rozkladpkp:id/time_button
+#WidgetID: org.tyszecki.rozkladpkp:id/time_button
+#ButtonText: 19:01
+#Hash: 1110751440
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#DialogClass: class android.app.TimePickerDialog
+#DialogTitle: 设置时间
+#Hash: 1105412776
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e13350}
+#Class: class android.widget.EditText
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e13350}   class: class android.widget.EditText  id: 16909034
+Widget id: android:id/numberpicker_input
+#WidgetID: android:id/numberpicker_input
+#Hash: MENU
+#Event: MENU
+#Hash: 1104979184
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e13350}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e13350}   class: class android.widget.Button  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: 完成
+#Hash: 1110614528
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class org.tyszecki.rozkladpkp.widgets.TimeButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class org.tyszecki.rozkladpkp.widgets.TimeButton  id: 2131230735
+Widget id: org.tyszecki.rozkladpkp:id/time_button
+#WidgetID: org.tyszecki.rozkladpkp:id/time_button
+#ButtonText: 19:01
+#Hash: 1110751440
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#DialogClass: class android.app.TimePickerDialog
+#DialogTitle: 设置时间
+#Hash: 1105847928
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422e8860}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422e8860}   class: class android.widget.ImageButton  id: 16909033
+Widget id: android:id/increment
+#WidgetID: android:id/increment
+#Hash: 1110763896
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422e8860}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422e8860}   class: class android.widget.ImageButton  id: 16909033
+Widget id: android:id/increment
+#WidgetID: android:id/increment
+#Hash: 1106063440
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422e8860}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422e8860}   class: class android.widget.ImageButton  id: 16909035
+Widget id: android:id/decrement
+#WidgetID: android:id/decrement
+#Hash: 1105332392
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422e8860}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422e8860}   class: class android.widget.ImageButton  id: 16909035
+Widget id: android:id/decrement
+#WidgetID: android:id/decrement
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#Hash: 1109518264
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: MENU
+#Event: MENU
+#Hash: 1105305864
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e1b908}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e1b908}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: org.tyszecki.rozkladpkp:id/item_via
+#MenuItemID: org.tyszecki.rozkladpkp:id/item_via
+#MenuItemTitle: Dodaj przesiadkę
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: 1105299656
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41daf8b0}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41daf8b0}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: org.tyszecki.rozkladpkp:id/item_settings
+#MenuItemID: org.tyszecki.rozkladpkp:id/item_settings
+#MenuItemTitle: Ustawienia
+#Hash: MENU
+#Event: MENU
+#Hash: 1111188496
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Source Activity org.tyszecki.rozkladpkp.PreferencesActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423bdbe0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423bdbe0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1111188496
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Source Activity org.tyszecki.rozkladpkp.PreferencesActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423bdbe0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423bdbe0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1105177448
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Wybierz kartę
+#Hash: MENU
+#Event: MENU
+#Hash: 1110245336
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Source Activity org.tyszecki.rozkladpkp.PreferencesActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f00e98}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f00e98}   class: class android.widget.Button  id: 16908314
+Widget id: android:id/button2
+#WidgetID: android:id/button2
+#ButtonText: 取消
+#Hash: 1111188496
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Source Activity org.tyszecki.rozkladpkp.PreferencesActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423bdbe0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423bdbe0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1105321720
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Wybierz kartę
+#Hash: 1110417120
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Source Activity org.tyszecki.rozkladpkp.PreferencesActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4232fbf0}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4232fbf0}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1111188496
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Source Activity org.tyszecki.rozkladpkp.PreferencesActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423bdbe0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423bdbe0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1106280928
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Wybierz kartę
+#Hash: 1106282216
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Source Activity org.tyszecki.rozkladpkp.PreferencesActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423bfb48}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423bfb48}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1111188496
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Source Activity org.tyszecki.rozkladpkp.PreferencesActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423bdbe0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423bdbe0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1112635312
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Wybierz kartę
+#Hash: 1112636600
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Source Activity org.tyszecki.rozkladpkp.PreferencesActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42521d88}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42521d88}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1111188496
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Source Activity org.tyszecki.rozkladpkp.PreferencesActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423bdbe0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423bdbe0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1112919824
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Wybierz kartę
+#Hash: 1112921112
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Source Activity org.tyszecki.rozkladpkp.PreferencesActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {425674e8}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {425674e8}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1111188496
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Source Activity org.tyszecki.rozkladpkp.PreferencesActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423bdbe0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423bdbe0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1105249040
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Wybierz kartę
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+#Hash: 1111188496
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Source Activity org.tyszecki.rozkladpkp.PreferencesActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423bdbe0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423bdbe0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1111188496
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Source Activity org.tyszecki.rozkladpkp.PreferencesActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423bdbe0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423bdbe0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1111188496
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+Source Activity org.tyszecki.rozkladpkp.PreferencesActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423bdbe0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423bdbe0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1104871240
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Wybierz kartę
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#Hash: 1110156840
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class org.tyszecki.rozkladpkp.widgets.DateButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class org.tyszecki.rozkladpkp.widgets.DateButton  id: 2131230736
+Widget id: org.tyszecki.rozkladpkp:id/date_button
+#WidgetID: org.tyszecki.rozkladpkp:id/date_button
+#ButtonText: 2020年2月20日
+#Hash: 1112713008
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#DialogClass: class android.app.DatePickerDialog
+#DialogTitle: 2020年2月20日周四
+#Hash: 1112549072
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42596848}
+#Class: class android.widget.EditText
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42596848}   class: class android.widget.EditText  id: 16909034
+Widget id: android:id/numberpicker_input
+#WidgetID: android:id/numberpicker_input
+#Hash: MENU
+#Event: MENU
+#Hash: 1113142888
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42596848}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42596848}   class: class android.widget.Button  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: 完成
+#Hash: 1110156840
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class org.tyszecki.rozkladpkp.widgets.DateButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class org.tyszecki.rozkladpkp.widgets.DateButton  id: 2131230736
+Widget id: org.tyszecki.rozkladpkp:id/date_button
+#WidgetID: org.tyszecki.rozkladpkp:id/date_button
+#ButtonText: 2020年2月20日
+#Hash: 1112713008
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#DialogClass: class android.app.DatePickerDialog
+#DialogTitle: 2020年2月20日周四
+#Hash: 1113142888
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42603720}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42603720}   class: class android.widget.Button  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: 完成
+#Hash: 1110156840
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class org.tyszecki.rozkladpkp.widgets.DateButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class org.tyszecki.rozkladpkp.widgets.DateButton  id: 2131230736
+Widget id: org.tyszecki.rozkladpkp:id/date_button
+#WidgetID: org.tyszecki.rozkladpkp:id/date_button
+#ButtonText: 2020年2月20日
+#Hash: 1112713008
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#DialogClass: class android.app.DatePickerDialog
+#DialogTitle: 2020年2月20日周四
+#Hash: 1104899536
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42643750}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42643750}   class: class android.widget.ImageButton  id: 16909033
+Widget id: android:id/increment
+#WidgetID: android:id/increment
+#Hash: 1110247824
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42643750}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42643750}   class: class android.widget.ImageButton  id: 16909035
+Widget id: android:id/decrement
+#WidgetID: android:id/decrement
+#Hash: 1110230384
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42643750}
+#Class: class android.widget.EditText
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42643750}   class: class android.widget.EditText  id: 16909034
+Widget id: android:id/numberpicker_input
+#WidgetID: android:id/numberpicker_input
+#Hash: 1110247824
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42643750}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42643750}   class: class android.widget.ImageButton  id: 16909035
+Widget id: android:id/decrement
+#WidgetID: android:id/decrement
+#Hash: 1110254744
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42643750}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42643750}   class: class android.widget.ImageButton  id: 16909033
+Widget id: android:id/increment
+#WidgetID: android:id/increment
+#Hash: 1112914536
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42643750}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42643750}   class: class android.widget.ImageButton  id: 16909035
+Widget id: android:id/decrement
+#WidgetID: android:id/decrement
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#Hash: 1109593504
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class org.tyszecki.rozkladpkp.widgets.StationEdit
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class org.tyszecki.rozkladpkp.widgets.StationEdit  id: 2131230731
+Widget id: org.tyszecki.rozkladpkp:id/departure_edit
+#WidgetID: org.tyszecki.rozkladpkp:id/departure_edit
+#Hash: 1109837576
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class android.widget.ImageButton  id: 2131230732
+Widget id: org.tyszecki.rozkladpkp:id/location_button
+#WidgetID: org.tyszecki.rozkladpkp:id/location_button
+#Hash: 1114795176
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#DialogClass: class android.app.ProgressDialog
+#DialogTitle: Czekaj...
+#Hash: 1109837576
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class android.widget.ImageButton  id: 2131230732
+Widget id: org.tyszecki.rozkladpkp:id/location_button
+#WidgetID: org.tyszecki.rozkladpkp:id/location_button
+#Hash: 1112700392
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#DialogClass: class android.app.ProgressDialog
+#DialogTitle: Czekaj...
+#Hash: 1110200616
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class org.tyszecki.rozkladpkp.widgets.ProductsButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class org.tyszecki.rozkladpkp.widgets.ProductsButton  id: 2131230737
+Widget id: org.tyszecki.rozkladpkp:id/products_button
+#WidgetID: org.tyszecki.rozkladpkp:id/products_button
+#ButtonText: Wszystkie pociągi
+#Hash: 1114541728
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Środki transportu
+#Hash: 1110462056
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422cad90}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422cad90}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1112879496
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422cad90}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422cad90}   class: class android.widget.Button  id: 16908314
+Widget id: android:id/button2
+#WidgetID: android:id/button2
+#ButtonText: Anuluj
+#Hash: 1110200616
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class org.tyszecki.rozkladpkp.widgets.ProductsButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class org.tyszecki.rozkladpkp.widgets.ProductsButton  id: 2131230737
+Widget id: org.tyszecki.rozkladpkp:id/products_button
+#WidgetID: org.tyszecki.rozkladpkp:id/products_button
+#ButtonText: Wszystkie pociągi
+#Hash: 1114541728
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Środki transportu
+#Hash: 1110462056
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41edc730}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41edc730}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1110462056
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41edc730}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41edc730}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1110462056
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41edc730}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41edc730}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: MENU
+#Event: MENU
+#Hash: 1110462056
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41edc730}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41edc730}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1110462056
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41edc730}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41edc730}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1110362592
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41edc730}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41edc730}   class: class android.widget.Button  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: OK
+#Hash: 1110200616
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class org.tyszecki.rozkladpkp.widgets.ProductsButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class org.tyszecki.rozkladpkp.widgets.ProductsButton  id: 2131230737
+Widget id: org.tyszecki.rozkladpkp:id/products_button
+#WidgetID: org.tyszecki.rozkladpkp:id/products_button
+#ButtonText: Osobowe, Autobusy, Tramwaje i Metro
+#Hash: 1114541728
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Środki transportu
+#Hash: 1110462056
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41dccd38}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41dccd38}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#Hash: 1110091072
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class org.tyszecki.rozkladpkp.widgets.StationEdit
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class org.tyszecki.rozkladpkp.widgets.StationEdit  id: 2131230733
+Widget id: org.tyszecki.rozkladpkp:id/via_edit
+#WidgetID: org.tyszecki.rozkladpkp:id/via_edit
+#Hash: 1106388576
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: 1106388576
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: 1109564936
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: 1106388576
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: 1114710640
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {425cfab0}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {425cfab0}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: org.tyszecki.rozkladpkp:id/item_settings
+#MenuItemID: org.tyszecki.rozkladpkp:id/item_settings
+#MenuItemTitle: Ustawienia
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#Hash: 1109518264
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: 1106388576
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: 1109564936
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: 1106388576
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: 1109518264
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: 1106388576
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: 1106388576
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d8070}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.cyanogenmod.trebuchet.CustomHomeLauncher
+Hook Loaded App:org.tyszecki.rozkladpkp
+#Hash: 1110191288
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}
+#Class: class org.tyszecki.rozkladpkp.widgets.AttributesButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}   class: class org.tyszecki.rozkladpkp.widgets.AttributesButton  id: 2131230738
+Widget id: org.tyszecki.rozkladpkp:id/attributes_button
+#WidgetID: org.tyszecki.rozkladpkp:id/attributes_button
+#ButtonText: Wszystkie połączenia
+#Hash: 1110585112
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Szczegóły połączenia
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#Hash: 1110096712
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}
+#Class: class org.tyszecki.rozkladpkp.widgets.TimeButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}   class: class org.tyszecki.rozkladpkp.widgets.TimeButton  id: 2131230735
+Widget id: org.tyszecki.rozkladpkp:id/time_button
+#WidgetID: org.tyszecki.rozkladpkp:id/time_button
+#ButtonText: 19:07
+#Hash: 1105828384
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#DialogClass: class android.app.TimePickerDialog
+#DialogTitle: 设置时间
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#Hash: 1109552392
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: 1110322144
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}
+#Class: class org.tyszecki.rozkladpkp.widgets.ProductsButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}   class: class org.tyszecki.rozkladpkp.widgets.ProductsButton  id: 2131230737
+Widget id: org.tyszecki.rozkladpkp:id/products_button
+#WidgetID: org.tyszecki.rozkladpkp:id/products_button
+#ButtonText: Wszystkie pociągi
+#Hash: 1110339968
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Środki transportu
+#Hash: 1110341720
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ba4750}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ba4750}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1106271752
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ba4750}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ba4750}   class: class android.widget.Button  id: 16908314
+Widget id: android:id/button2
+#WidgetID: android:id/button2
+#ButtonText: Anuluj
+#Hash: 1110322144
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}
+#Class: class org.tyszecki.rozkladpkp.widgets.ProductsButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}   class: class org.tyszecki.rozkladpkp.widgets.ProductsButton  id: 2131230737
+Widget id: org.tyszecki.rozkladpkp:id/products_button
+#WidgetID: org.tyszecki.rozkladpkp:id/products_button
+#ButtonText: Wszystkie pociągi
+#Hash: 1110339968
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Środki transportu
+#Hash: 1106266376
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4240ba88}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4240ba88}   class: class android.widget.Button  id: 16908313
+Widget id: android:id/button1
+#WidgetID: android:id/button1
+#ButtonText: OK
+#Hash: 1110322144
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}
+#Class: class org.tyszecki.rozkladpkp.widgets.ProductsButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}   class: class org.tyszecki.rozkladpkp.widgets.ProductsButton  id: 2131230737
+Widget id: org.tyszecki.rozkladpkp:id/products_button
+#WidgetID: org.tyszecki.rozkladpkp:id/products_button
+#ButtonText: Ekspresowe, Pospieszne i Osobowe
+#Hash: 1110339968
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: Środki transportu
+#Hash: 1110341720
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42452f58}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42452f58}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: MENU
+#Event: MENU
+#Hash: 1110341720
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42452f58}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42452f58}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1110341720
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42452f58}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42452f58}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1110341720
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42452f58}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42452f58}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1110341720
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42452f58}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42452f58}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1110341720
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42452f58}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42452f58}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#Hash: 1109552392
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: 1110559712
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}   class: class android.widget.ImageButton  id: 2131230732
+Widget id: org.tyszecki.rozkladpkp:id/location_button
+#WidgetID: org.tyszecki.rozkladpkp:id/location_button
+#Hash: 1112273168
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#DialogClass: class android.app.ProgressDialog
+#DialogTitle: Czekaj...
+#Hash: 1110419280
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}
+#Class: class org.tyszecki.rozkladpkp.widgets.DateButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}   class: class org.tyszecki.rozkladpkp.widgets.DateButton  id: 2131230736
+Widget id: org.tyszecki.rozkladpkp:id/date_button
+#WidgetID: org.tyszecki.rozkladpkp:id/date_button
+#ButtonText: 2020年2月20日
+#Hash: 1112650424
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#DialogClass: class android.app.DatePickerDialog
+#DialogTitle: 2020年2月20日周四
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#Hash: 1110324992
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}   class: class android.widget.Button  id: 2131230739
+Widget id: org.tyszecki.rozkladpkp:id/ok_button
+#WidgetID: org.tyszecki.rozkladpkp:id/ok_button
+#ButtonText: OK
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: 1105306648
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424faf08}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {424faf08}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: org.tyszecki.rozkladpkp:id/item_settings
+#MenuItemID: org.tyszecki.rozkladpkp:id/item_settings
+#MenuItemTitle: Ustawienia
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.tyszecki.rozkladpkp.PreferencesActivity
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#Hash: 1110559712
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}   class: class android.widget.ImageButton  id: 2131230732
+Widget id: org.tyszecki.rozkladpkp:id/location_button
+#WidgetID: org.tyszecki.rozkladpkp:id/location_button
+#Hash: 1111942592
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#DialogClass: class android.app.ProgressDialog
+#DialogTitle: Czekaj...
+#Hash: 1106376032
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d3ba8}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.cyanogenmod.trebuchet.CustomHomeLauncher
+Hook Loaded App:org.tyszecki.rozkladpkp
+#Hash: 1109513928
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d5bb8}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d5bb8}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: 1109513928
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d5bb8}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d5bb8}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: 1106384240
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+Source Activity org.tyszecki.rozkladpkp.RozkladPKP
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422d5bb8}
+#Class: class android.widget.RelativeLayout
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422d5bb8}   class: class android.widget.RelativeLayout  id: -1
+WidgetID: NONE
+#Class: class android.widget.RelativeLayout
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.tyszecki.rozkladpkp.RozkladPKP
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.cyanogenmod.trebuchet.CustomHomeLauncher
+Hook Loaded App:org.tyszecki.rozkladpkp

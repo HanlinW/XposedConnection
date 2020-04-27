@@ -1,0 +1,870 @@
+Instrumentation detected, disabling framework for com.github.uiautomator
+Hook Loaded App:com.klye.ime.latin
+#Hash: MENU
+#Event: MENU
+#Hash: 1107285960
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4200c9c8}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4200c9c8}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: com.klye.ime.latin:id/exit
+#MenuItemID: com.klye.ime.latin:id/exit
+#MenuItemTitle: 退出
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.cyanogenmod.trebuchet.CustomHomeLauncher
+Hook Loaded App:com.klye.ime.latin
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.klye.ime.latin.M
+#Hash: 1106744768
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fafdc0}
+#Class: class android.widget.EditText
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fafdc0}   class: class android.widget.EditText  id: -1
+WidgetID: NONE
+#Class: class android.widget.EditText
+#Hash: 1106738816
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fafdc0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fafdc0}   class: class android.widget.Button  id: 2131230733
+Widget id: com.klye.ime.latin:id/share
+#WidgetID: com.klye.ime.latin:id/share
+#ButtonText: ★ 共享 ★
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.internal.app.ChooserActivity
+#Hash: 1106733304
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fafdc0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fafdc0}   class: class android.widget.Button  id: 2131230731
+Widget id: com.klye.ime.latin:id/enable4
+#WidgetID: com.klye.ime.latin:id/enable4
+#ButtonText: 4. 选用语言
+#Hash: MENU
+#Event: MENU
+#Hash: 1103687568
+#SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Source Activity com.klye.ime.latin.InputLanguageSelection
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103687568
+#SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Source Activity com.klye.ime.latin.InputLanguageSelection
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103687568
+#SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Source Activity com.klye.ime.latin.InputLanguageSelection
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103687568
+#SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Source Activity com.klye.ime.latin.InputLanguageSelection
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103687568
+#SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Source Activity com.klye.ime.latin.InputLanguageSelection
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103687568
+#SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Source Activity com.klye.ime.latin.InputLanguageSelection
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103687568
+#SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Source Activity com.klye.ime.latin.InputLanguageSelection
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103687568
+#SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Source Activity com.klye.ime.latin.InputLanguageSelection
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103687568
+#SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Source Activity com.klye.ime.latin.InputLanguageSelection
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103687568
+#SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Source Activity com.klye.ime.latin.InputLanguageSelection
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103687568
+#SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Source Activity com.klye.ime.latin.InputLanguageSelection
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103687568
+#SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Source Activity com.klye.ime.latin.InputLanguageSelection
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103687568
+#SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Source Activity com.klye.ime.latin.InputLanguageSelection
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103687568
+#SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Source Activity com.klye.ime.latin.InputLanguageSelection
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103687568
+#SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Source Activity com.klye.ime.latin.InputLanguageSelection
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103687568
+#SourceActivity: com.klye.ime.latin.InputLanguageSelection
+Source Activity com.klye.ime.latin.InputLanguageSelection
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c5e100}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.klye.ime.latin.InputLanguageSelection
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.klye.ime.latin.M
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.cyanogenmod.trebuchet.CustomHomeLauncher
+Hook Loaded App:com.klye.ime.latin
+#Hash: 1106745248
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb0c20}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb0c20}   class: class android.widget.Button  id: 2131230734
+Widget id: com.klye.ime.latin:id/home
+#WidgetID: com.klye.ime.latin:id/home
+#ButtonText: 帮助|常见问题|更新志
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+Hook Loaded App:com.klye.ime.latin
+#Hash: 1106747488
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb2a60}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb2a60}   class: class android.widget.Button  id: 2131230732
+Widget id: com.klye.ime.latin:id/settings
+#WidgetID: com.klye.ime.latin:id/settings
+#ButtonText: 键盘设置
+#Hash: MENU
+#Event: MENU
+#Hash: 1107458056
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42057420}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42057420}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108126160
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#DialogClass: class android.app.Dialog
+This Dialog No Title
+#Hash: MENU
+#Event: MENU
+#Hash: 1108108960
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108108960
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1109023368
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 表情鼻
+#Hash: 1109025736
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422788a0}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422788a0}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1108108960
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1110542384
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 表情鼻
+#Hash: 1110544136
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423234e8}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423234e8}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1108108960
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1110844248
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 表情鼻
+#Hash: 1110845536
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4236c930}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4236c930}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1108108960
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1110353016
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 表情鼻
+#Hash: 1107123920
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420fa718}
+#Class: class com.android.internal.app.AlertController$RecycleListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420fa718}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
+Widget id: android:id/select_dialog_listview
+#WidgetID: android:id/select_dialog_listview
+#Hash: 1108108960
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1110498696
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 表情鼻
+#Hash: 1110708264
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420a3d60}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420a3d60}   class: class android.widget.Button  id: 16908314
+Widget id: android:id/button2
+#WidgetID: android:id/button2
+#ButtonText: 取消
+#Hash: 1108108960
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1110331024
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 表情鼻
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#Hash: 1108108960
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108108960
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108108960
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108108960
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108108960
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420ce7e0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#Hash: 1107458056
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42057420}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42057420}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1102851160
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#DialogClass: class android.app.Dialog
+This Dialog No Title
+#Hash: 1102833904
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41bc6a08}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41bc6a08}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1102833904
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41bc6a08}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41bc6a08}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1102833904
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41bc6a08}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41bc6a08}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1102833904
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41bc6a08}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41bc6a08}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1102833904
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41bc6a08}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41bc6a08}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1102833904
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41bc6a08}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41bc6a08}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1102833904
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41bc6a08}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41bc6a08}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#Hash: 1107458056
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42057420}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42057420}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1108932336
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#DialogClass: class android.app.Dialog
+This Dialog No Title
+#Hash: 1102733320
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422ec9e8}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422ec9e8}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1110481864
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 键盘主题
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#Hash: 1102733320
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422ec9e8}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422ec9e8}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1107447320
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 语音输入
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#Hash: 1102733320
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422ec9e8}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422ec9e8}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1110456208
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 拉丁布局
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#Hash: 1102733320
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422ec9e8}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422ec9e8}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1102733320
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422ec9e8}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422ec9e8}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1111198296
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 语音输入
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#Hash: 1102733320
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422ec9e8}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422ec9e8}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1111266592
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#DialogClass: class android.app.AlertDialog
+#DialogTitle: 显示设置键
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#Hash: 1107458056
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42057420}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42057420}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1102802432
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#DialogClass: class android.app.Dialog
+This Dialog No Title
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#Hash: 1107458056
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42057420}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42057420}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+Hook Loaded App:com.klye.ime.latin
+#Hash: 1106750992
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb3810}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb3810}   class: class android.widget.Button  id: 2131230732
+Widget id: com.klye.ime.latin:id/settings
+#WidgetID: com.klye.ime.latin:id/settings
+#ButtonText: 键盘设置
+#Hash: 1107448560
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42055910}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42055910}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+#Hash: 1107448560
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42055910}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42055910}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.klye.ime.latin.InputLanguageSelection
+#Hash: 1107448560
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+Source Activity com.klye.ime.latin.LatinIMESettings
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42055910}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42055910}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1109473824
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#DialogClass: class android.app.Dialog
+This Dialog No Title
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.klye.ime.latin.LatinIMESettings
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.klye.ime.latin.M
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.cyanogenmod.trebuchet.CustomHomeLauncher
+Hook Loaded App:com.klye.ime.latin
+#Hash: 1106749376
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb4750}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb4750}   class: class android.widget.Button  id: 2131230730
+Widget id: com.klye.ime.latin:id/enable3
+#WidgetID: com.klye.ime.latin:id/enable3
+#ButtonText: 3. 下載插件
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+Hook Loaded App:com.klye.ime.latin
+#Hash: 1106753056
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb55b0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb55b0}   class: class android.widget.Button  id: 2131230730
+Widget id: com.klye.ime.latin:id/enable3
+#WidgetID: com.klye.ime.latin:id/enable3
+#ButtonText: 3. 下載插件
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+Hook Loaded App:com.klye.ime.latin
+#Hash: 1106756736
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb6410}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb6410}   class: class android.widget.Button  id: 2131230730
+Widget id: com.klye.ime.latin:id/enable3
+#WidgetID: com.klye.ime.latin:id/enable3
+#ButtonText: 3. 下載插件
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+Hook Loaded App:com.klye.ime.latin
+#Hash: 1106760416
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb7270}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb7270}   class: class android.widget.Button  id: 2131230730
+Widget id: com.klye.ime.latin:id/enable3
+#WidgetID: com.klye.ime.latin:id/enable3
+#ButtonText: 3. 下載插件
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+Hook Loaded App:com.klye.ime.latin
+#Hash: 1106764096
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb80d0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb80d0}   class: class android.widget.Button  id: 2131230730
+Widget id: com.klye.ime.latin:id/enable3
+#WidgetID: com.klye.ime.latin:id/enable3
+#ButtonText: 3. 下載插件
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+Hook Loaded App:com.klye.ime.latin
+#Hash: 1106767776
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb8f30}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb8f30}   class: class android.widget.Button  id: 2131230730
+Widget id: com.klye.ime.latin:id/enable3
+#WidgetID: com.klye.ime.latin:id/enable3
+#ButtonText: 3. 下載插件
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+Hook Loaded App:com.klye.ime.latin
+#Hash: 1106771456
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb9d90}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb9d90}   class: class android.widget.Button  id: 2131230730
+Widget id: com.klye.ime.latin:id/enable3
+#WidgetID: com.klye.ime.latin:id/enable3
+#ButtonText: 3. 下載插件
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+Hook Loaded App:com.klye.ime.latin
+#Hash: 1106775136
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fbabf0}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fbabf0}   class: class android.widget.Button  id: 2131230730
+Widget id: com.klye.ime.latin:id/enable3
+#WidgetID: com.klye.ime.latin:id/enable3
+#ButtonText: 3. 下載插件
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+Hook Loaded App:com.klye.ime.latin
+#Hash: 1106782776
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fbc9c8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fbc9c8}   class: class android.widget.Button  id: 2131230730
+Widget id: com.klye.ime.latin:id/enable3
+#WidgetID: com.klye.ime.latin:id/enable3
+#ButtonText: 3. 下載插件
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+Hook Loaded App:com.klye.ime.latin
+#Hash: 1106786680
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fbd908}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fbd908}   class: class android.widget.Button  id: 2131230730
+Widget id: com.klye.ime.latin:id/enable3
+#WidgetID: com.klye.ime.latin:id/enable3
+#ButtonText: 3. 下載插件
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+Hook Loaded App:com.klye.ime.latin
+#Hash: 1106790360
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fbe768}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fbe768}   class: class android.widget.Button  id: 2131230730
+Widget id: com.klye.ime.latin:id/enable3
+#WidgetID: com.klye.ime.latin:id/enable3
+#ButtonText: 3. 下載插件
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+Hook Loaded App:com.klye.ime.latin
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.klye.ime.latin.M
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+Hook Loaded App:com.klye.ime.latin
+#Hash: 1106806024
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fc2498}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fc2498}   class: class android.widget.Button  id: 2131230730
+Widget id: com.klye.ime.latin:id/enable3
+#WidgetID: com.klye.ime.latin:id/enable3
+#ButtonText: 3. 下載插件
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+Hook Loaded App:com.klye.ime.latin
+#Hash: 1106809704
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fc32f8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fc32f8}   class: class android.widget.Button  id: 2131230730
+Widget id: com.klye.ime.latin:id/enable3
+#WidgetID: com.klye.ime.latin:id/enable3
+#ButtonText: 3. 下載插件
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+Hook Loaded App:com.klye.ime.latin
+#Hash: 1106813384
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fc4158}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fc4158}   class: class android.widget.Button  id: 2131230730
+Widget id: com.klye.ime.latin:id/enable3
+#WidgetID: com.klye.ime.latin:id/enable3
+#ButtonText: 3. 下載插件
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+Hook Loaded App:com.klye.ime.latin
+#Hash: 1106817064
+#SourceActivity: com.klye.ime.latin.M
+Source Activity com.klye.ime.latin.M
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fc4fb8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fc4fb8}   class: class android.widget.Button  id: 2131230730
+Widget id: com.klye.ime.latin:id/enable3
+#WidgetID: com.klye.ime.latin:id/enable3
+#ButtonText: 3. 下載插件
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.klye.ime.latin.M
+#Hash: BACK
+#Event: BACK
+#SourceActivity: org.cyanogenmod.trebuchet.CustomHomeLauncher
+Hook Loaded App:com.klye.ime.latin

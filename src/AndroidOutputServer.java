@@ -41,7 +41,7 @@ public class AndroidOutputServer{
 		path = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/PaladinScreenshots/" + currentAPK + '/';
 		CheckEmptyFolder(path);
 	}
-	public static ViewTree tree;
+	public static ViewTree tree = null;
 	public static final String adbPath = "/usr/local/bin/";
 	public static int initXML = 0;
 	// manuallyCheck = true, output xpath for manually checking, otherwise no extra output
@@ -285,8 +285,10 @@ public class AndroidOutputServer{
 				SaveViewTree(sock);
 				SaveScreenShot(sock);
 			} else if (line.contains("ClickPosition: ")) {
-				String pos = line.split("ClickPosition: ")[1];
-				findPosition(pos, sock);
+				if (tree!=null){
+					String pos = line.split("ClickPosition: ")[1];
+					findPosition(pos, sock);
+				}
 			} else {
 				OutputToFile(byteArray, sock);
 			}			

@@ -1,0 +1,178 @@
+Instrumentation detected, disabling framework for com.github.uiautomator
+Hook Loaded App:com.schimera.webdavnavlite
+#Hash: 1107957744
+#SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Source Activity com.schimera.webdavnavlite.WebDAVNav
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cc41e0}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cc41e0}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: MENU
+#Event: MENU
+#Hash: 1103813848
+#SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Source Activity com.schimera.webdavnavlite.WebDAVNav
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cb1628}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cb1628}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: com.schimera.webdavnavlite:id/addServer
+#MenuItemID: com.schimera.webdavnavlite:id/addServer
+#MenuItemTitle: 添加服务器
+#Hash: 1103317960
+#SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Source Activity com.schimera.webdavnavlite.Activities.ServerEdit
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c38628}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c38628}   class: class android.widget.Button  id: 2131361828
+Widget id: com.schimera.webdavnavlite:id/cancelButton
+#WidgetID: com.schimera.webdavnavlite:id/cancelButton
+#ButtonText: 取消
+#Hash: MENU
+#Event: MENU
+#Hash: 1103813848
+#SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Source Activity com.schimera.webdavnavlite.Activities.ServerEdit
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c53d00}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c53d00}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: com.schimera.webdavnavlite:id/addServer
+#MenuItemID: com.schimera.webdavnavlite:id/addServer
+#MenuItemTitle: 添加服务器
+#Hash: 1103541280
+#SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Source Activity com.schimera.webdavnavlite.Activities.ServerEdit
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c70730}
+#Class: class android.widget.EditText
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c70730}   class: class android.widget.EditText  id: 2131361795
+Widget id: com.schimera.webdavnavlite:id/passwordField
+#WidgetID: com.schimera.webdavnavlite:id/passwordField
+#Hash: 1103517976
+#SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Source Activity com.schimera.webdavnavlite.Activities.ServerEdit
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c70730}
+#Class: class android.widget.EditText
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c70730}   class: class android.widget.EditText  id: 2131361825
+Widget id: com.schimera.webdavnavlite:id/nameField
+#WidgetID: com.schimera.webdavnavlite:id/nameField
+#Hash: 1103525744
+#SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Source Activity com.schimera.webdavnavlite.Activities.ServerEdit
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c70730}
+#Class: class android.widget.EditText
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c70730}   class: class android.widget.EditText  id: 2131361826
+Widget id: com.schimera.webdavnavlite:id/urlField
+#WidgetID: com.schimera.webdavnavlite:id/urlField
+#Hash: MENU
+#Event: MENU
+#Hash: 1103533512
+#SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Source Activity com.schimera.webdavnavlite.Activities.ServerEdit
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c70730}
+#Class: class android.widget.EditText
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c70730}   class: class android.widget.EditText  id: 2131361794
+Widget id: com.schimera.webdavnavlite:id/usernameField
+#WidgetID: com.schimera.webdavnavlite:id/usernameField
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+#Hash: 1103551840
+#SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Source Activity com.schimera.webdavnavlite.Activities.ServerEdit
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c70730}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c70730}   class: class android.widget.Button  id: 2131361828
+Widget id: com.schimera.webdavnavlite:id/cancelButton
+#WidgetID: com.schimera.webdavnavlite:id/cancelButton
+#ButtonText: 取消
+#Hash: MENU
+#Event: MENU
+#Hash: 1103821312
+#SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Source Activity com.schimera.webdavnavlite.WebDAVNav
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424030f8}
+#Class: class com.android.internal.view.menu.IconMenuItemView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {424030f8}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
+Widget id: android:id/title
+#WidgetID: android:id/title
+MenuItemID: com.schimera.webdavnavlite:id/showInfo
+#MenuItemID: com.schimera.webdavnavlite:id/showInfo
+#MenuItemTitle: Info
+#Hash: MENU
+#Event: MENU
+#Hash: 1103641880
+#SourceActivity: com.schimera.webdavnavlite.Activities.InfoActivity
+Source Activity com.schimera.webdavnavlite.Activities.InfoActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cd49e8}
+#Class: class android.widget.TextView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cd49e8}   class: class android.widget.TextView  id: 2131361805
+Widget id: com.schimera.webdavnavlite:id/appLink
+#WidgetID: com.schimera.webdavnavlite:id/appLink
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.android.browser.BrowserActivity
+#Hash: 1110965120
+#SourceActivity: com.schimera.webdavnavlite.Activities.InfoActivity
+Source Activity com.schimera.webdavnavlite.Activities.InfoActivity
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cd49e8}
+#Class: class android.widget.Button
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cd49e8}   class: class android.widget.Button  id: 2131361808
+Widget id: com.schimera.webdavnavlite:id/reviewAppButton
+#WidgetID: com.schimera.webdavnavlite:id/reviewAppButton
+#ButtonText: Review
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.google.android.finsky.activities.MainActivity
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.schimera.webdavnavlite.Activities.InfoActivity
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: MENU
+#Event: MENU
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+#Hash: 1110900232
+#SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Source Activity com.schimera.webdavnavlite.WebDAVNav
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cc41e0}
+#Class: class android.widget.ImageButton
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cc41e0}   class: class android.widget.ImageButton  id: 2131361813
+Widget id: com.schimera.webdavnavlite:id/tool_settings
+#WidgetID: com.schimera.webdavnavlite:id/tool_settings
+#Hash: MENU
+#Event: MENU
+#Hash: 1103706160
+#SourceActivity: com.schimera.webdavnavlite.Activities.SettingsEdit
+Source Activity com.schimera.webdavnavlite.Activities.SettingsEdit
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423ef1e8}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423ef1e8}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103706160
+#SourceActivity: com.schimera.webdavnavlite.Activities.SettingsEdit
+Source Activity com.schimera.webdavnavlite.Activities.SettingsEdit
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423ef1e8}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423ef1e8}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: 1103706160
+#SourceActivity: com.schimera.webdavnavlite.Activities.SettingsEdit
+Source Activity com.schimera.webdavnavlite.Activities.SettingsEdit
+#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423ef1e8}
+#Class: class android.widget.ListView
+There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {423ef1e8}   class: class android.widget.ListView  id: 16908298
+Widget id: android:id/list
+#WidgetID: android:id/list
+#Hash: BACK
+#Event: BACK
+#SourceActivity: com.schimera.webdavnavlite.Activities.SettingsEdit
