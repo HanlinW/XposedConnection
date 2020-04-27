@@ -1,125 +1,84 @@
-Instrumentation detected, disabling framework for com.github.uiautomator
-Hook Loaded App:com.secuso.torchlight2
-#Hash: 1102913760
-#SourceActivity: com.secuso.torchlight2.MainActivity
-Source Activity com.secuso.torchlight2.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c0a6c8}
-#Class: class android.support.v7.internal.widget.TintCheckBox
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c0a6c8}   class: class android.support.v7.internal.widget.TintCheckBox  id: 2131492935
-Widget id: com.secuso.torchlight2:id/cbPause
-#WidgetID: com.secuso.torchlight2:id/cbPause
-#ButtonText: turn off on app minimize or standby
-#Hash: 1102622456
-#SourceActivity: com.secuso.torchlight2.MainActivity
-Source Activity com.secuso.torchlight2.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c0a6c8}
-#Class: class android.support.v7.widget.Toolbar
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c0a6c8}   class: class android.support.v7.widget.Toolbar  id: 2131492913
-Widget id: com.secuso.torchlight2:id/action_bar
-#WidgetID: com.secuso.torchlight2:id/action_bar
-#Hash: 1103210888
-#SourceActivity: com.secuso.torchlight2.MainActivity
-Source Activity com.secuso.torchlight2.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c0a6c8}
-#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c0a6c8}   class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton  id: -1
-WidgetID: NONE
-#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-#Hash: MENU
-#Event: MENU
-#Hash: 1103210888
-#SourceActivity: com.secuso.torchlight2.MainActivity
-Source Activity com.secuso.torchlight2.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c0a6c8}
-#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c0a6c8}   class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton  id: -1
-WidgetID: NONE
-#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-#Hash: 1106510312
-#SourceActivity: com.secuso.torchlight2.MainActivity
-Source Activity com.secuso.torchlight2.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f44140}
-#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f44140}   class: class android.support.v7.widget.ListPopupWindow$DropDownListView  id: -1
-WidgetID: NONE
-#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
-#Hash: MENU
-#Event: MENU
-#Hash: 1102740856
-#SourceActivity: com.secuso.torchlight2.AboutActivity
-Source Activity com.secuso.torchlight2.AboutActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c37b90}
-#Class: class android.widget.TextView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c37b90}   class: class android.widget.TextView  id: -1
-WidgetID: NONE
-#Class: class android.widget.TextView
-#Hash: BACK
-#Event: BACK
-#SourceActivity: com.android.browser.BrowserActivity
-#Hash: 1106608600
-#SourceActivity: com.secuso.torchlight2.AboutActivity
-Source Activity com.secuso.torchlight2.AboutActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c37b90}
-#Class: class android.support.v7.widget.Toolbar
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c37b90}   class: class android.support.v7.widget.Toolbar  id: 2131492913
-Widget id: com.secuso.torchlight2:id/action_bar
-#WidgetID: com.secuso.torchlight2:id/action_bar
-#Hash: 1106611072
-#SourceActivity: com.secuso.torchlight2.AboutActivity
-Source Activity com.secuso.torchlight2.AboutActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c37b90}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c37b90}   class: class android.widget.ImageButton  id: -1
-WidgetID: NONE
-#Class: class android.widget.ImageButton
-#Hash: 1103164328
-#SourceActivity: com.secuso.torchlight2.MainActivity
-Source Activity com.secuso.torchlight2.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b83000}
-#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b83000}   class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton  id: -1
-WidgetID: NONE
-#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-#Hash: 1102706168
-#SourceActivity: com.secuso.torchlight2.MainActivity
-Source Activity com.secuso.torchlight2.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c82a58}
-#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c82a58}   class: class android.support.v7.widget.ListPopupWindow$DropDownListView  id: -1
-WidgetID: NONE
-#Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
-#Hash: BACK
-#Event: BACK
-#SourceActivity: com.secuso.torchlight2.AboutActivity
-#Hash: 1103164328
-#SourceActivity: com.secuso.torchlight2.MainActivity
-Source Activity com.secuso.torchlight2.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b83000}
-#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b83000}   class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton  id: -1
-WidgetID: NONE
-#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-#Hash: BACK
-#Event: BACK
-#SourceActivity: com.secuso.torchlight2.MainActivity
-#Hash: MENU
-#Event: MENU
-#Hash: BACK
-#Event: BACK
-#SourceActivity: com.secuso.torchlight2.MainActivity
-#Hash: 1103240208
-#SourceActivity: com.secuso.torchlight2.MainActivity
-Source Activity com.secuso.torchlight2.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b83000}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b83000}   class: class android.widget.ImageButton  id: 2131492933
-Widget id: com.secuso.torchlight2:id/btnSwitch
-#WidgetID: com.secuso.torchlight2:id/btnSwitch
-#Hash: 1102530440
-#SourceActivity: com.secuso.torchlight2.MainActivity
-Source Activity com.secuso.torchlight2.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b83000}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b83000}   class: class android.widget.ImageButton  id: -1
-WidgetID: NONE
-#Class: class android.widget.ImageButton
+Hash: 1102913760
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c0a6c8}
+Class: class android.support.v7.internal.widget.TintCheckBox
+WidgetID: com.secuso.torchlight2:id/cbPause
+ButtonText: turn off on app minimize or standby
+Hash: 1102622456
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c0a6c8}
+Class: class android.support.v7.widget.Toolbar
+WidgetID: com.secuso.torchlight2:id/action_bar
+Hash: 1103210888
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c0a6c8}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Hash: MENU
+Event: MENU
+Hash: 1103210888
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c0a6c8}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Hash: 1106510312
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f44140}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+Hash: MENU
+Event: MENU
+Hash: 1102740856
+SourceActivity: com.secuso.torchlight2.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c37b90}
+Class: class android.widget.TextView
+Class: class android.widget.TextView
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.browser.BrowserActivity
+Hash: 1106608600
+SourceActivity: com.secuso.torchlight2.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c37b90}
+Class: class android.support.v7.widget.Toolbar
+WidgetID: com.secuso.torchlight2:id/action_bar
+Hash: 1106611072
+SourceActivity: com.secuso.torchlight2.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c37b90}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 1103164328
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b83000}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Hash: 1102706168
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c82a58}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+Hash: BACK
+Event: BACK
+SourceActivity: com.secuso.torchlight2.AboutActivity
+Hash: 1103164328
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b83000}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.secuso.torchlight2.MainActivity
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.secuso.torchlight2.MainActivity
+Hash: 1103240208
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b83000}
+Class: class android.widget.ImageButton
+WidgetID: com.secuso.torchlight2:id/btnSwitch
+Hash: 1102530440
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b83000}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton

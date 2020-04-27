@@ -1,252 +1,162 @@
-Instrumentation detected, disabling framework for com.github.uiautomator
-Hook Loaded App:com.kth.PuddingCamera
-Hook Loaded App:com.kth.PuddingCamera
-#Hash: 1103833256
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class com.kth.view.CameraImageView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class com.kth.view.CameraImageView  id: 2131296296
-Widget id: com.kth.PuddingCamera:id/cameraImage
-#WidgetID: com.kth.PuddingCamera:id/cameraImage
-#Hash: 1103516232
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class android.widget.FrameLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class android.widget.FrameLayout  id: 2131296293
-Widget id: com.kth.PuddingCamera:id/setting_container
-#WidgetID: com.kth.PuddingCamera:id/setting_container
-#Hash: MENU
-#Event: MENU
-#Hash: 1103516232
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class android.widget.FrameLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class android.widget.FrameLayout  id: 2131296293
-Widget id: com.kth.PuddingCamera:id/setting_container
-#WidgetID: com.kth.PuddingCamera:id/setting_container
-#Hash: 1110810456
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class com.kth.view.DrawItemView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class com.kth.view.DrawItemView  id: -1
-WidgetID: NONE
-#Class: class com.kth.view.DrawItemView
-#Hash: 1103516232
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class android.widget.FrameLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class android.widget.FrameLayout  id: 2131296293
-Widget id: com.kth.PuddingCamera:id/setting_container
-#WidgetID: com.kth.PuddingCamera:id/setting_container
-#Hash: 1103833256
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class com.kth.view.CameraImageView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class com.kth.view.CameraImageView  id: 2131296296
-Widget id: com.kth.PuddingCamera:id/cameraImage
-#WidgetID: com.kth.PuddingCamera:id/cameraImage
-#Hash: 1103833256
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class com.kth.view.CameraImageView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class com.kth.view.CameraImageView  id: 2131296296
-Widget id: com.kth.PuddingCamera:id/cameraImage
-#WidgetID: com.kth.PuddingCamera:id/cameraImage
-#Hash: 1103516232
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class android.widget.FrameLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class android.widget.FrameLayout  id: 2131296293
-Widget id: com.kth.PuddingCamera:id/setting_container
-#WidgetID: com.kth.PuddingCamera:id/setting_container
-#Hash: 1103833256
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class com.kth.view.CameraImageView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class com.kth.view.CameraImageView  id: 2131296296
-Widget id: com.kth.PuddingCamera:id/cameraImage
-#WidgetID: com.kth.PuddingCamera:id/cameraImage
-#Hash: 1103833256
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class com.kth.view.CameraImageView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class com.kth.view.CameraImageView  id: 2131296296
-Widget id: com.kth.PuddingCamera:id/cameraImage
-#WidgetID: com.kth.PuddingCamera:id/cameraImage
-#Hash: 1103516232
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class android.widget.FrameLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class android.widget.FrameLayout  id: 2131296293
-Widget id: com.kth.PuddingCamera:id/setting_container
-#WidgetID: com.kth.PuddingCamera:id/setting_container
-#Hash: 1103516232
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class android.widget.FrameLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class android.widget.FrameLayout  id: 2131296293
-Widget id: com.kth.PuddingCamera:id/setting_container
-#WidgetID: com.kth.PuddingCamera:id/setting_container
-#Hash: 1110772872
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class com.kth.view.DrawItemView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class com.kth.view.DrawItemView  id: -1
-WidgetID: NONE
-#Class: class com.kth.view.DrawItemView
-#Hash: 1103516232
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class android.widget.FrameLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class android.widget.FrameLayout  id: 2131296293
-Widget id: com.kth.PuddingCamera:id/setting_container
-#WidgetID: com.kth.PuddingCamera:id/setting_container
-#Hash: 1103516232
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class android.widget.FrameLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class android.widget.FrameLayout  id: 2131296293
-Widget id: com.kth.PuddingCamera:id/setting_container
-#WidgetID: com.kth.PuddingCamera:id/setting_container
-#Hash: 1110641960
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class com.kth.view.DrawItemView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class com.kth.view.DrawItemView  id: -1
-WidgetID: NONE
-#Class: class com.kth.view.DrawItemView
-#Hash: 1103516232
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class android.widget.FrameLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class android.widget.FrameLayout  id: 2131296293
-Widget id: com.kth.PuddingCamera:id/setting_container
-#WidgetID: com.kth.PuddingCamera:id/setting_container
-#Hash: 1103516232
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class android.widget.FrameLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class android.widget.FrameLayout  id: 2131296293
-Widget id: com.kth.PuddingCamera:id/setting_container
-#WidgetID: com.kth.PuddingCamera:id/setting_container
-#Hash: 1103816672
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class com.kth.view.DrawItemView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class com.kth.view.DrawItemView  id: -1
-WidgetID: NONE
-#Class: class com.kth.view.DrawItemView
-#Hash: 1103516232
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class android.widget.FrameLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class android.widget.FrameLayout  id: 2131296293
-Widget id: com.kth.PuddingCamera:id/setting_container
-#WidgetID: com.kth.PuddingCamera:id/setting_container
-#Hash: 1103516232
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class android.widget.FrameLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class android.widget.FrameLayout  id: 2131296293
-Widget id: com.kth.PuddingCamera:id/setting_container
-#WidgetID: com.kth.PuddingCamera:id/setting_container
-#Hash: 1103516232
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class android.widget.FrameLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class android.widget.FrameLayout  id: 2131296293
-Widget id: com.kth.PuddingCamera:id/setting_container
-#WidgetID: com.kth.PuddingCamera:id/setting_container
-#Hash: 1103516232
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class android.widget.FrameLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class android.widget.FrameLayout  id: 2131296293
-Widget id: com.kth.PuddingCamera:id/setting_container
-#WidgetID: com.kth.PuddingCamera:id/setting_container
-#Hash: 1103516232
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class android.widget.FrameLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class android.widget.FrameLayout  id: 2131296293
-Widget id: com.kth.PuddingCamera:id/setting_container
-#WidgetID: com.kth.PuddingCamera:id/setting_container
-#Hash: BACK
-#Event: BACK
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-#Hash: 1110499232
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class android.widget.ImageButton  id: 2131296285
-Widget id: com.kth.PuddingCamera:id/btnFlash
-#WidgetID: com.kth.PuddingCamera:id/btnFlash
-#Hash: 1110387896
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class android.widget.ImageButton  id: 2131296286
-Widget id: com.kth.PuddingCamera:id/btnCameraCha
-#WidgetID: com.kth.PuddingCamera:id/btnCameraCha
-#Hash: 1103618608
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class com.kth.view.ExposureDial
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class com.kth.view.ExposureDial  id: 2131296291
-Widget id: com.kth.PuddingCamera:id/dial
-#WidgetID: com.kth.PuddingCamera:id/dial
-#Hash: 1103833256
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class com.kth.view.CameraImageView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class com.kth.view.CameraImageView  id: 2131296296
-Widget id: com.kth.PuddingCamera:id/cameraImage
-#WidgetID: com.kth.PuddingCamera:id/cameraImage
-#Hash: BACK
-#Event: BACK
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-#Hash: MENU
-#Event: MENU
-#Hash: MENU
-#Event: MENU
-#Hash: MENU
-#Event: MENU
-#Hash: BACK
-#Event: BACK
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-#Hash: 1103618608
-#SourceActivity: com.kth.PuddingCamera.CameraActivity
-Source Activity com.kth.PuddingCamera.CameraActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
-#Class: class com.kth.view.ExposureDial
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}   class: class com.kth.view.ExposureDial  id: 2131296291
-Widget id: com.kth.PuddingCamera:id/dial
-#WidgetID: com.kth.PuddingCamera:id/dial
+Hash: 1103833256
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class com.kth.view.CameraImageView
+WidgetID: com.kth.PuddingCamera:id/cameraImage
+Hash: 1103516232
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class android.widget.FrameLayout
+WidgetID: com.kth.PuddingCamera:id/setting_container
+Hash: MENU
+Event: MENU
+Hash: 1103516232
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class android.widget.FrameLayout
+WidgetID: com.kth.PuddingCamera:id/setting_container
+Hash: 1110810456
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class com.kth.view.DrawItemView
+Class: class com.kth.view.DrawItemView
+Hash: 1103516232
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class android.widget.FrameLayout
+WidgetID: com.kth.PuddingCamera:id/setting_container
+Hash: 1103833256
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class com.kth.view.CameraImageView
+WidgetID: com.kth.PuddingCamera:id/cameraImage
+Hash: 1103833256
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class com.kth.view.CameraImageView
+WidgetID: com.kth.PuddingCamera:id/cameraImage
+Hash: 1103516232
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class android.widget.FrameLayout
+WidgetID: com.kth.PuddingCamera:id/setting_container
+Hash: 1103833256
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class com.kth.view.CameraImageView
+WidgetID: com.kth.PuddingCamera:id/cameraImage
+Hash: 1103833256
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class com.kth.view.CameraImageView
+WidgetID: com.kth.PuddingCamera:id/cameraImage
+Hash: 1103516232
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class android.widget.FrameLayout
+WidgetID: com.kth.PuddingCamera:id/setting_container
+Hash: 1103516232
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class android.widget.FrameLayout
+WidgetID: com.kth.PuddingCamera:id/setting_container
+Hash: 1110772872
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class com.kth.view.DrawItemView
+Class: class com.kth.view.DrawItemView
+Hash: 1103516232
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class android.widget.FrameLayout
+WidgetID: com.kth.PuddingCamera:id/setting_container
+Hash: 1103516232
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class android.widget.FrameLayout
+WidgetID: com.kth.PuddingCamera:id/setting_container
+Hash: 1110641960
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class com.kth.view.DrawItemView
+Class: class com.kth.view.DrawItemView
+Hash: 1103516232
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class android.widget.FrameLayout
+WidgetID: com.kth.PuddingCamera:id/setting_container
+Hash: 1103516232
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class android.widget.FrameLayout
+WidgetID: com.kth.PuddingCamera:id/setting_container
+Hash: 1103816672
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class com.kth.view.DrawItemView
+Class: class com.kth.view.DrawItemView
+Hash: 1103516232
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class android.widget.FrameLayout
+WidgetID: com.kth.PuddingCamera:id/setting_container
+Hash: 1103516232
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class android.widget.FrameLayout
+WidgetID: com.kth.PuddingCamera:id/setting_container
+Hash: 1103516232
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class android.widget.FrameLayout
+WidgetID: com.kth.PuddingCamera:id/setting_container
+Hash: 1103516232
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class android.widget.FrameLayout
+WidgetID: com.kth.PuddingCamera:id/setting_container
+Hash: 1103516232
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class android.widget.FrameLayout
+WidgetID: com.kth.PuddingCamera:id/setting_container
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Hash: 1110499232
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnFlash
+Hash: 1110387896
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class android.widget.ImageButton
+WidgetID: com.kth.PuddingCamera:id/btnCameraCha
+Hash: 1103618608
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial
+Hash: 1103833256
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class com.kth.view.CameraImageView
+WidgetID: com.kth.PuddingCamera:id/cameraImage
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Hash: 1103618608
+SourceActivity: com.kth.PuddingCamera.CameraActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cae110}
+Class: class com.kth.view.ExposureDial
+WidgetID: com.kth.PuddingCamera:id/dial

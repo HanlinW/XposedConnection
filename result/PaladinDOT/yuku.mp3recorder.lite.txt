@@ -1,630 +1,447 @@
-Instrumentation detected, disabling framework for com.github.uiautomator
-Hook Loaded App:yuku.mp3recorder.lite
-#Hash: 1109047720
-#SourceActivity: yuku.perekammp3.KalibrasiActivity
-Source Activity yuku.perekammp3.KalibrasiActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e9cc0}
-#Class: class android.widget.Button
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e9cc0}   class: class android.widget.Button  id: 2131492870
-Widget id: yuku.mp3recorder.lite:id/bUlang
-#WidgetID: yuku.mp3recorder.lite:id/bUlang
-#ButtonText: Re-run
-#Hash: 1108727368
-#SourceActivity: yuku.perekammp3.KalibrasiActivity
-Source Activity yuku.perekammp3.KalibrasiActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e9cc0}
-#Class: class android.widget.EditText
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e9cc0}   class: class android.widget.EditText  id: 2131492868
-Widget id: yuku.mp3recorder.lite:id/tLog
-#WidgetID: yuku.mp3recorder.lite:id/tLog
-#Hash: 1108500232
-#SourceActivity: yuku.perekammp3.KalibrasiActivity
-Source Activity yuku.perekammp3.KalibrasiActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e9cc0}
-#Class: class android.widget.LinearLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e9cc0}   class: class android.widget.LinearLayout  id: -1
-WidgetID: NONE
-#Class: class android.widget.LinearLayout
-#Hash: 1109208032
-#SourceActivity: yuku.perekammp3.KalibrasiActivity
-Source Activity yuku.perekammp3.KalibrasiActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e9cc0}
-#Class: class android.widget.Button
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e9cc0}   class: class android.widget.Button  id: 2131492871
-Widget id: yuku.mp3recorder.lite:id/bLanjut
-#WidgetID: yuku.mp3recorder.lite:id/bLanjut
-#ButtonText: Continue
-#Hash: 1110166072
-#SourceActivity: yuku.perekammp3.KalibrasiActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: Information
-#Hash: MENU
-#Event: MENU
-#Hash: 1110224904
-#SourceActivity: yuku.perekammp3.RekamActivity
-Source Activity yuku.perekammp3.RekamActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41df67a0}
-#Class: class android.widget.ScrollView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41df67a0}   class: class android.widget.ScrollView  id: 16908919
-Widget id: android:id/scrollView
-#WidgetID: android:id/scrollView
-#Hash: 1105463576
-#SourceActivity: yuku.perekammp3.RekamActivity
-Source Activity yuku.perekammp3.RekamActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41df67a0}
-#Class: class android.widget.Button
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41df67a0}   class: class android.widget.Button  id: 16908314
-Widget id: android:id/button2
-#WidgetID: android:id/button2
-#ButtonText: Later
-#Hash: 1107645936
-#SourceActivity: yuku.perekammp3.RekamActivity
-Source Activity yuku.perekammp3.RekamActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1188}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1188}   class: class android.widget.ImageButton  id: 2131492880
-Widget id: yuku.mp3recorder.lite:id/bStop
-#WidgetID: yuku.mp3recorder.lite:id/bStop
-#Hash: 1105559512
-#SourceActivity: yuku.perekammp3.RekamActivity
-Source Activity yuku.perekammp3.RekamActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1188}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1188}   class: class android.widget.ImageButton  id: 2131492872
-Widget id: yuku.mp3recorder.lite:id/bList
-#WidgetID: yuku.mp3recorder.lite:id/bList
-#Hash: 1105139856
-#SourceActivity: yuku.perekammp3.DaftarActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: Information
-#Hash: 1105233336
-#SourceActivity: yuku.perekammp3.DaftarActivity
-Source Activity yuku.perekammp3.DaftarActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42292e00}
-#Class: class android.widget.CheckBox
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42292e00}   class: class android.widget.CheckBox  id: 2131492891
-Widget id: yuku.mp3recorder.lite:id/cJanganUlang
-#WidgetID: yuku.mp3recorder.lite:id/cJanganUlang
-#ButtonText: Do not show this message again
-#Hash: 1109768416
-#SourceActivity: yuku.perekammp3.DaftarActivity
-Source Activity yuku.perekammp3.DaftarActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42292e00}
-#Class: class android.widget.Button
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42292e00}   class: class android.widget.Button  id: 16908313
-Widget id: android:id/button1
-#WidgetID: android:id/button1
-#ButtonText: OK
-#Hash: 1105173040
-#SourceActivity: yuku.perekammp3.DaftarActivity
-Source Activity yuku.perekammp3.DaftarActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422a1a00}
-#Class: class android.widget.SeekBar
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422a1a00}   class: class android.widget.SeekBar  id: 2131492866
-Widget id: yuku.mp3recorder.lite:id/geseran
-#WidgetID: yuku.mp3recorder.lite:id/geseran
-#Hash: 1109689016
-#SourceActivity: yuku.perekammp3.DaftarActivity
-Source Activity yuku.perekammp3.DaftarActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422a1a00}
-#Class: class android.widget.LinearLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422a1a00}   class: class android.widget.LinearLayout  id: -1
-WidgetID: NONE
-#Class: class android.widget.LinearLayout
-#Hash: MENU
-#Event: MENU
-#Hash: 1109689016
-#SourceActivity: yuku.perekammp3.DaftarActivity
-Source Activity yuku.perekammp3.DaftarActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422a1a00}
-#Class: class android.widget.LinearLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422a1a00}   class: class android.widget.LinearLayout  id: -1
-WidgetID: NONE
-#Class: class android.widget.LinearLayout
-#Hash: BACK
-#Event: BACK
-#SourceActivity: yuku.perekammp3.DaftarActivity
-#Hash: 1105559512
-#SourceActivity: yuku.perekammp3.RekamActivity
-Source Activity yuku.perekammp3.RekamActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1188}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1188}   class: class android.widget.ImageButton  id: 2131492872
-Widget id: yuku.mp3recorder.lite:id/bList
-#WidgetID: yuku.mp3recorder.lite:id/bList
-#Hash: BACK
-#Event: BACK
-#SourceActivity: yuku.perekammp3.DaftarActivity
-#Hash: 1107078320
-#SourceActivity: yuku.perekammp3.RekamActivity
-Source Activity yuku.perekammp3.RekamActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1188}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1188}   class: class android.widget.ImageButton  id: 2131492879
-Widget id: yuku.mp3recorder.lite:id/bRekam
-#WidgetID: yuku.mp3recorder.lite:id/bRekam
-#Hash: 1105820592
-#SourceActivity: yuku.perekammp3.RekamActivity
-Source Activity yuku.perekammp3.RekamActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1188}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1188}   class: class android.widget.ImageButton  id: 2131492873
-Widget id: yuku.mp3recorder.lite:id/bPengaturan
-#WidgetID: yuku.mp3recorder.lite:id/bPengaturan
-#Hash: 1109564872
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1103673016
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: Minimum disk space
-#Hash: 1103675176
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c95c90}
-#Class: class com.android.internal.app.AlertController$RecycleListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c95c90}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
-Widget id: android:id/select_dialog_listview
-#WidgetID: android:id/select_dialog_listview
-#Hash: 1109564872
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1104377472
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: Minimum disk space
-#Hash: 1104379224
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41d41a18}
-#Class: class com.android.internal.app.AlertController$RecycleListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41d41a18}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
-Widget id: android:id/select_dialog_listview
-#WidgetID: android:id/select_dialog_listview
-#Hash: 1109564872
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1104709016
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: Minimum disk space
-#Hash: MENU
-#Event: MENU
-#Hash: 1104710768
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41d92930}
-#Class: class com.android.internal.app.AlertController$RecycleListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41d92930}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
-Widget id: android:id/select_dialog_listview
-#WidgetID: android:id/select_dialog_listview
-#Hash: 1109564872
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1110138560
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: Minimum disk space
-#Hash: 1108271096
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41dd3f40}
-#Class: class com.android.internal.app.AlertController$RecycleListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41dd3f40}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
-Widget id: android:id/select_dialog_listview
-#WidgetID: android:id/select_dialog_listview
-#Hash: 1108271096
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41dd3f40}
-#Class: class com.android.internal.app.AlertController$RecycleListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41dd3f40}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
-Widget id: android:id/select_dialog_listview
-#WidgetID: android:id/select_dialog_listview
-#Hash: 1109564872
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1104982728
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: Minimum disk space
-#Hash: 1105370120
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421082a8}
-#Class: class android.widget.Button
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421082a8}   class: class android.widget.Button  id: 16908314
-Widget id: android:id/button2
-#WidgetID: android:id/button2
-#ButtonText: 取消
-#Hash: 1109564872
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1104627648
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: Minimum disk space
-#Hash: BACK
-#Event: BACK
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-#Hash: 1109564872
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1109564872
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1103436488
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: Bit rate
-#Hash: BACK
-#Event: BACK
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-#Hash: 1109564872
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1109564872
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1109564872
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1109564872
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1105556976
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
-#Class: class android.widget.LinearLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}   class: class android.widget.LinearLayout  id: -1
-WidgetID: NONE
-#Class: class android.widget.LinearLayout
-#Hash: 1109564872
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1109564872
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: MENU
-#Event: MENU
-#Hash: 1109564872
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1105279528
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: Gain (Experimental!)
-#Hash: MENU
-#Event: MENU
-#Hash: 1105310520
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e1c9a8}
-#Class: class android.widget.Button
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e1c9a8}   class: class android.widget.Button  id: 16908313
-Widget id: android:id/button1
-#WidgetID: android:id/button1
-#ButtonText: 确定
-#Hash: 1109564872
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1110476080
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: Gain (Experimental!)
-#Hash: 1110462016
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42310f50}
-#Class: class android.widget.SeekBar
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42310f50}   class: class android.widget.SeekBar  id: 2131492887
-Widget id: yuku.mp3recorder.lite:id/seekbar
-#WidgetID: yuku.mp3recorder.lite:id/seekbar
-#Hash: 1110501008
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42310f50}
-#Class: class android.widget.Button
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42310f50}   class: class android.widget.Button  id: 16908314
-Widget id: android:id/button2
-#WidgetID: android:id/button2
-#ButtonText: 取消
-#Hash: 1109564872
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1110711040
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: Gain (Experimental!)
-#Hash: BACK
-#Event: BACK
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-#Hash: 1109564872
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1109564872
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1105556976
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-Source Activity yuku.perekammp3.PengaturanActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
-#Class: class android.widget.LinearLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}   class: class android.widget.LinearLayout  id: -1
-WidgetID: NONE
-#Class: class android.widget.LinearLayout
-#Hash: BACK
-#Event: BACK
-#SourceActivity: yuku.perekammp3.PengaturanActivity
-#Hash: MENU
-#Event: MENU
-#Hash: 1104154896
-#SourceActivity: yuku.perekammp3.RekamActivity
-Source Activity yuku.perekammp3.RekamActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e48d08}
-#Class: class com.android.internal.view.menu.IconMenuItemView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e48d08}   class: class com.android.internal.view.menu.IconMenuItemView  id: 16908310
-Widget id: android:id/title
-#WidgetID: android:id/title
+Hash: 1109047720
+SourceActivity: yuku.perekammp3.KalibrasiActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e9cc0}
+Class: class android.widget.Button
+WidgetID: yuku.mp3recorder.lite:id/bUlang
+ButtonText: Re-run
+Hash: 1108727368
+SourceActivity: yuku.perekammp3.KalibrasiActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e9cc0}
+Class: class android.widget.EditText
+WidgetID: yuku.mp3recorder.lite:id/tLog
+Hash: 1108500232
+SourceActivity: yuku.perekammp3.KalibrasiActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e9cc0}
+Class: class android.widget.LinearLayout
+Class: class android.widget.LinearLayout
+Hash: 1109208032
+SourceActivity: yuku.perekammp3.KalibrasiActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e9cc0}
+Class: class android.widget.Button
+WidgetID: yuku.mp3recorder.lite:id/bLanjut
+ButtonText: Continue
+Hash: 1110166072
+SourceActivity: yuku.perekammp3.KalibrasiActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Information
+Hash: MENU
+Event: MENU
+Hash: 1110224904
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41df67a0}
+Class: class android.widget.ScrollView
+WidgetID: android:id/scrollView
+Hash: 1105463576
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41df67a0}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Later
+Hash: 1107645936
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1188}
+Class: class android.widget.ImageButton
+WidgetID: yuku.mp3recorder.lite:id/bStop
+Hash: 1105559512
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1188}
+Class: class android.widget.ImageButton
+WidgetID: yuku.mp3recorder.lite:id/bList
+Hash: 1105139856
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Information
+Hash: 1105233336
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42292e00}
+Class: class android.widget.CheckBox
+WidgetID: yuku.mp3recorder.lite:id/cJanganUlang
+ButtonText: Do not show this message again
+Hash: 1109768416
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42292e00}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 1105173040
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422a1a00}
+Class: class android.widget.SeekBar
+WidgetID: yuku.mp3recorder.lite:id/geseran
+Hash: 1109689016
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422a1a00}
+Class: class android.widget.LinearLayout
+Class: class android.widget.LinearLayout
+Hash: MENU
+Event: MENU
+Hash: 1109689016
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422a1a00}
+Class: class android.widget.LinearLayout
+Class: class android.widget.LinearLayout
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.DaftarActivity
+Hash: 1105559512
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1188}
+Class: class android.widget.ImageButton
+WidgetID: yuku.mp3recorder.lite:id/bList
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.DaftarActivity
+Hash: 1107078320
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1188}
+Class: class android.widget.ImageButton
+WidgetID: yuku.mp3recorder.lite:id/bRekam
+Hash: 1105820592
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420f1188}
+Class: class android.widget.ImageButton
+WidgetID: yuku.mp3recorder.lite:id/bPengaturan
+Hash: 1109564872
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1103673016
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Minimum disk space
+Hash: 1103675176
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c95c90}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 1109564872
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1104377472
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Minimum disk space
+Hash: 1104379224
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41d41a18}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 1109564872
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1104709016
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Minimum disk space
+Hash: MENU
+Event: MENU
+Hash: 1104710768
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41d92930}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 1109564872
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1110138560
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Minimum disk space
+Hash: 1108271096
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41dd3f40}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 1108271096
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41dd3f40}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 1109564872
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1104982728
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Minimum disk space
+Hash: 1105370120
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421082a8}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 1109564872
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1104627648
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Minimum disk space
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Hash: 1109564872
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1109564872
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1103436488
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Bit rate
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Hash: 1109564872
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1109564872
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1109564872
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1109564872
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1105556976
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
+Class: class android.widget.LinearLayout
+Class: class android.widget.LinearLayout
+Hash: 1109564872
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1109564872
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: MENU
+Event: MENU
+Hash: 1109564872
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1105279528
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Gain (Experimental!)
+Hash: MENU
+Event: MENU
+Hash: 1105310520
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e1c9a8}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 确定
+Hash: 1109564872
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1110476080
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Gain (Experimental!)
+Hash: 1110462016
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42310f50}
+Class: class android.widget.SeekBar
+WidgetID: yuku.mp3recorder.lite:id/seekbar
+Hash: 1110501008
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42310f50}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 1109564872
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1110711040
+SourceActivity: yuku.perekammp3.PengaturanActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Gain (Experimental!)
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Hash: 1109564872
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1109564872
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1105556976
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {422b2808}
+Class: class android.widget.LinearLayout
+Class: class android.widget.LinearLayout
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.PengaturanActivity
+Hash: MENU
+Event: MENU
+Hash: 1104154896
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e48d08}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
 MenuItemID: yuku.mp3recorder.lite:id/menuList
-#MenuItemID: yuku.mp3recorder.lite:id/menuList
-#MenuItemTitle: List
-#Hash: 1109041192
-#SourceActivity: yuku.perekammp3.DaftarActivity
-Source Activity yuku.perekammp3.DaftarActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e3da28}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e3da28}   class: class android.widget.ListView  id: 2131492864
-Widget id: yuku.mp3recorder.lite:id/lsRekaman
-#WidgetID: yuku.mp3recorder.lite:id/lsRekaman
-#Hash: 1108218080
-#SourceActivity: yuku.perekammp3.DaftarActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: 
-#Hash: MENU
-#Event: MENU
-#Hash: 1108271096
-#SourceActivity: yuku.perekammp3.DaftarActivity
-Source Activity yuku.perekammp3.DaftarActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421a9cb8}
-#Class: class com.android.internal.app.AlertController$RecycleListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421a9cb8}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
-Widget id: android:id/select_dialog_listview
-#WidgetID: android:id/select_dialog_listview
-#Hash: 1110007944
-#SourceActivity: yuku.perekammp3.DaftarActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: Rename
-#Hash: 1110053680
-#SourceActivity: yuku.perekammp3.DaftarActivity
-Source Activity yuku.perekammp3.DaftarActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c65078}
-#Class: class android.widget.Button
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c65078}   class: class android.widget.Button  id: 16908314
-Widget id: android:id/button2
-#WidgetID: android:id/button2
-#ButtonText: Cancel
-#Hash: 1109041192
-#SourceActivity: yuku.perekammp3.DaftarActivity
-Source Activity yuku.perekammp3.DaftarActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e3da28}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e3da28}   class: class android.widget.ListView  id: 2131492864
-Widget id: yuku.mp3recorder.lite:id/lsRekaman
-#WidgetID: yuku.mp3recorder.lite:id/lsRekaman
-#Hash: 1108218080
-#SourceActivity: yuku.perekammp3.DaftarActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: 
-#Hash: 1108271096
-#SourceActivity: yuku.perekammp3.DaftarActivity
-Source Activity yuku.perekammp3.DaftarActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41dfaec0}
-#Class: class com.android.internal.app.AlertController$RecycleListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41dfaec0}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
-Widget id: android:id/select_dialog_listview
-#WidgetID: android:id/select_dialog_listview
-#Hash: 1110062248
-#SourceActivity: yuku.perekammp3.DaftarActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: Rename
-#Hash: MENU
-#Event: MENU
-#Hash: 1108393824
-#SourceActivity: yuku.perekammp3.DaftarActivity
-Source Activity yuku.perekammp3.DaftarActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e32548}
-#Class: class android.widget.Button
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e32548}   class: class android.widget.Button  id: 16908313
-Widget id: android:id/button1
-#WidgetID: android:id/button1
-#ButtonText: OK
-#Hash: 1109041192
-#SourceActivity: yuku.perekammp3.DaftarActivity
-Source Activity yuku.perekammp3.DaftarActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e3da28}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e3da28}   class: class android.widget.ListView  id: 2131492864
-Widget id: yuku.mp3recorder.lite:id/lsRekaman
-#WidgetID: yuku.mp3recorder.lite:id/lsRekaman
-#Hash: 1108218080
-#SourceActivity: yuku.perekammp3.DaftarActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: 
-#Hash: 1108271096
-#SourceActivity: yuku.perekammp3.DaftarActivity
-Source Activity yuku.perekammp3.DaftarActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e3e7c8}
-#Class: class com.android.internal.app.AlertController$RecycleListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e3e7c8}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
-Widget id: android:id/select_dialog_listview
-#WidgetID: android:id/select_dialog_listview
-#Hash: 1108418472
-#SourceActivity: yuku.perekammp3.DaftarActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: Rename
-#Hash: 1109455464
-#SourceActivity: yuku.perekammp3.DaftarActivity
-Source Activity yuku.perekammp3.DaftarActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c6c470}
-#Class: class android.widget.EditText
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41c6c470}   class: class android.widget.EditText  id: 2131492890
-Widget id: yuku.mp3recorder.lite:id/tBaru
-#WidgetID: yuku.mp3recorder.lite:id/tBaru
-#Hash: BACK
-#Event: BACK
-#SourceActivity: yuku.perekammp3.DaftarActivity
-#Hash: BACK
-#Event: BACK
-#SourceActivity: yuku.perekammp3.DaftarActivity
-#Hash: 1109041192
-#SourceActivity: yuku.perekammp3.DaftarActivity
-Source Activity yuku.perekammp3.DaftarActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e3da28}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e3da28}   class: class android.widget.ListView  id: 2131492864
-Widget id: yuku.mp3recorder.lite:id/lsRekaman
-#WidgetID: yuku.mp3recorder.lite:id/lsRekaman
-#Hash: 1108218080
-#SourceActivity: yuku.perekammp3.DaftarActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: 
-#Hash: 1108271096
-#SourceActivity: yuku.perekammp3.DaftarActivity
-Source Activity yuku.perekammp3.DaftarActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42312c38}
-#Class: class com.android.internal.app.AlertController$RecycleListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42312c38}   class: class com.android.internal.app.AlertController$RecycleListView  id: 16909099
-Widget id: android:id/select_dialog_listview
-#WidgetID: android:id/select_dialog_listview
-#Hash: BACK
-#Event: BACK
-#SourceActivity: com.andrew.apollo.ui.activities.AudioPlayerActivity
-Hook Loaded App:yuku.mp3recorder.lite
-#Hash: 1108255600
-#SourceActivity: yuku.perekammp3.RekamActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: Information
-#Hash: MENU
-#Event: MENU
-#Hash: BACK
-#Event: BACK
-#SourceActivity: com.google.android.gms.feedback.FeedbackActivity
-Hook Loaded App:yuku.mp3recorder.lite
-#Hash: 1108267544
-#SourceActivity: yuku.perekammp3.RekamActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: Information
-#Hash: 1108256952
-#SourceActivity: yuku.perekammp3.RekamActivity
-Source Activity yuku.perekammp3.RekamActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42053580}
-#Class: class android.widget.Button
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42053580}   class: class android.widget.Button  id: 16908313
-Widget id: android:id/button1
-#WidgetID: android:id/button1
-#ButtonText: Get Full Version
-#Hash: BACK
-#Event: BACK
-#SourceActivity: com.google.android.finsky.activities.MainActivity
-Hook Loaded App:yuku.mp3recorder.lite
-#Hash: 1108271432
-#SourceActivity: yuku.perekammp3.RekamActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: Information
+MenuItemTitle: List
+Hash: 1109041192
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e3da28}
+Class: class android.widget.ListView
+WidgetID: yuku.mp3recorder.lite:id/lsRekaman
+Hash: 1108218080
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: MENU
+Event: MENU
+Hash: 1108271096
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421a9cb8}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 1110007944
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Rename
+Hash: 1110053680
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c65078}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: 1109041192
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e3da28}
+Class: class android.widget.ListView
+WidgetID: yuku.mp3recorder.lite:id/lsRekaman
+Hash: 1108218080
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 1108271096
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41dfaec0}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 1110062248
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Rename
+Hash: MENU
+Event: MENU
+Hash: 1108393824
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e32548}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 1109041192
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e3da28}
+Class: class android.widget.ListView
+WidgetID: yuku.mp3recorder.lite:id/lsRekaman
+Hash: 1108218080
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 1108271096
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e3e7c8}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 1108418472
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Rename
+Hash: 1109455464
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c6c470}
+Class: class android.widget.EditText
+WidgetID: yuku.mp3recorder.lite:id/tBaru
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.DaftarActivity
+Hash: BACK
+Event: BACK
+SourceActivity: yuku.perekammp3.DaftarActivity
+Hash: 1109041192
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e3da28}
+Class: class android.widget.ListView
+WidgetID: yuku.mp3recorder.lite:id/lsRekaman
+Hash: 1108218080
+SourceActivity: yuku.perekammp3.DaftarActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 1108271096
+SourceActivity: yuku.perekammp3.DaftarActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42312c38}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: BACK
+Event: BACK
+SourceActivity: com.andrew.apollo.ui.activities.AudioPlayerActivity
+Hash: 1108255600
+SourceActivity: yuku.perekammp3.RekamActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Information
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.google.android.gms.feedback.FeedbackActivity
+Hash: 1108267544
+SourceActivity: yuku.perekammp3.RekamActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Information
+Hash: 1108256952
+SourceActivity: yuku.perekammp3.RekamActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42053580}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Get Full Version
+Hash: BACK
+Event: BACK
+SourceActivity: com.google.android.finsky.activities.MainActivity
+Hash: 1108271432
+SourceActivity: yuku.perekammp3.RekamActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Information

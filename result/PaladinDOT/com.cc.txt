@@ -1,33 +1,24 @@
-Instrumentation detected, disabling framework for com.github.uiautomator
-Hook Loaded App:com.cc
-#Hash: 1106748600
-#SourceActivity: com.cc.MainActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: 非常抱歉！
-#Hash: MENU
-#Event: MENU
-#Hash: 1107448656
-#SourceActivity: com.cc.MainActivity
-Source Activity com.cc.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42081c58}
-#Class: class android.widget.Button
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42081c58}   class: class android.widget.Button  id: 16908313
-Widget id: android:id/button1
-#WidgetID: android:id/button1
-#ButtonText: 退出
-#Hash: BACK
-#Event: BACK
-#SourceActivity: org.cyanogenmod.trebuchet.CustomHomeLauncher
-Hook Loaded App:com.cc
-#Hash: 1106752328
-#SourceActivity: com.cc.MainActivity
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: 非常抱歉！
-#Hash: 1106812416
-#SourceActivity: com.cc.MainActivity
-Source Activity com.cc.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42082ae8}
-#Class: class android.widget.ScrollView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42082ae8}   class: class android.widget.ScrollView  id: 16908919
-Widget id: android:id/scrollView
-#WidgetID: android:id/scrollView
+Hash: 1106748600
+SourceActivity: com.cc.MainActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 非常抱歉！
+Hash: MENU
+Event: MENU
+Hash: 1107448656
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42081c58}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 退出
+Hash: BACK
+Event: BACK
+SourceActivity: org.cyanogenmod.trebuchet.CustomHomeLauncher
+Hash: 1106752328
+SourceActivity: com.cc.MainActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 非常抱歉！
+Hash: 1106812416
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42082ae8}
+Class: class android.widget.ScrollView
+WidgetID: android:id/scrollView

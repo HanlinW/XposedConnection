@@ -1,8 +1,0 @@
-Instrumentation detected, disabling framework for com.github.uiautomator
-Hook Loaded App:vsin.t16_funny_photo
-#Hash: 1108579840
-#SourceActivity: vsin.t16_funny_photo.A_Main
-#DialogClass: class android.app.ProgressDialog
-#DialogTitle: 
-#Hash: MENU
-#Event: MENU

@@ -1,98 +1,71 @@
-Instrumentation detected, disabling framework for com.github.uiautomator
-Hook Loaded App:com.zlango.zms
-#Hash: MENU
-#Event: MENU
-#Hash: 1106285352
-#SourceActivity: com.zlango.zms.app.IntroScreen
-Source Activity com.zlango.zms.app.IntroScreen
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ee8350}
-#Class: class android.widget.Button
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ee8350}   class: class android.widget.Button  id: 2131558493
-Widget id: com.zlango.zms:id/intro_screen_next_button
-#WidgetID: com.zlango.zms:id/intro_screen_next_button
-#ButtonText: Next
-#Hash: 1105242632
-#SourceActivity: com.zlango.zms.app.IntroScreen
-Source Activity com.zlango.zms.app.IntroScreen
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ee8350}
-#Class: class android.widget.Button
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ee8350}   class: class android.widget.Button  id: 2131558493
-Widget id: com.zlango.zms:id/intro_screen_next_button
-#WidgetID: com.zlango.zms:id/intro_screen_next_button
-#ButtonText: Next
-#Hash: 1106216760
-#SourceActivity: com.zlango.zms.app.RegistrationScreen
-Source Activity com.zlango.zms.app.RegistrationScreen
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e4b880}
-#Class: class android.widget.EditText
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e4b880}   class: class android.widget.EditText  id: 2131558538
-Widget id: com.zlango.zms:id/registration_user_name_edittext
-#WidgetID: com.zlango.zms:id/registration_user_name_edittext
-#Hash: 1106314536
-#SourceActivity: com.zlango.zms.app.RegistrationScreen
-Source Activity com.zlango.zms.app.RegistrationScreen
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e4b880}
-#Class: class android.widget.EditText
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e4b880}   class: class android.widget.EditText  id: 2131558540
-Widget id: com.zlango.zms:id/registration_msisdn_edittext
-#WidgetID: com.zlango.zms:id/registration_msisdn_edittext
-#Hash: MENU
-#Event: MENU
-#Hash: 1102721512
-#SourceActivity: com.zlango.zms.app.RegistrationScreen
-Source Activity com.zlango.zms.app.RegistrationScreen
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e4b880}
-#Class: class android.widget.Button
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e4b880}   class: class android.widget.Button  id: 2131558541
-Widget id: com.zlango.zms:id/registration_screen_submit_button
-#WidgetID: com.zlango.zms:id/registration_screen_submit_button
-#ButtonText: Start!
-#Hash: 1105581912
-#SourceActivity: com.zlango.zms.app.RegistrationScreen
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: Invalid Input
-#Hash: MENU
-#Event: MENU
-#Hash: 1106245728
-#SourceActivity: com.zlango.zms.app.RegistrationScreen
-Source Activity com.zlango.zms.app.RegistrationScreen
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e0ef08}
-#Class: class android.widget.Button
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e0ef08}   class: class android.widget.Button  id: 16908313
-Widget id: android:id/button1
-#WidgetID: android:id/button1
-#ButtonText: Ok
-#Hash: 1102721512
-#SourceActivity: com.zlango.zms.app.RegistrationScreen
-Source Activity com.zlango.zms.app.RegistrationScreen
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e4b880}
-#Class: class android.widget.Button
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e4b880}   class: class android.widget.Button  id: 2131558541
-Widget id: com.zlango.zms:id/registration_screen_submit_button
-#WidgetID: com.zlango.zms:id/registration_screen_submit_button
-#ButtonText: Start!
-#Hash: 1105581912
-#SourceActivity: com.zlango.zms.app.RegistrationScreen
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: Invalid Input
-#Hash: 1105254808
-#SourceActivity: com.zlango.zms.app.RegistrationScreen
-Source Activity com.zlango.zms.app.RegistrationScreen
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e42600}
-#Class: class android.widget.ScrollView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e42600}   class: class android.widget.ScrollView  id: 16908919
-Widget id: android:id/scrollView
-#WidgetID: android:id/scrollView
-#Hash: BACK
-#Event: BACK
-#SourceActivity: com.zlango.zms.app.RegistrationScreen
-#Hash: BACK
-#Event: BACK
-#SourceActivity: com.zlango.zms.app.RegistrationScreen
-#Hash: BACK
-#Event: BACK
-#SourceActivity: com.zlango.zms.app.RegistrationScreen
-#Hash: BACK
-#Event: BACK
-#SourceActivity: com.andrew.apollo.ui.activities.AudioPlayerActivity
-Hook Loaded App:com.zlango.zms
+Hash: MENU
+Event: MENU
+Hash: 1106285352
+SourceActivity: com.zlango.zms.app.IntroScreen
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ee8350}
+Class: class android.widget.Button
+WidgetID: com.zlango.zms:id/intro_screen_next_button
+ButtonText: Next
+Hash: 1105242632
+SourceActivity: com.zlango.zms.app.IntroScreen
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ee8350}
+Class: class android.widget.Button
+WidgetID: com.zlango.zms:id/intro_screen_next_button
+ButtonText: Next
+Hash: 1106216760
+SourceActivity: com.zlango.zms.app.RegistrationScreen
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e4b880}
+Class: class android.widget.EditText
+WidgetID: com.zlango.zms:id/registration_user_name_edittext
+Hash: 1106314536
+SourceActivity: com.zlango.zms.app.RegistrationScreen
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e4b880}
+Class: class android.widget.EditText
+WidgetID: com.zlango.zms:id/registration_msisdn_edittext
+Hash: MENU
+Event: MENU
+Hash: 1102721512
+SourceActivity: com.zlango.zms.app.RegistrationScreen
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e4b880}
+Class: class android.widget.Button
+WidgetID: com.zlango.zms:id/registration_screen_submit_button
+ButtonText: Start!
+Hash: 1105581912
+SourceActivity: com.zlango.zms.app.RegistrationScreen
+DialogClass: class android.app.AlertDialog
+DialogTitle: Invalid Input
+Hash: MENU
+Event: MENU
+Hash: 1106245728
+SourceActivity: com.zlango.zms.app.RegistrationScreen
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e0ef08}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Ok
+Hash: 1102721512
+SourceActivity: com.zlango.zms.app.RegistrationScreen
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e4b880}
+Class: class android.widget.Button
+WidgetID: com.zlango.zms:id/registration_screen_submit_button
+ButtonText: Start!
+Hash: 1105581912
+SourceActivity: com.zlango.zms.app.RegistrationScreen
+DialogClass: class android.app.AlertDialog
+DialogTitle: Invalid Input
+Hash: 1105254808
+SourceActivity: com.zlango.zms.app.RegistrationScreen
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e42600}
+Class: class android.widget.ScrollView
+WidgetID: android:id/scrollView
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.RegistrationScreen
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.RegistrationScreen
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.RegistrationScreen
+Hash: BACK
+Event: BACK
+SourceActivity: com.andrew.apollo.ui.activities.AudioPlayerActivity

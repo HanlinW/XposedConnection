@@ -1,594 +1,392 @@
-Instrumentation detected, disabling framework for com.github.uiautomator
-Hook Loaded App:za.co.lukestonehm.logicaldefence
-#Hash: 1102746280
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e9c288}
-#Class: class android.support.v7.widget.Toolbar
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41e9c288}   class: class android.support.v7.widget.Toolbar  id: 2131558466
-Widget id: za.co.lukestonehm.logicaldefence:id/action_bar
-#WidgetID: za.co.lukestonehm.logicaldefence:id/action_bar
-#Hash: MENU
-#Event: MENU
-#Hash: 1106340600
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f2e1e8}
-#Class: class android.support.v7.view.menu.ExpandedMenuView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f2e1e8}   class: class android.support.v7.view.menu.ExpandedMenuView  id: 2131558457
-Widget id: za.co.lukestonehm.logicaldefence:id/expanded_menu
-#WidgetID: za.co.lukestonehm.logicaldefence:id/expanded_menu
-#Hash: 1106542424
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-#DialogClass: class android.support.v7.app.AlertDialog
-This Dialog No Title
-#Hash: 1106547072
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f5faa8}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f5faa8}   class: class android.widget.ListView  id: 2131558480
-Widget id: za.co.lukestonehm.logicaldefence:id/select_dialog_listview
-#WidgetID: za.co.lukestonehm.logicaldefence:id/select_dialog_listview
-#Hash: MENU
-#Event: MENU
-#Hash: 1107110880
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fd50c8}
-#Class: class android.support.v7.view.menu.ExpandedMenuView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fd50c8}   class: class android.support.v7.view.menu.ExpandedMenuView  id: 2131558457
-Widget id: za.co.lukestonehm.logicaldefence:id/expanded_menu
-#WidgetID: za.co.lukestonehm.logicaldefence:id/expanded_menu
-#Hash: 1107215088
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-#DialogClass: class android.support.v7.app.AlertDialog
-This Dialog No Title
-#Hash: MENU
-#Event: MENU
-#Hash: 1107217104
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffa6d0}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffa6d0}   class: class android.widget.ListView  id: 2131558480
-Widget id: za.co.lukestonehm.logicaldefence:id/select_dialog_listview
-#WidgetID: za.co.lukestonehm.logicaldefence:id/select_dialog_listview
-#Hash: MENU
-#Event: MENU
-#Hash: 1107763192
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420744e0}
-#Class: class android.support.v7.view.menu.ExpandedMenuView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {420744e0}   class: class android.support.v7.view.menu.ExpandedMenuView  id: 2131558457
-Widget id: za.co.lukestonehm.logicaldefence:id/expanded_menu
-#WidgetID: za.co.lukestonehm.logicaldefence:id/expanded_menu
-#Hash: 1107867408
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-#DialogClass: class android.support.v7.app.AlertDialog
-This Dialog No Title
-#Hash: 1107869424
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42099af0}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42099af0}   class: class android.widget.ListView  id: 2131558480
-Widget id: za.co.lukestonehm.logicaldefence:id/select_dialog_listview
-#WidgetID: za.co.lukestonehm.logicaldefence:id/select_dialog_listview
-#Hash: MENU
-#Event: MENU
-#Hash: 1108370760
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42108a30}
-#Class: class android.support.v7.view.menu.ExpandedMenuView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42108a30}   class: class android.support.v7.view.menu.ExpandedMenuView  id: 2131558457
-Widget id: za.co.lukestonehm.logicaldefence:id/expanded_menu
-#WidgetID: za.co.lukestonehm.logicaldefence:id/expanded_menu
-#Hash: 1108474872
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-#DialogClass: class android.support.v7.app.AlertDialog
-This Dialog No Title
-#Hash: 1108476888
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4212e058}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4212e058}   class: class android.widget.ListView  id: 2131558480
-Widget id: za.co.lukestonehm.logicaldefence:id/select_dialog_listview
-#WidgetID: za.co.lukestonehm.logicaldefence:id/select_dialog_listview
-#Hash: MENU
-#Event: MENU
-#Hash: 1108978192
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4219cef8}
-#Class: class android.support.v7.view.menu.ExpandedMenuView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4219cef8}   class: class android.support.v7.view.menu.ExpandedMenuView  id: 2131558457
-Widget id: za.co.lukestonehm.logicaldefence:id/expanded_menu
-#WidgetID: za.co.lukestonehm.logicaldefence:id/expanded_menu
-#Hash: 1109087008
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-#DialogClass: class android.support.v7.app.AlertDialog
-This Dialog No Title
-#Hash: 1109089024
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421c3700}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421c3700}   class: class android.widget.ListView  id: 2131558480
-Widget id: za.co.lukestonehm.logicaldefence:id/select_dialog_listview
-#WidgetID: za.co.lukestonehm.logicaldefence:id/select_dialog_listview
-#Hash: MENU
-#Event: MENU
-#Hash: 1109613672
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42238150}
-#Class: class android.support.v7.view.menu.ExpandedMenuView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {42238150}   class: class android.support.v7.view.menu.ExpandedMenuView  id: 2131558457
-Widget id: za.co.lukestonehm.logicaldefence:id/expanded_menu
-#WidgetID: za.co.lukestonehm.logicaldefence:id/expanded_menu
-#Hash: 1109717736
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-#DialogClass: class android.support.v7.app.AlertDialog
-This Dialog No Title
-#Hash: 1109719752
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4225d5d8}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4225d5d8}   class: class android.widget.ListView  id: 2131558480
-Widget id: za.co.lukestonehm.logicaldefence:id/select_dialog_listview
-#WidgetID: za.co.lukestonehm.logicaldefence:id/select_dialog_listview
-#Hash: MENU
-#Event: MENU
-#Hash: 1105895112
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ee5290}
-#Class: class android.support.v7.view.menu.ExpandedMenuView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ee5290}   class: class android.support.v7.view.menu.ExpandedMenuView  id: 2131558457
-Widget id: za.co.lukestonehm.logicaldefence:id/expanded_menu
-#WidgetID: za.co.lukestonehm.logicaldefence:id/expanded_menu
-#Hash: 1109202688
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-#DialogClass: class android.support.v7.app.AlertDialog
-This Dialog No Title
-#Hash: BACK
-#Event: BACK
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-#Hash: MENU
-#Event: MENU
-#Hash: MENU
-#Event: MENU
-#Hash: MENU
-#Event: MENU
-#Hash: 1105895112
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f84068}
-#Class: class android.support.v7.view.menu.ExpandedMenuView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f84068}   class: class android.support.v7.view.menu.ExpandedMenuView  id: 2131558457
-Widget id: za.co.lukestonehm.logicaldefence:id/expanded_menu
-#WidgetID: za.co.lukestonehm.logicaldefence:id/expanded_menu
-#Hash: 1102577832
-#SourceActivity: za.co.lukestonehm.logicaldefence.About
-Source Activity za.co.lukestonehm.logicaldefence.About
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4213be98}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4213be98}   class: class android.widget.ImageButton  id: -1
-WidgetID: NONE
-#Class: class android.widget.ImageButton
-#Hash: MENU
-#Event: MENU
-#Hash: 1105946104
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b9c898}
-#Class: class android.support.v7.view.menu.ExpandedMenuView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b9c898}   class: class android.support.v7.view.menu.ExpandedMenuView  id: 2131558457
-Widget id: za.co.lukestonehm.logicaldefence:id/expanded_menu
-#WidgetID: za.co.lukestonehm.logicaldefence:id/expanded_menu
-#Hash: 1105814888
-#SourceActivity: za.co.lukestonehm.logicaldefence.About
-Source Activity za.co.lukestonehm.logicaldefence.About
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b78f88}
-#Class: class android.support.v7.widget.AppCompatTextView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b78f88}   class: class android.support.v7.widget.AppCompatTextView  id: 2131558482
-Widget id: za.co.lukestonehm.logicaldefence:id/about_more
-#WidgetID: za.co.lukestonehm.logicaldefence:id/about_more
-#Hash: MENU
-#Event: MENU
-#Hash: 1108343112
-#SourceActivity: za.co.lukestonehm.logicaldefence.About
-Source Activity za.co.lukestonehm.logicaldefence.About
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b78f88}
-#Class: class android.support.v7.widget.Toolbar
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41b78f88}   class: class android.support.v7.widget.Toolbar  id: 2131558466
-Widget id: za.co.lukestonehm.logicaldefence:id/action_bar
-#WidgetID: za.co.lukestonehm.logicaldefence:id/action_bar
-#Hash: BACK
-#Event: BACK
-#SourceActivity: za.co.lukestonehm.logicaldefence.About
-#Hash: MENU
-#Event: MENU
-#Hash: BACK
-#Event: BACK
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-#Hash: 1108879640
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.RelativeLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.RelativeLayout  id: -1
-WidgetID: NONE
-#Class: class android.widget.RelativeLayout
-#Hash: 1106138008
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ImageButton  id: -1
-WidgetID: NONE
-#Class: class android.widget.ImageButton
-#Hash: 1105930352
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ListView  id: 2131558489
-Widget id: za.co.lukestonehm.logicaldefence:id/lv
-#WidgetID: za.co.lukestonehm.logicaldefence:id/lv
-#Hash: 1106138008
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ImageButton  id: -1
-WidgetID: NONE
-#Class: class android.widget.ImageButton
-#Hash: 1105930352
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ListView  id: 2131558489
-Widget id: za.co.lukestonehm.logicaldefence:id/lv
-#WidgetID: za.co.lukestonehm.logicaldefence:id/lv
-#Hash: MENU
-#Event: MENU
-#Hash: BACK
-#Event: BACK
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-#Hash: 1105930352
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ListView  id: 2131558489
-Widget id: za.co.lukestonehm.logicaldefence:id/lv
-#WidgetID: za.co.lukestonehm.logicaldefence:id/lv
-#Hash: 1106138008
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ImageButton  id: -1
-WidgetID: NONE
-#Class: class android.widget.ImageButton
-#Hash: 1105930352
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ListView  id: 2131558489
-Widget id: za.co.lukestonehm.logicaldefence:id/lv
-#WidgetID: za.co.lukestonehm.logicaldefence:id/lv
-#Hash: 1106138008
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ImageButton  id: -1
-WidgetID: NONE
-#Class: class android.widget.ImageButton
-#Hash: 1102705000
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.support.v7.widget.Toolbar
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.support.v7.widget.Toolbar  id: 2131558466
-Widget id: za.co.lukestonehm.logicaldefence:id/action_bar
-#WidgetID: za.co.lukestonehm.logicaldefence:id/action_bar
-#Hash: 1105930352
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ListView  id: 2131558489
-Widget id: za.co.lukestonehm.logicaldefence:id/lv
-#WidgetID: za.co.lukestonehm.logicaldefence:id/lv
-#Hash: 1106138008
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ImageButton  id: -1
-WidgetID: NONE
-#Class: class android.widget.ImageButton
-#Hash: 1102705000
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.support.v7.widget.Toolbar
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.support.v7.widget.Toolbar  id: 2131558466
-Widget id: za.co.lukestonehm.logicaldefence:id/action_bar
-#WidgetID: za.co.lukestonehm.logicaldefence:id/action_bar
-#Hash: 1102724864
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.support.v4.widget.DrawerLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.support.v4.widget.DrawerLayout  id: 2131558483
-Widget id: za.co.lukestonehm.logicaldefence:id/drawer_layout
-#WidgetID: za.co.lukestonehm.logicaldefence:id/drawer_layout
-#Hash: 1106138008
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ImageButton  id: -1
-WidgetID: NONE
-#Class: class android.widget.ImageButton
-#Hash: 1105930352
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ListView  id: 2131558489
-Widget id: za.co.lukestonehm.logicaldefence:id/lv
-#WidgetID: za.co.lukestonehm.logicaldefence:id/lv
-#Hash: 1105930352
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ListView  id: 2131558489
-Widget id: za.co.lukestonehm.logicaldefence:id/lv
-#WidgetID: za.co.lukestonehm.logicaldefence:id/lv
-#Hash: 1106138008
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ImageButton  id: -1
-WidgetID: NONE
-#Class: class android.widget.ImageButton
-#Hash: 1105930352
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ListView  id: 2131558489
-Widget id: za.co.lukestonehm.logicaldefence:id/lv
-#WidgetID: za.co.lukestonehm.logicaldefence:id/lv
-#Hash: 1106138008
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ImageButton  id: -1
-WidgetID: NONE
-#Class: class android.widget.ImageButton
-#Hash: 1105930352
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ListView  id: 2131558489
-Widget id: za.co.lukestonehm.logicaldefence:id/lv
-#WidgetID: za.co.lukestonehm.logicaldefence:id/lv
-#Hash: 1106138008
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ImageButton  id: -1
-WidgetID: NONE
-#Class: class android.widget.ImageButton
-#Hash: 1107396640
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.RelativeLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.RelativeLayout  id: -1
-WidgetID: NONE
-#Class: class android.widget.RelativeLayout
-#Hash: 1107396640
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.RelativeLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.RelativeLayout  id: -1
-WidgetID: NONE
-#Class: class android.widget.RelativeLayout
-#Hash: 1105930352
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ListView  id: 2131558489
-Widget id: za.co.lukestonehm.logicaldefence:id/lv
-#WidgetID: za.co.lukestonehm.logicaldefence:id/lv
-#Hash: 1106138008
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ImageButton  id: -1
-WidgetID: NONE
-#Class: class android.widget.ImageButton
-#Hash: 1106138008
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ImageButton  id: -1
-WidgetID: NONE
-#Class: class android.widget.ImageButton
-#Hash: 1106138008
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ImageButton  id: -1
-WidgetID: NONE
-#Class: class android.widget.ImageButton
-#Hash: 1102705000
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.support.v7.widget.Toolbar
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.support.v7.widget.Toolbar  id: 2131558466
-Widget id: za.co.lukestonehm.logicaldefence:id/action_bar
-#WidgetID: za.co.lukestonehm.logicaldefence:id/action_bar
-#Hash: 1105930352
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ListView  id: 2131558489
-Widget id: za.co.lukestonehm.logicaldefence:id/lv
-#WidgetID: za.co.lukestonehm.logicaldefence:id/lv
-#Hash: 1106138008
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ImageButton  id: -1
-WidgetID: NONE
-#Class: class android.widget.ImageButton
-#Hash: 1105930352
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ListView  id: 2131558489
-Widget id: za.co.lukestonehm.logicaldefence:id/lv
-#WidgetID: za.co.lukestonehm.logicaldefence:id/lv
-#Hash: 1106138008
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ImageButton  id: -1
-WidgetID: NONE
-#Class: class android.widget.ImageButton
-#Hash: 1105930352
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ListView  id: 2131558489
-Widget id: za.co.lukestonehm.logicaldefence:id/lv
-#WidgetID: za.co.lukestonehm.logicaldefence:id/lv
-#Hash: 1106138008
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ImageButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ImageButton  id: -1
-WidgetID: NONE
-#Class: class android.widget.ImageButton
-#Hash: 1105930352
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}   class: class android.widget.ListView  id: 2131558489
-Widget id: za.co.lukestonehm.logicaldefence:id/lv
-#WidgetID: za.co.lukestonehm.logicaldefence:id/lv
-#Hash: BACK
-#Event: BACK
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-#Hash: BACK
-#Event: BACK
-#SourceActivity: org.cyanogenmod.trebuchet.CustomHomeLauncher
-Hook Loaded App:za.co.lukestonehm.logicaldefence
-#Hash: 1105930712
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}
-#Class: class android.widget.RelativeLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}   class: class android.widget.RelativeLayout  id: -1
-WidgetID: NONE
-#Class: class android.widget.RelativeLayout
-#Hash: 1105905520
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}
-#Class: class android.widget.RelativeLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}   class: class android.widget.RelativeLayout  id: -1
-WidgetID: NONE
-#Class: class android.widget.RelativeLayout
-#Hash: 1105947672
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}
-#Class: class android.widget.RelativeLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}   class: class android.widget.RelativeLayout  id: -1
-WidgetID: NONE
-#Class: class android.widget.RelativeLayout
-#Hash: 1105905520
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}
-#Class: class android.widget.RelativeLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}   class: class android.widget.RelativeLayout  id: -1
-WidgetID: NONE
-#Class: class android.widget.RelativeLayout
-#Hash: 1105930712
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}
-#Class: class android.widget.RelativeLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}   class: class android.widget.RelativeLayout  id: -1
-WidgetID: NONE
-#Class: class android.widget.RelativeLayout
-#Hash: 1105947672
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}
-#Class: class android.widget.RelativeLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}   class: class android.widget.RelativeLayout  id: -1
-WidgetID: NONE
-#Class: class android.widget.RelativeLayout
-#Hash: 1106020024
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}
-#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}   class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton  id: -1
-WidgetID: NONE
-#Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-#Hash: BACK
-#Event: BACK
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-#Hash: 1105905520
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}
-#Class: class android.widget.RelativeLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}   class: class android.widget.RelativeLayout  id: -1
-WidgetID: NONE
-#Class: class android.widget.RelativeLayout
-#Hash: 1105930712
-#SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
-Source Activity za.co.lukestonehm.logicaldefence.MainActivity
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}
-#Class: class android.widget.RelativeLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}   class: class android.widget.RelativeLayout  id: -1
-WidgetID: NONE
-#Class: class android.widget.RelativeLayout
+Hash: 1102746280
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41e9c288}
+Class: class android.support.v7.widget.Toolbar
+WidgetID: za.co.lukestonehm.logicaldefence:id/action_bar
+Hash: MENU
+Event: MENU
+Hash: 1106340600
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f2e1e8}
+Class: class android.support.v7.view.menu.ExpandedMenuView
+WidgetID: za.co.lukestonehm.logicaldefence:id/expanded_menu
+Hash: 1106542424
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+DialogClass: class android.support.v7.app.AlertDialog
+Hash: 1106547072
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f5faa8}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/select_dialog_listview
+Hash: MENU
+Event: MENU
+Hash: 1107110880
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fd50c8}
+Class: class android.support.v7.view.menu.ExpandedMenuView
+WidgetID: za.co.lukestonehm.logicaldefence:id/expanded_menu
+Hash: 1107215088
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+DialogClass: class android.support.v7.app.AlertDialog
+Hash: MENU
+Event: MENU
+Hash: 1107217104
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ffa6d0}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/select_dialog_listview
+Hash: MENU
+Event: MENU
+Hash: 1107763192
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {420744e0}
+Class: class android.support.v7.view.menu.ExpandedMenuView
+WidgetID: za.co.lukestonehm.logicaldefence:id/expanded_menu
+Hash: 1107867408
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+DialogClass: class android.support.v7.app.AlertDialog
+Hash: 1107869424
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42099af0}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/select_dialog_listview
+Hash: MENU
+Event: MENU
+Hash: 1108370760
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42108a30}
+Class: class android.support.v7.view.menu.ExpandedMenuView
+WidgetID: za.co.lukestonehm.logicaldefence:id/expanded_menu
+Hash: 1108474872
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+DialogClass: class android.support.v7.app.AlertDialog
+Hash: 1108476888
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4212e058}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/select_dialog_listview
+Hash: MENU
+Event: MENU
+Hash: 1108978192
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4219cef8}
+Class: class android.support.v7.view.menu.ExpandedMenuView
+WidgetID: za.co.lukestonehm.logicaldefence:id/expanded_menu
+Hash: 1109087008
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+DialogClass: class android.support.v7.app.AlertDialog
+Hash: 1109089024
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421c3700}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/select_dialog_listview
+Hash: MENU
+Event: MENU
+Hash: 1109613672
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42238150}
+Class: class android.support.v7.view.menu.ExpandedMenuView
+WidgetID: za.co.lukestonehm.logicaldefence:id/expanded_menu
+Hash: 1109717736
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+DialogClass: class android.support.v7.app.AlertDialog
+Hash: 1109719752
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4225d5d8}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/select_dialog_listview
+Hash: MENU
+Event: MENU
+Hash: 1105895112
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ee5290}
+Class: class android.support.v7.view.menu.ExpandedMenuView
+WidgetID: za.co.lukestonehm.logicaldefence:id/expanded_menu
+Hash: 1109202688
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+DialogClass: class android.support.v7.app.AlertDialog
+Hash: BACK
+Event: BACK
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: 1105895112
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f84068}
+Class: class android.support.v7.view.menu.ExpandedMenuView
+WidgetID: za.co.lukestonehm.logicaldefence:id/expanded_menu
+Hash: 1102577832
+SourceActivity: za.co.lukestonehm.logicaldefence.About
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4213be98}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: MENU
+Event: MENU
+Hash: 1105946104
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b9c898}
+Class: class android.support.v7.view.menu.ExpandedMenuView
+WidgetID: za.co.lukestonehm.logicaldefence:id/expanded_menu
+Hash: 1105814888
+SourceActivity: za.co.lukestonehm.logicaldefence.About
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b78f88}
+Class: class android.support.v7.widget.AppCompatTextView
+WidgetID: za.co.lukestonehm.logicaldefence:id/about_more
+Hash: MENU
+Event: MENU
+Hash: 1108343112
+SourceActivity: za.co.lukestonehm.logicaldefence.About
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b78f88}
+Class: class android.support.v7.widget.Toolbar
+WidgetID: za.co.lukestonehm.logicaldefence:id/action_bar
+Hash: BACK
+Event: BACK
+SourceActivity: za.co.lukestonehm.logicaldefence.About
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Hash: 1108879640
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 1106138008
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 1105930352
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/lv
+Hash: 1106138008
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 1105930352
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/lv
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Hash: 1105930352
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/lv
+Hash: 1106138008
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 1105930352
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/lv
+Hash: 1106138008
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 1102705000
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.support.v7.widget.Toolbar
+WidgetID: za.co.lukestonehm.logicaldefence:id/action_bar
+Hash: 1105930352
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/lv
+Hash: 1106138008
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 1102705000
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.support.v7.widget.Toolbar
+WidgetID: za.co.lukestonehm.logicaldefence:id/action_bar
+Hash: 1102724864
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.support.v4.widget.DrawerLayout
+WidgetID: za.co.lukestonehm.logicaldefence:id/drawer_layout
+Hash: 1106138008
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 1105930352
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/lv
+Hash: 1105930352
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/lv
+Hash: 1106138008
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 1105930352
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/lv
+Hash: 1106138008
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 1105930352
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/lv
+Hash: 1106138008
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 1107396640
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 1107396640
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 1105930352
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/lv
+Hash: 1106138008
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 1106138008
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 1106138008
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 1102705000
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.support.v7.widget.Toolbar
+WidgetID: za.co.lukestonehm.logicaldefence:id/action_bar
+Hash: 1105930352
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/lv
+Hash: 1106138008
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 1105930352
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/lv
+Hash: 1106138008
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 1105930352
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/lv
+Hash: 1106138008
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ImageButton
+Class: class android.widget.ImageButton
+Hash: 1105930352
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421e34e0}
+Class: class android.widget.ListView
+WidgetID: za.co.lukestonehm.logicaldefence:id/lv
+Hash: BACK
+Event: BACK
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Hash: BACK
+Event: BACK
+SourceActivity: org.cyanogenmod.trebuchet.CustomHomeLauncher
+Hash: 1105930712
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 1105905520
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 1105947672
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 1105905520
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 1105930712
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 1105947672
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 1106020024
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Hash: BACK
+Event: BACK
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Hash: 1105905520
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout
+Hash: 1105930712
+SourceActivity: za.co.lukestonehm.logicaldefence.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ea18d0}
+Class: class android.widget.RelativeLayout
+Class: class android.widget.RelativeLayout

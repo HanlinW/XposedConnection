@@ -1,193 +1,137 @@
-Instrumentation detected, disabling framework for com.github.uiautomator
-Hook Loaded App:eu.faircode.finegeotag
-#Hash: 1105862344
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-Source Activity eu.faircode.finegeotag.ActivitySettings
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1106977424
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: 
-#Hash: 1105890824
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-Source Activity eu.faircode.finegeotag.ActivitySettings
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fe6358}
-#Class: class android.widget.EditText
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fe6358}   class: class android.widget.EditText  id: 16908291
-Widget id: android:id/edit
-#WidgetID: android:id/edit
-#Hash: 1107026016
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-Source Activity eu.faircode.finegeotag.ActivitySettings
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fe6358}
-#Class: class android.widget.Button
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41fe6358}   class: class android.widget.Button  id: 16908314
-Widget id: android:id/button2
-#WidgetID: android:id/button2
-#ButtonText: 取消
-#Hash: 1105862344
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-Source Activity eu.faircode.finegeotag.ActivitySettings
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1107698536
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: 
-#Hash: 1107728088
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-Source Activity eu.faircode.finegeotag.ActivitySettings
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4206ae78}
-#Class: class android.widget.Button
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {4206ae78}   class: class android.widget.Button  id: 16908313
-Widget id: android:id/button1
-#WidgetID: android:id/button1
-#ButtonText: 确定
-#Hash: 1105862344
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-Source Activity eu.faircode.finegeotag.ActivitySettings
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1107945448
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: 
-#Hash: MENU
-#Event: MENU
-#Hash: BACK
-#Event: BACK
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-#Hash: BACK
-#Event: BACK
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-#Hash: 1105862344
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-Source Activity eu.faircode.finegeotag.ActivitySettings
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1108217280
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: 
-#Hash: BACK
-#Event: BACK
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-#Hash: BACK
-#Event: BACK
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-#Hash: 1105862344
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-Source Activity eu.faircode.finegeotag.ActivitySettings
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1105862344
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-Source Activity eu.faircode.finegeotag.ActivitySettings
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1105862344
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-Source Activity eu.faircode.finegeotag.ActivitySettings
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: BACK
-#Event: BACK
-#SourceActivity: com.android.settings.Settings$LocationSettingsActivity
-#Hash: 1105862344
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-Source Activity eu.faircode.finegeotag.ActivitySettings
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1105862344
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-Source Activity eu.faircode.finegeotag.ActivitySettings
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1102591632
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-Source Activity eu.faircode.finegeotag.ActivitySettings
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
-#Class: class android.widget.LinearLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}   class: class android.widget.LinearLayout  id: -1
-WidgetID: NONE
-#Class: class android.widget.LinearLayout
-#Hash: 1105862344
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-Source Activity eu.faircode.finegeotag.ActivitySettings
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1108793496
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-#DialogClass: class android.app.AlertDialog
-#DialogTitle: 
-#Hash: BACK
-#Event: BACK
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-#Hash: BACK
-#Event: BACK
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-#Hash: 1105862344
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-Source Activity eu.faircode.finegeotag.ActivitySettings
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: MENU
-#Event: MENU
-#Hash: 1105862344
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-Source Activity eu.faircode.finegeotag.ActivitySettings
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
-#Hash: 1102591632
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-Source Activity eu.faircode.finegeotag.ActivitySettings
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
-#Class: class android.widget.LinearLayout
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}   class: class android.widget.LinearLayout  id: -1
-WidgetID: NONE
-#Class: class android.widget.LinearLayout
-#Hash: 1105862344
-#SourceActivity: eu.faircode.finegeotag.ActivitySettings
-Source Activity eu.faircode.finegeotag.ActivitySettings
-#Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
-#Class: class android.widget.ListView
-There is a onTouchEvent method   Handler:Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}   class: class android.widget.ListView  id: 16908298
-Widget id: android:id/list
-#WidgetID: android:id/list
+Hash: 1105862344
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1106977424
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 1105890824
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fe6358}
+Class: class android.widget.EditText
+WidgetID: android:id/edit
+Hash: 1107026016
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fe6358}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 1105862344
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1107698536
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 1107728088
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4206ae78}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 确定
+Hash: 1105862344
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1107945448
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Hash: BACK
+Event: BACK
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Hash: 1105862344
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1108217280
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Hash: BACK
+Event: BACK
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Hash: 1105862344
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1105862344
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1105862344
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.settings.Settings$LocationSettingsActivity
+Hash: 1105862344
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1105862344
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1102591632
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
+Class: class android.widget.LinearLayout
+Class: class android.widget.LinearLayout
+Hash: 1105862344
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1108793496
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Hash: BACK
+Event: BACK
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Hash: 1105862344
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: MENU
+Event: MENU
+Hash: 1105862344
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 1102591632
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
+Class: class android.widget.LinearLayout
+Class: class android.widget.LinearLayout
+Hash: 1105862344
+SourceActivity: eu.faircode.finegeotag.ActivitySettings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f05530}
+Class: class android.widget.ListView
+WidgetID: android:id/list
