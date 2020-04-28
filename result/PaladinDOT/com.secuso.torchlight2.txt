@@ -1,84 +1,75 @@
-Hash: 1102913760
+Hash: 256379228
 SourceActivity: com.secuso.torchlight2.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c0a6c8}
-Class: class android.support.v7.internal.widget.TintCheckBox
-WidgetID: com.secuso.torchlight2:id/cbPause
-ButtonText: turn off on app minimize or standby
-Hash: 1102622456
-SourceActivity: com.secuso.torchlight2.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c0a6c8}
-Class: class android.support.v7.widget.Toolbar
-WidgetID: com.secuso.torchlight2:id/action_bar
-Hash: 1103210888
-SourceActivity: com.secuso.torchlight2.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c0a6c8}
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-Hash: MENU
-Event: MENU
-Hash: 1103210888
-SourceActivity: com.secuso.torchlight2.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c0a6c8}
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-Hash: 1106510312
-SourceActivity: com.secuso.torchlight2.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41f44140}
-Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
-Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
-Hash: MENU
-Event: MENU
-Hash: 1102740856
-SourceActivity: com.secuso.torchlight2.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c37b90}
-Class: class android.widget.TextView
-Class: class android.widget.TextView
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.browser.BrowserActivity
-Hash: 1106608600
-SourceActivity: com.secuso.torchlight2.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c37b90}
-Class: class android.support.v7.widget.Toolbar
-WidgetID: com.secuso.torchlight2:id/action_bar
-Hash: 1106611072
-SourceActivity: com.secuso.torchlight2.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c37b90}
-Class: class android.widget.ImageButton
-Class: class android.widget.ImageButton
-Hash: 1103164328
-SourceActivity: com.secuso.torchlight2.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b83000}
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-Hash: 1102706168
-SourceActivity: com.secuso.torchlight2.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c82a58}
-Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
-Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
-Hash: BACK
-Event: BACK
-SourceActivity: com.secuso.torchlight2.AboutActivity
-Hash: 1103164328
-SourceActivity: com.secuso.torchlight2.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b83000}
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-Hash: BACK
-Event: BACK
-SourceActivity: com.secuso.torchlight2.MainActivity
-Hash: MENU
-Event: MENU
-Hash: BACK
-Event: BACK
-SourceActivity: com.secuso.torchlight2.MainActivity
-Hash: 1103240208
-SourceActivity: com.secuso.torchlight2.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b83000}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cce818c}
 Class: class android.widget.ImageButton
 WidgetID: com.secuso.torchlight2:id/btnSwitch
-Hash: 1102530440
+Hash: 189968865
 SourceActivity: com.secuso.torchlight2.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b83000}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cce818c}
 Class: class android.widget.ImageButton
+MenuItemID: android:id/home
+MenuItemTitle: null
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: 128631603
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7199dc6}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+MenuItemID: com.secuso.torchlight2:id/action_about
+MenuItemTitle: About
+Hash: 217078515
+SourceActivity: com.secuso.torchlight2.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {579adc}
 Class: class android.widget.ImageButton
+Hash: MENU
+Event: MENU
+Hash: 268208391
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {994a52a}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+MenuItemID: com.secuso.torchlight2:id/action_about
+MenuItemTitle: About
+Hash: MENU
+Event: MENU
+Hash: 8781962
+SourceActivity: com.secuso.torchlight2.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e0a23ad}
+Class: class android.widget.TextView
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: 41505560
+SourceActivity: com.secuso.torchlight2.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e0a23ad}
+Class: class android.support.v7.widget.Toolbar
+WidgetID: com.secuso.torchlight2:id/action_bar
+Hash: BACK
+Event: BACK
+SourceActivity: com.secuso.torchlight2.AboutActivity
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.secuso.torchlight2.MainActivity
+Hash: 30032365
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e0a7d5}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.secuso.torchlight2.MainActivity
+Hash: 224164298
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e0a7d5}
+Class: class android.widget.CheckBox
+WidgetID: com.secuso.torchlight2:id/cbPause
+ButtonText: turn off on app minimize or standby
+Hash: 98668120
+SourceActivity: com.secuso.torchlight2.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e0a7d5}
+Class: class android.support.v7.widget.Toolbar
+WidgetID: com.secuso.torchlight2:id/action_bar

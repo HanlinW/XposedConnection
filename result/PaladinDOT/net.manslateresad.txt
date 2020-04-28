@@ -1,232 +1,232 @@
-Hash: 1105393528
+Hash: MENU
+Event: MENU
+Hash: 14141414
 SourceActivity: net.manslateresad.Inicio
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb4df8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e0ac735}
 Class: class android.widget.ImageButton
 WidgetID: net.manslateresad:id/TraductorHombre
-Hash: 1104296856
+Hash: 140123202
 SourceActivity: net.manslateresad.TraductorHombre
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fc43e0}
-Class: class android.widget.ImageButton
-WidgetID: net.manslateresad:id/frases
-Hash: 1104274608
-SourceActivity: net.manslateresad.listaHombre
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42001790}
-Class: class android.widget.ListView
-WidgetID: net.manslateresad:id/ListView01
-Hash: 1104296856
-SourceActivity: net.manslateresad.TraductorHombre
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fc43e0}
-Class: class android.widget.ImageButton
-WidgetID: net.manslateresad:id/frases
-Hash: 1104004592
-SourceActivity: net.manslateresad.listaHombre
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ce1728}
-Class: class android.widget.ListView
-WidgetID: net.manslateresad:id/ListView01
-Hash: 1104296856
-SourceActivity: net.manslateresad.TraductorHombre
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fc43e0}
-Class: class android.widget.ImageButton
-WidgetID: net.manslateresad:id/frases
-Hash: MENU
-Event: MENU
-Hash: 1103169000
-SourceActivity: net.manslateresad.listaHombre
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c123b0}
-Class: class android.widget.ListView
-WidgetID: net.manslateresad:id/ListView01
-Hash: 1104296856
-SourceActivity: net.manslateresad.TraductorHombre
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fc43e0}
-Class: class android.widget.ImageButton
-WidgetID: net.manslateresad:id/frases
-Hash: 1103390960
-SourceActivity: net.manslateresad.listaHombre
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c486b8}
-Class: class android.widget.ListView
-WidgetID: net.manslateresad:id/ListView01
-Hash: 1104296856
-SourceActivity: net.manslateresad.TraductorHombre
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fc43e0}
-Class: class android.widget.ImageButton
-WidgetID: net.manslateresad:id/frases
-Hash: 1103520760
-SourceActivity: net.manslateresad.listaHombre
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c681c0}
-Class: class android.widget.ListView
-WidgetID: net.manslateresad:id/ListView01
-Hash: 1104296856
-SourceActivity: net.manslateresad.TraductorHombre
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fc43e0}
-Class: class android.widget.ImageButton
-WidgetID: net.manslateresad:id/frases
-Hash: 1103650088
-SourceActivity: net.manslateresad.listaHombre
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c87af0}
-Class: class android.widget.ListView
-WidgetID: net.manslateresad:id/ListView01
-Hash: 1104296856
-SourceActivity: net.manslateresad.TraductorHombre
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fc43e0}
-Class: class android.widget.ImageButton
-WidgetID: net.manslateresad:id/frases
-Hash: 1103779416
-SourceActivity: net.manslateresad.listaHombre
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ca7420}
-Class: class android.widget.ListView
-WidgetID: net.manslateresad:id/ListView01
-Hash: 1104296856
-SourceActivity: net.manslateresad.TraductorHombre
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fc43e0}
-Class: class android.widget.ImageButton
-WidgetID: net.manslateresad:id/frases
-Hash: BACK
-Event: BACK
-SourceActivity: net.manslateresad.listaHombre
-Hash: MENU
-Event: MENU
-Hash: 1111071816
-SourceActivity: net.manslateresad.TraductorHombre
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fc43e0}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {95e8d66}
 Class: class android.widget.ImageButton
 WidgetID: net.manslateresad:id/micro
-Hash: BACK
-Event: BACK
+Hash: 414803
 SourceActivity: net.manslateresad.TraductorHombre
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {95e8d66}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+Hash: 102439958
+SourceActivity: net.manslateresad.listaHombre
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {28d84a1}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+Hash: 414803
+SourceActivity: net.manslateresad.TraductorHombre
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {95e8d66}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
 Hash: MENU
 Event: MENU
-Hash: 1105393528
+Hash: 5232657
+SourceActivity: net.manslateresad.listaHombre
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9f09214}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+Hash: 414803
+SourceActivity: net.manslateresad.TraductorHombre
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {95e8d66}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+Hash: 30789334
+SourceActivity: net.manslateresad.listaHombre
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d293a61}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+Hash: 414803
+SourceActivity: net.manslateresad.TraductorHombre
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {95e8d66}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+Hash: 254049745
+SourceActivity: net.manslateresad.listaHombre
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2e7bc28}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+Hash: 414803
+SourceActivity: net.manslateresad.TraductorHombre
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {95e8d66}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+Hash: 160857944
+SourceActivity: net.manslateresad.listaHombre
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e061a2b}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+Hash: 414803
+SourceActivity: net.manslateresad.TraductorHombre
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {95e8d66}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+Hash: 241558555
+SourceActivity: net.manslateresad.listaHombre
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b3ab5da}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+Hash: 414803
+SourceActivity: net.manslateresad.TraductorHombre
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {95e8d66}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+Hash: 203180426
+SourceActivity: net.manslateresad.listaHombre
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2b42865}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+Hash: 414803
+SourceActivity: net.manslateresad.TraductorHombre
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {95e8d66}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+Hash: BACK
+Event: BACK
+SourceActivity: net.manslateresad.listaHombre
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: net.manslateresad.TraductorHombre
+Hash: 14141414
 SourceActivity: net.manslateresad.Inicio
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb4df8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e0ac735}
 Class: class android.widget.ImageButton
 WidgetID: net.manslateresad:id/TraductorHombre
 Hash: BACK
 Event: BACK
 SourceActivity: net.manslateresad.TraductorHombre
-Hash: 1105393528
-SourceActivity: net.manslateresad.TraductorHombre
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb4df8}
+Hash: 14141414
+SourceActivity: net.manslateresad.Inicio
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e0ac735}
 Class: class android.widget.ImageButton
 WidgetID: net.manslateresad:id/TraductorHombre
 Hash: BACK
 Event: BACK
 SourceActivity: net.manslateresad.TraductorHombre
-Hash: 1105393528
-SourceActivity: net.manslateresad.TraductorHombre
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb4df8}
+Hash: 14141414
+SourceActivity: net.manslateresad.Inicio
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e0ac735}
 Class: class android.widget.ImageButton
 WidgetID: net.manslateresad:id/TraductorHombre
 Hash: BACK
 Event: BACK
 SourceActivity: net.manslateresad.TraductorHombre
-Hash: 1104366288
-SourceActivity: net.manslateresad.TraductorHombre
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb4df8}
+Hash: 125495592
+SourceActivity: net.manslateresad.Inicio
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e0ac735}
 Class: class android.widget.ImageButton
 WidgetID: net.manslateresad:id/TraductorMujer
-Hash: 1178262664
+Hash: 147001671
 SourceActivity: net.manslateresad.TraductorMujer
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {463b28b8}
-Class: class android.widget.ImageButton
-WidgetID: net.manslateresad:id/frases
-Hash: 1178390120
-SourceActivity: net.manslateresad.listaMujer
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {463cef70}
-Class: class android.widget.ListView
-WidgetID: net.manslateresad:id/ListView01
-Hash: 1178262664
-SourceActivity: net.manslateresad.TraductorMujer
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {463b28b8}
-Class: class android.widget.ImageButton
-WidgetID: net.manslateresad:id/frases
-Hash: 1178523584
-SourceActivity: net.manslateresad.listaMujer
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {463ef588}
-Class: class android.widget.ListView
-WidgetID: net.manslateresad:id/ListView01
-Hash: 1178262664
-SourceActivity: net.manslateresad.TraductorMujer
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {463b28b8}
-Class: class android.widget.ImageButton
-WidgetID: net.manslateresad:id/frases
-Hash: 1178657688
-SourceActivity: net.manslateresad.listaMujer
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {46410160}
-Class: class android.widget.ListView
-WidgetID: net.manslateresad:id/ListView01
-Hash: 1178262664
-SourceActivity: net.manslateresad.TraductorMujer
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {463b28b8}
-Class: class android.widget.ImageButton
-WidgetID: net.manslateresad:id/frases
-Hash: MENU
-Event: MENU
-Hash: 1177892288
-SourceActivity: net.manslateresad.listaMujer
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c72e18}
-Class: class android.widget.ListView
-WidgetID: net.manslateresad:id/ListView01
-Hash: 1178262664
-SourceActivity: net.manslateresad.TraductorMujer
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {463b28b8}
-Class: class android.widget.ImageButton
-WidgetID: net.manslateresad:id/frases
-Hash: 1178029184
-SourceActivity: net.manslateresad.listaMujer
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41ff3048}
-Class: class android.widget.ListView
-WidgetID: net.manslateresad:id/ListView01
-Hash: 1178262664
-SourceActivity: net.manslateresad.TraductorMujer
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {463b28b8}
-Class: class android.widget.ImageButton
-WidgetID: net.manslateresad:id/frases
-Hash: 1178165288
-SourceActivity: net.manslateresad.listaMujer
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {463b8228}
-Class: class android.widget.ListView
-WidgetID: net.manslateresad:id/ListView01
-Hash: 1178262664
-SourceActivity: net.manslateresad.TraductorMujer
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {463b28b8}
-Class: class android.widget.ImageButton
-WidgetID: net.manslateresad:id/frases
-Hash: 1103327104
-SourceActivity: net.manslateresad.listaMujer
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {463412b8}
-Class: class android.widget.ListView
-WidgetID: net.manslateresad:id/ListView01
-Hash: 1178262664
-SourceActivity: net.manslateresad.TraductorMujer
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {463b28b8}
-Class: class android.widget.ImageButton
-WidgetID: net.manslateresad:id/frases
-Hash: 1178025104
-SourceActivity: net.manslateresad.listaMujer
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {46395b90}
-Class: class android.widget.ListView
-WidgetID: net.manslateresad:id/ListView01
-Hash: 1178262664
-SourceActivity: net.manslateresad.TraductorMujer
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {463b28b8}
-Class: class android.widget.ImageButton
-WidgetID: net.manslateresad:id/frases
-Hash: BACK
-Event: BACK
-SourceActivity: net.manslateresad.listaMujer
-Hash: 1178261344
-SourceActivity: net.manslateresad.TraductorMujer
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {463b28b8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9c9be5e}
 Class: class android.widget.ImageButton
 WidgetID: net.manslateresad:id/micro
 Hash: MENU
 Event: MENU
+Hash: 238824820
+SourceActivity: net.manslateresad.TraductorMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9c9be5e}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+Hash: 143686414
+SourceActivity: net.manslateresad.listaMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5366c1f}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+Hash: 238824820
+SourceActivity: net.manslateresad.TraductorMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9c9be5e}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+Hash: 165190415
+SourceActivity: net.manslateresad.listaMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6e54fcc}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+Hash: 238824820
+SourceActivity: net.manslateresad.TraductorMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9c9be5e}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+Hash: 71451644
+SourceActivity: net.manslateresad.listaMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cbf7ef5}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+Hash: 238824820
+SourceActivity: net.manslateresad.TraductorMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9c9be5e}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+Hash: 36638565
+SourceActivity: net.manslateresad.listaMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7a6fea}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+Hash: 238824820
+SourceActivity: net.manslateresad.TraductorMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9c9be5e}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+Hash: 218539930
+SourceActivity: net.manslateresad.listaMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6072abb}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+Hash: 238824820
+SourceActivity: net.manslateresad.TraductorMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9c9be5e}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+Hash: 39073963
+SourceActivity: net.manslateresad.listaMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {60aa638}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+Hash: 238824820
+SourceActivity: net.manslateresad.TraductorMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9c9be5e}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+Hash: 261098856
+SourceActivity: net.manslateresad.listaMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {633e0f1}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+Hash: 238824820
+SourceActivity: net.manslateresad.TraductorMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9c9be5e}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+Hash: 212723809
+SourceActivity: net.manslateresad.listaMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5b90636}
+Class: class android.widget.ListView
+WidgetID: net.manslateresad:id/ListView01
+Hash: 238824820
+SourceActivity: net.manslateresad.TraductorMujer
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9c9be5e}
+Class: class android.widget.ImageButton
+WidgetID: net.manslateresad:id/frases
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: net.manslateresad.listaMujer
 Hash: BACK
 Event: BACK
 SourceActivity: net.manslateresad.TraductorMujer
-Hash: 1105393528
+Hash: 14141414
 SourceActivity: net.manslateresad.Inicio
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41fb4df8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e0ac735}
 Class: class android.widget.ImageButton
 WidgetID: net.manslateresad:id/TraductorHombre
 Hash: BACK

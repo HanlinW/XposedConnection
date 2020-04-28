@@ -1,638 +1,1289 @@
-Hash: 1111536936
+Hash: 223587166
 SourceActivity: com.bleyl.recurrence.activities.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42269578}
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {20b0827}
+Class: class android.widget.LinearLayout
+Hash: 147951066
+SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c69de1}
+Class: class android.widget.ScrollView
+WidgetID: com.bleyl.recurrence:id/scroll
+Hash: 89945971
+SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c69de1}
+Class: class android.support.v7.view.menu.ActionMenuItemView
+WidgetID: com.bleyl.recurrence:id/action_delete
+MenuItemID: com.bleyl.recurrence:id/action_delete
+MenuItemTitle: Delete
+Hash: 146975571
+SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+DialogClass: class android.support.v7.app.AlertDialog
 Hash: MENU
 Event: MENU
-Hash: 1111536936
+Hash: 85602763
+SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e7c263e}
+Class: class android.support.v4.widget.NestedScrollView
+WidgetID: com.bleyl.recurrence:id/scrollView
+Hash: 211061844
+SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e7c263e}
+Class: class android.support.v7.widget.AppCompatButton
+WidgetID: android:id/button2
+ButtonText: No
+Hash: 89945971
+SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c69de1}
+Class: class android.support.v7.view.menu.ActionMenuItemView
+WidgetID: com.bleyl.recurrence:id/action_delete
+MenuItemID: com.bleyl.recurrence:id/action_delete
+MenuItemTitle: Delete
+Hash: 45840378
+SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+DialogClass: class android.support.v7.app.AlertDialog
+Hash: 193459788
+SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b73695}
+Class: class android.support.v7.widget.AppCompatButton
+WidgetID: android:id/button1
+ButtonText: Yes
+Hash: 177164626
 SourceActivity: com.bleyl.recurrence.activities.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42269578}
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-Hash: 1112147760
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {20b0827}
+Class: class android.support.v4.view.ViewPager
+WidgetID: com.bleyl.recurrence:id/viewpager
+Hash: 95848453
 SourceActivity: com.bleyl.recurrence.activities.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424a56d8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {20b0827}
+Class: class android.widget.FrameLayout
+WidgetID: com.bleyl.recurrence:id/frame
+Hash: 177164626
+SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {20b0827}
+Class: class android.support.v4.view.ViewPager
+WidgetID: com.bleyl.recurrence:id/viewpager
+Hash: 48659411
+SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {20b0827}
+Class: class android.support.design.widget.FloatingActionButton
+WidgetID: com.bleyl.recurrence:id/fab_button
+Hash: 164541474
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a61d3d}
+Class: class android.widget.LinearLayout
+WidgetID: com.bleyl.recurrence:id/time_row
+Hash: 240321030
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+DialogClass: class android.app.TimePickerDialog
+DialogTitle: 
+Hash: 203466893
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3957f9a}
+Class: class android.widget.RadialTimePickerView
+WidgetID: android:id/radial_picker
+Hash: 225872311
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3957f9a}
+Class: class android.support.v7.widget.AppCompatCheckedTextView
+WidgetID: android:id/am_label
+Hash: 203466893
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3957f9a}
+Class: class android.widget.RadialTimePickerView
+WidgetID: android:id/radial_picker
+Hash: 203466893
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3957f9a}
+Class: class android.widget.RadialTimePickerView
+WidgetID: android:id/radial_picker
+Hash: MENU
+Event: MENU
+Hash: 24920201
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3957f9a}
+Class: class android.support.v7.widget.AppCompatButton
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 164541474
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a61d3d}
+Class: class android.widget.LinearLayout
+WidgetID: com.bleyl.recurrence:id/time_row
+Hash: 237921776
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+DialogClass: class android.app.TimePickerDialog
+DialogTitle: 
+Hash: 62523939
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9933e38}
+Class: class android.support.v7.widget.AppCompatTextView
+WidgetID: android:id/minutes
+Hash: 126783453
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9933e38}
+Class: class android.support.v7.widget.AppCompatTextView
+WidgetID: android:id/hours
+Hash: 127477119
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9933e38}
+Class: class android.widget.RadialTimePickerView
+WidgetID: android:id/radial_picker
+Hash: 215477930
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9933e38}
+Class: class android.support.v7.widget.AppCompatButton
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: 164541474
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a61d3d}
+Class: class android.widget.LinearLayout
+WidgetID: com.bleyl.recurrence:id/time_row
+Hash: 18304863
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+DialogClass: class android.app.TimePickerDialog
+DialogTitle: 
+Hash: 174209765
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {97a3847}
+Class: class android.support.v7.widget.AppCompatCheckedTextView
+WidgetID: android:id/pm_label
+Hash: 199428538
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {97a3847}
+Class: class android.widget.RadialTimePickerView
+WidgetID: android:id/radial_picker
+Hash: 199428538
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {97a3847}
+Class: class android.widget.RadialTimePickerView
+WidgetID: android:id/radial_picker
+Hash: 199428538
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {97a3847}
+Class: class android.widget.RadialTimePickerView
+WidgetID: android:id/radial_picker
+Hash: 199428538
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {97a3847}
+Class: class android.widget.RadialTimePickerView
+WidgetID: android:id/radial_picker
+Hash: BACK
+Event: BACK
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Hash: 100078351
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a61d3d}
+Class: class android.widget.LinearLayout
+WidgetID: com.bleyl.recurrence:id/date_row
+Hash: 68748658
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+DialogClass: class android.app.DatePickerDialog
+DialogTitle: 
+Hash: 170713615
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8870934}
+Class: class android.widget.SimpleMonthView
+WidgetID: android:id/month_view
+Hash: 98537515
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8870934}
+Class: class android.support.v7.widget.AppCompatImageButton
+WidgetID: android:id/next
+Hash: 237236969
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8870934}
+Class: class android.support.v7.widget.AppCompatTextView
+WidgetID: android:id/date_picker_header_year
+Hash: 15968838
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8870934}
+Class: class android.support.v7.widget.AppCompatButton
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: 100078351
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a61d3d}
+Class: class android.widget.LinearLayout
+WidgetID: com.bleyl.recurrence:id/date_row
+Hash: 236995287
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+DialogClass: class android.app.DatePickerDialog
+DialogTitle: 
+Hash: 234877842
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d29ef51}
+Class: class android.support.v7.widget.AppCompatTextView
+WidgetID: android:id/date_picker_header_year
+Hash: 191611830
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d29ef51}
+Class: class android.widget.YearPickerView
+WidgetID: android:id/date_picker_year_picker
+Hash: 234877842
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d29ef51}
+Class: class android.support.v7.widget.AppCompatTextView
+WidgetID: android:id/date_picker_header_year
+Hash: 191611830
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d29ef51}
+Class: class android.widget.YearPickerView
+WidgetID: android:id/date_picker_year_picker
+Hash: 234877842
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d29ef51}
+Class: class android.support.v7.widget.AppCompatTextView
+WidgetID: android:id/date_picker_header_year
+Hash: 191611830
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d29ef51}
+Class: class android.widget.YearPickerView
+WidgetID: android:id/date_picker_year_picker
+Hash: 234877842
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d29ef51}
+Class: class android.support.v7.widget.AppCompatTextView
+WidgetID: android:id/date_picker_header_year
+Hash: 191611830
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d29ef51}
+Class: class android.widget.YearPickerView
+WidgetID: android:id/date_picker_year_picker
+Hash: 234877842
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d29ef51}
+Class: class android.support.v7.widget.AppCompatTextView
+WidgetID: android:id/date_picker_header_year
+Hash: 191611830
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d29ef51}
+Class: class android.widget.YearPickerView
+WidgetID: android:id/date_picker_year_picker
+Hash: 234877842
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d29ef51}
+Class: class android.support.v7.widget.AppCompatTextView
+WidgetID: android:id/date_picker_header_year
+Hash: 119365987
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d29ef51}
+Class: class android.support.v7.widget.AppCompatTextView
+WidgetID: android:id/date_picker_header_date
+Hash: 234877842
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d29ef51}
+Class: class android.support.v7.widget.AppCompatTextView
+WidgetID: android:id/date_picker_header_year
+Hash: 191611830
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d29ef51}
+Class: class android.widget.YearPickerView
+WidgetID: android:id/date_picker_year_picker
+Hash: 234877842
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d29ef51}
+Class: class android.support.v7.widget.AppCompatTextView
+WidgetID: android:id/date_picker_header_year
+Hash: MENU
+Event: MENU
+Hash: 191611830
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d29ef51}
+Class: class android.widget.YearPickerView
+WidgetID: android:id/date_picker_year_picker
+Hash: 234877842
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d29ef51}
+Class: class android.support.v7.widget.AppCompatTextView
+WidgetID: android:id/date_picker_header_year
+Hash: 205220984
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d29ef51}
+Class: class android.support.v7.widget.AppCompatButton
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 100078351
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a61d3d}
+Class: class android.widget.LinearLayout
+WidgetID: com.bleyl.recurrence:id/date_row
+Hash: 3438696
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+DialogClass: class android.app.DatePickerDialog
+DialogTitle: 
+Hash: 209828439
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2eb64ba}
+Class: class android.support.v7.widget.AppCompatTextView
+WidgetID: android:id/date_picker_header_year
+Hash: 147242859
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2eb64ba}
+Class: class android.widget.YearPickerView
+WidgetID: android:id/date_picker_year_picker
+Hash: 209828439
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2eb64ba}
+Class: class android.support.v7.widget.AppCompatTextView
+WidgetID: android:id/date_picker_header_year
+Hash: 209828439
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2eb64ba}
+Class: class android.support.v7.widget.AppCompatTextView
+WidgetID: android:id/date_picker_header_year
+Hash: BACK
+Event: BACK
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Hash: 100078351
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a61d3d}
+Class: class android.widget.LinearLayout
+WidgetID: com.bleyl.recurrence:id/date_row
+Hash: 121936693
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+DialogClass: class android.app.DatePickerDialog
+DialogTitle: 
+Hash: 254391622
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {673fbff}
+Class: class android.widget.SimpleMonthView
+WidgetID: android:id/month_view
+Hash: 254391622
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {673fbff}
+Class: class android.widget.SimpleMonthView
+WidgetID: android:id/month_view
+Hash: 254391622
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {673fbff}
+Class: class android.widget.SimpleMonthView
+WidgetID: android:id/month_view
+Hash: 254391622
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {673fbff}
+Class: class android.widget.SimpleMonthView
+WidgetID: android:id/month_view
+Hash: MENU
+Event: MENU
+Hash: 254391622
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {673fbff}
+Class: class android.widget.SimpleMonthView
+WidgetID: android:id/month_view
+Hash: 63879773
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {673fbff}
+Class: class android.support.v7.widget.AppCompatImageButton
+WidgetID: android:id/prev
+Hash: 69317383
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {673fbff}
+Class: class android.widget.SimpleMonthView
+WidgetID: android:id/month_view
+Hash: 69317383
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {673fbff}
+Class: class android.widget.SimpleMonthView
+WidgetID: android:id/month_view
+Hash: 163684185
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {673fbff}
+Class: class android.support.v7.widget.AppCompatButton
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: 100078351
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a61d3d}
+Class: class android.widget.LinearLayout
+WidgetID: com.bleyl.recurrence:id/date_row
+Hash: 8752254
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+DialogClass: class android.app.DatePickerDialog
+DialogTitle: 
+Hash: 137105978
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3798460}
+Class: class android.support.v7.widget.AppCompatTextView
+WidgetID: android:id/date_picker_header_date
+Hash: 21823587
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3798460}
+Class: class android.support.v7.widget.AppCompatButton
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 100078351
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a61d3d}
+Class: class android.widget.LinearLayout
+WidgetID: com.bleyl.recurrence:id/date_row
+Hash: 23400806
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+DialogClass: class android.app.DatePickerDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Hash: 188131928
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a61d3d}
+Class: class android.widget.ScrollView
+Hash: 100078351
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a61d3d}
+Class: class android.widget.LinearLayout
+WidgetID: com.bleyl.recurrence:id/date_row
+Hash: 151945235
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+DialogClass: class android.app.DatePickerDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Hash: 4645919
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a61d3d}
+Class: class android.widget.ImageButton
+MenuItemID: android:id/home
+MenuItemTitle: null
+Hash: 48659411
+SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {20b0827}
+Class: class android.support.design.widget.FloatingActionButton
+WidgetID: com.bleyl.recurrence:id/fab_button
+Hash: 46987738
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ee16fe7}
+Class: class android.support.v7.view.menu.ActionMenuItemView
+WidgetID: com.bleyl.recurrence:id/action_save
+MenuItemID: com.bleyl.recurrence:id/action_save
+MenuItemTitle: Save
+Hash: 134668521
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ee16fe7}
+Class: class android.widget.ScrollView
+Hash: 134668521
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ee16fe7}
+Class: class android.widget.ScrollView
+Hash: 154786739
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ee16fe7}
+Class: class android.support.v7.widget.AppCompatEditText
+WidgetID: com.bleyl.recurrence:id/notification_title
+Hash: 175836715
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ee16fe7}
+Class: class android.widget.LinearLayout
+WidgetID: com.bleyl.recurrence:id/time_row
+Hash: 199190924
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+DialogClass: class android.app.TimePickerDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Hash: 134668521
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ee16fe7}
+Class: class android.widget.ScrollView
+Hash: 134668521
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ee16fe7}
+Class: class android.widget.ScrollView
+Hash: MENU
+Event: MENU
+Hash: 184815412
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ee16fe7}
+Class: class android.widget.LinearLayout
+WidgetID: com.bleyl.recurrence:id/date_row
+Hash: 146663311
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+DialogClass: class android.app.DatePickerDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Hash: 199467685
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ee16fe7}
+Class: class android.support.v7.widget.AppCompatEditText
+WidgetID: com.bleyl.recurrence:id/notification_content
+Hash: 175836715
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ee16fe7}
+Class: class android.widget.LinearLayout
+WidgetID: com.bleyl.recurrence:id/time_row
+Hash: 130784726
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+DialogClass: class android.app.TimePickerDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+Hash: 179716549
+SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {20b0827}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Hash: 93297108
+SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2d209ed}
 Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
-Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
-Hash: 1112280936
+MenuItemID: com.bleyl.recurrence:id/action_about
+MenuItemTitle: About
+Hash: 48027522
 SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424e5090}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2f1288a}
 Class: class android.widget.ScrollView
 WidgetID: com.bleyl.recurrence:id/scroll
-Hash: 1112280936
+Hash: 48027522
 SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424e5090}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2f1288a}
 Class: class android.widget.ScrollView
 WidgetID: com.bleyl.recurrence:id/scroll
-Hash: 1112280936
+Hash: 36803062
 SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424e5090}
-Class: class android.widget.ScrollView
-WidgetID: com.bleyl.recurrence:id/scroll
-Hash: 1112277048
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424e5090}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2f1288a}
 Class: class android.support.v7.widget.Toolbar
 WidgetID: com.bleyl.recurrence:id/toolbar
-Hash: 1112280936
+Hash: 144534528
 SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424e5090}
-Class: class android.widget.ScrollView
-WidgetID: com.bleyl.recurrence:id/scroll
-Hash: 1112382472
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424e5090}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2f1288a}
 Class: class android.widget.LinearLayout
+Hash: 105533665
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+DialogClass: class android.support.v7.app.AlertDialog
+Hash: 31682517
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a00bd3e}
+Class: class android.widget.ScrollView
+Hash: 31682517
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a00bd3e}
+Class: class android.widget.ScrollView
+Hash: 31682517
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a00bd3e}
+Class: class android.widget.ScrollView
+Hash: 31682517
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a00bd3e}
+Class: class android.widget.ScrollView
+Hash: 31682517
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a00bd3e}
+Class: class android.widget.ScrollView
+Hash: 31682517
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a00bd3e}
+Class: class android.widget.ScrollView
+Hash: MENU
+Event: MENU
+Hash: 31682517
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a00bd3e}
+Class: class android.widget.ScrollView
+Hash: 31682517
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a00bd3e}
+Class: class android.widget.ScrollView
+Hash: 38287865
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a00bd3e}
+Class: class android.support.v7.widget.AppCompatButton
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 144534528
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2f1288a}
+Class: class android.widget.LinearLayout
+Hash: 188820651
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+DialogClass: class android.support.v7.app.AlertDialog
+Hash: BACK
+Event: BACK
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Hash: 36803062
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2f1288a}
+Class: class android.support.v7.widget.Toolbar
+WidgetID: com.bleyl.recurrence:id/toolbar
+Hash: MENU
+Event: MENU
+Hash: 222323878
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2f1288a}
 Class: class android.widget.LinearLayout
 Hash: BACK
 Event: BACK
 SourceActivity: com.android.internal.app.ResolverActivity
-Hash: 1112386864
+Hash: 75708733
 SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424e5090}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2f1288a}
 Class: class android.widget.LinearLayout
-Class: class android.widget.LinearLayout
-Hash: 1112679896
+Hash: 98909358
 SourceActivity: com.bleyl.recurrence.activities.AboutActivity
 DialogClass: class android.support.v7.app.AlertDialog
-Hash: 1112653120
+Hash: 211288594
 SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42533120}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f5342a4}
 Class: class android.widget.ScrollView
-Class: class android.widget.ScrollView
-Hash: 1112658336
+Hash: 117538103
 SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42533120}
-Class: class android.support.v7.widget.AppCompatTextView
-WidgetID: com.bleyl.recurrence:id/tab_link
-Hash: BACK
-Event: BACK
-SourceActivity: com.android.browser.BrowserActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f5342a4}
+Class: class android.support.v7.widget.AppCompatButton
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 75708733
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2f1288a}
+Class: class android.widget.LinearLayout
+Hash: 36303218
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+DialogClass: class android.support.v7.app.AlertDialog
+Hash: 179264406
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {840f888}
+Class: class android.widget.ScrollView
 Hash: MENU
 Event: MENU
-Hash: 1112653120
+Hash: 95890288
 SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42533120}
-Class: class android.widget.ScrollView
-Class: class android.widget.ScrollView
-Hash: 1112653120
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42533120}
-Class: class android.widget.ScrollView
-Class: class android.widget.ScrollView
-Hash: 1112664256
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42533120}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {840f888}
 Class: class android.support.v7.widget.AppCompatTextView
 WidgetID: com.bleyl.recurrence:id/butter_knife_link
 Hash: BACK
 Event: BACK
-SourceActivity: com.android.browser.BrowserActivity
-Hash: 1112742824
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: 179264406
 SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42533120}
-Class: class android.support.v7.widget.AppCompatButton
-WidgetID: android:id/button1
-ButtonText: 确定
-Hash: 1112386864
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {840f888}
+Class: class android.widget.ScrollView
+Hash: 75501805
 SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424e5090}
-Class: class android.widget.LinearLayout
-Class: class android.widget.LinearLayout
-Hash: 1113220192
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {840f888}
+Class: class android.support.v7.widget.AppCompatTextView
+WidgetID: com.bleyl.recurrence:id/tab_link
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: 179264406
 SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-DialogClass: class android.support.v7.app.AlertDialog
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {840f888}
+Class: class android.widget.ScrollView
 Hash: BACK
 Event: BACK
 SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Hash: 1112280936
+Hash: 48027522
 SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424e5090}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2f1288a}
 Class: class android.widget.ScrollView
 WidgetID: com.bleyl.recurrence:id/scroll
-Hash: 1112280936
+Hash: 48027522
 SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424e5090}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2f1288a}
 Class: class android.widget.ScrollView
 WidgetID: com.bleyl.recurrence:id/scroll
-Hash: 1112400416
+Hash: 64506359
 SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424e5090}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2f1288a}
 Class: class android.widget.ImageButton
-Class: class android.widget.ImageButton
-Hash: 1111536936
+MenuItemID: android:id/home
+MenuItemTitle: null
+Hash: 179716549
 SourceActivity: com.bleyl.recurrence.activities.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42269578}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {20b0827}
 Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-Hash: 1113683712
+Hash: 128970131
 SourceActivity: com.bleyl.recurrence.activities.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4261c6a8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2ff6183}
 Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
-Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
-Hash: 1113813416
+MenuItemID: com.bleyl.recurrence:id/action_about
+MenuItemTitle: About
+Hash: 114838471
 SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42640918}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ce083af}
 Class: class android.widget.ScrollView
 WidgetID: com.bleyl.recurrence:id/scroll
-Hash: 1113813416
+Hash: 236793740
 SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42640918}
-Class: class android.widget.ScrollView
-WidgetID: com.bleyl.recurrence:id/scroll
-Hash: 1113835048
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42640918}
-Class: class android.widget.LinearLayout
-Class: class android.widget.LinearLayout
-Hash: 1114001400
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-DialogClass: class android.support.v7.app.AlertDialog
-Hash: BACK
-Event: BACK
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Hash: 1113813416
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42640918}
-Class: class android.widget.ScrollView
-WidgetID: com.bleyl.recurrence:id/scroll
-Hash: MENU
-Event: MENU
-Hash: 1113839392
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42640918}
-Class: class android.widget.LinearLayout
-Class: class android.widget.LinearLayout
-Hash: 1113844872
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-DialogClass: class android.support.v7.app.AlertDialog
-Hash: 1106511480
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42584d08}
-Class: class android.widget.ScrollView
-Class: class android.widget.ScrollView
-Hash: 1106511480
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42584d08}
-Class: class android.widget.ScrollView
-Class: class android.widget.ScrollView
-Hash: 1106511480
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42584d08}
-Class: class android.widget.ScrollView
-Class: class android.widget.ScrollView
-Hash: 1106511480
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42584d08}
-Class: class android.widget.ScrollView
-Class: class android.widget.ScrollView
-Hash: 1106511480
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42584d08}
-Class: class android.widget.ScrollView
-Class: class android.widget.ScrollView
-Hash: 1106511480
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42584d08}
-Class: class android.widget.ScrollView
-Class: class android.widget.ScrollView
-Hash: 1106511480
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42584d08}
-Class: class android.widget.ScrollView
-Class: class android.widget.ScrollView
-Hash: 1109555000
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42584d08}
-Class: class android.support.v7.widget.AppCompatButton
-WidgetID: android:id/button1
-ButtonText: 确定
-Hash: 1113839392
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42640918}
-Class: class android.widget.LinearLayout
-Class: class android.widget.LinearLayout
-Hash: 1113083792
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-DialogClass: class android.support.v7.app.AlertDialog
-Hash: 1109489504
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42277638}
-Class: class android.widget.ScrollView
-Class: class android.widget.ScrollView
-Hash: MENU
-Event: MENU
-Hash: BACK
-Event: BACK
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Hash: 1113826392
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42640918}
-Class: class android.widget.LinearLayout
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ce083af}
 Class: class android.widget.LinearLayout
 Hash: BACK
 Event: BACK
 SourceActivity: com.android.internal.app.ChooserActivity
-Hash: 1113809832
+Hash: 114838471
 SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42640918}
-Class: class android.support.v7.widget.Toolbar
-WidgetID: com.bleyl.recurrence:id/toolbar
-Hash: 1113813416
-SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42640918}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ce083af}
 Class: class android.widget.ScrollView
 WidgetID: com.bleyl.recurrence:id/scroll
-Hash: 1113813416
+Hash: 133885878
 SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42640918}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ce083af}
+Class: class android.widget.LinearLayout
+Hash: 114297418
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+DialogClass: class android.support.v7.app.AlertDialog
+Hash: BACK
+Event: BACK
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Hash: 114838471
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ce083af}
+Class: class android.widget.ScrollView
+WidgetID: com.bleyl.recurrence:id/scroll
+Hash: 114838471
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ce083af}
+Class: class android.widget.ScrollView
+WidgetID: com.bleyl.recurrence:id/scroll
+Hash: 114838471
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ce083af}
+Class: class android.widget.ScrollView
+WidgetID: com.bleyl.recurrence:id/scroll
+Hash: 114838471
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ce083af}
+Class: class android.widget.ScrollView
+WidgetID: com.bleyl.recurrence:id/scroll
+Hash: 114838471
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ce083af}
 Class: class android.widget.ScrollView
 WidgetID: com.bleyl.recurrence:id/scroll
 Hash: BACK
 Event: BACK
 SourceActivity: com.bleyl.recurrence.activities.AboutActivity
-Hash: 1111536936
+Hash: 179716549
 SourceActivity: com.bleyl.recurrence.activities.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42269578}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {20b0827}
 Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-Hash: 1109891016
+Hash: 104001865
 SourceActivity: com.bleyl.recurrence.activities.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42241d50}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {29dbeb9}
 Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
-Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
-Hash: 1111726000
+MenuItemID: com.bleyl.recurrence:id/action_settings
+MenuItemTitle: Settings
+Hash: 11283570
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42222188}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e022f1}
+Class: class android.widget.ImageButton
+MenuItemID: android:id/home
+MenuItemTitle: null
+Hash: 179716549
+SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {20b0827}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Hash: 8768483
+SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {87173d3}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+MenuItemID: com.bleyl.recurrence:id/action_settings
+MenuItemTitle: Settings
+Hash: 44954358
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 1111726000
+Hash: 44954358
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42222188}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 1111726000
+Hash: 44954358
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42222188}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: MENU
+Event: MENU
+Hash: 44954358
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
 Class: class android.widget.ListView
 WidgetID: android:id/list
 Hash: BACK
 Event: BACK
 SourceActivity: com.android.providers.media.RingtonePickerActivity
-Hash: 1111726000
+Hash: 44954358
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42222188}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 1111726000
+Hash: 44954358
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42222188}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 1113474528
+Hash: 44954358
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 44954358
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 180185745
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
 DialogClass: class android.app.AlertDialog
 DialogTitle: Nagging interval
-Hash: 1112967136
+Hash: 136336701
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42615948}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {aff8571}
 Class: class android.widget.NumberPicker
 WidgetID: com.bleyl.recurrence:id/picker2
-Hash: 1113491192
+Hash: 263523966
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42615948}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {aff8571}
+Class: class android.support.v7.widget.AppCompatButton
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 44954358
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 88364954
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Nagging interval
+Hash: 79323670
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e1faafa}
 Class: class android.widget.NumberPicker
-WidgetID: com.bleyl.recurrence:id/picker1
-Hash: 1113491192
+WidgetID: com.bleyl.recurrence:id/picker2
+Hash: 79323670
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42615948}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e1faafa}
 Class: class android.widget.NumberPicker
-WidgetID: com.bleyl.recurrence:id/picker1
-Hash: 1112967136
+WidgetID: com.bleyl.recurrence:id/picker2
+Hash: 79323670
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42615948}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e1faafa}
 Class: class android.widget.NumberPicker
 WidgetID: com.bleyl.recurrence:id/picker2
 Hash: MENU
 Event: MENU
-Hash: 1112028120
+Hash: 192947763
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42615948}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e1faafa}
+Class: class android.support.v7.widget.AppCompatButton
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 44954358
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 90984100
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: Nagging interval
+Hash: 102465088
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {35bef04}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker2
+Hash: 102465088
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {35bef04}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker2
+Hash: 135965309
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {35bef04}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker1
+Hash: 102465088
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {35bef04}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker2
+Hash: 102465088
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {35bef04}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker2
+Hash: 135965309
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {35bef04}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker1
+Hash: 102465088
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {35bef04}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker2
+Hash: 102465088
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {35bef04}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker2
+Hash: 123354732
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {35bef04}
 Class: class android.support.v7.widget.AppCompatButton
 WidgetID: android:id/button2
-ButtonText: 取消
-Hash: 1111726000
+ButtonText: Cancel
+Hash: 44954358
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42222188}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 1114101568
+Hash: 264225628
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
 DialogClass: class android.app.AlertDialog
 DialogTitle: Nagging interval
-Hash: BACK
-Event: BACK
+Hash: 49022072
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Hash: 1111726000
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d981fbc}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker2
+Hash: 49022072
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42222188}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 1106503968
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d981fbc}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker2
+Hash: 239383253
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42222188}
-Class: class android.support.v7.widget.Toolbar
-WidgetID: com.bleyl.recurrence:id/toolbar
-Hash: 1111726000
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d981fbc}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker1
+Hash: 49022072
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42222188}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 1111726000
-SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42222188}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 1111726000
-SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42222188}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 1112692800
-SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42222188}
-Class: class android.widget.ImageButton
-Class: class android.widget.ImageButton
-Hash: 1111536936
-SourceActivity: com.bleyl.recurrence.activities.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42269578}
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-Hash: 1109891016
-SourceActivity: com.bleyl.recurrence.activities.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423225c0}
-Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
-Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d981fbc}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker2
 Hash: MENU
 Event: MENU
-Hash: 1114013152
+Hash: 239383253
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {425e7670}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 1114013152
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d981fbc}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker1
+Hash: 239383253
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {425e7670}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 1114013152
-SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {425e7670}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 1114013152
-SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {425e7670}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 1114013152
-SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {425e7670}
-Class: class android.widget.ListView
-WidgetID: android:id/list
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d981fbc}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker1
 Hash: BACK
 Event: BACK
-SourceActivity: com.android.providers.media.RingtonePickerActivity
-Hash: 1114013152
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {425e7670}
+Hash: 49022072
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d981fbc}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker2
+Hash: 49022072
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d981fbc}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker2
+Hash: BACK
+Event: BACK
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Hash: 49022072
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d981fbc}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker2
+Hash: 152629284
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d981fbc}
+Class: class android.support.v7.widget.AppCompatButton
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: 44954358
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 1114013152
+Hash: 159087135
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {425e7670}
+DialogClass: class android.app.AlertDialog
+DialogTitle: Nagging interval
+Hash: 107824939
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {78073ff}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker2
+Hash: 107824939
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {78073ff}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker2
+Hash: 6765980
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {78073ff}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker1
+Hash: BACK
+Event: BACK
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Hash: 6765980
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {78073ff}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker1
+Hash: MENU
+Event: MENU
+Hash: 6765980
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {78073ff}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker1
+Hash: 251079431
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {78073ff}
+Class: class android.support.v7.widget.AppCompatButton
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: 44954358
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 1114013152
+Hash: 86268641
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {425e7670}
+DialogClass: class android.app.AlertDialog
+DialogTitle: Nagging interval
+Hash: 229240461
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {204ddc1}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker2
+Hash: 267196046
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {204ddc1}
+Class: class android.support.v7.widget.AppCompatButton
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 44954358
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 1114013152
+Hash: 152322312
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {425e7670}
+DialogClass: class android.app.AlertDialog
+DialogTitle: Nagging interval
+Hash: 160605156
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3e4e368}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker2
+Hash: 195929105
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3e4e368}
+Class: class android.widget.NumberPicker
+WidgetID: com.bleyl.recurrence:id/picker1
+Hash: BACK
+Event: BACK
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Hash: 44954358
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 1114013152
+Hash: 44954358
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {425e7670}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 1114013152
+Hash: 44954358
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {425e7670}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 1106303512
+Hash: 44954358
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {425e7670}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 44954358
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 193305804
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
 Class: class android.support.v7.widget.Toolbar
 WidgetID: com.bleyl.recurrence:id/toolbar
-Hash: 1114013152
+Hash: 44954358
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {425e7670}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 1114013152
+Hash: 44954358
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {425e7670}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 1114013152
+Hash: 44954358
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {425e7670}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 44954358
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 44954358
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 193305804
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
+Class: class android.support.v7.widget.Toolbar
+WidgetID: com.bleyl.recurrence:id/toolbar
+Hash: 44954358
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 44954358
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 44954358
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 44954358
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 44954358
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a564ffa}
 Class: class android.widget.ListView
 WidgetID: android:id/list
 Hash: BACK
 Event: BACK
 SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
-Hash: 1111536936
+Hash: 179716549
 SourceActivity: com.bleyl.recurrence.activities.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42269578}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {20b0827}
 Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Hash: MENU
+Event: MENU
+Hash: 179716549
+SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {20b0827}
 Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
 Hash: BACK
 Event: BACK
 SourceActivity: com.bleyl.recurrence.activities.MainActivity
-Hash: 1109545432
+Hash: 112648843
 SourceActivity: com.bleyl.recurrence.activities.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42269578}
-Class: class android.support.v4.view.ViewPager
-WidgetID: com.bleyl.recurrence:id/viewpager
-Hash: 1109590328
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {20b0827}
+Class: class android.widget.FrameLayout
+WidgetID: com.bleyl.recurrence:id/frame
+Hash: 114897247
 SourceActivity: com.bleyl.recurrence.activities.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42269578}
-Class: class android.support.design.widget.FloatingActionButton
-WidgetID: com.bleyl.recurrence:id/fab_button
-Hash: 1106540064
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4264d650}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {20b0827}
+Class: class android.widget.LinearLayout
+Hash: 239879888
+SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8321fe8}
 Class: class android.support.v7.view.menu.ActionMenuItemView
-WidgetID: com.bleyl.recurrence:id/action_save
-Hash: 1106288400
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4264d650}
-Class: class android.widget.ImageButton
-Class: class android.widget.ImageButton
-Hash: 1109590328
-SourceActivity: com.bleyl.recurrence.activities.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42269578}
-Class: class android.support.design.widget.FloatingActionButton
-WidgetID: com.bleyl.recurrence:id/fab_button
-Hash: 1106519776
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42277510}
-Class: class android.widget.ScrollView
-Class: class android.widget.ScrollView
-Hash: 1106519776
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42277510}
-Class: class android.widget.ScrollView
-Class: class android.widget.ScrollView
-Hash: 1113473592
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42277510}
-Class: class android.support.v7.widget.AppCompatEditText
-WidgetID: com.bleyl.recurrence:id/notification_content
-Hash: 1106521656
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42277510}
-Class: class android.widget.LinearLayout
-WidgetID: com.bleyl.recurrence:id/time_row
-Hash: 1114210304
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-DialogClass: class android.app.TimePickerDialog
-DialogTitle: 设置时间
-Hash: 1117043560
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42472dd0}
-Class: class android.widget.NumberPicker
-WidgetID: android:id/hour
-Hash: MENU
-Event: MENU
-Hash: 1109482072
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42472dd0}
-Class: class android.widget.NumberPicker
-WidgetID: android:id/minute
-Hash: 1109482072
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42472dd0}
-Class: class android.widget.NumberPicker
-WidgetID: android:id/minute
-Hash: 1109482072
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42472dd0}
-Class: class android.widget.NumberPicker
-WidgetID: android:id/minute
-Hash: 1106269144
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42472dd0}
+WidgetID: com.bleyl.recurrence:id/action_delete
+MenuItemID: com.bleyl.recurrence:id/action_delete
+MenuItemTitle: Delete
+Hash: 236069805
+SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+DialogClass: class android.support.v7.app.AlertDialog
+Hash: 137237703
+SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {eddaaf4}
 Class: class android.support.v7.widget.AppCompatButton
 WidgetID: android:id/button1
-ButtonText: 完成
-Hash: 1106521656
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42277510}
+ButtonText: Yes
+Hash: 114897247
+SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {20b0827}
 Class: class android.widget.LinearLayout
-WidgetID: com.bleyl.recurrence:id/time_row
-Hash: 1112862624
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-DialogClass: class android.app.TimePickerDialog
-DialogTitle: 设置时间
-Hash: 1114231560
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4243fca8}
-Class: class android.widget.NumberPicker
-WidgetID: android:id/hour
-Hash: 1112246704
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4243fca8}
+Hash: 189675027
+SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {eb4548b}
+Class: class android.support.v7.view.menu.ActionMenuItemView
+WidgetID: com.bleyl.recurrence:id/action_delete
+MenuItemID: com.bleyl.recurrence:id/action_delete
+MenuItemTitle: Delete
+Hash: 69803160
+SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+DialogClass: class android.support.v7.app.AlertDialog
+Hash: 31411642
+SourceActivity: com.bleyl.recurrence.activities.ViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d9ef46b}
 Class: class android.support.v7.widget.AppCompatButton
 WidgetID: android:id/button1
-ButtonText: 完成
-Hash: 1106521656
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42277510}
-Class: class android.widget.LinearLayout
-WidgetID: com.bleyl.recurrence:id/time_row
-Hash: 1113733352
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-DialogClass: class android.app.TimePickerDialog
-DialogTitle: 设置时间
-Hash: BACK
-Event: BACK
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-Hash: 1113152416
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42277510}
-Class: class android.support.v7.widget.AppCompatEditText
-WidgetID: com.bleyl.recurrence:id/notification_title
-Hash: 1106519776
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42277510}
-Class: class android.widget.ScrollView
-Class: class android.widget.ScrollView
+ButtonText: Yes
+Hash: 177164626
+SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {20b0827}
+Class: class android.support.v4.view.ViewPager
+WidgetID: com.bleyl.recurrence:id/viewpager
+Hash: 177164626
+SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {20b0827}
+Class: class android.support.v4.view.ViewPager
+WidgetID: com.bleyl.recurrence:id/viewpager
 Hash: MENU
 Event: MENU
-Hash: 1106519776
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42277510}
-Class: class android.widget.ScrollView
-Class: class android.widget.ScrollView
-Hash: 1106521656
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42277510}
-Class: class android.widget.LinearLayout
-WidgetID: com.bleyl.recurrence:id/time_row
-Hash: 1114118608
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-DialogClass: class android.app.TimePickerDialog
-DialogTitle: 设置时间
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: 248729609
+SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a53a71f}
+Class: class android.support.v7.view.menu.ExpandedMenuView
+WidgetID: com.bleyl.recurrence:id/expanded_menu
+MenuItemID: com.bleyl.recurrence:id/action_about
+MenuItemTitle: About
 Hash: BACK
 Event: BACK
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
+SourceActivity: com.bleyl.recurrence.activities.AboutActivity
+Hash: MENU
+Event: MENU
+Hash: 248729609
+SourceActivity: com.bleyl.recurrence.activities.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c6f9b39}
+Class: class android.support.v7.view.menu.ExpandedMenuView
+WidgetID: com.bleyl.recurrence:id/expanded_menu
+MenuItemID: com.bleyl.recurrence:id/action_settings
+MenuItemTitle: Settings
 Hash: BACK
 Event: BACK
-SourceActivity: com.bleyl.recurrence.activities.CreateEditActivity
-Hash: 1109545432
-SourceActivity: com.bleyl.recurrence.activities.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42269578}
-Class: class android.support.v4.view.ViewPager
-WidgetID: com.bleyl.recurrence:id/viewpager
-Hash: 1109545432
-SourceActivity: com.bleyl.recurrence.activities.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42269578}
-Class: class android.support.v4.view.ViewPager
-WidgetID: com.bleyl.recurrence:id/viewpager
+SourceActivity: com.bleyl.recurrence.activities.PreferenceActivity
 Hash: MENU
 Event: MENU
 Hash: BACK
 Event: BACK
 SourceActivity: com.bleyl.recurrence.activities.MainActivity
-Hash: 1109545432
+Hash: BACK
+Event: BACK
 SourceActivity: com.bleyl.recurrence.activities.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42269578}
-Class: class android.support.v4.view.ViewPager
-WidgetID: com.bleyl.recurrence:id/viewpager
-Hash: 1109713928
-SourceActivity: com.bleyl.recurrence.activities.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42269578}
-Class: class android.widget.FrameLayout
-WidgetID: com.bleyl.recurrence:id/frame
-Hash: 1109770496
-SourceActivity: com.bleyl.recurrence.activities.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42269578}
-Class: class android.widget.FrameLayout
-WidgetID: com.bleyl.recurrence:id/frame
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.launcher3.Launcher

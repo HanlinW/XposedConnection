@@ -1,15 +1,57 @@
+Hash: 59149403
+SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7bdb827}
+Class: class android.widget.TextView
+WidgetID: org.legtux.m_316k.fortune:id/fortuneDisplayer
+Hash: 216227900
+SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7bdb827}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Hash: 31461299
+SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {45a0ea0}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+Hash: 216227900
+SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7bdb827}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Hash: 36349423
+SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {80f492c}
+Class: class android.support.v7.widget.ListPopupWindow$DropDownListView
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: 216227900
+SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7bdb827}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
 Hash: MENU
 Event: MENU
-Hash: 1109000664
+Hash: 216227900
 SourceActivity: org.legtux.m_316k.fortune.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {421a5728}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7bdb827}
+Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
+Hash: BACK
+Event: BACK
+SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Hash: 212285494
+SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7bdb827}
+Class: class android.support.v7.widget.Toolbar
+WidgetID: org.legtux.m_316k.fortune:id/action_bar
+Hash: MENU
+Event: MENU
+Hash: 161492758
+SourceActivity: org.legtux.m_316k.fortune.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b8be7fa}
 Class: class android.support.v7.internal.view.menu.ExpandedMenuView
 WidgetID: org.legtux.m_316k.fortune:id/expanded_menu
 Hash: MENU
 Event: MENU
-Hash: 1109000664
+Hash: 161492758
 SourceActivity: org.legtux.m_316k.fortune.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42519868}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33f6820}
 Class: class android.support.v7.internal.view.menu.ExpandedMenuView
 WidgetID: org.legtux.m_316k.fortune:id/expanded_menu
 Hash: BACK
@@ -24,33 +66,15 @@ Event: MENU
 Hash: BACK
 Event: BACK
 SourceActivity: org.legtux.m_316k.fortune.MainActivity
-Hash: 1102490272
+Hash: 55806293
 SourceActivity: org.legtux.m_316k.fortune.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b42b40}
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-Class: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton
-Hash: BACK
-Event: BACK
-SourceActivity: org.legtux.m_316k.fortune.MainActivity
-Hash: 1102808960
-SourceActivity: org.legtux.m_316k.fortune.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b42b40}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7bdb827}
 Class: class android.widget.Button
 WidgetID: org.legtux.m_316k.fortune:id/newFortune
 ButtonText: Next fortune
-Hash: 1105743568
+Hash: 141536504
 SourceActivity: org.legtux.m_316k.fortune.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b42b40}
-Class: class android.widget.TextView
-WidgetID: org.legtux.m_316k.fortune:id/fortuneDisplayer
-Hash: 1102650352
-SourceActivity: org.legtux.m_316k.fortune.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b42b40}
-Class: class android.support.v7.widget.Toolbar
-WidgetID: org.legtux.m_316k.fortune:id/action_bar
-Hash: 1105748248
-SourceActivity: org.legtux.m_316k.fortune.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41b42b40}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7bdb827}
 Class: class android.widget.Button
 WidgetID: org.legtux.m_316k.fortune:id/prev
 ButtonText: ←

@@ -1,24 +1,3115 @@
-Hash: 1106748600
+Hash: 152317965
 SourceActivity: com.cc.MainActivity
 DialogClass: class android.app.AlertDialog
 DialogTitle: 非常抱歉！
+Hash: 81285464
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {81de9d0}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 61630167
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5c9c3eb}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 192574289
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3ebf7b6}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 24112689
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 212863219
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f51ae96}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_name
+Hash: 78901166
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f51ae96}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_number
+Hash: 78901166
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f51ae96}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_number
+Hash: 212863219
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f51ae96}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_name
+Hash: 78901166
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f51ae96}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_number
+Hash: 241279851
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f51ae96}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 61630167
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5c9c3eb}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 192574289
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {920d066}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 95886385
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 67562156
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {122ec41}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_name
+Hash: 171598715
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {122ec41}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_number
+Hash: 48882500
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {122ec41}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 61630167
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5c9c3eb}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 192574289
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1927a9b}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 88640892
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 122362323
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {870aacc}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_name
+Hash: 35347982
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {870aacc}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_number
+Hash: 113446932
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {870aacc}
+Class: class android.widget.Spinner
+WidgetID: com.cc:id/alert_Friend_ChooseFriendGroip
+Hash: 14527348
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 226955319
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {24602c2}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 113446932
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {870aacc}
+Class: class android.widget.Spinner
+WidgetID: com.cc:id/alert_Friend_ChooseFriendGroip
+Hash: 252927
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
 Hash: MENU
 Event: MENU
-Hash: 1107448656
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 104025370
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {870aacc}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 确认
+Hash: 61630167
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5c9c3eb}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 192574289
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4c8f0c9}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 53284658
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 49219009
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c41ff02}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_name
+Hash: 24769876
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c41ff02}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_number
+Hash: 137040576
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c41ff02}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 确认
+Hash: 61630167
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5c9c3eb}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 192574289
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {50a7f63}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 151371300
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 4519835
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6bcb174}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_name
+Hash: 72092790
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6bcb174}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_number
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 4519835
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6bcb174}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_name
+Hash: 260095763
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6bcb174}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 61630167
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5c9c3eb}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 192574289
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d2579b3}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 164066612
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 68140011
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {28ea484}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_name
+Hash: 68140011
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {28ea484}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_name
+Hash: 227557266
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {28ea484}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 确认
+Hash: 61630167
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5c9c3eb}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 192574289
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {909b536}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 141503307
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 248422350
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {18ff4db}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_name
+Hash: MENU
+Event: MENU
+Hash: 250067139
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {18ff4db}
+Class: class android.widget.Spinner
+WidgetID: com.cc:id/alert_Friend_ChooseFriendGroip
+Hash: 55512074
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 67923077
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {18ff4db}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_number
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 103566337
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {18ff4db}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 确认
+Hash: 61630167
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5c9c3eb}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 192574289
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {486de3e}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 180430643
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: MENU
+Event: MENU
+Hash: 87050667
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3d20272}
+Class: class android.widget.Spinner
+WidgetID: com.cc:id/alert_Friend_ChooseFriendGroip
+Hash: 8223547
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 176070062
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3d20272}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 61630167
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5c9c3eb}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 192574289
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {660a86e}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 30282403
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 61630167
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5c9c3eb}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 239566299
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {687e9a2}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 61630167
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5c9c3eb}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 254509176
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {65a0633}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 12901574
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 86208005
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c2fa75f}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 确定
+Hash: 61630167
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5c9c3eb}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 254509176
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d15a7b}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 192628910
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: MENU
+Event: MENU
+Hash: 92608054
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fb908d4}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_frigrp_GroupName
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 59006914
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fb908d4}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 61630167
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5c9c3eb}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 254509176
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c384915}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 163270096
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 61630167
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5c9c3eb}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: MENU
+Event: MENU
+Hash: 61630167
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5c9c3eb}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 115775859
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5c9c3eb}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_friend
+ButtonText: CC好友
+Hash: 61630167
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5c9c3eb}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 81956912
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5c9c3eb}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_heimidan
+ButtonText: 黑名单
+Hash: 252994680
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4c84b8e}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 259513074
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6de77c0}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 252994680
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4c84b8e}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 65676611
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7134fec}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 164554035
+SourceActivity: com.cc.HMDListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: MENU
+Event: MENU
+Hash: 200874969
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {57f4938}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 252994680
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4c84b8e}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 65676611
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8d16d11}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 183257212
+SourceActivity: com.cc.HMDListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 197644030
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e550362}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_hmd_number
+Hash: 156371317
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e550362}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 确认
+Hash: 252994680
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4c84b8e}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 65676611
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {18274b}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 216246718
+SourceActivity: com.cc.HMDListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 100289136
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e53d25d}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_hmd_number
+Hash: 93429148
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e53d25d}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 252994680
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4c84b8e}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 65676611
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7b3ac94}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 202660091
+SourceActivity: com.cc.HMDListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 45231461
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9696519}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_hmd_number
+Hash: 45231461
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9696519}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_hmd_number
+Hash: 252994680
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4c84b8e}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 65676611
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {aa64245}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 147630784
+SourceActivity: com.cc.HMDListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 234217378
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cf0f2c6}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_hmd_number
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.HMDListActivity
+Hash: 137379177
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cf0f2c6}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 确认
+Hash: 252994680
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4c84b8e}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 65676611
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e214c26}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 174796917
+SourceActivity: com.cc.HMDListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.HMDListActivity
+Hash: 252994680
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4c84b8e}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: MENU
+Event: MENU
+Hash: 252994680
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4c84b8e}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 27209213
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {24627e3}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 252994680
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4c84b8e}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.HMDListActivity
+Hash: 155207565
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4c84b8e}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_heimidan
+ButtonText: 黑名单
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.HMDListActivity
+Hash: 258428964
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4c84b8e}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_friend
+ButtonText: CC好友
+Hash: 242945748
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ac7691f}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_heimidan
+ButtonText: 黑名单
+Hash: 256163996
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6ed2d2}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.HMDListActivity
+Hash: 205448747
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6ed2d2}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_phone
+ButtonText: 通讯录好友
+Hash: 208939633
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 199181534
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {78911b6}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/contactlist_List
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: 253115823
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {79dc5bc}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 125063410
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.ContactListActivity
+Hash: 5732195
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {78911b6}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_heimidan
+ButtonText: 黑名单
+Hash: 193249059
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e45ea95}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_phone
+ButtonText: 通讯录好友
+Hash: 204010891
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 87617623
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ee9e8c8}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_phone
+ButtonText: 通讯录好友
+Hash: 214107972
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ee9e8c8}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_friend
+ButtonText: CC好友
+Hash: 16830658
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {58a5cc5}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_heimidan
+ButtonText: 黑名单
+Hash: 220298161
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d592b3}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_phone
+ButtonText: 通讯录好友
+Hash: 238200153
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 238309693
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d581a7e}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_commend
+ButtonText: 推荐
+Hash: 255155506
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d581a7e}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_SetCallPic
+ButtonText: 设大头贴
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.ContactListActivity
+Hash: 81285464
 SourceActivity: com.cc.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42081c58}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {81de9d0}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 57414216
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a9f1663}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_heimidan
+ButtonText: 黑名单
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.HMDListActivity
+Hash: 81285464
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {81de9d0}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 154204548
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {723b97f}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_phone
+ButtonText: 通讯录好友
+Hash: 132382831
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.ContactListActivity
+Hash: 81285464
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {81de9d0}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 81285464
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {81de9d0}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 175212709
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 101354114
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ab43d85}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Sort
+ButtonText: 动画排行
+Hash: 142982545
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ab43d85}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/PictureList_List
+Hash: 263692749
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ab43d85}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Latest
+ButtonText: 最新动画
+Hash: 188532115
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ab43d85}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Elite
+ButtonText: 精品动画
+Hash: 264575440
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ab43d85}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Category
+ButtonText: 动画分类
+Hash: 13477033
+SourceActivity: com.cc.PictureCategoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ad9a3c7}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Latest
+ButtonText: 最新动画
+Hash: 106342284
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 264575440
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ab43d85}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Category
+ButtonText: 动画分类
+Hash: MENU
+Event: MENU
+Hash: 35655327
+SourceActivity: com.cc.PictureCategoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8c3fc25}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/picturecategory_List
+Hash: 167131414
+SourceActivity: com.cc.PictureCategoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8c3fc25}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Category
+ButtonText: 动画分类
+Hash: 174705368
+SourceActivity: com.cc.PictureCategoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8c3fc25}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Sort
+ButtonText: 动画排行
+Hash: 37200416
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 264575440
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ab43d85}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Category
+ButtonText: 动画分类
+Hash: 159274156
+SourceActivity: com.cc.PictureCategoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ea48d44}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Elite
+ButtonText: 精品动画
+Hash: 40162789
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 264575440
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ab43d85}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Category
+ButtonText: 动画分类
+Hash: 251354428
+SourceActivity: com.cc.PictureCategoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ec755be}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/picturecategory_List
+Hash: 42473428
+SourceActivity: com.cc.PictureCategoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ec755be}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Refresh
+ButtonText: 返回上级
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.PictureCategoryActivity
+Hash: 195661257
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ab43d85}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Refresh
+ButtonText: 返回上级
+Hash: MENU
+Event: MENU
+Hash: 46255650
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {405dde9}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.PictureListActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.PictureListActivity
+Hash: 81285464
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {81de9d0}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 70945813
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.PictureListActivity
+Hash: 81285464
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {81de9d0}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 81285464
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {81de9d0}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 119516303
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 加载中，请稍等...
+Hash: 142066434
+SourceActivity: com.cc.RingListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e26b05a}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_ringlist_Latest
+ButtonText: 最新铃声
+Hash: MENU
+Event: MENU
+Hash: 34825726
+SourceActivity: com.cc.RingListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bca015f}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 64623917
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.RingListActivity
+Hash: 234148883
+SourceActivity: com.cc.RingListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e26b05a}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_ringlist_Sort
+ButtonText: 铃声排行
+Hash: 120617996
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 59655760
+SourceActivity: com.cc.RingListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e26b05a}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_ringlist_Elite
+ButtonText: 精品铃声
+Hash: 202160870
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 244106614
+SourceActivity: com.cc.RingListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e26b05a}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/ringlist_listview_id
+Hash: 249593929
+SourceActivity: com.cc.RingListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e26b05a}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_ringlist_Category
+ButtonText: 铃声分类
+Hash: 96097646
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 58133381
+SourceActivity: com.cc.RingCategoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b21db01}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_ringlist_Elite
+ButtonText: 精品铃声
+Hash: 125765855
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 125765855
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 237178190
+SourceActivity: com.cc.RingListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e26b05a}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_ringlist_Refresh
+ButtonText: 返回上级
+Hash: 135923462
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 135923462
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.RingListActivity
+Hash: 81285464
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {81de9d0}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 150813938
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 加载中，请稍等...
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.RingListActivity
+Hash: 81285464
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {81de9d0}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 191199049
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.PictureListActivity
+Hash: 81285464
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {81de9d0}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 81285464
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {81de9d0}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: MENU
+Event: MENU
+Hash: 157504121
+SourceActivity: com.cc.MyPictureActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fbd733b}
+Class: class android.widget.Button
+WidgetID: com.cc:id/mypicture_browse_file
+ButtonText: 设置本地图片为来去电动画
+Hash: 236010917
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd909a9}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 236010917
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd909a9}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 236010917
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd909a9}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 236010917
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd909a9}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 236010917
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd909a9}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 236010917
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd909a9}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 236010917
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd909a9}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 236010917
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd909a9}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 236010917
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd909a9}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 236010917
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd909a9}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 236010917
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd909a9}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 236010917
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd909a9}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 236010917
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd909a9}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: MENU
+Event: MENU
+Hash: 236010917
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd909a9}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 236010917
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd909a9}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 236010917
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd909a9}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.BrowseFileActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.BrowseFileActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.BrowseFileActivity
+Hash: 61655730
+SourceActivity: com.cc.MainActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 非常抱歉！
+Hash: 159990882
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c9ce4d4}
 Class: class android.widget.Button
 WidgetID: android:id/button1
 ButtonText: 退出
 Hash: BACK
 Event: BACK
-SourceActivity: org.cyanogenmod.trebuchet.CustomHomeLauncher
-Hash: 1106752328
+SourceActivity: com.android.launcher3.Launcher
+Hash: 61655730
 SourceActivity: com.cc.MainActivity
 DialogClass: class android.app.AlertDialog
 DialogTitle: 非常抱歉！
-Hash: 1106812416
+Hash: MENU
+Event: MENU
+Hash: 148839665
 SourceActivity: com.cc.MainActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {42082ae8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c9ce4d4}
 Class: class android.widget.ScrollView
 WidgetID: android:id/scrollView
+Hash: 245376097
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {aadbabe}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 229182265
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 加载中，请稍等...
+Hash: 24112689
+SourceActivity: com.cc.RingListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {82520a2}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_ringlist_Category
+ButtonText: 铃声分类
+Hash: 111658401
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: MENU
+Event: MENU
+Hash: 6441917
+SourceActivity: com.cc.RingCategoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5a990a}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_ringlist_Category
+ButtonText: 铃声分类
+Hash: 5965588
+SourceActivity: com.cc.RingCategoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5a990a}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_ringlist_Elite
+ButtonText: 精品铃声
+Hash: 221769769
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 221769769
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 35752214
+SourceActivity: com.cc.RingListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {82520a2}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_ringlist_Refresh
+ButtonText: 返回上级
+Hash: 39206235
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 39206235
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 186946122
+SourceActivity: com.cc.RingListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {82520a2}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_ringlist_Latest
+ButtonText: 最新铃声
+Hash: 261013699
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 214020158
+SourceActivity: com.cc.RingListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {82520a2}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/ringlist_listview_id
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: 62714145
+SourceActivity: com.cc.RingListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {970e946}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 26673612
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.RingListActivity
+Hash: 212900568
+SourceActivity: com.cc.RingListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {82520a2}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_ringlist_Elite
+ButtonText: 精品铃声
+Hash: 15754471
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 39912891
+SourceActivity: com.cc.RingListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {82520a2}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_ringlist_Sort
+ButtonText: 铃声排行
+Hash: 137931689
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.RingListActivity
+Hash: 245376097
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {aadbabe}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 90078908
+SourceActivity: com.cc.MyPictureActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2f2caa8}
+Class: class android.widget.Button
+Tag: BeCalled
+WidgetID: com.cc:id/mypicture_BeCalled
+ButtonText: 传情动画
+Hash: 181610906
+SourceActivity: com.cc.MyPictureActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2f2caa8}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/mypicture_List
+Hash: MENU
+Event: MENU
+Hash: 116538031
+SourceActivity: com.cc.MyPictureActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2f2caa8}
+Class: class android.widget.Button
+Tag: CallIO
+WidgetID: com.cc:id/mypicture_CallIO
+ButtonText: 来去电动画
+Hash: 90078908
+SourceActivity: com.cc.MyPictureActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2f2caa8}
+Class: class android.widget.Button
+Tag: BeCalled
+WidgetID: com.cc:id/mypicture_BeCalled
+ButtonText: 传情动画
+Hash: 90078908
+SourceActivity: com.cc.MyPictureActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2f2caa8}
+Class: class android.widget.Button
+Tag: BeCalled
+WidgetID: com.cc:id/mypicture_BeCalled
+ButtonText: 传情动画
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.MyPictureActivity
+Hash: 245376097
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {aadbabe}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 112750278
+SourceActivity: com.cc.MyPictureActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d70a1b4}
+Class: class android.widget.Button
+WidgetID: com.cc:id/mypicture_browse_file
+ButtonText: 设置本地图片为来去电动画
+Hash: 238503799
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cee1cf8}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 238503799
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cee1cf8}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 238503799
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cee1cf8}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 238503799
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cee1cf8}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 238503799
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cee1cf8}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 238503799
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cee1cf8}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 238503799
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cee1cf8}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 238503799
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cee1cf8}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: 238503799
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cee1cf8}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: MENU
+Event: MENU
+Hash: 238503799
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cee1cf8}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.BrowseFileActivity
+Hash: 238503799
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cee1cf8}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/browse_file_list_view
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.BrowseFileActivity
+Hash: MENU
+Event: MENU
+Hash: 185526311
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {53eead4}
+Class: class com.android.internal.policy.PhoneWindow$DecorView
+Hash: MENU
+Event: MENU
+Hash: 185526311
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b4ec47d}
+Class: class com.android.internal.policy.PhoneWindow$DecorView
+Hash: MENU
+Event: MENU
+Hash: 185526311
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {615ef72}
+Class: class com.android.internal.policy.PhoneWindow$DecorView
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: 185526311
+SourceActivity: com.cc.BrowseFileActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a77dfc3}
+Class: class com.android.internal.policy.PhoneWindow$DecorView
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.BrowseFileActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.BrowseFileActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.BrowseFileActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.BrowseFileActivity
+Hash: 61655730
+SourceActivity: com.cc.MainActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 非常抱歉！
+Hash: 245376097
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4bcbd79}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 121837728
+SourceActivity: com.cc.MyPictureActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {71701e}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/mypicture_List
+Hash: MENU
+Event: MENU
+Hash: 92059485
+SourceActivity: com.cc.MyPictureActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {71701e}
+Class: class android.widget.Button
+Tag: CallIO
+WidgetID: com.cc:id/mypicture_CallIO
+ButtonText: 来去电动画
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.MyPictureActivity
+Hash: 245376097
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4bcbd79}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 41458201
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 72547754
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2b2d877}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Category
+ButtonText: 动画分类
+Hash: 206054572
+SourceActivity: com.cc.PictureCategoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b95de57}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Sort
+ButtonText: 动画排行
+Hash: 133435612
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 266768460
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2b2d877}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Sort
+ButtonText: 动画排行
+Hash: 199936149
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2b2d877}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Elite
+ButtonText: 精品动画
+Hash: 131094655
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2b2d877}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Latest
+ButtonText: 最新动画
+Hash: 148114723
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2b2d877}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/PictureList_List
+Hash: 203160987
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2b2d877}
+Class: class android.widget.RadioButton
+WidgetID: com.cc:id/common_menu_picturelist_Refresh
+ButtonText: 返回上级
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: 196131525
+SourceActivity: com.cc.PictureListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {651e128}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.PictureListActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.PictureListActivity
+Hash: 245376097
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4bcbd79}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 164356148
+SourceActivity: com.cc.RingListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 加载中，请稍等...
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.RingListActivity
+Hash: 245376097
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4bcbd79}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 35964206
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6544c06}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_phone
+ButtonText: 通讯录好友
+Hash: 25244297
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 261696842
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d321ba2}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_friend
+ButtonText: CC好友
+Hash: 221232857
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd97011}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_phone
+ButtonText: 通讯录好友
+Hash: 240319591
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 63901775
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {946b1c8}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/contactlist_List
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: 28077209
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6d70b5e}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 6557860
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.ContactListActivity
+Hash: 86501363
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {946b1c8}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_phone
+ButtonText: 通讯录好友
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.ContactListActivity
+Hash: 245376097
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4bcbd79}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 92197041
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b71c9c}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: MENU
+Event: MENU
+Hash: 92197041
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b71c9c}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 129386014
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ec8e4cc}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 72486310
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 190125853
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {29fd545}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_frigrp_GroupName
+Hash: 190125853
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {29fd545}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_frigrp_GroupName
+Hash: 5229408
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {29fd545}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 确定
+Hash: 92197041
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b71c9c}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 129386014
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9b8f5d9}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 24847076
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 67562156
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8e80eba}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_frigrp_GroupName
+Hash: 171598715
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8e80eba}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 确定
+Hash: 92197041
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b71c9c}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 129386014
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fcd330e}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 74517373
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 108187045
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7053b1b}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_frigrp_GroupName
+Hash: 92197041
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b71c9c}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 129386014
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ca13039}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 153208004
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 261038220
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d46df9a}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_frigrp_GroupName
+Hash: MENU
+Event: MENU
+Hash: 190036344
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d46df9a}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 92197041
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b71c9c}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 129386014
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9765a8f}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 103032658
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 70432346
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c029898}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_frigrp_GroupName
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 139845158
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c029898}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 92197041
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b71c9c}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 129386014
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6f9feb1}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 205611676
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 1593747
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41a443d}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 确定
+Hash: 92197041
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b71c9c}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 129386014
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {36be739}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 218269636
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 92197041
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b71c9c}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 158128729
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e50a345}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 92197041
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b71c9c}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 187510527
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {672ba9a}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 49722646
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 262584877
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cce9a41}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 92197041
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b71c9c}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 187510527
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {63dabe6}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 69566779
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 166517617
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4ea959a}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 确认
+Hash: 92197041
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b71c9c}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 187510527
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7cc7166}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 188456274
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 195134634
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {76ee2ed}
+Class: class android.widget.Spinner
+WidgetID: com.cc:id/alert_Friend_ChooseFriendGroip
+Hash: 63119430
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 7526289
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {520d64}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 195134634
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {76ee2ed}
+Class: class android.widget.Spinner
+WidgetID: com.cc:id/alert_Friend_ChooseFriendGroip
+Hash: 141681689
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: MENU
+Event: MENU
+Hash: 225324641
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {76ee2ed}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_name
+Hash: 195134634
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {76ee2ed}
+Class: class android.widget.Spinner
+WidgetID: com.cc:id/alert_Friend_ChooseFriendGroip
+Hash: 35450692
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 89599604
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {76ee2ed}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_number
+Hash: 225324641
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {76ee2ed}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_name
+Hash: 89599604
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {76ee2ed}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_number
+Hash: 192235673
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {76ee2ed}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 92197041
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b71c9c}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 187510527
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {afa053f}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 15222032
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 146708727
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a7fd60}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_name
+Hash: 246854274
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a7fd60}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_number
+Hash: 237073614
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8a7fd60}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 确认
+Hash: 92197041
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b71c9c}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 187510527
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c5526e}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 90756259
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 139240454
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7044833}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_name
+Hash: 76974109
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7044833}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_number
+Hash: 144214297
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7044833}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 确认
+Hash: 92197041
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b71c9c}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 187510527
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e636500}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 82043053
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 102521048
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {97711bd}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_name
+Hash: 197499031
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {97711bd}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_number
+Hash: MENU
+Event: MENU
+Hash: 197499031
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {97711bd}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_number
+Hash: 126711909
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {97711bd}
+Class: class android.widget.Spinner
+WidgetID: com.cc:id/alert_Friend_ChooseFriendGroip
+Hash: 183875482
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 126711909
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {97711bd}
+Class: class android.widget.Spinner
+WidgetID: com.cc:id/alert_Friend_ChooseFriendGroip
+Hash: 213500438
+SourceActivity: com.cc.FriendListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 102521048
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {97711bd}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_name
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 197499031
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {97711bd}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/alert_friend_number
+Hash: 70500493
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e842b4}
+Class: class android.widget.Editor$InsertionHandleView
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 92197041
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b71c9c}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 259966701
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b71c9c}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_friend
+ButtonText: CC好友
+Hash: 92197041
+SourceActivity: com.cc.FriendListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b71c9c}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 245376097
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4bcbd79}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 53214830
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.PictureListActivity
+Hash: 245376097
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4bcbd79}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.MyPictureActivity
+Hash: 245376097
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4bcbd79}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 245376097
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4bcbd79}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 146940604
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 245376097
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4bcbd79}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 33998260
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.PictureListActivity
+Hash: 245376097
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4bcbd79}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 69597485
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 245376097
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4bcbd79}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: 215872965
+SourceActivity: com.cc.PictureListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.PictureListActivity
+Hash: MENU
+Event: MENU
+Hash: 179017493
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3b8f91}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 76990439
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {94dc58a}
+Class: class android.widget.RelativeLayout
+WidgetID: com.cc:id/about_Root
+Hash: MENU
+Event: MENU
+Hash: 179017493
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2eb2018}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 145401146
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8339c19}
+Class: class android.widget.RelativeLayout
+WidgetID: com.cc:id/about_Root
+Hash: MENU
+Event: MENU
+Hash: 179017493
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6c026bf}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 198486341
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a575466}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_Uninstall
+ButtonText: 卸载CC
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.packageinstaller.UninstallerActivity
+Hash: MENU
+Event: MENU
+Hash: 179017493
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {eff1054}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 29209705
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5a43f8f}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_suggest
+ButtonText: 提供改进意见
+Hash: 185682100
+SourceActivity: com.cc.AboutActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 63802446
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5dc2dbd}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 提交
+Hash: 29209705
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5a43f8f}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_suggest
+ButtonText: 提供改进意见
+Hash: 23942614
+SourceActivity: com.cc.AboutActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: MENU
+Event: MENU
+Hash: 19871641
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {93b77a4}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 29209705
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5a43f8f}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_suggest
+ButtonText: 提供改进意见
+Hash: 68461899
+SourceActivity: com.cc.AboutActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 114804886
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {697b321}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/suggest_value_et
+Hash: MENU
+Event: MENU
+Hash: 247453730
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {697b321}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 139240243
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5a43f8f}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_CheckUpdate
+ButtonText: 检查更新并升级
+Hash: MENU
+Event: MENU
+Hash: 179017493
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e515ffc}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 71369645
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {327cd30}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_suggest
+ButtonText: 提供改进意见
+Hash: 218232007
+SourceActivity: com.cc.AboutActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 224923202
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {abc02fd}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/suggest_value_et
+Hash: 183291022
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {abc02fd}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 212516908
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {327cd30}
+Class: class android.widget.RelativeLayout
+WidgetID: com.cc:id/about_Root
+Hash: MENU
+Event: MENU
+Hash: 179017493
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c872b69}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 188252728
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3cf2f76}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_suggest
+ButtonText: 提供改进意见
+Hash: 216074757
+SourceActivity: com.cc.AboutActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 65109144
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b4d46b}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/suggest_value_et
+Hash: 12438084
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4b4d46b}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 259494293
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3cf2f76}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_Uninstall
+ButtonText: 卸载CC
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.packageinstaller.UninstallerActivity
+Hash: MENU
+Event: MENU
+Hash: 179017493
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bd8d537}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 83651262
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd62a6c}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_suggest
+ButtonText: 提供改进意见
+Hash: 147616179
+SourceActivity: com.cc.AboutActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 131604510
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ba98dc9}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/suggest_value_et
+Hash: 140648490
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ba98dc9}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 109107009
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd62a6c}
+Class: class android.widget.RelativeLayout
+WidgetID: com.cc:id/about_Root
+Hash: MENU
+Event: MENU
+Hash: 179017493
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {dacfb8a}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 113087840
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a3a1ade}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_suggest
+ButtonText: 提供改进意见
+Hash: 178308850
+SourceActivity: com.cc.AboutActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 143434345
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {237a220}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/suggest_value_et
+Hash: 147061797
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {237a220}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 156611563
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a3a1ade}
+Class: class android.widget.RelativeLayout
+WidgetID: com.cc:id/about_Root
+Hash: MENU
+Event: MENU
+Hash: 179017493
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {89ed47c}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 95620653
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {34df8f3}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_suggest
+ButtonText: 提供改进意见
+Hash: 132052614
+SourceActivity: com.cc.AboutActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 194455309
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {28817d4}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/suggest_value_et
+Hash: 136062729
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {28817d4}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 159274156
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {34df8f3}
+Class: class android.widget.RelativeLayout
+WidgetID: com.cc:id/about_Root
+Hash: MENU
+Event: MENU
+Hash: 179017493
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {de1670}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 124661019
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {844d491}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_suggest
+ButtonText: 提供改进意见
+Hash: 158246396
+SourceActivity: com.cc.AboutActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 34624763
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c01b63a}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/suggest_value_et
+Hash: 193283543
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c01b63a}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 140379090
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {844d491}
+Class: class android.widget.RelativeLayout
+WidgetID: com.cc:id/about_Root
+Hash: MENU
+Event: MENU
+Hash: 179017493
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {84a72b6}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 31080441
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e6e1d9f}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_suggest
+ButtonText: 提供改进意见
+Hash: 39963554
+SourceActivity: com.cc.AboutActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 31665881
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {38e4650}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/suggest_value_et
+Hash: 30334869
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {38e4650}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 230685352
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e6e1d9f}
+Class: class android.widget.RelativeLayout
+WidgetID: com.cc:id/about_Root
+Hash: MENU
+Event: MENU
+Hash: 179017493
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fe7b7ac}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 36809287
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {997a39d}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_suggest
+ButtonText: 提供改进意见
+Hash: 242175224
+SourceActivity: com.cc.AboutActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 104978471
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {56fa996}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/suggest_value_et
+Hash: 233426883
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {56fa996}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.AboutActivity
+Hash: 36809287
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {997a39d}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_suggest
+ButtonText: 提供改进意见
+Hash: 62909329
+SourceActivity: com.cc.AboutActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 38124436
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6bb34d7}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/suggest_value_et
+Hash: 38124436
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6bb34d7}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/suggest_value_et
+Hash: 257324931
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6bb34d7}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: 提交
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.AboutActivity
+Hash: 36809287
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {997a39d}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_suggest
+ButtonText: 提供改进意见
+Hash: 140052227
+SourceActivity: com.cc.AboutActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 162788782
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7281399}
+Class: class android.widget.EditText
+WidgetID: com.cc:id/suggest_value_et
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.AboutActivity
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.AboutActivity
+Hash: 249776814
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {997a39d}
+Class: class android.widget.RelativeLayout
+WidgetID: com.cc:id/about_Root
+Hash: MENU
+Event: MENU
+Hash: 179017493
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8757b7d}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 236010917
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bdb57a}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_Close
+ButtonText: 返回
+Hash: MENU
+Event: MENU
+Hash: 179017493
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c0ae988}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: MENU
+Event: MENU
+Hash: 212758826
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8d814ef}
+Class: class android.widget.RelativeLayout
+WidgetID: com.cc:id/about_Root
+Hash: MENU
+Event: MENU
+Hash: 179017493
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e527285}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 32253782
+SourceActivity: com.cc.AboutActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e9b62e2}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_about_CheckUpdate
+ButtonText: 检查更新并升级
+Hash: MENU
+Event: MENU
+Hash: 179017493
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {615185c}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.AboutActivity
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: 40480795
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4a89089}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 153220592
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.ScrollView
+Hash: 153220592
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.ScrollView
+Hash: 153220592
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.ScrollView
+Hash: 153220592
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.ScrollView
+Hash: 153220592
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.ScrollView
+Hash: 267031304
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.Spinner
+WidgetID: com.cc:id/setting_ChoiceRingPreviewType
+Hash: 153069987
+SourceActivity: com.cc.SettingActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: MENU
+Event: MENU
+Hash: 81032834
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {829d985}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 267031304
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.Spinner
+WidgetID: com.cc:id/setting_ChoiceRingPreviewType
+Hash: 129204415
+SourceActivity: com.cc.SettingActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 239782071
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {19a38e}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 267031304
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.Spinner
+WidgetID: com.cc:id/setting_ChoiceRingPreviewType
+Hash: 252603936
+SourceActivity: com.cc.SettingActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 25682232
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cf1f113}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 267031304
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.Spinner
+WidgetID: com.cc:id/setting_ChoiceRingPreviewType
+Hash: 216266909
+SourceActivity: com.cc.SettingActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.SettingActivity
+Hash: 153220592
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.ScrollView
+Hash: 3609264
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.CheckBox
+WidgetID: com.cc:id/setting_SwitcherAutoUpdate
+ButtonText: 
+Hash: 178940571
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.Spinner
+WidgetID: com.cc:id/setting_ChoiceAutoAnswer
+Hash: 217734440
+SourceActivity: com.cc.SettingActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.SettingActivity
+Hash: 131251580
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.CheckBox
+WidgetID: com.cc:id/setting_SwitcherCallInScreen
+ButtonText: 
+Hash: 235979117
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.Spinner
+WidgetID: com.cc:id/setting_ChoicePicturePreviewType
+Hash: 180161445
+SourceActivity: com.cc.SettingActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.SettingActivity
+Hash: 153220592
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.ScrollView
+Hash: 153220592
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.ScrollView
+Hash: 153220592
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.ScrollView
+Hash: MENU
+Event: MENU
+Hash: 153220592
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.ScrollView
+Hash: 153220592
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.ScrollView
+Hash: 71308958
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.Spinner
+WidgetID: com.cc:id/setting_ChoiceRingAcceptType
+Hash: 168096130
+SourceActivity: com.cc.SettingActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.SettingActivity
+Hash: 153220592
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.ScrollView
+Hash: 153220592
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.ScrollView
+Hash: 153220592
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.ScrollView
+Hash: 153220592
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.ScrollView
+Hash: 205408640
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.CheckBox
+WidgetID: com.cc:id/setting_SwitcherShowAreaInfo
+ButtonText: 
+Hash: 32628701
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.Spinner
+WidgetID: com.cc:id/setting_ChoiceHmdType
+Hash: 162206252
+SourceActivity: com.cc.SettingActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.SettingActivity
+Hash: 153220592
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.ScrollView
+Hash: 4994408
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.CheckBox
+WidgetID: com.cc:id/setting_SwitcherCallOutScreen
+ButtonText: 
+Hash: 153220592
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.ScrollView
+Hash: 174276628
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.CheckBox
+WidgetID: com.cc:id/setting_SwitcherChuanQingScreen
+ButtonText: 
+Hash: 153220592
+SourceActivity: com.cc.SettingActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c3ebf22}
+Class: class android.widget.ScrollView
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.SettingActivity
+Hash: MENU
+Event: MENU
+Hash: 39184938
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8e12806}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: MENU
+Event: MENU
+Hash: 189700179
+SourceActivity: com.cc.TaskListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cc8459a}
+Class: class android.widget.ExpandableListView
+WidgetID: com.cc:id/tasklist_download_task_view
+Hash: 189700179
+SourceActivity: com.cc.TaskListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cc8459a}
+Class: class android.widget.ExpandableListView
+WidgetID: com.cc:id/tasklist_download_task_view
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.TaskListActivity
+Hash: MENU
+Event: MENU
+Hash: 176842168
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {eea2554}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 179547118
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 71657627
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d73da6f}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_friend
+ButtonText: CC好友
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: MENU
+Event: MENU
+Hash: 176842168
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {462f8b0}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 135837849
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 215637579
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {58a7779}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_heimidan
+ButtonText: 黑名单
+Hash: 158196360
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {adcaad2}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_friend
+ButtonText: CC好友
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: MENU
+Event: MENU
+Hash: 176842168
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3683fe7}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 192167364
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 174759134
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c9ee24}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_heimidan
+ButtonText: 黑名单
+Hash: 94237693
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4a4efbb}
+Class: class android.widget.LinearLayout
+WidgetID: com.cc:id/FriendListRoot
+Hash: 197129210
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {68f8c08}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 87466623
+SourceActivity: com.cc.HMDListActivity
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 55761669
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b574914}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: 取消
+Hash: 23623104
+SourceActivity: com.cc.HMDListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4a4efbb}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_phone
+ButtonText: 通讯录好友
+Hash: 40443716
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 242068472
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bcd8fa4}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_commend
+ButtonText: 推荐
+Hash: 130542677
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bcd8fa4}
+Class: class android.widget.ListView
+WidgetID: com.cc:id/contactlist_List
+Hash: 149420241
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bcd8fa4}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_SetCallPic
+ButtonText: 设大头贴
+Hash: 79208672
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bcd8fa4}
+Class: class android.widget.Button
+WidgetID: com.cc:id/btn_contactlist_phone
+ButtonText: 通讯录好友
+Hash: MENU
+Event: MENU
+Hash: 243961370
+SourceActivity: com.cc.ContactListActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a669d4b}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 46133279
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.ContactListActivity
+Hash: MENU
+Event: MENU
+Hash: 176842168
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bf4ac6e}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+Hash: 250377749
+SourceActivity: com.cc.ContactListActivity
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.ContactListActivity
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.MainActivity
+Hash: 245376097
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4bcbd79}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity
+Hash: 245376097
+SourceActivity: com.cc.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4bcbd79}
+Class: class android.widget.GridView
+WidgetID: com.cc:id/main_Grid
+Hash: BACK
+Event: BACK
+SourceActivity: com.cc.FriendListActivity

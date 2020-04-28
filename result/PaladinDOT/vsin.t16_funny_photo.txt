@@ -1,0 +1,1738 @@
+Hash: 100772759
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 201865775
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: MENU
+Event: MENU
+Hash: 61195129
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7b948be}
+Class: class android.widget.Button
+WidgetID: vsin.t16_funny_photo:id/button3
+ButtonText: Learn more
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 177373463
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: MENU
+Event: MENU
+Hash: 152185550
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8aa25da}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: vsin.t16_funny_photo:id/_menu_give_template_idea
+MenuItemTitle: Have an effect idea?
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: MENU
+Event: MENU
+Hash: 13345737
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {51a5f83}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: vsin.t16_funny_photo:id/_menu_faq
+MenuItemTitle: FAQ
+Hash: 78822057
+SourceActivity: vsin.activity.A_FAQ
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ed35865}
+Class: class android.webkit.WebView
+WidgetID: vsin.t16_funny_photo:id/webView1
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_FAQ
+Hash: MENU
+Event: MENU
+Hash: 249672581
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c98c360}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: vsin.t16_funny_photo:id/_menu_settings
+MenuItemTitle: Settings
+Hash: 24954691
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7688150}
+Class: class android.widget.Spinner
+WidgetID: vsin.t16_funny_photo:id/Spinner01
+Hash: 1409895
+SourceActivity: vsin.activity.A_Settings
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 79333846
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c507629}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 24954691
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7688150}
+Class: class android.widget.Spinner
+WidgetID: vsin.t16_funny_photo:id/Spinner01
+Hash: 224793245
+SourceActivity: vsin.activity.A_Settings
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 101054549
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ce7cba4}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 24954691
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7688150}
+Class: class android.widget.Spinner
+WidgetID: vsin.t16_funny_photo:id/Spinner01
+Hash: 166035240
+SourceActivity: vsin.activity.A_Settings
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: 184486720
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a8e5b3b}
+Class: class com.android.internal.app.AlertController$RecycleListView
+WidgetID: android:id/select_dialog_listview
+Hash: 24954691
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7688150}
+Class: class android.widget.Spinner
+WidgetID: vsin.t16_funny_photo:id/Spinner01
+Hash: 80235279
+SourceActivity: vsin.activity.A_Settings
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_Settings
+Hash: 219680762
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7688150}
+Class: class android.widget.CheckBox
+WidgetID: vsin.t16_funny_photo:id/checkBox1
+ButtonText: 
+Hash: 43248108
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7688150}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/scrollView1
+Hash: 43248108
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7688150}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/scrollView1
+Hash: 43248108
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7688150}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/scrollView1
+Hash: 43248108
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7688150}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/scrollView1
+Hash: 43248108
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7688150}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/scrollView1
+Hash: 55367446
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7688150}
+Class: class android.widget.Spinner
+WidgetID: vsin.t16_funny_photo:id/Spinner02
+Hash: 231898614
+SourceActivity: vsin.activity.A_Settings
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_Settings
+Hash: 43248108
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7688150}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/scrollView1
+Hash: MENU
+Event: MENU
+Hash: 43248108
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7688150}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/scrollView1
+Hash: 43248108
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7688150}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/scrollView1
+Hash: 43248108
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7688150}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/scrollView1
+Hash: 172885811
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7688150}
+Class: class android.widget.Spinner
+WidgetID: vsin.t16_funny_photo:id/Spinner03
+Hash: 9994207
+SourceActivity: vsin.activity.A_Settings
+DialogClass: class android.app.AlertDialog
+DialogTitle: 
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_Settings
+Hash: 43248108
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7688150}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/scrollView1
+Hash: 43248108
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7688150}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/scrollView1
+Hash: 43248108
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7688150}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/scrollView1
+Hash: 43248108
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7688150}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/scrollView1
+Hash: 43248108
+SourceActivity: vsin.activity.A_Settings
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7688150}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/scrollView1
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_Settings
+Hash: MENU
+Event: MENU
+Hash: 208376060
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4286ce1}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: vsin.t16_funny_photo:id/_menu_buy_pro
+MenuItemTitle: Buy the PRO version
+Hash: MENU
+Event: MENU
+Hash: 253439471
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d691a06}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: vsin.t16_funny_photo:id/_menu_support
+MenuItemTitle: Support
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: 107595728
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {68363de}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: vsin.t16_funny_photo:id/_menu_main_about
+MenuItemTitle: About
+Hash: 130000064
+SourceActivity: vsin.activity.A_About
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7154bd8}
+Class: class android.widget.ImageView
+WidgetID: vsin.t16_funny_photo:id/imageView1
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: 223073785
+SourceActivity: vsin.activity.A_About
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7154bd8}
+Class: class android.widget.ImageView
+WidgetID: vsin.t16_funny_photo:id/imageView2
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: 202516798
+SourceActivity: vsin.activity.A_About
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7154bd8}
+Class: class android.widget.ImageView
+WidgetID: vsin.t16_funny_photo:id/imageView3
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: MENU
+Event: MENU
+Hash: 101705283
+SourceActivity: vsin.activity.A_About
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7154bd8}
+Class: class android.widget.ImageView
+WidgetID: vsin.t16_funny_photo:id/ImageView04
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_About
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 210968500
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 6747216
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 58901109
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 95426657
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 38322114
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 122363582
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 174868523
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 225391863
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 162081536
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 117146460
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 77031249
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 221318653
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 245303534
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 210543018
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 241033575
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 125000947
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 155151628
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 18556200
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 33747949
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 25171801
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 106215130
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 136103254
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 202422371
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 198758063
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 221016536
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 249832884
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 144475209
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 247009397
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 195048838
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 198161858
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 4145281
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ee14f8}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 34228511
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 57005198
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_1
+Hash: 133863943
+SourceActivity: vsin.t16_funny_photo.A_Main
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: 262784440
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {21812f7}
+Class: class android.widget.Button
+WidgetID: vsin.t16_funny_photo:id/button1
+ButtonText: Preview this group
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 57005198
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_1
+Hash: 16015939
+SourceActivity: vsin.t16_funny_photo.A_Main
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: MENU
+Event: MENU
+Hash: 71841186
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {626233}
+Class: class android.widget.Button
+WidgetID: vsin.t16_funny_photo:id/button3
+ButtonText: Learn more
+Hash: 57005198
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_1
+Hash: 183019272
+SourceActivity: vsin.t16_funny_photo.A_Main
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.t16_funny_photo.A_Main
+Hash: 56535648
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_0
+Hash: 119062608
+SourceActivity: vsin.t16_funny_photo.A_Main
+DialogClass: class android.app.AlertDialog
+DialogTitle: Photo to Caricature
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.t16_funny_photo.A_Main
+Hash: 149645891
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_2
+Hash: 100772759
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 56535648
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_0
+Hash: 102981498
+SourceActivity: vsin.t16_funny_photo.A_Main
+DialogClass: class android.app.AlertDialog
+DialogTitle: Photo to Caricature
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.t16_funny_photo.A_Main
+Hash: 100772759
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 194721445
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 37130596
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 178383071
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 113272582
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 156137865
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 32002264
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 120331043
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 73263962
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 122155929
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 182196008
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 103149235
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 178704682
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 243486013
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 113670236
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 4733367
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 168395070
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 67181217
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 143297616
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 250229371
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 59934226
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 245514181
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 259901188
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 162274559
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 152056626
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e5e0996}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 124531622
+SourceActivity: vsin.activity.A_EffectsGrid
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Effects
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 100772759
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 149645891
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_2
+Hash: 100772759
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 100772759
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 56535648
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_0
+Hash: 94148060
+SourceActivity: vsin.t16_funny_photo.A_Main
+DialogClass: class android.app.AlertDialog
+DialogTitle: Photo to Caricature
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.t16_funny_photo.A_Main
+Hash: 100772759
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 100772759
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 100772759
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 100772759
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 100772759
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 100772759
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 100772759
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 18474130
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4666208}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/scrollView1
+Hash: MENU
+Event: MENU
+Hash: 151829915
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2825ce4}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: vsin.t16_funny_photo:id/_menu_faq
+MenuItemTitle: FAQ
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_FAQ
+Hash: MENU
+Event: MENU
+Hash: 217254518
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3a8c25f}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: vsin.t16_funny_photo:id/_menu_buy_pro
+MenuItemTitle: Buy the PRO version
+Hash: MENU
+Event: MENU
+Hash: 104536337
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e8de4ac}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: vsin.t16_funny_photo:id/_menu_support
+MenuItemTitle: Support
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: 201221512
+SourceActivity: vsin.t16_funny_photo.A_Main
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: MENU
+Event: MENU
+Hash: 188680268
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {525e095}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: vsin.t16_funny_photo:id/_menu_settings
+MenuItemTitle: Settings
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_Settings
+Hash: MENU
+Event: MENU
+Hash: 203169753
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {acfdc58}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: vsin.t16_funny_photo:id/_menu_give_template_idea
+MenuItemTitle: Have an effect idea?
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: 201221512
+SourceActivity: vsin.t16_funny_photo.A_Main
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: MENU
+Event: MENU
+Hash: 211921835
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4aa32dd}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: vsin.t16_funny_photo:id/_menu_main_about
+MenuItemTitle: About
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_About
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.t16_funny_photo.A_Main
+Hash: 100772759
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a3a7ae}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+Hash: 144680252
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9417ce9}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 206027146
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9a22f73}
+Class: class android.widget.Button
+WidgetID: vsin.t16_funny_photo:id/Button01
+ButtonText: From gallery
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.documentsui.DocumentsActivity
+Hash: MENU
+Event: MENU
+Hash: 73452223
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {46424d5}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: vsin.t16_funny_photo:id/_menu_buy_pro
+MenuItemTitle: Buy the PRO version
+Hash: MENU
+Event: MENU
+Hash: 80912409
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {39ac4ea}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: vsin.t16_funny_photo:id/_menu_give_template_idea
+MenuItemTitle: Have an effect idea?
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: MENU
+Event: MENU
+Hash: 211338080
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4d845b6}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: vsin.t16_funny_photo:id/_menu_faq
+MenuItemTitle: FAQ
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_FAQ
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: 162968972
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3347ffd}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: vsin.t16_funny_photo:id/_menu_settings
+MenuItemTitle: Settings
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_Settings
+Hash: MENU
+Event: MENU
+Hash: 7723875
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6779ef3}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: vsin.t16_funny_photo:id/_menu_main_about
+MenuItemTitle: About
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_About
+Hash: MENU
+Event: MENU
+Hash: 114030814
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2b8eb0e}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: vsin.t16_funny_photo:id/_menu_support
+MenuItemTitle: Support
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: 249672581
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9a22f73}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/_csp_ScrollView01
+Hash: 249672581
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9a22f73}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/_csp_ScrollView01
+Hash: 214927349
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9a22f73}
+Class: class android.widget.Button
+WidgetID: vsin.t16_funny_photo:id/Button02
+ButtonText: From camera
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: 249672581
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9a22f73}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/_csp_ScrollView01
+Hash: 249672581
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9a22f73}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/_csp_ScrollView01
+Hash: 249672581
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9a22f73}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/_csp_ScrollView01
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: 144680252
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9417ce9}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: 144680252
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9417ce9}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: 144680252
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9417ce9}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: 144680252
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9417ce9}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: 144680252
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9417ce9}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: 144680252
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9417ce9}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: 144680252
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9417ce9}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: 144680252
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9417ce9}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: 144680252
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9417ce9}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: 144680252
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9417ce9}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: 144680252
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9417ce9}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: 144680252
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9417ce9}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: 144680252
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9417ce9}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: 144680252
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9417ce9}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: 51099147
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1ab053a}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/_csp_ScrollView01
+Hash: 51099147
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1ab053a}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/_csp_ScrollView01
+Hash: 51099147
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1ab053a}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/_csp_ScrollView01
+Hash: 188383256
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1ab053a}
+Class: class android.widget.RelativeLayout
+Tag: 0
+WidgetID: vsin.t16_funny_photo:id/_i2b_RelativeLayout
+Hash: 51099147
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1ab053a}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/_csp_ScrollView01
+Hash: 51099147
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1ab053a}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/_csp_ScrollView01
+Hash: 191071684
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1ab053a}
+Class: class android.widget.Button
+Tag: 0
+WidgetID: vsin.t16_funny_photo:id/_i2b_ButtonGal
+ButtonText: From gallery
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.documentsui.DocumentsActivity
+Hash: 51099147
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1ab053a}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/_csp_ScrollView01
+Hash: 51099147
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1ab053a}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/_csp_ScrollView01
+Hash: 51099147
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1ab053a}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/_csp_ScrollView01
+Hash: 188383256
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1ab053a}
+Class: class android.widget.RelativeLayout
+Tag: 0
+WidgetID: vsin.t16_funny_photo:id/_i2b_RelativeLayout
+Hash: 153770199
+SourceActivity: vsin.activity.A_ChoosePhoto
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1ab053a}
+Class: class android.widget.Button
+Tag: 0
+WidgetID: vsin.t16_funny_photo:id/_i2b_ButtonCam
+ButtonText: From camera
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: 144680252
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9417ce9}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: 144680252
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9417ce9}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: 144680252
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9417ce9}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: 144680252
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9417ce9}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: 144680252
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9417ce9}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: 144680252
+SourceActivity: vsin.activity.A_EffectsGrid
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9417ce9}
+Class: class android.widget.GridView
+WidgetID: vsin.t16_funny_photo:id/_egv_gridview
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_ChoosePhoto
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 100772759
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a3a7ae}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 18474130
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a3a7ae}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/scrollView1
+Hash: 100772759
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a3a7ae}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 149645891
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a3a7ae}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_2
+Hash: 100772759
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a3a7ae}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 149645891
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a3a7ae}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_2
+Hash: 100772759
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a3a7ae}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 56535648
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a3a7ae}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_0
+Hash: 259071017
+SourceActivity: vsin.t16_funny_photo.A_Main
+DialogClass: class android.app.AlertDialog
+DialogTitle: Photo to Caricature
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.t16_funny_photo.A_Main
+Hash: 100772759
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a3a7ae}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 100772759
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a3a7ae}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 18474130
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a3a7ae}
+Class: class android.widget.ScrollView
+WidgetID: vsin.t16_funny_photo:id/scrollView1
+Hash: 100772759
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a3a7ae}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_3
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.activity.A_EffectsGrid
+Hash: 56535648
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a3a7ae}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_0
+Hash: 191538054
+SourceActivity: vsin.t16_funny_photo.A_Main
+DialogClass: class android.app.AlertDialog
+DialogTitle: Photo to Caricature
+Hash: BACK
+Event: BACK
+SourceActivity: vsin.t16_funny_photo.A_Main
+Hash: 149645891
+SourceActivity: vsin.t16_funny_photo.A_Main
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1a3a7ae}
+Class: class common.vsin.utils.ui.listview.MyListView
+WidgetID: vsin.t16_funny_photo:id/_main_group_list_2

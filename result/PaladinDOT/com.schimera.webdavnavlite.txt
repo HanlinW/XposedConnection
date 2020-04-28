@@ -1,123 +1,728 @@
-Hash: 1107957744
+Hash: 22350868
 SourceActivity: com.schimera.webdavnavlite.WebDAVNav
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cc41e0}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {571de3}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+Hash: 6826419
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 51262853
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: 237013493
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {93c0dfb}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 168830668
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5f69e18}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 92201912
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5f69e18}
+Class: class android.widget.ImageButton
+WidgetID: com.schimera.webdavnavlite:id/tool_camera
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: 30114255
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 74874047
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: 168694703
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e376f45}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
+Hash: 92201912
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5f69e18}
+Class: class android.widget.ImageButton
+WidgetID: com.schimera.webdavnavlite:id/tool_camera
+Hash: BACK
+Event: BACK
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: 233593155
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 228354210
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: 240402002
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5cafa20}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: OK
 Hash: MENU
 Event: MENU
-Hash: 1103813848
+Hash: 15382570
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5f69e18}
+Class: class android.widget.ImageButton
+WidgetID: com.schimera.webdavnavlite:id/tool_newfolder
+Hash: 265973082
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Folder
+Hash: 221046472
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7a3fa55}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: 15382570
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5f69e18}
+Class: class android.widget.ImageButton
+WidgetID: com.schimera.webdavnavlite:id/tool_newfolder
+Hash: 77210934
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Folder
+Hash: MENU
+Event: MENU
+Hash: 57306558
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5bc6217}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Create
+Hash: 15382570
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5f69e18}
+Class: class android.widget.ImageButton
+WidgetID: com.schimera.webdavnavlite:id/tool_newfolder
+Hash: 77295216
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Folder
+Hash: 114395993
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33ee4d0}
+Class: class android.widget.ScrollView
+WidgetID: android:id/scrollView
+Hash: 8815637
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33ee4d0}
+Class: class android.widget.EditText
+Hash: 224392888
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33ee4d0}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Create
+Hash: 15382570
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5f69e18}
+Class: class android.widget.ImageButton
+WidgetID: com.schimera.webdavnavlite:id/tool_newfolder
+Hash: 209007071
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Folder
+Hash: 67833928
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {130628c}
+Class: class android.widget.EditText
+Hash: MENU
+Event: MENU
+Hash: 165996788
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {130628c}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+Hash: 15382570
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5f69e18}
+Class: class android.widget.ImageButton
+WidgetID: com.schimera.webdavnavlite:id/tool_newfolder
+Hash: 18830751
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: New Folder
+Hash: 116278536
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ad17b4c}
+Class: class android.widget.EditText
+Hash: 116278536
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ad17b4c}
+Class: class android.widget.EditText
+Hash: 1381148
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ad17b4c}
+Class: class android.widget.ScrollView
+WidgetID: android:id/scrollView
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: 22350868
 SourceActivity: com.schimera.webdavnavlite.WebDAVNav
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cb1628}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {571de3}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 148511110
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 120601640
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: 70311199
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7bdc196}
+Class: class android.widget.ScrollView
+WidgetID: android:id/scrollView
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: 22350868
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {571de3}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 123757595
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 113046398
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: MENU
+Event: MENU
+Hash: 75995839
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d9d458c}
 Class: class com.android.internal.view.menu.IconMenuItemView
 WidgetID: android:id/title
 MenuItemID: com.schimera.webdavnavlite:id/addServer
-MenuItemTitle: 添加服务器
-Hash: 1103317960
+MenuItemTitle: Add Server
+Hash: 259334138
 SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c38628}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7cb8587}
 Class: class android.widget.Button
 WidgetID: com.schimera.webdavnavlite:id/cancelButton
-ButtonText: 取消
+ButtonText: Cancel
 Hash: MENU
 Event: MENU
-Hash: 1103813848
-SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c53d00}
+Hash: 75995839
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2591514}
 Class: class com.android.internal.view.menu.IconMenuItemView
 WidgetID: android:id/title
 MenuItemID: com.schimera.webdavnavlite:id/addServer
-MenuItemTitle: 添加服务器
-Hash: 1103541280
+MenuItemTitle: Add Server
+Hash: 71557738
 SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c70730}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {29562d3}
 Class: class android.widget.EditText
 WidgetID: com.schimera.webdavnavlite:id/passwordField
-Hash: 1103517976
-SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c70730}
-Class: class android.widget.EditText
-WidgetID: com.schimera.webdavnavlite:id/nameField
-Hash: 1103525744
-SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c70730}
-Class: class android.widget.EditText
-WidgetID: com.schimera.webdavnavlite:id/urlField
 Hash: MENU
 Event: MENU
-Hash: 1103533512
+Hash: 83605496
 SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c70730}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {29562d3}
+Class: class android.widget.Button
+WidgetID: com.schimera.webdavnavlite:id/addServerButton
+ButtonText: Add Server
+Hash: MENU
+Event: MENU
+Hash: 75995839
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a8711d2}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: com.schimera.webdavnavlite:id/addServer
+MenuItemTitle: Add Server
+Hash: 254695192
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {13f81a9}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/passwordField
+Hash: 254695192
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {13f81a9}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/passwordField
+Hash: 24468439
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {13f81a9}
+Class: class android.widget.Button
+WidgetID: com.schimera.webdavnavlite:id/cancelButton
+ButtonText: Cancel
+Hash: MENU
+Event: MENU
+Hash: 75995839
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {99e28b5}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: com.schimera.webdavnavlite:id/addServer
+MenuItemTitle: Add Server
+Hash: 120146451
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b588d68}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/passwordField
+Hash: 120146451
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b588d68}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/passwordField
+Hash: 227569124
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b588d68}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/usernameField
+Hash: 121406993
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b588d68}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/urlField
+Hash: 227569124
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b588d68}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/usernameField
+Hash: 250320554
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b588d68}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/nameField
+Hash: 120146451
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b588d68}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/passwordField
+Hash: 227569124
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b588d68}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/usernameField
+Hash: 227569124
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b588d68}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/usernameField
+Hash: 120146451
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b588d68}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/passwordField
+Hash: 227569124
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b588d68}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/usernameField
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Hash: 120146451
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b588d68}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/passwordField
+Hash: 250320554
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b588d68}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/nameField
+Hash: 103825156
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6d63ced}
+Class: class android.widget.Editor$InsertionHandleView
+Hash: 75019725
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c75f993}
+Class: class android.widget.Button
+Tag: Select all
+ButtonText: Select all
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Hash: 120146451
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b588d68}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/passwordField
+Hash: 121406993
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b588d68}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/urlField
+Hash: 81951566
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b588d68}
+Class: class android.widget.Button
+WidgetID: com.schimera.webdavnavlite:id/cancelButton
+ButtonText: Cancel
+Hash: MENU
+Event: MENU
+Hash: 75995839
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {77957c6}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: com.schimera.webdavnavlite:id/addServer
+MenuItemTitle: Add Server
+Hash: 171636721
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {93a63ae}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/passwordField
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Hash: 107664512
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {93a63ae}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/nameField
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Hash: MENU
+Event: MENU
+Hash: 129286743
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {93a63ae}
+Class: class android.widget.Button
+WidgetID: com.schimera.webdavnavlite:id/addServerButton
+ButtonText: Add Server
+Hash: MENU
+Event: MENU
+Hash: 75995839
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5e5dd46}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+MenuItemID: com.schimera.webdavnavlite:id/addServer
+MenuItemTitle: Add Server
+Hash: 253598868
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e2d39d7}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/urlField
+Hash: 253598868
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e2d39d7}
+Class: class android.widget.EditText
+WidgetID: com.schimera.webdavnavlite:id/urlField
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Hash: 171216003
+SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e2d39d7}
 Class: class android.widget.EditText
 WidgetID: com.schimera.webdavnavlite:id/usernameField
 Hash: BACK
 Event: BACK
 SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
-Hash: 1103551840
+Hash: BACK
+Event: BACK
 SourceActivity: com.schimera.webdavnavlite.Activities.ServerEdit
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41c70730}
-Class: class android.widget.Button
-WidgetID: com.schimera.webdavnavlite:id/cancelButton
-ButtonText: 取消
 Hash: MENU
 Event: MENU
-Hash: 1103821312
+Hash: 118229214
 SourceActivity: com.schimera.webdavnavlite.WebDAVNav
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {424030f8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8827433}
 Class: class com.android.internal.view.menu.IconMenuItemView
 WidgetID: android:id/title
 MenuItemID: com.schimera.webdavnavlite:id/showInfo
 MenuItemTitle: Info
-Hash: MENU
-Event: MENU
-Hash: 1103641880
+Hash: 198528056
 SourceActivity: com.schimera.webdavnavlite.Activities.InfoActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cd49e8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {25ab411}
+Class: class android.widget.Button
+WidgetID: com.schimera.webdavnavlite:id/reviewAppButton
+ButtonText: Review
+Hash: 126448533
+SourceActivity: com.schimera.webdavnavlite.Activities.InfoActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {25ab411}
 Class: class android.widget.TextView
 WidgetID: com.schimera.webdavnavlite:id/appLink
 Hash: BACK
 Event: BACK
-SourceActivity: com.android.browser.BrowserActivity
-Hash: 1110965120
-SourceActivity: com.schimera.webdavnavlite.Activities.InfoActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cd49e8}
-Class: class android.widget.Button
-WidgetID: com.schimera.webdavnavlite:id/reviewAppButton
-ButtonText: Review
-Hash: BACK
-Event: BACK
-SourceActivity: com.google.android.finsky.activities.MainActivity
+SourceActivity: com.android.internal.app.ResolverActivity
+Hash: MENU
+Event: MENU
 Hash: BACK
 Event: BACK
 SourceActivity: com.schimera.webdavnavlite.Activities.InfoActivity
 Hash: MENU
 Event: MENU
-Hash: MENU
-Event: MENU
-Hash: MENU
-Event: MENU
 Hash: BACK
 Event: BACK
 SourceActivity: com.schimera.webdavnavlite.WebDAVNav
-Hash: 1110900232
+Hash: 22350868
 SourceActivity: com.schimera.webdavnavlite.WebDAVNav
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {41cc41e0}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {571de3}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 257569860
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 216868004
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: 22350868
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {571de3}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 29878342
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 40279941
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: 22350868
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {571de3}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 160025625
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 127467604
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: 22350868
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {571de3}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 170417976
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 54559839
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: 22350868
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {571de3}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 174776019
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 129629207
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: 22350868
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {571de3}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 22463755
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 43290414
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: 22350868
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {571de3}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 216529906
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 66064033
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: 22350868
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {571de3}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 182627957
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 130653849
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: 22350868
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {571de3}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 86399213
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 89619384
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: 22350868
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {571de3}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 128884572
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 91123354
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: 22350868
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {571de3}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+Hash: 73707596
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.ProgressDialog
+DialogTitle: 
+Hash: 6256899
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+DialogClass: class android.app.AlertDialog
+DialogTitle: Error
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: BACK
+Event: BACK
+SourceActivity: com.schimera.webdavnavlite.Activities.RemoteBrowser
+Hash: 44074055
+SourceActivity: com.schimera.webdavnavlite.WebDAVNav
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {571de3}
 Class: class android.widget.ImageButton
 WidgetID: com.schimera.webdavnavlite:id/tool_settings
+Hash: 58274389
+SourceActivity: com.schimera.webdavnavlite.Activities.SettingsEdit
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e727f35}
+Class: class android.widget.ListView
+WidgetID: android:id/list
 Hash: MENU
 Event: MENU
-Hash: 1103706160
+Hash: 58274389
 SourceActivity: com.schimera.webdavnavlite.Activities.SettingsEdit
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423ef1e8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e727f35}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 1103706160
+Hash: 58274389
 SourceActivity: com.schimera.webdavnavlite.Activities.SettingsEdit
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423ef1e8}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 1103706160
-SourceActivity: com.schimera.webdavnavlite.Activities.SettingsEdit
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {423ef1e8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e727f35}
 Class: class android.widget.ListView
 WidgetID: android:id/list
 Hash: BACK

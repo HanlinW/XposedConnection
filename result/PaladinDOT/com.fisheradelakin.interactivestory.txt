@@ -1,0 +1,49 @@
+Hash: 242536792
+SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9d1569c}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/startButton
+ButtonText: START YOUR ADVENTURE
+Hash: 66982859
+SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b7052c1}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/choiceButton2
+ButtonText: Continue home to Earth
+Hash: 121141160
+SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b7052c1}
+Class: class android.widget.Button
+WidgetID: com.fisheradelakin.interactivestory:id/choiceButton1
+ButtonText: Head back to Mars to investigate
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.fisheradelakin.interactivestory.ui.StoryActivity
+Hash: MENU
+Event: MENU
+Hash: 26616497
+SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9d1569c}
+Class: class android.widget.EditText
+WidgetID: com.fisheradelakin.interactivestory:id/nameEditText
+Hash: 26616497
+SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9d1569c}
+Class: class android.widget.EditText
+WidgetID: com.fisheradelakin.interactivestory:id/nameEditText
+Hash: 143224207
+SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d7f681c}
+Class: class android.widget.Editor$InsertionHandleView
+Hash: 26616497
+SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9d1569c}
+Class: class android.widget.EditText
+WidgetID: com.fisheradelakin.interactivestory:id/nameEditText
+Hash: MENU
+Event: MENU
+Hash: BACK
+Event: BACK
+SourceActivity: com.fisheradelakin.interactivestory.ui.MainActivity
