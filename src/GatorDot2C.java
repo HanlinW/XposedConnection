@@ -61,8 +61,7 @@ class GatorDot2C {
 			String temp = GatorFile.get(start);
 			String index = temp.substring(0, temp.indexOf(" "));
 			String act = temp.substring(temp.indexOf("\"")+1, temp.indexOf("]"));
-			if (act.contains("DIALOG[")) {
-				
+			if (act.contains("DIALOG[")) {				
 				String detail = temp.split(" alloc: <")[1];
 				
 				String DialogAct = "";
@@ -102,8 +101,7 @@ class GatorDot2C {
 			} else {
 				vertex v = new vertex (act, false ,false);
 				Boxes.put(index, v);
-			}
-			
+			}			
 			start ++;
 		}
 		
@@ -153,8 +151,7 @@ class GatorDot2C {
 				current.event = event;
 				//System.out.println(event);
 				Edges.add(current);
-			}
-			
+			}			
 			start ++;
 		}
 		

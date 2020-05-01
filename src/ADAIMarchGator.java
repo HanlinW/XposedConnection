@@ -13,8 +13,6 @@ import com.google.gson.Gson;
 import com.google.gson.JsonIOException;
 import com.google.gson.JsonSyntaxException;
 
-
-
 class ADAIMarchGator {
 
 	public static void ElimateMeanlessActivities(GatorDot2C myGator, ADAI2Dot myADAI){
@@ -33,6 +31,52 @@ class ADAIMarchGator {
 			}
 		}
 	}
+	
+	public static void PaladinPruning(GatorDot2C myGator, ADAI2Dot myADAI) {
+		// Delete the activities that actually not inside the current APK
+		HashMap<String, GatorDot2C.vertex> GatorBoxes = myGator.Boxes;
+		HashSet<String> GatorActivity = new HashSet<String>();
+		for (Map.Entry<String, GatorDot2C.vertex> entry: GatorBoxes.entrySet()){
+			String currentActivity = entry.getValue().act;
+			if (!GatorActivity.contains(currentActivity)) {
+				GatorActivity.add(currentActivity);
+			}
+		}
+		
+		System.out.println("=============");
+		
+		//HashMap<String, Integer> PaladinActivity = myADAI.Activities;
+		LinkedList<ADAI2Dot.PathTree> PaladinPaths = myADAI.graphPaths;
+		System.out.println(PaladinPaths.size());
+		
+		Iterator<ADAI2Dot.PathTree> iter = PaladinPaths.iterator();
+		while (iter.hasNext()){
+			ADAI2Dot.PathTree currentPath = iter.next();
+			String srcAct = currentPath.src;
+			String tgtAct = currentPath.tgt;
+			if (!GatorActivity.contains(srcAct) || !GatorActivity.contains(tgtAct)) {
+				iter.remove();
+			}
+		}
+		System.out.println("After Cleaning");
+		System.out.println(PaladinPaths.size());
+		System.out.println("=============");
+		
+		// Find edges only between different activities
+		int number = 0;
+		iter = PaladinPaths.iterator();
+		while (iter.hasNext()){
+			ADAI2Dot.PathTree currentPath = iter.next();
+			String srcAct = currentPath.src;
+			String tgtAct = currentPath.tgt;
+			if (!srcAct.equals(tgtAct)) {
+				number ++;
+			}
+		}
+		System.out.println("current connected edges " + number);
+		
+	}
+	
 	public static void CompareTwo(GatorDot2C myGator, ADAI2Dot myADAI) {
 		HashMap<String, GatorDot2C.vertex> GActivities = myGator.Boxes;
 		LinkedList<GatorDot2C.edge> GPaths = myGator.Edges;
@@ -111,11 +155,8 @@ class ADAIMarchGator {
 	}
 	
 	public static void CompareADAI(ADAI2Dot a, ADAI2Dot groundtruth) {
-
 		LinkedList<ADAI2Dot.PathTree> TPaths = groundtruth.graphPaths;
 		LinkedList<ADAI2Dot.PathTree> aPaths = a.graphPaths;
-		Iterator iter = TPaths.iterator();
-
 		
 		int Marched = 0;
 		Iterator it1 = aPaths.iterator();
@@ -135,6 +176,24 @@ class ADAIMarchGator {
 		
 		System.out.println("Marched:" + Marched);
 		OutputToFile("Marched:" + Marched, conclusionPath);
+		
+		Marched = 0;
+		it1 = aPaths.iterator();
+		used = new HashSet<ADAI2Dot.PathTree>();
+		while (it1.hasNext()){
+			ADAI2Dot.PathTree currentA = (ADAI2Dot.PathTree) it1.next();
+			Iterator it2 = TPaths.iterator();
+			while (it2.hasNext()){
+				ADAI2Dot.PathTree currentT = (ADAI2Dot.PathTree) it2.next();
+				if (!used.contains(currentT) && currentT.equals(currentA) && !currentT.src.equals(currentT.tgt)) {
+					used.add(currentT);
+					Marched ++;
+					//System.out.println(" src: " + currentT.src + " tgt:  " + currentT.tgt + " event: " + currentT.event);
+				}
+			}
+		}
+		
+		System.out.println("Edges between activities Marched:" + Marched);
 	}
 	
 	public static boolean OutputToFile(String line, String path){
@@ -148,14 +207,14 @@ class ADAIMarchGator {
 		}
 		return true;
 	}
-	public static String APKname = "com.zlango.zms";
+	public static String APKname = "za.co.lukestonehm.logicaldefence";
 	
 	public static String GatorDotPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/GatorDOT/" + APKname + ".apk.wtg.dot";
-	
-	public static String PaladinLogPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/PaladinLog/" + APKname + ".log";
-	public static String PaladinLogOutputPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/PaladinDOT/" + APKname + ".dot";
-	public static String ADAIFilePath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/groundtruth/" + APKname + ".txt";
-	public static String ADAIFileViewTreePath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/groundtruth/" + APKname + "_ViewTree.txt";
+	 
+	public static String PaladinLogPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/PaladinDOT/" + APKname + ".txt";
+	public static String PaladinLogOutputPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/PaladinOut/" + APKname + ".dot";
+	public static String ADAIFilePath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/groundtruthNEW/" + APKname + ".txt";
+	//public static String ADAIFileViewTreePath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/groundtruth/" + APKname + "_ViewTree.txt";
 	public static String ADAIDotPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/groundDOT/" + APKname + ".dot";
 	
 	public static String PaladinFilePath = "/Users/hanlinwang/Desktop/thesis3/myAPK/Paladin-output/graph-" + APKname + ".json";
@@ -163,8 +222,7 @@ class ADAIMarchGator {
 	
 	public static String conclusionPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/conclusion/" + APKname + ".txt";
 	
-	public static void main(String[] args){
-		
+	public static void main(String[] args){		
 		// Read Graph.Json from Paladin
 		/*Gson g = new Gson();
 		try {
@@ -190,13 +248,32 @@ class ADAIMarchGator {
 		myADAI.RemoveDuplicate();
 		ElimateMeanlessActivities(myGator, myADAI);
 		
-		/*
+		*/		
+		
+		// Paladin+Xposed
 		ADAI2Dot paladinADAI = new ADAI2Dot(PaladinLogPath, PaladinLogOutputPath);
 		paladinADAI.ReadLog();
 		paladinADAI.Run();
 		paladinADAI.BuildPath();
 		paladinADAI.RemoveDuplicate();
 		
+		GatorDot2C myGator = new GatorDot2C(GatorDotPath);
+		myGator.Read();
+		myGator.Dot2Class();
+		
+		ADAI2Dot gtADAI = new ADAI2Dot(ADAIFilePath, ADAIDotPath);
+		gtADAI.ReadLog();
+		gtADAI.Run();
+		gtADAI.BuildPath();
+		gtADAI.RemoveDuplicate();
+		
+		CompareADAI(paladinADAI, gtADAI);
+		
+		PaladinPruning(myGator, paladinADAI);
+		PaladinPruning(myGator, gtADAI);
+		
+		CompareADAI(paladinADAI, gtADAI);
+		/*
 		// Compare Gator with ground truth
 		System.out.println("Compare Gator with ground truth");
 		OutputToFile("Compare Gator with ground truth", conclusionPath);
@@ -210,14 +287,15 @@ class ADAIMarchGator {
 		OutputToFile("Compare paladin + ProMal with ground truth", conclusionPath);
 		CompareADAI(paladinADAI, myADAI);
 		
-		/*ADAI2Dot aADAI = new ADAI2Dot("/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/groundtruth/de.ub0r.android.smsdroid_ViewTree.txt", ADAIDotPath);
+		/*
+		ADAI2Dot aADAI = new ADAI2Dot("/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/groundtruth/de.ub0r.android.smsdroid_ViewTree.txt", ADAIDotPath);
 		aADAI.ReadLog();
 		aADAI.Run();
 		aADAI.BuildPath();
 		*/
 		
 		
-		/*/ Output to Dot/SVG file
+		/* Output to Dot/SVG file
 		ADAI2Dot myADAI = new ADAI2Dot(ADAIFileViewTreePath, ADAIDotPath);
 		myADAI.ReadLog();
 		myADAI.Run();
@@ -225,8 +303,9 @@ class ADAIMarchGator {
 		myADAI.RemoveDuplicate();
 		myADAI.WriteDot();
 		*/
-		String command = "dot -Tsvg "+ ADAIDotPath + " -o /Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/svg/" + APKname + ".svg";
-		System.out.println(command);
+		
+		//String command = "dot -Tsvg "+ ADAIDotPath + " -o /Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/svg/" + APKname + ".svg";
+		//System.out.println(command);
 		//AndroidOutputServer.ExecuteCommand(command);
 		
 		

@@ -12,3 +12,5 @@ Gator full nodes: 38
 ADAI full nodes: 6
 Compare paladin + ProMal with ground truth
 Marched:6
+Marched:20
+Marched:18
