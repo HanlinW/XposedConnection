@@ -1,0 +1,2 @@
+com.secuso.torchlight2.AboutActivity,com.secuso.torchlight2.MainActivity,back,None,None
+com.secuso.torchlight2.MainActivity,com.secuso.torchlight2.AboutActivity,click,action_about,android.view.MenuItem

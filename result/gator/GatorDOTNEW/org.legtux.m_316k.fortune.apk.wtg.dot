@@ -1,0 +1,8 @@
+digraph G {
+ rankdir=LR;
+ node[shape=box];
+ n1 [label="ACT[org.legtux.m_316k.fortune.MainActivity]679"];
+ n1 -> n1 [label="src: ACT[org.legtux.m_316k.fortune.MainActivity]679\ntgt: ACT[org.legtux.m_316k.fortune.MainActivity]679\ntag: cyclic_edge\nevt: click\nwidget: INFL[android.widget.Button,WID[2131492927|newFortune]491,873]874\n"];
+ n1 -> n1 [label="src: ACT[org.legtux.m_316k.fortune.MainActivity]679\ntgt: ACT[org.legtux.m_316k.fortune.MainActivity]679\ntag: cyclic_edge\nevt: click\nwidget: INFL[android.widget.Button,WID[2131492930|prev]520,873]877\n"];
+ n1 -> n1 [label="src: ACT[org.legtux.m_316k.fortune.MainActivity]679\ntgt: ACT[org.legtux.m_316k.fortune.MainActivity]679\ntag: implicit_back\nevt: implicit_back_event\nwidget: OptionsMenu[org.legtux.m_316k.fortune.MainActivity]677\n"];
+}

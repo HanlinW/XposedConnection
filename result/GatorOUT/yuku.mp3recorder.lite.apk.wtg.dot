@@ -1,0 +1,7 @@
+yuku.perekammp3.PengaturanActivity,yuku.perekammp3.RekamActivity,back,None,None
+yuku.perekammp3.RekamActivity,yuku.perekammp3.DaftarActivity,click,menuList,android.view.MenuItem
+yuku.perekammp3.RekamActivity,yuku.perekammp3.PengaturanActivity,click,menuPengaturan,android.view.MenuItem
+yuku.perekammp3.DaftarActivity,yuku.perekammp3.RekamActivity,back,None,None
+yuku.perekammp3.KalibrasiActivity,yuku.perekammp3.RekamActivity,click,bLanjut,android.widget.Button
+yuku.perekammp3.KalibrasiActivity,yuku.perekammp3.RekamActivity,click,bUlang,android.widget.Button
+yuku.perekammp3.KalibrasiActivity,yuku.perekammp3.RekamActivity,back,None,None

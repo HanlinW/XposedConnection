@@ -45,7 +45,6 @@ class ADAIMarchGator {
 		
 		System.out.println("=============");
 		
-		//HashMap<String, Integer> PaladinActivity = myADAI.Activities;
 		LinkedList<ADAI2Dot.PathTree> PaladinPaths = myADAI.graphPaths;
 		System.out.println(PaladinPaths.size());
 		
@@ -74,6 +73,16 @@ class ADAIMarchGator {
 			}
 		}
 		System.out.println("current connected edges " + number);
+		System.out.println("=============");
+		
+		HashMap<String, Integer> PaladinActivity = myADAI.Activities;
+		Iterator<Map.Entry<String, Integer>> iter2 = PaladinActivity.entrySet().iterator();
+		while (iter2.hasNext()){
+			Map.Entry<String, Integer> entry = iter2.next();
+			if (!GatorActivity.contains(entry.getKey())) {
+				iter2.remove();
+			}
+		}
 		
 	}
 	
@@ -131,7 +140,7 @@ class ADAIMarchGator {
 		Iterator it2 = APaths.iterator();
 		while (it2.hasNext()) {
 			ADAI2Dot.PathTree currentA = (ADAI2Dot.PathTree) it2.next();
-			
+			 
 			String AclassName = "", AwidgetID = ""; 
 			if (!currentA.className.equals("")) {
 				AclassName = currentA.className.substring(6);
@@ -150,8 +159,7 @@ class ADAIMarchGator {
 		OutputToFile("ADAI full edges: " + myADAI.graphPaths.size(), conclusionPath);
 		OutputToFile("Marched:" + Marched, conclusionPath);
 		OutputToFile("Gator full nodes: " + myGator.Boxes.size(), conclusionPath);
-		OutputToFile("ADAI full nodes: " + myADAI.Activities.size(), conclusionPath);
-		
+		OutputToFile("ADAI full nodes: " + myADAI.Activities.size(), conclusionPath);		
 	}
 	
 	public static void CompareADAI(ADAI2Dot a, ADAI2Dot groundtruth) {
@@ -207,7 +215,7 @@ class ADAIMarchGator {
 		}
 		return true;
 	}
-	public static String APKname = "za.co.lukestonehm.logicaldefence";
+	public static String APKname = "com.droiddream.lovePositions";
 	
 	public static String GatorDotPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/GatorDOT/" + APKname + ".apk.wtg.dot";
 	 
@@ -246,8 +254,7 @@ class ADAIMarchGator {
 		myADAI.Run();
 		myADAI.BuildPath();
 		myADAI.RemoveDuplicate();
-		ElimateMeanlessActivities(myGator, myADAI);
-		
+		ElimateMeanlessActivities(myGator, myADAI);		
 		*/		
 		
 		// Paladin+Xposed
@@ -272,6 +279,9 @@ class ADAIMarchGator {
 		PaladinPruning(myGator, paladinADAI);
 		PaladinPruning(myGator, gtADAI);
 		
+		// After Pruning, output the Dot file
+		gtADAI.WriteDot();
+		
 		CompareADAI(paladinADAI, gtADAI);
 		/*
 		// Compare Gator with ground truth
@@ -293,8 +303,7 @@ class ADAIMarchGator {
 		aADAI.Run();
 		aADAI.BuildPath();
 		*/
-		
-		
+				
 		/* Output to Dot/SVG file
 		ADAI2Dot myADAI = new ADAI2Dot(ADAIFileViewTreePath, ADAIDotPath);
 		myADAI.ReadLog();

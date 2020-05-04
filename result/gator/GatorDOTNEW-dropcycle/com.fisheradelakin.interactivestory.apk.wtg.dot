@@ -1,0 +1,10 @@
+digraph G {
+ rankdir=LR;
+ node[shape=box];
+ n2 [label="ACT[com.fisheradelakin.interactivestory.ui.StoryActivity]680"];
+ n1 [label="ACT[com.fisheradelakin.interactivestory.ui.MainActivity]676"];
+ n1 -> n2 [label="src: ACT[com.fisheradelakin.interactivestory.ui.MainActivity]676\ntgt: ACT[com.fisheradelakin.interactivestory.ui.StoryActivity]680\ntag: start_activity\nevt: click\nwidget: INFL[android.widget.Button,WID[2131427392|startButton]517,910]912\n"];
+ n2 -> n1 [label="src: ACT[com.fisheradelakin.interactivestory.ui.StoryActivity]680\ntgt: ACT[com.fisheradelakin.interactivestory.ui.MainActivity]676\ntag: finish_activity\nevt: click\nwidget: INFL[android.widget.Button,WID[2131427396|choiceButton2]523,904]907\n"];
+ n2 -> n1 [label="src: ACT[com.fisheradelakin.interactivestory.ui.StoryActivity]680\ntgt: ACT[com.fisheradelakin.interactivestory.ui.MainActivity]676\ntag: finish_activity\nevt: click\nwidget: INFL[android.widget.Button,WID[2131427397|choiceButton1]522,904]908\n"];
+ n2 -> n1 [label="src: ACT[com.fisheradelakin.interactivestory.ui.StoryActivity]680\ntgt: ACT[com.fisheradelakin.interactivestory.ui.MainActivity]676\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[com.fisheradelakin.interactivestory.ui.StoryActivity]680\n"];
+}

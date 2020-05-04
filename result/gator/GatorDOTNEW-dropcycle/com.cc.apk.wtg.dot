@@ -1,0 +1,9 @@
+digraph G {
+ rankdir=LR;
+ node[shape=box];
+ n9 [label="ACT[com.cc.MainActivity]928"];
+ n10 [label="ACT[com.cc.FirstUseActivity]938"];
+ n10 -> n9 [label="src: ACT[com.cc.FirstUseActivity]938\ntgt: ACT[com.cc.MainActivity]928\ntag: finish_activity\nevt: click\nwidget: INFL[android.widget.Button,WID[2131361874|btn_firstuse_Ok]572,11271]11279\n"];
+ n10 -> n9 [label="src: ACT[com.cc.FirstUseActivity]938\ntgt: ACT[com.cc.MainActivity]928\ntag: finish_activity\nevt: click\nwidget: INFL[android.widget.Button,WID[2131361873|btn_firstuse_Retry]578,11271]11278\n"];
+ n10 -> n9 [label="src: ACT[com.cc.FirstUseActivity]938\ntgt: ACT[com.cc.MainActivity]928\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[com.cc.FirstUseActivity]938\n"];
+}

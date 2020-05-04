@@ -1,0 +1,17 @@
+digraph G {
+ rankdir=LR;
+ node[shape=box];
+ n3 [label="ACT[com.schimera.webdavnavlite.Activities.InfoActivity]751"];
+ n9 [label="ACT[com.schimera.webdavnavlite.Activities.ServerEdit]809"];
+ n8 [label="ACT[com.schimera.webdavnavlite.Activities.RemoteBrowser]799"];
+ n4 [label="ACT[com.schimera.webdavnavlite.WebDAVNav]766"];
+ n4 -> n8 [label="src: ACT[com.schimera.webdavnavlite.WebDAVNav]766\ntgt: ACT[com.schimera.webdavnavlite.Activities.RemoteBrowser]799\ntag: start_activity\nevt: item_click\nwidget: INFL[android.widget.ListView,WID[16908298|list]241,6259]6260\n"];
+ n4 -> n9 [label="src: ACT[com.schimera.webdavnavlite.WebDAVNav]766\ntgt: ACT[com.schimera.webdavnavlite.Activities.ServerEdit]809\ntag: start_activity\nevt: click\nwidget: MenuItemINFL[android.view.MenuItem,WID[2131361850|serverEdit]485,6047]6311\n"];
+ n3 -> n4 [label="src: ACT[com.schimera.webdavnavlite.Activities.InfoActivity]751\ntgt: ACT[com.schimera.webdavnavlite.WebDAVNav]766\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[com.schimera.webdavnavlite.Activities.InfoActivity]751\n"];
+ n8 -> n4 [label="src: ACT[com.schimera.webdavnavlite.Activities.RemoteBrowser]799\ntgt: ACT[com.schimera.webdavnavlite.WebDAVNav]766\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[com.schimera.webdavnavlite.Activities.RemoteBrowser]799\n"];
+ n9 -> n4 [label="src: ACT[com.schimera.webdavnavlite.Activities.ServerEdit]809\ntgt: ACT[com.schimera.webdavnavlite.WebDAVNav]766\ntag: finish_activity\nevt: click\nwidget: INFL[android.widget.Button,WID[2131361827|addServerButton]478,6284]6297\n"];
+ n9 -> n4 [label="src: ACT[com.schimera.webdavnavlite.Activities.ServerEdit]809\ntgt: ACT[com.schimera.webdavnavlite.WebDAVNav]766\ntag: finish_activity\nevt: click\nwidget: INFL[android.widget.Button,WID[2131361828|cancelButton]483,6284]6299\n"];
+ n9 -> n4 [label="src: ACT[com.schimera.webdavnavlite.Activities.ServerEdit]809\ntgt: ACT[com.schimera.webdavnavlite.WebDAVNav]766\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[com.schimera.webdavnavlite.Activities.ServerEdit]809\n"];
+ n4 -> n3 [label="src: ACT[com.schimera.webdavnavlite.WebDAVNav]766\ntgt: ACT[com.schimera.webdavnavlite.Activities.InfoActivity]751\ntag: start_activity\nevt: click\nwidget: MenuItemINFL[android.view.MenuItem,WID[2131361833|showInfo]472,754]6309\n"];
+ n4 -> n9 [label="src: ACT[com.schimera.webdavnavlite.WebDAVNav]766\ntgt: ACT[com.schimera.webdavnavlite.Activities.ServerEdit]809\ntag: start_activity\nevt: click\nwidget: MenuItemINFL[android.view.MenuItem,WID[2131361832|addServer]471,754]6308\n"];
+}

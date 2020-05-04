@@ -1,0 +1,15 @@
+com.apk.com.lovePositions.AllActivity,com.apk.com.lovePositions.MainActivity,back,None,None
+com.apk.com.lovePositions.AllActivity,com.apk.com.lovePositions.ViewActivity,click,all_gird,android.widget.GridView
+com.apk.com.lovePositions.ContentActivity,com.apk.com.lovePositions.ViewActivity,click,back,android.widget.ImageButton
+com.apk.com.lovePositions.ContentActivity,com.apk.com.lovePositions.ViewActivity,back,None,None
+com.apk.com.lovePositions.MainActivity,com.apk.com.lovePositions.AllActivity,click,all,android.widget.ImageButton
+com.apk.com.lovePositions.MainActivity,com.apk.com.lovePositions.AllActivity,click,random,android.widget.ImageButton
+com.apk.com.lovePositions.MainActivity,com.apk.com.lovePositions.AllActivity,click,about,android.widget.ImageButton
+com.apk.com.lovePositions.MainActivity,com.apk.com.lovePositions.ViewActivity,click,random,android.widget.ImageButton
+com.apk.com.lovePositions.MainActivity,com.apk.com.lovePositions.ViewActivity,click,about,android.widget.ImageButton
+com.apk.com.lovePositions.MainActivity,com.apk.com.lovePositions.ViewActivity,click,all,android.widget.ImageButton
+com.apk.com.lovePositions.ViewActivity,com.apk.com.lovePositions.AllActivity,back,None,None
+com.apk.com.lovePositions.ViewActivity,com.apk.com.lovePositions.MainActivity,back,None,None
+com.apk.com.lovePositions.ViewActivity,com.apk.com.lovePositions.ContentActivity,click,next,android.widget.ImageButton
+com.apk.com.lovePositions.ViewActivity,com.apk.com.lovePositions.ContentActivity,click,pre,android.widget.ImageButton
+com.apk.com.lovePositions.ViewActivity,com.apk.com.lovePositions.ContentActivity,click,des,android.widget.ImageButton

@@ -1,0 +1,6 @@
+net.manslateresad.TraductorMujer,net.manslateresad.listaMujer,click,frases,android.widget.ImageButton
+net.manslateresad.listaHombre,net.manslateresad.TraductorHombre,back,None,None
+net.manslateresad.listaHombre,net.manslateresad.TraductorHombre,click,ListView01,android.widget.ListView
+net.manslateresad.TraductorHombre,net.manslateresad.listaHombre,click,frases,android.widget.ImageButton
+net.manslateresad.listaMujer,net.manslateresad.TraductorMujer,back,None,None
+net.manslateresad.listaMujer,net.manslateresad.TraductorMujer,click,ListView01,android.widget.ListView

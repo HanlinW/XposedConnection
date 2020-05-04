@@ -1,0 +1,25 @@
+digraph G {
+ rankdir=LR;
+ node[shape=box];
+ n3 [label="ACT[yuku.perekammp3.PengaturanActivity]754"];
+ n2 [label="ACT[yuku.perekammp3.KalibrasiActivity]750"];
+ n4 [label="ACT[yuku.perekammp3.DaftarActivity]757"];
+ n1 [label="ACT[yuku.perekammp3.RekamActivity]741"];
+ n4 -> n4 [label="src: ACT[yuku.perekammp3.DaftarActivity]757\ntgt: ACT[yuku.perekammp3.DaftarActivity]757\ntag: dismiss_dialog\nevt: click\nwidget: INFL[android.widget.Button,WID[16908313|button1]247,3486]3491\n"];
+ n4 -> n4 [label="src: ACT[yuku.perekammp3.DaftarActivity]757\ntgt: ACT[yuku.perekammp3.DaftarActivity]757\ntag: implicit_back\nevt: implicit_back_event\nwidget: DIALOG[android.app.AlertDialog]3183, alloc: <yuku.perekammp3.DaftarActivity: void tampilDialogSuaraOutputJelek()>\n"];
+ n3 -> n1 [label="src: ACT[yuku.perekammp3.PengaturanActivity]754\ntgt: ACT[yuku.perekammp3.RekamActivity]741\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[yuku.perekammp3.PengaturanActivity]754\n"];
+ n1 -> n1 [label="src: ACT[yuku.perekammp3.RekamActivity]741\ntgt: ACT[yuku.perekammp3.RekamActivity]741\ntag: cyclic_edge\nevt: click\nwidget: OptionsMenu[yuku.perekammp3.RekamActivity]734\n"];
+ n4 -> n4 [label="src: ACT[yuku.perekammp3.DaftarActivity]757\ntgt: ACT[yuku.perekammp3.DaftarActivity]757\ntag: implicit_back\nevt: implicit_back_event\nwidget: DIALOG[android.app.AlertDialog]3180, alloc: <yuku.iconcontextmenu.IconContextMenu: void <init>(android.content.Context,android.view.Menu)>\n"];
+ n1 -> n1 [label="src: ACT[yuku.perekammp3.RekamActivity]741\ntgt: ACT[yuku.perekammp3.RekamActivity]741\ntag: implicit_back\nevt: implicit_back_event\nwidget: OptionsMenu[yuku.perekammp3.RekamActivity]734\n"];
+ n1 -> n4 [label="src: ACT[yuku.perekammp3.RekamActivity]741\ntgt: ACT[yuku.perekammp3.DaftarActivity]757\ntag: start_activity\nevt: click\nwidget: MenuItemINFL[android.view.MenuItem,WID[2131492901|menuList]458,734]3847\n"];
+ n1 -> n3 [label="src: ACT[yuku.perekammp3.RekamActivity]741\ntgt: ACT[yuku.perekammp3.PengaturanActivity]754\ntag: start_activity\nevt: click\nwidget: MenuItemINFL[android.view.MenuItem,WID[2131492902|menuPengaturan]459,734]3849\n"];
+ n1 -> n1 [label="src: ACT[yuku.perekammp3.RekamActivity]741\ntgt: ACT[yuku.perekammp3.RekamActivity]741\ntag: implicit_back\nevt: implicit_back_event\nwidget: DIALOG[android.app.AlertDialog]3168, alloc: <yuku.perekammp3.RekamActivity: void tampilDialogKalauWaktuTerbatas()>\n"];
+ n4 -> n1 [label="src: ACT[yuku.perekammp3.DaftarActivity]757\ntgt: ACT[yuku.perekammp3.RekamActivity]741\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[yuku.perekammp3.DaftarActivity]757\n"];
+ n4 -> n4 [label="src: ACT[yuku.perekammp3.DaftarActivity]757\ntgt: ACT[yuku.perekammp3.DaftarActivity]757\ntag: cyclic_edge\nevt: click\nwidget: INFL[android.widget.ImageButton,WID[2131492892|bPlay]439,3649;3676;]3650\n"];
+ n4 -> n4 [label="src: ACT[yuku.perekammp3.DaftarActivity]757\ntgt: ACT[yuku.perekammp3.DaftarActivity]757\ntag: cyclic_edge\nevt: item_click\nwidget: INFL[android.widget.ListView,WID[2131492864|lsRekaman]435,3675]3676\n"];
+ n2 -> n1 [label="src: ACT[yuku.perekammp3.KalibrasiActivity]750\ntgt: ACT[yuku.perekammp3.RekamActivity]741\ntag: finish_activity\nevt: click\nwidget: INFL[android.widget.Button,WID[2131492871|bLanjut]434,3757]3761\n"];
+ n2 -> n1 [label="src: ACT[yuku.perekammp3.KalibrasiActivity]750\ntgt: ACT[yuku.perekammp3.RekamActivity]741\ntag: finish_activity\nevt: click\nwidget: INFL[android.widget.Button,WID[2131492870|bUlang]433,3757]3758\n"];
+ n2 -> n1 [label="src: ACT[yuku.perekammp3.KalibrasiActivity]750\ntgt: ACT[yuku.perekammp3.RekamActivity]741\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[yuku.perekammp3.KalibrasiActivity]750\n"];
+ n1 -> n1 [label="src: ACT[yuku.perekammp3.RekamActivity]741\ntgt: ACT[yuku.perekammp3.RekamActivity]741\ntag: implicit_back\nevt: implicit_back_event\nwidget: DIALOG[android.app.AlertDialog]3186, alloc: <yuku.perekammp3.AboutDialog: void <init>(android.content.Context)>\n"];
+ n1 -> n1 [label="src: ACT[yuku.perekammp3.RekamActivity]741\ntgt: ACT[yuku.perekammp3.RekamActivity]741\ntag: implicit_back\nevt: implicit_back_event\nwidget: DIALOG[android.app.AlertDialog]3187, alloc: <yuku.perekammp3.RekamActivity: void tampilDialogKalauFull()>\n"];
+}

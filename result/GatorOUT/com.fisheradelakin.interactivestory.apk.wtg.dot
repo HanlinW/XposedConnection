@@ -1,0 +1,4 @@
+com.fisheradelakin.interactivestory.ui.MainActivity,com.fisheradelakin.interactivestory.ui.StoryActivity,click,startButton,android.widget.Button
+com.fisheradelakin.interactivestory.ui.StoryActivity,com.fisheradelakin.interactivestory.ui.MainActivity,click,choiceButton2,android.widget.Button
+com.fisheradelakin.interactivestory.ui.StoryActivity,com.fisheradelakin.interactivestory.ui.MainActivity,click,choiceButton1,android.widget.Button
+com.fisheradelakin.interactivestory.ui.StoryActivity,com.fisheradelakin.interactivestory.ui.MainActivity,back,None,None

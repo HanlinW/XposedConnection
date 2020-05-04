@@ -1,0 +1,18 @@
+digraph G {
+ rankdir=LR;
+ node[shape=box];
+ n3 [label="ACT[net.manslateresad.listaMujer]589"];
+ n4 [label="ACT[net.manslateresad.TraductorMujer]593"];
+ n6 [label="ACT[net.manslateresad.TraductorHombre]606"];
+ n1 [label="ACT[net.manslateresad.Inicio]578"];
+ n2 [label="ACT[com.admob.android.ads.AdMobActivity]583"];
+ n5 [label="ACT[net.manslateresad.listaHombre]602"];
+ n1 -> n1 [label="src: ACT[net.manslateresad.Inicio]578\ntgt: ACT[net.manslateresad.Inicio]578\ntag: cyclic_edge\nevt: click\nwidget: INFL[android.widget.ImageButton,WID[2131099650|cargando]375,4220]4224\n"];
+ n2 -> n2 [label="src: ACT[com.admob.android.ads.AdMobActivity]583\ntgt: ACT[com.admob.android.ads.AdMobActivity]583\ntag: cyclic_edge\nevt: click\nwidget: NEWVIEW[android.widget.ImageButton,*,3161]3168\n"];
+ n4 -> n3 [label="src: ACT[net.manslateresad.TraductorMujer]593\ntgt: ACT[net.manslateresad.listaMujer]589\ntag: start_activity\nevt: click\nwidget: INFL[android.widget.ImageButton,WID[2131099662|frases]383,4230]4240\n"];
+ n5 -> n6 [label="src: ACT[net.manslateresad.listaHombre]602\ntgt: ACT[net.manslateresad.TraductorHombre]606\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[net.manslateresad.listaHombre]602\n"];
+ n5 -> n6 [label="src: ACT[net.manslateresad.listaHombre]602\ntgt: ACT[net.manslateresad.TraductorHombre]606\ntag: finish_activity\nevt: item_click\nwidget: INFL[android.widget.ListView,WID[2131099652|ListView01]371,4214]4215\n"];
+ n6 -> n5 [label="src: ACT[net.manslateresad.TraductorHombre]606\ntgt: ACT[net.manslateresad.listaHombre]602\ntag: start_activity\nevt: click\nwidget: INFL[android.widget.ImageButton,WID[2131099662|frases]383,4247]4257\n"];
+ n3 -> n4 [label="src: ACT[net.manslateresad.listaMujer]589\ntgt: ACT[net.manslateresad.TraductorMujer]593\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[net.manslateresad.listaMujer]589\n"];
+ n3 -> n4 [label="src: ACT[net.manslateresad.listaMujer]589\ntgt: ACT[net.manslateresad.TraductorMujer]593\ntag: finish_activity\nevt: item_click\nwidget: INFL[android.widget.ListView,WID[2131099652|ListView01]371,4261]4262\n"];
+}

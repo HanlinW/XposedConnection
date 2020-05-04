@@ -1,0 +1,28 @@
+digraph G {
+ rankdir=LR;
+ node[shape=box];
+ n3 [label="ACT[com.apk.com.lovePositions.ContentActivity]588"];
+ n2 [label="ACT[com.apk.com.lovePositions.ViewActivity]583"];
+ n4 [label="ACT[com.apk.com.lovePositions.MainActivity]593"];
+ n1 [label="ACT[com.apk.com.lovePositions.AllActivity]578"];
+ n1 -> n4 [label="src: ACT[com.apk.com.lovePositions.AllActivity]578\ntgt: ACT[com.apk.com.lovePositions.MainActivity]593\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[com.apk.com.lovePositions.AllActivity]578\n"];
+ n1 -> n2 [label="src: ACT[com.apk.com.lovePositions.AllActivity]578\ntgt: ACT[com.apk.com.lovePositions.ViewActivity]583\ntag: start_activity\nevt: item_click\nwidget: INFL[android.widget.GridView,WID[2131034113|all_gird]356,3822]3824\n"];
+ n4 -> n4 [label="src: ACT[com.apk.com.lovePositions.MainActivity]593\ntgt: ACT[com.apk.com.lovePositions.MainActivity]593\ntag: implicit_back\nevt: implicit_back_event\nwidget: DIALOG[android.app.AlertDialog]3762, alloc: <com.apk.com.lovePositions.MainActivity$2: boolean onTouch(android.view.View,android.view.MotionEvent)>\n"];
+ n4 -> n4 [label="src: ACT[com.apk.com.lovePositions.MainActivity]593\ntgt: ACT[com.apk.com.lovePositions.MainActivity]593\ntag: dismiss_dialog\nevt: click\nwidget: INFL[android.widget.Button,WID[16908313|button1]393,3834]3839\n"];
+ n3 -> n2 [label="src: ACT[com.apk.com.lovePositions.ContentActivity]588\ntgt: ACT[com.apk.com.lovePositions.ViewActivity]583\ntag: finish_activity\nevt: click\nwidget: INFL[android.widget.ImageButton,WID[2131034115|back]360,3857]3859\n"];
+ n3 -> n2 [label="src: ACT[com.apk.com.lovePositions.ContentActivity]588\ntgt: ACT[com.apk.com.lovePositions.ViewActivity]583\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[com.apk.com.lovePositions.ContentActivity]588\n"];
+ n4 -> n1 [label="src: ACT[com.apk.com.lovePositions.MainActivity]593\ntgt: ACT[com.apk.com.lovePositions.AllActivity]578\ntag: start_activity\nevt: touch\nwidget: INFL[android.widget.ImageButton,WID[2131034120|all]374,3852]3853\n"];
+ n4 -> n1 [label="src: ACT[com.apk.com.lovePositions.MainActivity]593\ntgt: ACT[com.apk.com.lovePositions.AllActivity]578\ntag: start_activity\nevt: touch\nwidget: INFL[android.widget.ImageButton,WID[2131034121|random]372,3852]3854\n"];
+ n4 -> n1 [label="src: ACT[com.apk.com.lovePositions.MainActivity]593\ntgt: ACT[com.apk.com.lovePositions.AllActivity]578\ntag: start_activity\nevt: touch\nwidget: INFL[android.widget.ImageButton,WID[2131034122|about]378,3852]3855\n"];
+ n4 -> n2 [label="src: ACT[com.apk.com.lovePositions.MainActivity]593\ntgt: ACT[com.apk.com.lovePositions.ViewActivity]583\ntag: start_activity\nevt: touch\nwidget: INFL[android.widget.ImageButton,WID[2131034121|random]372,3852]3854\n"];
+ n4 -> n2 [label="src: ACT[com.apk.com.lovePositions.MainActivity]593\ntgt: ACT[com.apk.com.lovePositions.ViewActivity]583\ntag: start_activity\nevt: touch\nwidget: INFL[android.widget.ImageButton,WID[2131034122|about]378,3852]3855\n"];
+ n4 -> n2 [label="src: ACT[com.apk.com.lovePositions.MainActivity]593\ntgt: ACT[com.apk.com.lovePositions.ViewActivity]583\ntag: start_activity\nevt: touch\nwidget: INFL[android.widget.ImageButton,WID[2131034120|all]374,3852]3853\n"];
+ n4 -> n4 [label="src: ACT[com.apk.com.lovePositions.MainActivity]593\ntgt: ACT[com.apk.com.lovePositions.MainActivity]593\ntag: cyclic_edge\nevt: touch\nwidget: INFL[android.widget.ImageButton,WID[2131034122|about]378,3852]3855\n"];
+ n4 -> n4 [label="src: ACT[com.apk.com.lovePositions.MainActivity]593\ntgt: ACT[com.apk.com.lovePositions.MainActivity]593\ntag: cyclic_edge\nevt: touch\nwidget: INFL[android.widget.ImageButton,WID[2131034120|all]374,3852]3853\n"];
+ n4 -> n4 [label="src: ACT[com.apk.com.lovePositions.MainActivity]593\ntgt: ACT[com.apk.com.lovePositions.MainActivity]593\ntag: cyclic_edge\nevt: touch\nwidget: INFL[android.widget.ImageButton,WID[2131034121|random]372,3852]3854\n"];
+ n2 -> n1 [label="src: ACT[com.apk.com.lovePositions.ViewActivity]583\ntgt: ACT[com.apk.com.lovePositions.AllActivity]578\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[com.apk.com.lovePositions.ViewActivity]583\n"];
+ n2 -> n4 [label="src: ACT[com.apk.com.lovePositions.ViewActivity]583\ntgt: ACT[com.apk.com.lovePositions.MainActivity]593\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[com.apk.com.lovePositions.ViewActivity]583\n"];
+ n2 -> n3 [label="src: ACT[com.apk.com.lovePositions.ViewActivity]583\ntgt: ACT[com.apk.com.lovePositions.ContentActivity]588\ntag: start_activity\nevt: click\nwidget: INFL[android.widget.ImageButton,WID[2131034128|next]386,3846]3850\n"];
+ n2 -> n3 [label="src: ACT[com.apk.com.lovePositions.ViewActivity]583\ntgt: ACT[com.apk.com.lovePositions.ContentActivity]588\ntag: start_activity\nevt: click\nwidget: INFL[android.widget.ImageButton,WID[2131034127|pre]368,3846]3849\n"];
+ n2 -> n3 [label="src: ACT[com.apk.com.lovePositions.ViewActivity]583\ntgt: ACT[com.apk.com.lovePositions.ContentActivity]588\ntag: start_activity\nevt: click\nwidget: INFL[android.widget.ImageButton,WID[2131034125|des]364,3843]3845\n"];
+}

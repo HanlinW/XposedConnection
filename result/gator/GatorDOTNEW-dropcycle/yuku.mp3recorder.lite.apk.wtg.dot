@@ -1,0 +1,15 @@
+digraph G {
+ rankdir=LR;
+ node[shape=box];
+ n2 [label="ACT[yuku.perekammp3.KalibrasiActivity]750"];
+ n4 [label="ACT[yuku.perekammp3.DaftarActivity]757"];
+ n3 [label="ACT[yuku.perekammp3.PengaturanActivity]754"];
+ n1 [label="ACT[yuku.perekammp3.RekamActivity]741"];
+ n3 -> n1 [label="src: ACT[yuku.perekammp3.PengaturanActivity]754\ntgt: ACT[yuku.perekammp3.RekamActivity]741\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[yuku.perekammp3.PengaturanActivity]754\n"];
+ n1 -> n4 [label="src: ACT[yuku.perekammp3.RekamActivity]741\ntgt: ACT[yuku.perekammp3.DaftarActivity]757\ntag: start_activity\nevt: click\nwidget: MenuItemINFL[android.view.MenuItem,WID[2131492901|menuList]458,734]3847\n"];
+ n1 -> n3 [label="src: ACT[yuku.perekammp3.RekamActivity]741\ntgt: ACT[yuku.perekammp3.PengaturanActivity]754\ntag: start_activity\nevt: click\nwidget: MenuItemINFL[android.view.MenuItem,WID[2131492902|menuPengaturan]459,734]3849\n"];
+ n4 -> n1 [label="src: ACT[yuku.perekammp3.DaftarActivity]757\ntgt: ACT[yuku.perekammp3.RekamActivity]741\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[yuku.perekammp3.DaftarActivity]757\n"];
+ n2 -> n1 [label="src: ACT[yuku.perekammp3.KalibrasiActivity]750\ntgt: ACT[yuku.perekammp3.RekamActivity]741\ntag: finish_activity\nevt: click\nwidget: INFL[android.widget.Button,WID[2131492871|bLanjut]434,3757]3761\n"];
+ n2 -> n1 [label="src: ACT[yuku.perekammp3.KalibrasiActivity]750\ntgt: ACT[yuku.perekammp3.RekamActivity]741\ntag: finish_activity\nevt: click\nwidget: INFL[android.widget.Button,WID[2131492870|bUlang]433,3757]3758\n"];
+ n2 -> n1 [label="src: ACT[yuku.perekammp3.KalibrasiActivity]750\ntgt: ACT[yuku.perekammp3.RekamActivity]741\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[yuku.perekammp3.KalibrasiActivity]750\n"];
+}

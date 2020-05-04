@@ -1,0 +1,9 @@
+com.schimera.webdavnavlite.WebDAVNav,com.schimera.webdavnavlite.Activities.RemoteBrowser,click,list,android.widget.ListView
+com.schimera.webdavnavlite.WebDAVNav,com.schimera.webdavnavlite.Activities.ServerEdit,click,serverEdit,android.view.MenuItem
+com.schimera.webdavnavlite.Activities.InfoActivity,com.schimera.webdavnavlite.WebDAVNav,back,None,None
+com.schimera.webdavnavlite.Activities.RemoteBrowser,com.schimera.webdavnavlite.WebDAVNav,back,None,None
+com.schimera.webdavnavlite.Activities.ServerEdit,com.schimera.webdavnavlite.WebDAVNav,click,addServerButton,android.widget.Button
+com.schimera.webdavnavlite.Activities.ServerEdit,com.schimera.webdavnavlite.WebDAVNav,click,cancelButton,android.widget.Button
+com.schimera.webdavnavlite.Activities.ServerEdit,com.schimera.webdavnavlite.WebDAVNav,back,None,None
+com.schimera.webdavnavlite.WebDAVNav,com.schimera.webdavnavlite.Activities.InfoActivity,click,showInfo,android.view.MenuItem
+com.schimera.webdavnavlite.WebDAVNav,com.schimera.webdavnavlite.Activities.ServerEdit,click,addServer,android.view.MenuItem

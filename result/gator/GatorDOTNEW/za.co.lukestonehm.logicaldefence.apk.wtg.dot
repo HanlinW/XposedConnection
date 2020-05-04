@@ -1,0 +1,12 @@
+digraph G {
+ rankdir=LR;
+ node[shape=box];
+ n2 [label="ACT[za.co.lukestonehm.logicaldefence.About]934"];
+ n1 [label="ACT[za.co.lukestonehm.logicaldefence.MainActivity]929"];
+ n2 -> n1 [label="src: ACT[za.co.lukestonehm.logicaldefence.About]934\ntgt: ACT[za.co.lukestonehm.logicaldefence.MainActivity]929\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[za.co.lukestonehm.logicaldefence.About]934\n"];
+ n1 -> n1 [label="src: ACT[za.co.lukestonehm.logicaldefence.MainActivity]929\ntgt: ACT[za.co.lukestonehm.logicaldefence.MainActivity]929\ntag: cyclic_edge\nevt: item_click\nwidget: INFL[android.widget.ListView,WID[2131558489|lv]558,1277]1285\n"];
+ n1 -> n1 [label="src: ACT[za.co.lukestonehm.logicaldefence.MainActivity]929\ntgt: ACT[za.co.lukestonehm.logicaldefence.MainActivity]929\ntag: implicit_back\nevt: implicit_back_event\nwidget: OptionsMenu[za.co.lukestonehm.logicaldefence.MainActivity]922\n"];
+ n1 -> n2 [label="src: ACT[za.co.lukestonehm.logicaldefence.MainActivity]929\ntgt: ACT[za.co.lukestonehm.logicaldefence.About]934\ntag: start_activity\nevt: click\nwidget: MenuItemINFL[android.view.MenuItem,WID[2131558509|action_about]581,922]1294\n"];
+ n1 -> n1 [label="src: ACT[za.co.lukestonehm.logicaldefence.MainActivity]929\ntgt: ACT[za.co.lukestonehm.logicaldefence.MainActivity]929\ntag: close_menu\nevt: click\nwidget: MenuItemINFL[android.view.MenuItem,WID[2131558510|action_language]586,922]1296\n"];
+ n1 -> n1 [label="src: ACT[za.co.lukestonehm.logicaldefence.MainActivity]929\ntgt: ACT[za.co.lukestonehm.logicaldefence.MainActivity]929\ntag: close_menu\nevt: click\nwidget: MenuItemINFL[android.view.MenuItem,WID[2131558509|action_about]581,922]1294\n"];
+}

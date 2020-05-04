@@ -1,0 +1,11 @@
+digraph G {
+ rankdir=LR;
+ node[shape=box];
+ n2 [label="ACT[com.secuso.torchlight2.MainActivity]696"];
+ n1 [label="ACT[com.secuso.torchlight2.AboutActivity]686"];
+ n2 -> n2 [label="src: ACT[com.secuso.torchlight2.MainActivity]696\ntgt: ACT[com.secuso.torchlight2.MainActivity]696\ntag: cyclic_edge\nevt: click\nwidget: INFL[android.widget.CheckBox,WID[2131492935|cbPause]517,817]821\n"];
+ n2 -> n2 [label="src: ACT[com.secuso.torchlight2.MainActivity]696\ntgt: ACT[com.secuso.torchlight2.MainActivity]696\ntag: cyclic_edge\nevt: click\nwidget: INFL[android.widget.ImageButton,WID[2131492933|btnSwitch]514,817]818\n"];
+ n1 -> n2 [label="src: ACT[com.secuso.torchlight2.AboutActivity]686\ntgt: ACT[com.secuso.torchlight2.MainActivity]696\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[com.secuso.torchlight2.AboutActivity]686\n"];
+ n2 -> n2 [label="src: ACT[com.secuso.torchlight2.MainActivity]696\ntgt: ACT[com.secuso.torchlight2.MainActivity]696\ntag: implicit_back\nevt: implicit_back_event\nwidget: OptionsMenu[com.secuso.torchlight2.MainActivity]689\n"];
+ n2 -> n1 [label="src: ACT[com.secuso.torchlight2.MainActivity]696\ntgt: ACT[com.secuso.torchlight2.AboutActivity]686\ntag: start_activity\nevt: click\nwidget: MenuItemINFL[android.view.MenuItem,WID[2131492936|action_about]508,689]841\n"];
+}

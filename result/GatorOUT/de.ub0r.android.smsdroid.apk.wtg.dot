@@ -1,0 +1,10 @@
+de.ub0r.android.lib.DonationHelper,de.ub0r.android.smsdroid.ConversationList,back,None,None
+de.ub0r.android.smsdroid.Preferences,de.ub0r.android.smsdroid.ConversationList,back,None,None
+de.ub0r.android.smsdroid.ConversationList,de.ub0r.android.smsdroid.MessageList,click,button1,android.widget.Button
+de.ub0r.android.smsdroid.MessageList,de.ub0r.android.smsdroid.ConversationList,click,button1,android.widget.Button
+de.ub0r.android.smsdroid.ConversationList,de.ub0r.android.smsdroid.MessageList,back,None,None
+de.ub0r.android.smsdroid.ConversationList,de.ub0r.android.smsdroid.MessageList,click,list,android.widget.ListView
+de.ub0r.android.smsdroid.ConversationList,de.ub0r.android.smsdroid.Preferences,click,item_settings,android.view.MenuItem
+de.ub0r.android.smsdroid.ConversationList,de.ub0r.android.lib.DonationHelper,click,item_donate,android.view.MenuItem
+de.ub0r.android.smsdroid.MessageList,de.ub0r.android.smsdroid.ConversationList,click,item_all_threads,android.view.MenuItem
+de.ub0r.android.smsdroid.MessageList,de.ub0r.android.smsdroid.ConversationList,back,None,None

@@ -1,0 +1,3 @@
+com.cc.FirstUseActivity,com.cc.MainActivity,click,btn_firstuse_Ok,android.widget.Button
+com.cc.FirstUseActivity,com.cc.MainActivity,click,btn_firstuse_Retry,android.widget.Button
+com.cc.FirstUseActivity,com.cc.MainActivity,back,None,None

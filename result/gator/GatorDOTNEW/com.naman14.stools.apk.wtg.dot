@@ -1,0 +1,9 @@
+digraph G {
+ rankdir=LR;
+ node[shape=box];
+ n2 [label="ACT[com.naman14.stools.MainActivity]969"];
+ n3 [label="ACT[com.naman14.stools.sensors.SensorGraphActivity]978"];
+ n3 -> n3 [label="src: ACT[com.naman14.stools.sensors.SensorGraphActivity]978\ntgt: ACT[com.naman14.stools.sensors.SensorGraphActivity]978\ntag: cyclic_edge\nevt: touch\nwidget: NEWVIEW[org.achartengine.GraphicalView,*,978]2958\n"];
+ n2 -> n2 [label="src: ACT[com.naman14.stools.MainActivity]969\ntgt: ACT[com.naman14.stools.MainActivity]969\ntag: cyclic_edge\nevt: item_click\nwidget: INFL[android.widget.ListView,WID[2131492934|list_slidermenu]539,5753]5755\n"];
+ n2 -> n2 [label="src: ACT[com.naman14.stools.MainActivity]969\ntgt: ACT[com.naman14.stools.MainActivity]969\ntag: implicit_back\nevt: implicit_back_event\nwidget: OptionsMenu[com.naman14.stools.MainActivity]958\n"];
+}

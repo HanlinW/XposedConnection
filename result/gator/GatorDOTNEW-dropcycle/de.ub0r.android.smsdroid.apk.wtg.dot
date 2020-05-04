@@ -1,0 +1,18 @@
+digraph G {
+ rankdir=LR;
+ node[shape=box];
+ n8 [label="ACT[de.ub0r.android.smsdroid.ConversationList]910"];
+ n3 [label="ACT[de.ub0r.android.lib.DonationHelper]879"];
+ n5 [label="ACT[de.ub0r.android.smsdroid.Preferences]892"];
+ n1 [label="ACT[de.ub0r.android.smsdroid.MessageList]864"];
+ n3 -> n8 [label="src: ACT[de.ub0r.android.lib.DonationHelper]879\ntgt: ACT[de.ub0r.android.smsdroid.ConversationList]910\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[de.ub0r.android.lib.DonationHelper]879\n"];
+ n5 -> n8 [label="src: ACT[de.ub0r.android.smsdroid.Preferences]892\ntgt: ACT[de.ub0r.android.smsdroid.ConversationList]910\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[de.ub0r.android.smsdroid.Preferences]892\n"];
+ n8 -> n1 [label="src: ACT[de.ub0r.android.smsdroid.ConversationList]910\ntgt: ACT[de.ub0r.android.smsdroid.MessageList]864\ntag: finish_activity\nevt: click\nwidget: INFL[android.widget.Button,WID[16908313|button1]253,4916]4921\n"];
+ n1 -> n8 [label="src: ACT[de.ub0r.android.smsdroid.MessageList]864\ntgt: ACT[de.ub0r.android.smsdroid.ConversationList]910\ntag: finish_activity\nevt: click\nwidget: INFL[android.widget.Button,WID[16908313|button1]253,4916]4921\n"];
+ n8 -> n1 [label="src: ACT[de.ub0r.android.smsdroid.ConversationList]910\ntgt: ACT[de.ub0r.android.smsdroid.MessageList]864\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[de.ub0r.android.smsdroid.ConversationList]910\n"];
+ n8 -> n1 [label="src: ACT[de.ub0r.android.smsdroid.ConversationList]910\ntgt: ACT[de.ub0r.android.smsdroid.MessageList]864\ntag: start_activity\nevt: item_click\nwidget: INFL[android.widget.ListView,WID[16908298|list]234,4994]4997\n"];
+ n8 -> n5 [label="src: ACT[de.ub0r.android.smsdroid.ConversationList]910\ntgt: ACT[de.ub0r.android.smsdroid.Preferences]892\ntag: start_activity\nevt: click\nwidget: MenuItemINFL[android.view.MenuItem,WID[2131296310|item_settings]491,904]5130\n"];
+ n8 -> n3 [label="src: ACT[de.ub0r.android.smsdroid.ConversationList]910\ntgt: ACT[de.ub0r.android.lib.DonationHelper]879\ntag: start_activity\nevt: click\nwidget: MenuItemINFL[android.view.MenuItem,WID[2131296311|item_donate]490,904]5132\n"];
+ n1 -> n8 [label="src: ACT[de.ub0r.android.smsdroid.MessageList]864\ntgt: ACT[de.ub0r.android.smsdroid.ConversationList]910\ntag: start_activity\nevt: click\nwidget: MenuItemINFL[android.view.MenuItem,WID[2131296314|item_all_threads]481,857]5140\n"];
+ n1 -> n8 [label="src: ACT[de.ub0r.android.smsdroid.MessageList]864\ntgt: ACT[de.ub0r.android.smsdroid.ConversationList]910\ntag: implicit_back\nevt: implicit_back_event\nwidget: ACT[de.ub0r.android.smsdroid.MessageList]864\n"];
+}

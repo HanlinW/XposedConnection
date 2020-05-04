@@ -1,0 +1,14 @@
+digraph G {
+ rankdir=LR;
+ node[shape=box];
+ n1 [label="ACT[com.klye.ime.latin.M]829"];
+ n1 -> n1 [label="src: ACT[com.klye.ime.latin.M]829\ntgt: ACT[com.klye.ime.latin.M]829\ntag: cyclic_edge\nevt: click\nwidget: INFL[android.widget.Button,WID[2131230732|settings]387,7180;829;]7191\n"];
+ n1 -> n1 [label="src: ACT[com.klye.ime.latin.M]829\ntgt: ACT[com.klye.ime.latin.M]829\ntag: cyclic_edge\nevt: click\nwidget: INFL[android.widget.Button,WID[2131230728|enable]379,7180]7183\n"];
+ n1 -> n1 [label="src: ACT[com.klye.ime.latin.M]829\ntgt: ACT[com.klye.ime.latin.M]829\ntag: cyclic_edge\nevt: click\nwidget: INFL[android.widget.Button,WID[2131230730|enable3]383,7180]7187\n"];
+ n1 -> n1 [label="src: ACT[com.klye.ime.latin.M]829\ntgt: ACT[com.klye.ime.latin.M]829\ntag: cyclic_edge\nevt: click\nwidget: INFL[android.widget.Button,WID[2131230733|share]389,7180]7193\n"];
+ n1 -> n1 [label="src: ACT[com.klye.ime.latin.M]829\ntgt: ACT[com.klye.ime.latin.M]829\ntag: cyclic_edge\nevt: click\nwidget: INFL[android.widget.ScrollView,WID[2131230726|scroll]407,829]7179\n"];
+ n1 -> n1 [label="src: ACT[com.klye.ime.latin.M]829\ntgt: ACT[com.klye.ime.latin.M]829\ntag: cyclic_edge\nevt: click\nwidget: INFL[android.widget.Button,WID[2131230729|enable2]381,7180]7185\n"];
+ n1 -> n1 [label="src: ACT[com.klye.ime.latin.M]829\ntgt: ACT[com.klye.ime.latin.M]829\ntag: cyclic_edge\nevt: click\nwidget: INFL[android.widget.Button,WID[2131230734|home]391,7180]7195\n"];
+ n1 -> n1 [label="src: ACT[com.klye.ime.latin.M]829\ntgt: ACT[com.klye.ime.latin.M]829\ntag: cyclic_edge\nevt: click\nwidget: INFL[android.widget.Button,WID[2131230731|enable4]385,7180]7189\n"];
+ n1 -> n1 [label="src: ACT[com.klye.ime.latin.M]829\ntgt: ACT[com.klye.ime.latin.M]829\ntag: implicit_back\nevt: implicit_back_event\nwidget: OptionsMenu[com.klye.ime.latin.M]822\n"];
+}

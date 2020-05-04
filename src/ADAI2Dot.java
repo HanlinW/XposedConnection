@@ -116,20 +116,22 @@ public class ADAI2Dot{
 				Afile.write("n" + val + " [label=\"ACT[" + key + "]\"];\n");
 			}
 			
-			PathTree nowPath = root;
-			while (nowPath.next!=null){
-				nowPath = nowPath.next;
+			LinkedList<PathTree> path = this.graphPaths;
+			
+			PathTree nowPath = null;
+			Iterator<PathTree> iter2 = path.iterator();
+			while (iter2.hasNext()){
+				nowPath = iter2.next();
 				//nextPath = nowPath.next;
-				if (nowPath !=null && nowPath.next !=null && nowPath.next.src != "" && nowPath.src !="") {
+				if (nowPath !=null) {
 					String src = nowPath.src;
-					String tgt = "";
-					tgt = nowPath.next.src;
+					String tgt = nowPath.tgt;
+					
 					nowPath.tgt = tgt;
 					
 					String line;
 					//System.out.println(src + "->" + tgt);
-					int srcIndex = Activities.get(src);
-					
+					int srcIndex = Activities.get(src);					
 					int tgtIndex = Activities.get(tgt);
 					line = "n" + srcIndex + " -> n" + tgtIndex 
 							+ " [label=\"src: ACT["+ src 
@@ -137,8 +139,7 @@ public class ADAI2Dot{
 					
 					String handler= nowPath.handler, widgetID= nowPath.widgetID, className= nowPath.className,
 							dialogClass= nowPath.dialogClass, dialogTitle= nowPath.dialogTitle, buttonText= nowPath.buttonText,
-							hash= nowPath.hash, event = nowPath.event, menuItemID = nowPath.menuItemID;
-
+							hash= nowPath.hash, event = nowPath.event, menuItemID = nowPath.menuItemID, xpath = nowPath.xpath;
 					PathTree current = nowPath;
 					allPaths.add(current);
 					if (className!=""){
@@ -160,14 +161,15 @@ public class ADAI2Dot{
 					if (buttonText!=""){
 						line = line + "\\nbuttonText: " + buttonText + " ";
 					}
-					if (handler!="") {
-						line = line + "\\nhandler: " + handler + " ";
-					}
+					
 					if (event!="") {
 						line = line + "\\nevent: " + event + " ";
 					}
 					if (hash!="") {
 						line = line + "\\nhash: " + hash + " ";
+					}
+					if (xpath!="") {
+						line = line + "\\nxpath: " + xpath + " ";
 					}
 					line = line + "\"];\n";
 					Afile.write(line);
@@ -332,7 +334,7 @@ public class ADAI2Dot{
 		putPath.hash = hash;
 		nowPath.next = putPath;
 		nowPath = putPath;
-		nowPath.next = null;		
+		nowPath.next = null;
 	}
 	public void Txtfile(){
 		int Aline = ADAIFile.size();
