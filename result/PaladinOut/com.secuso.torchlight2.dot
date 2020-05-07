@@ -1,0 +1,9 @@
+n1 [label="ACT[com.secuso.torchlight2.AboutActivity]"];
+n0 [label="ACT[com.secuso.torchlight2.MainActivity]"];
+n0 -> n0 [label="src: ACT[com.secuso.torchlight2.MainActivity]\ntgt: ACT[com.secuso.torchlight2.MainActivity]\nclass: class android.widget.ImageButton \nwidgetID: com.secuso.torchlight2:id/btnSwitch \nevent: CLICK \nhash: 256379228 "];
+n0 -> n0 [label="src: ACT[com.secuso.torchlight2.MainActivity]\ntgt: ACT[com.secuso.torchlight2.MainActivity]\nclass: class android.widget.ImageButton \nevent: CLICK \nhash: 189968865 "];
+n0 -> n1 [label="src: ACT[com.secuso.torchlight2.MainActivity]\ntgt: ACT[com.secuso.torchlight2.AboutActivity]\nclass: class android.support.v7.widget.ListPopupWindow$DropDownListView \nevent: MENU \nhash: 128631603 "];
+n1 -> n1 [label="src: ACT[com.secuso.torchlight2.AboutActivity]\ntgt: ACT[com.secuso.torchlight2.AboutActivity]\nclass: class android.support.v7.widget.Toolbar \nwidgetID: com.secuso.torchlight2:id/action_bar \nevent: CLICK \nhash: 41505560 "];
+n0 -> n0 [label="src: ACT[com.secuso.torchlight2.MainActivity]\ntgt: ACT[com.secuso.torchlight2.MainActivity]\nevent: BACK \nhash: BACK "];
+n0 -> n0 [label="src: ACT[com.secuso.torchlight2.MainActivity]\ntgt: ACT[com.secuso.torchlight2.MainActivity]\nclass: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton \nevent: CLICK \nhash: 30032365 "];
+n0 -> n0 [label="src: ACT[com.secuso.torchlight2.MainActivity]\ntgt: ACT[com.secuso.torchlight2.MainActivity]\nclass: class android.widget.CheckBox \nwidgetID: com.secuso.torchlight2:id/cbPause \nbuttonText: turn off on app minimize or standby \nevent: CLICK \nhash: 224164298 "];

@@ -1,0 +1,6 @@
+n0 [label="ACT[com.fisheradelakin.interactivestory.ui.MainActivity]"];
+n1 [label="ACT[com.fisheradelakin.interactivestory.ui.StoryActivity]"];
+n0 -> n1 [label="src: ACT[com.fisheradelakin.interactivestory.ui.MainActivity]\ntgt: ACT[com.fisheradelakin.interactivestory.ui.StoryActivity]\nclass: class android.widget.Button \nwidgetID: com.fisheradelakin.interactivestory:id/startButton \nbuttonText: START YOUR ADVENTURE \nevent: CLICK \nhash: 242536792 "];
+n1 -> n1 [label="src: ACT[com.fisheradelakin.interactivestory.ui.StoryActivity]\ntgt: ACT[com.fisheradelakin.interactivestory.ui.StoryActivity]\nclass: class android.widget.Button \nwidgetID: com.fisheradelakin.interactivestory:id/choiceButton2 \nbuttonText: Continue home to Earth \nevent: CLICK \nhash: 66982859 "];
+n0 -> n0 [label="src: ACT[com.fisheradelakin.interactivestory.ui.MainActivity]\ntgt: ACT[com.fisheradelakin.interactivestory.ui.MainActivity]\nclass: class android.widget.EditText \nwidgetID: com.fisheradelakin.interactivestory:id/nameEditText \nevent: CLICK \nhash: 26616497 "];
+n0 -> n0 [label="src: ACT[com.fisheradelakin.interactivestory.ui.MainActivity]\ntgt: ACT[com.fisheradelakin.interactivestory.ui.MainActivity]\nclass: class android.widget.Editor$InsertionHandleView \nevent: CLICK \nhash: 143224207 "];

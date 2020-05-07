@@ -1,0 +1,16 @@
+n4 [label="ACT[net.manslateresad.listaMujer]"];
+n3 [label="ACT[net.manslateresad.TraductorMujer]"];
+n0 [label="ACT[net.manslateresad.Inicio]"];
+n1 [label="ACT[net.manslateresad.TraductorHombre]"];
+n2 [label="ACT[net.manslateresad.listaHombre]"];
+n0 -> n1 [label="src: ACT[net.manslateresad.Inicio]\ntgt: ACT[net.manslateresad.TraductorHombre]\nclass: class android.widget.ImageButton \nwidgetID: net.manslateresad:id/TraductorHombre \nevent: MENU \nhash: 14141414 "];
+n1 -> n1 [label="src: ACT[net.manslateresad.TraductorHombre]\ntgt: ACT[net.manslateresad.TraductorHombre]\nclass: class android.widget.ImageButton \nwidgetID: net.manslateresad:id/micro \nevent: CLICK \nhash: 140123202 "];
+n1 -> n2 [label="src: ACT[net.manslateresad.TraductorHombre]\ntgt: ACT[net.manslateresad.listaHombre]\nclass: class android.widget.ImageButton \nwidgetID: net.manslateresad:id/frases \nevent: CLICK \nhash: 414803 "];
+n2 -> n1 [label="src: ACT[net.manslateresad.listaHombre]\ntgt: ACT[net.manslateresad.TraductorHombre]\nclass: class android.widget.ListView \nwidgetID: net.manslateresad:id/ListView01 \nevent: CLICK \nhash: 102439958 "];
+n1 -> n0 [label="src: ACT[net.manslateresad.TraductorHombre]\ntgt: ACT[net.manslateresad.Inicio]\nevent: BACK \nhash: BACK "];
+n0 -> n1 [label="src: ACT[net.manslateresad.Inicio]\ntgt: ACT[net.manslateresad.TraductorHombre]\nclass: class android.widget.ImageButton \nwidgetID: net.manslateresad:id/TraductorHombre \nevent: CLICK \nhash: 14141414 "];
+n0 -> n3 [label="src: ACT[net.manslateresad.Inicio]\ntgt: ACT[net.manslateresad.TraductorMujer]\nclass: class android.widget.ImageButton \nwidgetID: net.manslateresad:id/TraductorMujer \nevent: CLICK \nhash: 125495592 "];
+n3 -> n4 [label="src: ACT[net.manslateresad.TraductorMujer]\ntgt: ACT[net.manslateresad.listaMujer]\nclass: class android.widget.ImageButton \nwidgetID: net.manslateresad:id/frases \nevent: CLICK \nhash: 238824820 "];
+n4 -> n3 [label="src: ACT[net.manslateresad.listaMujer]\ntgt: ACT[net.manslateresad.TraductorMujer]\nclass: class android.widget.ListView \nwidgetID: net.manslateresad:id/ListView01 \nevent: CLICK \nhash: 143686414 "];
+n4 -> n3 [label="src: ACT[net.manslateresad.listaMujer]\ntgt: ACT[net.manslateresad.TraductorMujer]\nevent: BACK \nhash: BACK "];
+n3 -> n0 [label="src: ACT[net.manslateresad.TraductorMujer]\ntgt: ACT[net.manslateresad.Inicio]\nevent: BACK \nhash: BACK "];

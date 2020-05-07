@@ -36,9 +36,9 @@ public class AndroidOutputServer{
 		return false;
 	}
 	public static void CheckAllFolders(){
-		String path = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/PaladinXML/" + currentAPK + '/';
+		String path = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/XML/" + currentAPK + '/';
 		CheckEmptyFolder(path);
-		path = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/PaladinScreenshots/" + currentAPK + '/';
+		path = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/screenshots/" + currentAPK + '/';
 		CheckEmptyFolder(path);
 	}
 	public static ViewTree tree = null;
@@ -48,7 +48,7 @@ public class AndroidOutputServer{
 	public static boolean manuallyChecker = false;
 	public static void SaveViewTree(Socket sock) {
 		String xmlName = initXML + ".xml";
-		String xmlPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/PaladinXML/" + currentAPK + '/';
+		String xmlPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/XML/" + currentAPK + '/';
 		String command = "";
 		command = adbPath + "adb pull /sdcard/tmp.xml " + xmlPath + xmlName;
 		initXML ++;
@@ -76,13 +76,13 @@ public class AndroidOutputServer{
 	public static int initShot = 0;
 	public static void SaveScreenShot(Socket sock){
 		String 	command = "";
-		String screenshotPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/PaladinScreenshots/" + currentAPK + "/";
+		String screenshotPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/screenshots/" + currentAPK + "/";
 		String screenshotName = initShot + ".png";
 		
 		command = adbPath + "adb pull /sdcard/screenshot.png " + screenshotPath + screenshotName;
 		initShot ++;
 		ExecuteCommand(command);
-		String tmp = "Screenshot: " + "/XposedConnection/result/PaladinScreenshots/" + currentAPK + "/" + screenshotName + '\n';
+		String tmp = "Screenshot: " + "/XposedConnection/result/screenshots/" + currentAPK + "/" + screenshotName + '\n';
 		byte[] bytestmp = tmp.getBytes();
 		OutputToFile(bytestmp, sock);
 		
@@ -255,7 +255,7 @@ public class AndroidOutputServer{
         }				
 	}
 	
-	public static String currentAPK = "za.co.lukestonehm.logicaldefence";
+	public static String currentAPK = "com.zlango.zms";
 	public static void main(String[] args) throws IOException {
 		File file = new File(filePath);
 		if (!file.exists()) {

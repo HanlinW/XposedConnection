@@ -1,0 +1,6 @@
+n0 [label="ACT[org.legtux.m_316k.fortune.MainActivity]"];
+n0 -> n0 [label="src: ACT[org.legtux.m_316k.fortune.MainActivity]\ntgt: ACT[org.legtux.m_316k.fortune.MainActivity]\nclass: class android.widget.TextView \nwidgetID: org.legtux.m_316k.fortune:id/fortuneDisplayer \nevent: CLICK \nhash: 59149403 "];
+n0 -> n0 [label="src: ACT[org.legtux.m_316k.fortune.MainActivity]\ntgt: ACT[org.legtux.m_316k.fortune.MainActivity]\nclass: class android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton \nevent: CLICK \nhash: 216227900 "];
+n0 -> n0 [label="src: ACT[org.legtux.m_316k.fortune.MainActivity]\ntgt: ACT[org.legtux.m_316k.fortune.MainActivity]\nclass: class android.support.v7.widget.ListPopupWindow$DropDownListView \nevent: CLICK \nhash: 31461299 "];
+n0 -> n0 [label="src: ACT[org.legtux.m_316k.fortune.MainActivity]\ntgt: ACT[org.legtux.m_316k.fortune.MainActivity]\nevent: BACK \nhash: BACK "];
+n0 -> n0 [label="src: ACT[org.legtux.m_316k.fortune.MainActivity]\ntgt: ACT[org.legtux.m_316k.fortune.MainActivity]\nclass: class android.widget.Button \nwidgetID: org.legtux.m_316k.fortune:id/newFortune \nbuttonText: Next fortune \nevent: CLICK \nhash: 55806293 "];

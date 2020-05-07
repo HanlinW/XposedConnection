@@ -1,0 +1,10 @@
+n0 [label="ACT[eu.faircode.finegeotag.ActivitySettings]"];
+n0 -> n0 [label="src: ACT[eu.faircode.finegeotag.ActivitySettings]\ntgt: ACT[eu.faircode.finegeotag.ActivitySettings]\nclass: class android.widget.ListView \nwidgetID: android:id/list \nevent: CLICK \nhash: 254386879 "];
+n0 -> n0 [label="src: ACT[eu.faircode.finegeotag.ActivitySettings]\ntgt: ACT[eu.faircode.finegeotag.ActivitySettings]\ndialogClass: class android.app.AlertDialog \nevent: CLICK \nhash: 209435741 "];
+n0 -> n0 [label="src: ACT[eu.faircode.finegeotag.ActivitySettings]\ntgt: ACT[eu.faircode.finegeotag.ActivitySettings]\nclass: class android.widget.EditText \nwidgetID: android:id/edit \nevent: CLICK \nhash: 255703258 "];
+n0 -> n0 [label="src: ACT[eu.faircode.finegeotag.ActivitySettings]\ntgt: ACT[eu.faircode.finegeotag.ActivitySettings]\nclass: class android.widget.Editor$InsertionHandleView \nevent: CLICK \nhash: 51186478 "];
+n0 -> n0 [label="src: ACT[eu.faircode.finegeotag.ActivitySettings]\ntgt: ACT[eu.faircode.finegeotag.ActivitySettings]\nclass: class android.widget.Button \nwidgetID: android:id/button2 \nbuttonText: Cancel \nevent: CLICK \nhash: 64614913 "];
+n0 -> n0 [label="src: ACT[eu.faircode.finegeotag.ActivitySettings]\ntgt: ACT[eu.faircode.finegeotag.ActivitySettings]\nclass: class android.widget.Button \nwidgetID: android:id/button1 \nbuttonText: OK \nevent: CLICK \nhash: 117233139 "];
+n0 -> n0 [label="src: ACT[eu.faircode.finegeotag.ActivitySettings]\ntgt: ACT[eu.faircode.finegeotag.ActivitySettings]\nclass: class android.widget.ScrollView \nevent: CLICK \nhash: 46494529 "];
+n0 -> n0 [label="src: ACT[eu.faircode.finegeotag.ActivitySettings]\ntgt: ACT[eu.faircode.finegeotag.ActivitySettings]\nevent: BACK \nhash: BACK "];
+n0 -> n0 [label="src: ACT[eu.faircode.finegeotag.ActivitySettings]\ntgt: ACT[eu.faircode.finegeotag.ActivitySettings]\nclass: class com.android.internal.app.AlertController$RecycleListView \nwidgetID: android:id/select_dialog_listview \nevent: CLICK \nhash: 182506152 "];

@@ -1,0 +1,8 @@
+n0 [label="ACT[com.kth.PuddingCamera.CameraActivity]"];
+n0 -> n0 [label="src: ACT[com.kth.PuddingCamera.CameraActivity]\ntgt: ACT[com.kth.PuddingCamera.CameraActivity]\nevent: BACK \nhash: BACK "];
+n0 -> n0 [label="src: ACT[com.kth.PuddingCamera.CameraActivity]\ntgt: ACT[com.kth.PuddingCamera.CameraActivity]\nclass: class android.widget.ImageButton \nwidgetID: com.kth.PuddingCamera:id/btnFlash \nevent: CLICK \nhash: 158537272 "];
+n0 -> n0 [label="src: ACT[com.kth.PuddingCamera.CameraActivity]\ntgt: ACT[com.kth.PuddingCamera.CameraActivity]\nclass: class com.kth.view.ExposureDial \nwidgetID: com.kth.PuddingCamera:id/dial \nevent: CLICK \nhash: 73358820 "];
+n0 -> n0 [label="src: ACT[com.kth.PuddingCamera.CameraActivity]\ntgt: ACT[com.kth.PuddingCamera.CameraActivity]\nclass: class com.kth.view.CameraImageView \nwidgetID: com.kth.PuddingCamera:id/cameraImage \nevent: CLICK \nhash: 263780883 "];
+n0 -> n0 [label="src: ACT[com.kth.PuddingCamera.CameraActivity]\ntgt: ACT[com.kth.PuddingCamera.CameraActivity]\nclass: class android.widget.FrameLayout \nwidgetID: com.kth.PuddingCamera:id/setting_container \nevent: CLICK \nhash: 102614014 "];
+n0 -> n0 [label="src: ACT[com.kth.PuddingCamera.CameraActivity]\ntgt: ACT[com.kth.PuddingCamera.CameraActivity]\nclass: class com.kth.view.DrawItemView \nevent: CLICK \nhash: 66319001 "];
+n0 -> n0 [label="src: ACT[com.kth.PuddingCamera.CameraActivity]\ntgt: ACT[com.kth.PuddingCamera.CameraActivity]\nclass: class com.android.internal.policy.PhoneWindow$DecorView \nevent: CLICK \nhash: 236149404 "];

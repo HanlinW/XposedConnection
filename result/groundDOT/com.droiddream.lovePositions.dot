@@ -1,6 +1,3 @@
-digraph G {
- rankdir=LR;
- node[shape=box];
 n1 [label="ACT[com.apk.com.lovePositions.AllActivity]"];
 n2 [label="ACT[com.apk.com.lovePositions.ViewActivity]"];
 n0 [label="ACT[com.apk.com.lovePositions.MainActivity]"];
@@ -19,4 +16,3 @@ n2 -> n0 [label="src: ACT[com.apk.com.lovePositions.ViewActivity]\ntgt: ACT[com.
 n0 -> n0 [label="src: ACT[com.apk.com.lovePositions.MainActivity]\ntgt: ACT[com.apk.com.lovePositions.MainActivity]\nclass: class android.widget.ImageButton \nwidgetID: com.droiddream.lovePositions:id/about \nevent: CLICK \nhash: 267629065 "];
 n0 -> n0 [label="src: ACT[com.apk.com.lovePositions.MainActivity]\ntgt: ACT[com.apk.com.lovePositions.MainActivity]\ndialogClass: class android.app.AlertDialog \ndialogTitle: ABout \nevent: CLICK \nhash: 57791791 "];
 n0 -> n0 [label="src: ACT[com.apk.com.lovePositions.MainActivity]\ntgt: ACT[com.apk.com.lovePositions.MainActivity]\nclass: class android.widget.Button \nwidgetID: android:id/button1 \nbuttonText: OK \nevent: CLICK \nhash: 189018046 \nxpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button "];
-}

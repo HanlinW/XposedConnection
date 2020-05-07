@@ -215,7 +215,7 @@ class ADAIMarchGator {
 		}
 		return true;
 	}
-	public static String APKname = "com.droiddream.lovePositions";
+	public static String APKname = "za.co.lukestonehm.logicaldefence";
 	
 	public static String GatorDotPath = "/Users/hanlinwang/Desktop/thesis3/MyProgram/XposedConnection/result/GatorDOT/" + APKname + ".apk.wtg.dot";
 	 
@@ -281,7 +281,7 @@ class ADAIMarchGator {
 		
 		// After Pruning, output the Dot file
 		gtADAI.WriteDot();
-		
+		paladinADAI.WriteDot();
 		CompareADAI(paladinADAI, gtADAI);
 		/*
 		// Compare Gator with ground truth

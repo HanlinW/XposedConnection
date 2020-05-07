@@ -14,3 +14,5 @@ Compare paladin + ProMal with ground truth
 Marched:22
 Marched:17
 Marched:17
+Marched:17
+Marched:17

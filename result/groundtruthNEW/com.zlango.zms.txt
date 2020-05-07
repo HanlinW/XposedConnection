@@ -1,689 +1,1347 @@
-Hash: 42457234
 SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bc093d8}
-Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/botton_new_conversation
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/LinearLayout/ImageButton
-Hash: 88533982
-SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bc093d8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5cdde5f}
 Class: class android.widget.QuickContactBadge
 WidgetID: com.zlango.zms:id/avatar
-Hash: 56983321
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/3.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/3.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ListView/RelativeLayout/QuickContactBadge
+Hash: 4047265
 SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bc093d8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5cdde5f}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/4.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/4.png
 Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ListView/RelativeLayout
-Hash: 56983321
+Hash: 4047265
 SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bc093d8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5cdde5f}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 32285448
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/5.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/5.png
+Hash: 223419727
 SourceActivity: com.zlango.zms.app.ConversationList
 DialogClass: class android.app.AlertDialog
 DialogTitle: 6788
-Hash: 184417685
+Hash: 80685792
 SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cda7605}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ef30c10}
 Class: class com.android.internal.app.AlertController$RecycleListView
 WidgetID: android:id/select_dialog_listview
-Hash: 88533982
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/6.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/6.png
+Hash: 4047265
 SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f1af331}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5cdde5f}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 194906785
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/7.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/7.png
+Hash: 223419727
 SourceActivity: com.zlango.zms.app.ConversationList
 DialogClass: class android.app.AlertDialog
 DialogTitle: 6788
-Hash: 128356010
+Hash: 80685792
 SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5d7f65a}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ef30c10}
 Class: class com.android.internal.app.AlertController$RecycleListView
 WidgetID: android:id/select_dialog_listview
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/8.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/8.png
 Hash: BACK
 Event: BACK
 SourceActivity: com.android.contacts.activities.ContactSelectionActivity
-Hash: 88533982
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/9.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/9.png
+Hash: 4047265
 SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f1af331}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5cdde5f}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 100181894
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/10.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/10.png
+Hash: 92515788
 SourceActivity: com.zlango.zms.app.ConversationList
 DialogClass: class android.app.AlertDialog
 DialogTitle: 6788
-Hash: 144570971
+Hash: 78483657
 SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {48e304b}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3c2022c}
 Class: class com.android.internal.app.AlertController$RecycleListView
 WidgetID: android:id/select_dialog_listview
-Hash: 88887074
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/11.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/11.png
+Hash: 218283719
 SourceActivity: com.zlango.zms.app.ConversationList
 DialogClass: class com.zlango.mms.app.DeleteDialog
 DialogTitle: Delete
-Hash: BACK
-Event: BACK
+Hash: 82877220
 SourceActivity: com.zlango.zms.app.ConversationList
-Hash: 88533982
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {b8f368d}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/12.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/12.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 4047265
 SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f1af331}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5cdde5f}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 249227192
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/13.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/13.png
+Hash: 42251674
 SourceActivity: com.zlango.zms.app.ConversationList
 DialogClass: class android.app.AlertDialog
 DialogTitle: 6788
-Hash: 21342597
+Hash: 122358175
 SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5a4a218}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {70f988f}
 Class: class com.android.internal.app.AlertController$RecycleListView
 WidgetID: android:id/select_dialog_listview
-Hash: 27676841
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/14.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/14.png
+Hash: 29085108
 SourceActivity: com.zlango.zms.app.ConversationList
 DialogClass: class com.zlango.mms.app.DeleteDialog
 DialogTitle: Delete
-Hash: 148354585
+Hash: 96996324
 SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5b2d0bf}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8581f02}
 Class: class android.widget.Button
 WidgetID: android:id/button1
 ButtonText: Delete
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/15.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/15.png
 Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: 237596587
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5cdde5f}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/botton_new_conversation
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/16.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/16.png
+Hash: 40612186
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5cdde5f}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/goto_dashboardButton
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/17.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/17.png
 Hash: MENU
 Event: MENU
-Hash: 162804308
+Hash: 100051254
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5fe18d3}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/goto_conversations_button
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/18.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/18.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RelativeLayout/LinearLayout/ImageButton
+Hash: MENU
+Event: MENU
+Hash: 174160895
 SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a0735fd}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {583adcc}
 Class: class com.android.internal.view.menu.IconMenuItemView
 WidgetID: android:id/title
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/19.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/19.png
 MenuItemID: NONE
 MenuItemTitle: Compose
 MenuItemID: NONE
 MenuItemTitle: Compose
 Hash: MENU
 Event: MENU
-Hash: 62680281
+Hash: 262809757
 SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8f1457f}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a6f30e3}
 Class: class com.android.internal.view.menu.IconMenuItemView
 WidgetID: android:id/title
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/20.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/20.png
 MenuItemID: NONE
 MenuItemTitle: Tell a friend
 Hash: MENU
 Event: MENU
-Hash: 62680281
+Hash: 189622087
 SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {121794c}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a415112}
 Class: class com.android.internal.view.menu.IconMenuItemView
 WidgetID: android:id/title
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/21.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/21.png
 MenuItemID: NONE
 MenuItemTitle: Search
 MenuItemID: NONE
 MenuItemTitle: Search
-Hash: 169987070
+Hash: 262476756
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class android.app.SearchDialog
+Hash: 156721903
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {65c5df2}
+Class: class android.widget.SearchView$SearchAutoComplete
+WidgetID: android:id/search_src_text
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/22.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/22.png
+Hash: 156721903
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {65c5df2}
+Class: class android.widget.SearchView$SearchAutoComplete
+WidgetID: android:id/search_src_text
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/23.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/23.png
+Hash: 238496935
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {65c5df2}
+Class: class android.widget.ImageView
+WidgetID: android:id/search_close_btn
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/24.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/24.png
+Hash: 77064804
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {65c5df2}
+Class: class android.widget.LinearLayout
+WidgetID: android:id/closeButton
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/25.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/25.png
+Hash: MENU
+Event: MENU
+Hash: 189622087
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f93a4aa}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/26.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/26.png
+MenuItemID: NONE
+MenuItemTitle: Search
+MenuItemID: NONE
+MenuItemTitle: Search
+Hash: 262476756
 SourceActivity: com.zlango.zms.app.ConversationList
 DialogClass: class android.app.SearchDialog
 Hash: BACK
 Event: BACK
 SourceActivity: com.zlango.zms.app.ConversationList
-Hash: MENU
-Event: MENU
-Hash: BACK
-Event: BACK
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/27.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/27.png
+Hash: 4047265
 SourceActivity: com.zlango.zms.app.ConversationList
-Hash: MENU
-Event: MENU
-Hash: 76204832
-SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8ed0583}
-Class: class com.android.internal.view.menu.IconMenuItemView
-WidgetID: android:id/title
-MenuItemID: NONE
-MenuItemTitle: Settings
-Hash: BACK
-Event: BACK
-SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
-Hash: MENU
-Event: MENU
-Hash: 164637219
-SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {376a944}
-Class: class com.android.internal.view.menu.IconMenuItemView
-WidgetID: android:id/title
-MenuItemID: NONE
-MenuItemTitle: Delete threads
-MenuItemID: NONE
-MenuItemTitle: Delete threads
-Hash: 195299143
-SourceActivity: com.zlango.zms.app.ConversationList
-DialogClass: class com.zlango.mms.app.DeleteDialog
-DialogTitle: Delete
-Hash: 177688631
-SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2fb130d}
-Class: class android.widget.Button
-WidgetID: android:id/button1
-ButtonText: Delete
-Hash: MENU
-Event: MENU
-Hash: 261187410
-SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e86b8d3}
-Class: class com.android.internal.view.menu.IconMenuItemView
-WidgetID: android:id/title
-Hash: 202665256
-SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {393221f}
-Class: class com.android.internal.view.menu.ExpandedMenuView
-WidgetID: android:id/expanded_menu
-MenuItemID: NONE
-MenuItemTitle: About Zlango
-Hash: 59848215
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {620121e}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/28.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/28.png
+Hash: 54822857
 SourceActivity: com.zlango.zms.app.ConversationList
 DialogClass: class android.app.AlertDialog
-DialogTitle: About Zlango
-Hash: 77223238
-SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c12c34}
-Class: class android.widget.Button
-WidgetID: android:id/button1
-ButtonText: Ok
-Hash: MENU
-Event: MENU
-Hash: 261187410
-SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1efda5d}
-Class: class com.android.internal.view.menu.IconMenuItemView
-WidgetID: android:id/title
-Hash: 202665256
-SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {68c1bff}
-Class: class com.android.internal.view.menu.ExpandedMenuView
-WidgetID: android:id/expanded_menu
-MenuItemID: NONE
-MenuItemTitle: Help
-Hash: 64143066
-SourceActivity: com.zlango.zms.app.WebViewActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {60f81e8}
-Class: class android.webkit.WebView
-Class: class android.webkit.WebView
-Hash: 64143066
-SourceActivity: com.zlango.zms.app.WebViewActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {60f81e8}
-Class: class android.webkit.WebView
-Class: class android.webkit.WebView
-Hash: 64143066
-SourceActivity: com.zlango.zms.app.WebViewActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {60f81e8}
-Class: class android.webkit.WebView
-Class: class android.webkit.WebView
-Hash: 64143066
-SourceActivity: com.zlango.zms.app.WebViewActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {60f81e8}
-Class: class android.webkit.WebView
-Class: class android.webkit.WebView
-Hash: 64143066
-SourceActivity: com.zlango.zms.app.WebViewActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {60f81e8}
-Class: class android.webkit.WebView
-Class: class android.webkit.WebView
-Hash: 64143066
-SourceActivity: com.zlango.zms.app.WebViewActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {60f81e8}
-Class: class android.webkit.WebView
-Class: class android.webkit.WebView
-Hash: MENU
-Event: MENU
+DialogTitle: 2167134248
 Hash: BACK
 Event: BACK
-SourceActivity: com.zlango.zms.app.WebViewActivity
+SourceActivity: com.zlango.zms.app.ConversationList
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/29.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/29.png
 Hash: MENU
 Event: MENU
-Hash: 76204832
+Hash: 69112454
 SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c995ec7}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d6d9ea9}
 Class: class com.android.internal.view.menu.IconMenuItemView
 WidgetID: android:id/title
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/30.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/30.png
 MenuItemID: NONE
 MenuItemTitle: Settings
-Hash: 228445351
+Hash: 210808267
 SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7d8eebd}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cfe5b0a}
 Class: class android.widget.Button
 WidgetID: com.zlango.zms:id/rate_us_button
 ButtonText: Rate us
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/31.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/31.png
 Hash: MENU
 Event: MENU
-Hash: 219631155
+Hash: 76722161
 SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3ee9a8f}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7115a2d}
 Class: class com.android.internal.view.menu.IconMenuItemView
 WidgetID: android:id/title
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/32.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/32.png
 MenuItemID: NONE
 MenuItemTitle: Settings
-Hash: 98039386
+Hash: 250809360
 SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8afc23b}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {abf3e39}
 Class: class android.widget.Button
 WidgetID: com.zlango.zms:id/send_review_button
 ButtonText: Tell us what you think
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/33.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/33.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout/LinearLayout/RelativeLayout/Button
 Hash: BACK
 Event: BACK
 SourceActivity: com.android.internal.app.ChooserActivity
-Hash: 184417685
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/34.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/34.png
+Hash: 175059171
 SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8afc23b}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {abf3e39}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
-Hash: 184417685
-SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8afc23b}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 184417685
-SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8afc23b}
-Class: class android.widget.ListView
-WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/35.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/35.png
 Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
 Hash: BACK
 Event: BACK
 SourceActivity: com.android.internal.app.ChooserActivity
-Hash: 184417685
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/36.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/36.png
+Hash: 175059171
 SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8afc23b}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {abf3e39}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/37.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/37.png
 Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
-Hash: 184417685
+Hash: 175059171
 SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8afc23b}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {abf3e39}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/38.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/38.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 175059171
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {abf3e39}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/39.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/39.png
 Hash: MENU
 Event: MENU
-Hash: 219631155
+Hash: 97377887
 SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3ee9a8f}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {29c017b}
 Class: class com.android.internal.view.menu.IconMenuItemView
 WidgetID: android:id/title
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/40.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/40.png
 MenuItemID: NONE
 MenuItemTitle: Settings
-Hash: 184417685
+Hash: 64911201
 SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8afc23b}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e2c0e7}
 Class: class android.widget.ListView
 WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/41.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/41.png
+Hash: MENU
+Event: MENU
+Hash: 97377887
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {29c017b}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/42.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/42.png
+MenuItemID: NONE
+MenuItemTitle: Settings
+Hash: 64911201
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e2c0e7}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/43.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/43.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 64911201
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e2c0e7}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/44.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/44.png
+Hash: 64911201
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e2c0e7}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/45.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/45.png
+Hash: 64911201
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e2c0e7}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/46.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/46.png
+Hash: 64911201
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e2c0e7}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/47.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/47.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 64911201
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e2c0e7}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/48.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/48.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 64911201
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e2c0e7}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/49.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/49.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 64911201
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e2c0e7}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/50.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/50.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 64911201
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e2c0e7}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/51.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/51.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 64911201
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e2c0e7}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/52.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/52.png
+Hash: 64911201
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e2c0e7}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/53.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/53.png
 Hash: BACK
 Event: BACK
-SourceActivity: com.zlango.zms.app.ConversationList
-Hash: MENU
-Event: MENU
-Hash: 219631155
-SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3ee9a8f}
-Class: class com.android.internal.view.menu.IconMenuItemView
-WidgetID: android:id/title
-MenuItemID: NONE
-MenuItemTitle: Settings
-Hash: 184417685
+SourceActivity: com.android.providers.media.RingtonePickerActivity
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/54.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/54.png
+Hash: 64911201
 SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8afc23b}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e2c0e7}
 Class: class android.widget.ListView
 WidgetID: android:id/list
-Hash: 184417685
-SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8afc23b}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 184417685
-SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8afc23b}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 184417685
-SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8afc23b}
-Class: class android.widget.ListView
-WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/55.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/55.png
 Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
-Hash: MENU
-Event: MENU
-Hash: 203032110
+Hash: 64911201
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e2c0e7}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/56.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/56.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 64911201
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e2c0e7}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/57.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/57.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 64911201
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e2c0e7}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/58.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/58.png
+Hash: 64911201
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e2c0e7}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/59.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/59.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/ListView/LinearLayout
+Hash: 118462607
 SourceActivity: com.zlango.zms.app.SkinSelection
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6938163}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {780a87}
 Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/default_skin_button
+WidgetID: com.zlango.zms:id/hiphop_skin_button
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/60.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/60.png
 Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/TableLayout/TableRow/ImageButton
-Hash: BACK
-Event: BACK
+Hash: 48797813
 SourceActivity: com.zlango.zms.app.DashboardActivity
-Hash: MENU
-Event: MENU
-Hash: 219631155
-SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {19ef511}
-Class: class com.android.internal.view.menu.IconMenuItemView
-WidgetID: android:id/title
-MenuItemID: NONE
-MenuItemTitle: Settings
-Hash: 107063229
-SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d831bed}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: 107063229
-SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d831bed}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Hash: BACK
-Event: BACK
-SourceActivity: com.zlango.zms.app.SkinSelection
-Hash: 108984401
-SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a554a45}
-Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/goto_dashboardButton
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RelativeLayout/LinearLayout/ImageButton
-Hash: 90848238
-SourceActivity: com.zlango.zms.app.DashboardActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {492388f}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {28cd2d6}
 Class: class android.widget.ImageButton
 WidgetID: com.zlango.zms:id/goto_conversations_button
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RelativeLayout/LinearLayout/ImageButton
-Hash: 108984401
-SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a554a45}
-Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/goto_dashboardButton
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/61.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/61.png
 Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RelativeLayout/LinearLayout/ImageButton
 Hash: MENU
 Event: MENU
-Hash: 70531189
-SourceActivity: com.zlango.zms.app.DashboardActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fa8c4f}
-Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/button_inbox
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
-Hash: 202457128
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d776e6}
-Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/button_sort
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
-Hash: 214035520
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {691e235}
-Class: class com.zlango.zms.widget.DropDownListView
-Class: class com.zlango.zms.widget.DropDownListView
-Hash: 214035520
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {691e235}
-Class: class com.zlango.zms.widget.DropDownListView
-Class: class com.zlango.zms.widget.DropDownListView
-Hash: MENU
-Event: MENU
-Hash: 244449513
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {da7916e}
-Class: class com.android.internal.view.menu.IconMenuItemView
-WidgetID: android:id/title
-Hash: 185268600
+Hash: 108566270
 SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {10690cb}
-Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/goto_dashboardButton
-Hash: 65968783
-SourceActivity: com.zlango.zms.app.DashboardActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9d02a23}
-Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/button_inbox
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
-Hash: MENU
-Event: MENU
-Hash: 124365242
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a0097c8}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3de3ca4}
 Class: class com.android.internal.view.menu.IconMenuItemView
 WidgetID: android:id/title
-Hash: BACK
-Event: BACK
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Hash: 65968783
-SourceActivity: com.zlango.zms.app.DashboardActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9d02a23}
-Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/button_inbox
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
-Hash: 203381203
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {646dc09}
-Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/button_sort
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
-Hash: BACK
-Event: BACK
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Hash: 65968783
-SourceActivity: com.zlango.zms.app.DashboardActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9d02a23}
-Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/button_inbox
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
-Hash: MENU
-Event: MENU
-Hash: BACK
-Event: BACK
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Hash: BACK
-Event: BACK
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Hash: 155816220
-SourceActivity: com.zlango.zms.app.DashboardActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9d02a23}
-Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/button_sent
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
-Hash: 151451088
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {66a4e65}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/RelativeLayout
-Hash: 232258202
-SourceActivity: com.zlango.zms.app.MessagePreviewScreen
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7a683a8}
-Class: class android.widget.Button
-WidgetID: com.zlango.zms:id/button_forward
-ButtonText: Forward
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/TableLayout/TableRow/Button
-Hash: 185268600
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/62.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/62.png
+MenuItemID: NONE
+MenuItemTitle: Delete threads
+MenuItemID: NONE
+MenuItemTitle: Delete threads
+Hash: 174227581
 SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {10690cb}
-Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/goto_dashboardButton
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RelativeLayout/LinearLayout/ImageButton
-Hash: 155816220
-SourceActivity: com.zlango.zms.app.DashboardActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9d02a23}
-Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/button_sent
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
-Hash: 46836234
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5f3d6a4}
-Class: class android.widget.ListView
-WidgetID: android:id/list
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/RelativeLayout
-Hash: 259302044
-SourceActivity: com.zlango.zms.app.MessagePreviewScreen
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {33ca07a}
-Class: class android.widget.Button
-WidgetID: com.zlango.zms:id/button_delete
-ButtonText: Delete
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/TableLayout/TableRow/Button
-Hash: MENU
-Event: MENU
-Hash: 88745785
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {79c417e}
-Class: class com.android.internal.view.menu.IconMenuItemView
-WidgetID: android:id/title
-Hash: 185268600
-SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {10690cb}
-Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/goto_dashboardButton
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RelativeLayout/LinearLayout/ImageButton
-Hash: 155816220
-SourceActivity: com.zlango.zms.app.DashboardActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9d02a23}
-Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/button_sent
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
-Hash: MENU
-Event: MENU
-Hash: 71930493
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {da58640}
-Class: class com.android.internal.view.menu.IconMenuItemView
-WidgetID: android:id/title
-Hash: 132529587
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
 DialogClass: class com.zlango.mms.app.DeleteDialog
 DialogTitle: Delete
-Hash: BACK
-Event: BACK
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Hash: MENU
-Event: MENU
-Hash: 71930493
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e3e1c2a}
-Class: class com.android.internal.view.menu.IconMenuItemView
-WidgetID: android:id/title
-Hash: 53252499
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-DialogClass: class com.zlango.mms.app.DeleteDialog
-DialogTitle: Delete
-Hash: 149751171
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {54a2739}
+Hash: 141501730
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {eef5bb3}
 Class: class android.widget.Button
-WidgetID: android:id/button1
-ButtonText: Delete
+WidgetID: android:id/button2
+ButtonText: Cancel
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/63.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/63.png
 Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
 Hash: MENU
 Event: MENU
-Hash: 128165234
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {ef076df}
+Hash: 108566270
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {94cc570}
 Class: class com.android.internal.view.menu.IconMenuItemView
 WidgetID: android:id/title
-Hash: 154597258
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/64.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/64.png
+MenuItemID: NONE
+MenuItemTitle: Delete threads
+MenuItemID: NONE
+MenuItemTitle: Delete threads
+Hash: 120734753
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class com.zlango.mms.app.DeleteDialog
+DialogTitle: Delete
+Hash: 224622481
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3575af7}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Delete
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/65.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/65.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 238314169
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {db6fbcd}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/66.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/66.png
+Hash: 60324314
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {abff4df}
+Class: class com.android.internal.view.menu.ExpandedMenuView
+WidgetID: android:id/expanded_menu
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/67.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/67.png
+MenuItemID: NONE
+MenuItemTitle: About Zlango
+Hash: 195928279
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: About Zlango
+Hash: 37856006
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2a58ff4}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Ok
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/68.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/68.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 238314169
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d12d31d}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/69.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/69.png
+Hash: 60324314
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {40e8419}
+Class: class com.android.internal.view.menu.ExpandedMenuView
+WidgetID: android:id/expanded_menu
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/70.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/70.png
+MenuItemID: NONE
+MenuItemTitle: Help
+Hash: 223727036
+SourceActivity: com.zlango.zms.app.WebViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2c8909a}
+Class: class android.webkit.WebView
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/71.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/71.png
+Hash: 223727036
+SourceActivity: com.zlango.zms.app.WebViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2c8909a}
+Class: class android.webkit.WebView
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/72.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/72.png
+Hash: 223727036
+SourceActivity: com.zlango.zms.app.WebViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2c8909a}
+Class: class android.webkit.WebView
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/73.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/73.png
+Hash: 223727036
+SourceActivity: com.zlango.zms.app.WebViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2c8909a}
+Class: class android.webkit.WebView
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/74.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/74.png
+Hash: 223727036
+SourceActivity: com.zlango.zms.app.WebViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2c8909a}
+Class: class android.webkit.WebView
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/75.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/75.png
+Hash: 223727036
+SourceActivity: com.zlango.zms.app.WebViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2c8909a}
+Class: class android.webkit.WebView
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/76.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/76.png
+Hash: MENU
+Event: MENU
+Hash: 223727036
+SourceActivity: com.zlango.zms.app.WebViewActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2c8909a}
+Class: class android.webkit.WebView
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/77.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/77.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.WebViewActivity
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/78.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/78.png
+Hash: MENU
+Event: MENU
+Hash: 238314169
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cdf64dd}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/79.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/79.png
+Hash: 60324314
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {77271d9}
+Class: class com.android.internal.view.menu.ExpandedMenuView
+WidgetID: android:id/expanded_menu
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/80.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/80.png
+MenuItemID: NONE
+MenuItemTitle: About Zlango
+Hash: 76445008
+SourceActivity: com.zlango.zms.app.ConversationList
+DialogClass: class android.app.AlertDialog
+DialogTitle: About Zlango
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.ConversationList
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/81.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/81.png
+Hash: 89380573
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {db9d0b9}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/goto_dashboardButton
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/82.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/82.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RelativeLayout/LinearLayout/ImageButton
+Hash: 74692253
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f5728d1}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_inbox
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/83.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/83.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
+Hash: 248865713
 SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5a4a218}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {686a004}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_sort
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/84.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/84.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
+Hash: 182590574
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {8b84d2b}
+Class: class com.zlango.zms.widget.DropDownListView
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/85.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/85.png
+Hash: 248865713
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {686a004}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_sort
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/86.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/86.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
+Hash: 182590574
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1ec9107}
+Class: class com.zlango.zms.widget.DropDownListView
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/87.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/87.png
+Hash: MENU
+Event: MENU
+Hash: 238505258
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f8ad71b}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/88.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/88.png
+Hash: 89380573
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {1ac507c}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/goto_dashboardButton
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/89.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/89.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RelativeLayout/LinearLayout/ImageButton
+Hash: 209384880
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d56cb74}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_inbox
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/90.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/90.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
+Hash: 161247678
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fee1b35}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_sort
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/91.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/91.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
+Hash: 154698271
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fee1b35}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/92.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/92.png
+Hash: MENU
+Event: MENU
+Hash: 11663523
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9931f59}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/93.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/93.png
+Hash: 92515788
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fee1b35}
 Class: class android.widget.Button
 WidgetID: com.zlango.zms:id/button_delete
 ButtonText: Delete
-Hash: 232104571
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5a4a218}
-Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/button_sort
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
-Hash: 40523123
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {75c4b5c}
-Class: class com.zlango.zms.widget.DropDownListView
-Class: class com.zlango.zms.widget.DropDownListView
-Hash: BACK
-Event: BACK
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Hash: 750330
-SourceActivity: com.zlango.zms.app.DashboardActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9d02a23}
-Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/button_drafts
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
-Hash: 23356342
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f307824}
-Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/button_sort
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
-Hash: 201864078
-SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6ccfcb}
-Class: class com.zlango.zms.widget.DropDownListView
-Class: class com.zlango.zms.widget.DropDownListView
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/94.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/94.png
 Hash: MENU
 Event: MENU
-Hash: 195992638
+Hash: 11663523
 SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {3b377ec}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {83172a}
 Class: class com.android.internal.view.menu.IconMenuItemView
 WidgetID: android:id/title
-Hash: 89532120
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/95.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/95.png
+Hash: 265115669
 SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f307824}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fee1b35}
 Class: class android.widget.Button
 WidgetID: com.zlango.zms:id/button_cancel
 ButtonText: Cancel
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/96.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/96.png
+Hash: MENU
+Event: MENU
 Hash: BACK
 Event: BACK
 SourceActivity: com.zlango.zms.app.CheckableMessagesList
-Hash: 155472043
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/97.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/97.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/98.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/98.png
+Hash: 223767593
 SourceActivity: com.zlango.zms.app.DashboardActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9d02a23}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d56cb74}
 Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/button_skins
+WidgetID: com.zlango.zms:id/button_sent
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/99.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/99.png
 Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
-Hash: 208185770
-SourceActivity: com.zlango.zms.app.SkinSelection
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {43cd477}
+Hash: 49335974
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5210460}
 Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/regular_skin_button
-Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/TableLayout/TableRow/ImageButton
-Hash: 18411692
+WidgetID: com.zlango.zms:id/button_sort
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/100.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/100.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
+Hash: 171507178
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7a44853}
+Class: class com.zlango.zms.widget.DropDownListView
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/101.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/101.png
+Hash: 49335974
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5210460}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_sort
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/102.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/102.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
+Hash: 171507178
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {15a2abc}
+Class: class com.zlango.zms.widget.DropDownListView
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/103.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/103.png
+Hash: 49335974
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5210460}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_sort
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/104.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/104.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
+Hash: 171507178
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {fd36a8}
+Class: class com.zlango.zms.widget.DropDownListView
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/105.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/105.png
+Hash: 165855463
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5210460}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/106.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/106.png
+Hash: 104409352
+SourceActivity: com.zlango.zms.app.MessagePreviewScreen
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7625c9e}
+Class: class android.widget.ScrollView
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/107.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/107.png
+Hash: 104409352
+SourceActivity: com.zlango.zms.app.MessagePreviewScreen
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7625c9e}
+Class: class android.widget.ScrollView
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/108.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/108.png
+Hash: 153227552
+SourceActivity: com.zlango.zms.app.MessagePreviewScreen
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {7625c9e}
+Class: class android.widget.Button
+WidgetID: com.zlango.zms:id/button_delete
+ButtonText: Delete
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/109.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/109.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/TableLayout/TableRow/Button
+Hash: 165855463
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5210460}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/110.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/110.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/RelativeLayout
+Hash: 248201146
+SourceActivity: com.zlango.zms.app.MessagePreviewScreen
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {dd0fe6b}
+Class: class android.widget.Button
+WidgetID: com.zlango.zms:id/button_forward
+ButtonText: Forward
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/111.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/111.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/TableLayout/TableRow/Button
+Hash: 142428852
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {262c8e4}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/goto_dashboardButton
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/112.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/112.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RelativeLayout/LinearLayout/ImageButton
+Hash: 76722161
 SourceActivity: com.zlango.zms.app.DashboardActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {376a944}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c91bcdc}
 Class: class android.widget.ImageButton
-WidgetID: com.zlango.zms:id/button_skins
+WidgetID: com.zlango.zms:id/button_sent
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/113.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/113.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
+Hash: 234886439
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f07a71e}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/114.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/114.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/RelativeLayout
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.MessagePreviewScreen
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/115.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/115.png
+Hash: 18467814
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {f07a71e}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_sort
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/116.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/116.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/RelativeLayout/ImageButton
+Hash: 982904
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {445ae89}
+Class: class com.zlango.zms.widget.DropDownListView
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/117.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/117.png
+Hash: MENU
+Event: MENU
+Hash: 175787001
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {4ce673e}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/118.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/118.png
+Hash: 142428852
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {262c8e4}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/goto_dashboardButton
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/119.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/119.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RelativeLayout/LinearLayout/ImageButton
+Hash: 76722161
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c91bcdc}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_sent
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/120.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/120.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
+Hash: MENU
+Event: MENU
+Hash: 78483657
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {95762ef}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/121.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/121.png
+Hash: 234886439
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e2c0e7}
+Class: class android.widget.ListView
+WidgetID: android:id/list
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/122.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/122.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/ListView/RelativeLayout
+Hash: 220700378
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e2c0e7}
+Class: class android.widget.Button
+WidgetID: com.zlango.zms:id/button_delete
+ButtonText: Delete
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/123.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/123.png
+Hash: MENU
+Event: MENU
+Hash: 78483657
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a162b3d}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/124.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/124.png
+Hash: 48316171
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {9e2c0e7}
+Class: class android.widget.Button
+WidgetID: com.zlango.zms:id/button_cancel
+ButtonText: Cancel
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/125.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/125.png
+Hash: MENU
+Event: MENU
+Hash: 136005840
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {acb2f32}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/126.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/126.png
+Hash: 21847469
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+DialogClass: class com.zlango.mms.app.DeleteDialog
+DialogTitle: Delete
+Hash: 10767641
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {972bfbf}
+Class: class android.widget.Button
+WidgetID: android:id/button1
+ButtonText: Delete
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/127.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/127.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 136005840
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {902068c}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/128.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/128.png
+Hash: 193934989
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+DialogClass: class com.zlango.mms.app.DeleteDialog
+DialogTitle: Delete
+Hash: 106716658
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {51fec43}
+Class: class android.widget.Button
+WidgetID: android:id/button2
+ButtonText: Cancel
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/129.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/129.png
+Xpath: /FrameLayout/FrameLayout/FrameLayout/LinearLayout/LinearLayout/LinearLayout/Button
+Hash: MENU
+Event: MENU
+Hash: 136005840
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {76632c0}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/130.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/130.png
+Hash: 201621809
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+DialogClass: class com.zlango.mms.app.DeleteDialog
+DialogTitle: Delete
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/131.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/131.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/132.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/132.png
+Hash: 174013015
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c91bcdc}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_drafts
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/133.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/133.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
+Hash: MENU
+Event: MENU
+Hash: 96539686
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {2bd5867}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/134.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/134.png
+Hash: 89380573
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {262c8e4}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/goto_dashboardButton
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/135.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/135.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RelativeLayout/LinearLayout/ImageButton
+Hash: 174013015
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c91bcdc}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_drafts
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/136.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/136.png
 Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
 Hash: BACK
 Event: BACK
-SourceActivity: com.zlango.zms.app.SkinSelection
-Hash: 213271818
+SourceActivity: com.zlango.zms.app.CheckableMessagesList
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/137.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/137.png
+Hash: 77367620
 SourceActivity: com.zlango.zms.app.DashboardActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {376a944}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {c91bcdc}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_skins
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/138.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/138.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
+Hash: 34270497
+SourceActivity: com.zlango.zms.app.SkinSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {69ab7a0}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/hiphop_skin_button
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/139.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/139.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/TableLayout/TableRow/ImageButton
+Hash: 220700378
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {acb2f32}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_skins
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/140.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/140.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
+Hash: 218131140
+SourceActivity: com.zlango.zms.app.SkinSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {e604e5c}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/default_skin_button
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/141.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/141.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/TableLayout/TableRow/ImageButton
+Hash: 193934989
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5d1aa45}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_skins
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/142.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/142.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
+Hash: 214284618
+SourceActivity: com.zlango.zms.app.SkinSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a6e8d97}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/regular_skin_button
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/143.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/143.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/TableLayout/TableRow/ImageButton
+Hash: 250027852
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5c80be4}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_skins
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/144.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/144.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
+Hash: 138220547
+SourceActivity: com.zlango.zms.app.SkinSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {172ed5f}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/valentine_skin_button
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/145.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/145.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/TableLayout/TableRow/ImageButton
+Hash: 168611811
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {34f7555}
 Class: class android.widget.ImageButton
 WidgetID: com.zlango.zms:id/button_share
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/146.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/146.png
 Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
 Hash: BACK
 Event: BACK
 SourceActivity: com.android.internal.app.ChooserActivity
-Hash: 39887227
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/147.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/147.png
+Hash: 190701024
 SourceActivity: com.zlango.zms.app.DashboardActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {376a944}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {34f7555}
 Class: class android.widget.ImageButton
 WidgetID: com.zlango.zms:id/button_template
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/148.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/148.png
 Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
-Hash: MENU
-Event: MENU
-Hash: 30267991
+Hash: 231796637
 SourceActivity: com.zlango.zms.app.DashboardActivity
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {376a944}
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {34f7555}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_skins
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/149.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/149.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
+Hash: 27006676
+SourceActivity: com.zlango.zms.app.SkinSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {cc4fb72}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/horror_skin_button
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/150.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/150.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/TableLayout/TableRow/ImageButton
+Hash: 185649308
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bb38f34}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_skins
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/151.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/151.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
+Hash: 122995964
+SourceActivity: com.zlango.zms.app.SkinSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {a04d785}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/summer_skin_button
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/152.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/152.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/TableLayout/TableRow/ImageButton
+Hash: 64996322
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {45979e1}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_template
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/153.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/153.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
+Hash: 64996322
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {45979e1}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_template
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/154.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/154.png
+Hash: 195928279
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {45979e1}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_skins
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/155.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/155.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.SkinSelection
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/156.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/156.png
+Hash: 230308910
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {45979e1}
 Class: class android.widget.ImageButton
 WidgetID: com.zlango.zms:id/goto_conversations_button
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/157.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/157.png
 Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RelativeLayout/LinearLayout/ImageButton
-Hash: 107807940
+Hash: 56091143
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {bb38f34}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/goto_conversations_button
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/158.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/158.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RelativeLayout/LinearLayout/ImageButton
+Hash: 200472588
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {34f7555}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/goto_conversations_button
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/159.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/159.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RelativeLayout/LinearLayout/ImageButton
+Hash: 250027852
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {5c80be4}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/button_skins
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/160.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/160.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/TableLayout/TableRow/ImageButton
+Hash: 198922814
+SourceActivity: com.zlango.zms.app.SkinSelection
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {6761831}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/hiphop_skin_button
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/161.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/161.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/TableLayout/TableRow/ImageButton
+Hash: 127619711
+SourceActivity: com.zlango.zms.app.DashboardActivity
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {d7f024c}
+Class: class android.widget.ImageButton
+WidgetID: com.zlango.zms:id/goto_conversations_button
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/162.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/162.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/RelativeLayout/LinearLayout/ImageButton
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.DashboardActivity
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/163.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/163.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.DashboardActivity
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/164.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/164.png
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.app.DashboardActivity
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/165.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/165.png
+Hash: MENU
+Event: MENU
+Hash: 260777313
 SourceActivity: com.zlango.zms.app.ConversationList
-Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {10690cb}
-Class: class android.widget.ListView
-WidgetID: android:id/list
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {473b69d}
+Class: class com.android.internal.view.menu.IconMenuItemView
+WidgetID: android:id/title
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/166.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/166.png
+MenuItemID: NONE
+MenuItemTitle: Settings
+Hash: BACK
+Event: BACK
+SourceActivity: com.zlango.zms.preference.MessagingPreferenceActivity
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/167.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/167.png
+Hash: 248311765
+SourceActivity: com.zlango.zms.app.ConversationList
+Handler: Handler (android.view.ViewRootImpl$ViewRootHandler) {262c8e4}
+Class: class android.widget.QuickContactBadge
+WidgetID: com.zlango.zms:id/avatar
+XML: /XposedConnection/result/PaladinXML/com.zlango.zms/168.xml
+Screenshot: /XposedConnection/result/screenshots/com.zlango.zms/168.png
+Xpath: /FrameLayout/LinearLayout/FrameLayout/LinearLayout/LinearLayout/ListView/RelativeLayout/QuickContactBadge
